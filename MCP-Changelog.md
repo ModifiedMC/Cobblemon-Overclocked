@@ -1,11 +1,34 @@
 # Modified Cobblemon Plus v11.2.0 Changelog
 
-## Update Notes:
+## Update Notes
 
-- abcxyz
--
--
--
+- **Tons of Fixes & Improvements!**  
+  - **Ars Nouveau**: Major stability fixes and balance tweaks, ensuring smoother magic automation and spellcasting.  
+  - **Apotheosis**: Fixes to loot generation and boss spawning, improving mod integration.  
+  - **Create**: Various optimizations and bug fixes for mechanical contraptions, making large-scale automation more stable.  
+
+- **Create Expansion is Here!**  
+  The **biggest Create update yet** with a **massive set of new addons**, giving you even more **machines, decorations, and quality-of-life upgrades** for automating your world!  
+
+- **A Brand-New Welcome Experience!**  
+  Featuring an **all-new custom Welcome Screen with breathtaking artwork by @zeroromoki**, making every launch feel fresh and immersive.  
+
+- **New & Improved Loading Screen!**  
+  A sleek, modernized loading screen to improve visuals and enhance the overall experience while your game starts up.
+
+- **Full Quest Overhaul!**  
+  - Tons of **formatting changes** for a cleaner, more structured experience.  
+  - **New rewards added** to many quests, making progression feel more rewarding.  
+  - Previously **unobtainable items** are now available through quests.  
+  - **Updated descriptions** to provide clearer guidance.  
+  - **Much more to come!** This is just the beginning of a massive quest system overhaul.
+ 
+  - **Introducing PokéDollars!**  
+  - **PokéDollars** are now the primary in-game currency!  
+  - Earnable through **quests, various in-game events, and future merchant trades!**  
+  - **Lightman’s Currency coins will soon be convertible** to PokéDollars.  
+  - **Merchant trade tables will be updated soon** to reflect this new currency shift.
+
 
 
 ## Added:
@@ -50,6 +73,12 @@
   - [More Brushes](https://www.curseforge.com/minecraft/mc-mods/more-brushes) - Expands archaeology and excavation with new brushes.  
   - [Too Many Recipe Viewer (TMRV)](https://www.curseforge.com/minecraft/mc-mods/too-many-recipe-viewer) - A new alternative to JEI for recipe browsing.  
   - [Water Frames](https://www.curseforge.com/minecraft/mc-mods/water-frames) & [Water Media](https://www.curseforge.com/minecraft/mc-mods/water-media) - Bring back decorative water elements.
+ 
+  - **KubeJS & JS Mods Return!**  
+  - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) - Enables extensive custom scripting for advanced gameplay tweaks.  
+  - [PortalJS](https://www.curseforge.com/minecraft/mc-mods/portaljs) - Adds new portal mechanics for better transportation.  
+  - [MoreJS](https://www.curseforge.com/minecraft/mc-mods/morejs) - Expands scripting capabilities further.  
+  - [LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs) - Enables custom loot tables and in-depth drop modifications.
 
 
 ## Removed:
