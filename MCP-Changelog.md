@@ -26,8 +26,11 @@
 - **Introducing PokéDollars!**  
   - **PokéDollars** are now the primary in-game currency!  
   - Earnable through **quests, various in-game events, and future merchant trades!**  
-  - **Lightman’s Currency coins will soon be convertible** to PokéDollars.  
   - **Merchant trade tables will be updated soon** to reflect this new currency shift.
+
+- **Lightman’s Currency as a Loot Source**  - No more clogged up loot tables!
+  - All **Lightman’s Coins removed from mob drops, loot tables, and minting.**  
+  - **A way to convert old Lightman’s Coins to PokéDollars is coming soon!**  
 
 
 
@@ -79,6 +82,7 @@
   - [PortalJS](https://www.curseforge.com/minecraft/mc-mods/portaljs) - Adds new portal mechanics for better transportation.  
   - [MoreJS](https://www.curseforge.com/minecraft/mc-mods/morejs) - Expands scripting capabilities further.  
   - [LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs) - Enables custom loot tables and in-depth drop modifications.
+
 
 
 ## Removed:
