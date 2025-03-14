@@ -48,7 +48,7 @@
   - [Ars Polymorphia](https://www.curseforge.com/minecraft/mc-mods/ars-polymorphia) - Introduces new transmutation mechanics, expanding magical crafting possibilities.
 
 - **Better Pipes & Logistics!**  
-  - [Pretty Pipez - Fluids](https://www.curseforge.com/minecraft/mc-mods/pretty-pipez-fluids) - Adds fluid support to Pretty Pipez, streamlining liquid transportation.  
+  - [Pretty Pipes: Fluids](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes-fluids) - Adds fluid support to Pretty Pipez, streamlining liquid transportation.  
   - [Pipe Connector](https://www.curseforge.com/minecraft/mc-mods/pipe-connector) - Provides better compatibility and connections between various pipe systems.
 
 - **Farmer’s Delight Expands with Cooking & Brewing!**  
