@@ -23,7 +23,7 @@
   - **Updated descriptions** to provide clearer guidance.  
   - **Much more to come!** This is just the beginning of a massive quest system overhaul.
  
-  - **Introducing PokéDollars!**  
+- **Introducing PokéDollars!**  
   - **PokéDollars** are now the primary in-game currency!  
   - Earnable through **quests, various in-game events, and future merchant trades!**  
   - **Lightman’s Currency coins will soon be convertible** to PokéDollars.  
