@@ -75,9 +75,9 @@
   - [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders) - Adds wandering goblin merchants with unique trades.  
   - [More Brushes](https://www.curseforge.com/minecraft/mc-mods/more-brushes) - Expands archaeology and excavation with new brushes.  
   - [Too Many Recipe Viewer (TMRV)](https://www.curseforge.com/minecraft/mc-mods/too-many-recipe-viewer) - A new alternative to JEI for recipe browsing.  
-  - [Water Frames](https://www.curseforge.com/minecraft/mc-mods/water-frames) & [Water Media](https://www.curseforge.com/minecraft/mc-mods/water-media) - Bring back decorative water elements.
- 
-  - **KubeJS & JS Mods Return!**  
+  - [Water Frames](https://www.curseforge.com/minecraft/mc-mods/water-frames) & [Water Media](https://www.curseforge.com/minecraft/mc-mods/water-media) - Watch/Stream videos in MC!
+  - 
+- **KubeJS & JS Mods Return!**  
   - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) - Enables extensive custom scripting for advanced gameplay tweaks.  
   - [PortalJS](https://www.curseforge.com/minecraft/mc-mods/portaljs) - Adds new portal mechanics for better transportation.  
   - [MoreJS](https://www.curseforge.com/minecraft/mc-mods/morejs) - Expands scripting capabilities further.  
