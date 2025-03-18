@@ -1,0 +1,17 @@
+{
+  "type": "dungeon:dungeons",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "dungeon:basic",
+      "lakes": false,
+      "features": false,
+      "layers": [
+        {
+          "height": 0,
+          "block": "minecraft:bedrock"
+        }
+      ]
+    }
+  }
+}
