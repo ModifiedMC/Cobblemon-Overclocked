@@ -1,0 +1,8 @@
+{
+  "screenScale": 1.0,
+  "sendErrorMessagesToChat": true,
+  "obscureUnknownPokemon": true,
+  "useSwimmingAnimationIfSubmerged": true,
+  "pokefinderOverlayOffset": 10,
+  "trackArrowYOffset": 80
+}

@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_overworld"
+	group: "3C2F0E57BE919025"
+	id: "0EA78EDC04F4F381"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

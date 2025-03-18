@@ -1,0 +1,89 @@
+{
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 752,
+                "top": 400
+            },
+            "SETTINGS": {
+                "horizontalOffset": 752,
+                "top": 372
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "bottom": 6
+            },
+            "SORT": {
+                "horizontalOffset": 40,
+                "bottom": 1
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 41,
+                "bottom": 1
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 42,
+                "bottom": 1
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 730,
+                "top": 423
+            },
+            "SETTINGS": {
+                "horizontalOffset": 730,
+                "top": 395
+            }
+        }
+    },
+    "com.direwolf20.justdirethings.client.screens.EnergyTransmitterScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -22,
+                "bottom": -10
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -22,
+                "top": 63
+            },
+            "SORT": {
+                "horizontalOffset": -10,
+                "top": 67
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -10,
+                "top": 67
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -10,
+                "top": 67
+            }
+        }
+    },
+    "mekanism.client.gui.machine.GuiElectrolyticSeparator": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 185,
+                "bottom": -14
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 185,
+                "top": 68
+            },
+            "SORT": {
+                "horizontalOffset": -68,
+                "top": 70
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -56,
+                "top": 82
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -44,
+                "top": 94
+            }
+        }
+    }
+}

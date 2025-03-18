@@ -1,0 +1,379 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "evo_items"
+	group: "1F4AE109ED6749AD"
+	id: "5F3C2D5936DF2212"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			id: "372955E458EB53EA"
+			tasks: [{
+				id: "2C2806096549507C"
+				item: { count: 1, id: "cobblemon:auspicious_armor" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			id: "043388CAF9A98011"
+			tasks: [{
+				id: "03CB70398BBDF503"
+				item: { count: 1, id: "cobblemon:black_augurite" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			id: "7C3F119EB2BB51C9"
+			tasks: [{
+				id: "2EFE63DA0F6924C1"
+				item: { count: 1, id: "cobblemon:chipped_pot" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			id: "3BE217F31248FFDB"
+			tasks: [{
+				id: "1C0264DA1BC9C6E4"
+				item: { count: 1, id: "cobblemon:cracked_pot" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			id: "1CC7DDCA68C5746F"
+			tasks: [{
+				id: "5D586A787115D6DA"
+				item: { count: 1, id: "cobblemon:deep_sea_scale" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			id: "7C627E61AA1DDC08"
+			tasks: [{
+				id: "6D59D4E4C3E4F073"
+				item: { count: 1, id: "cobblemon:deep_sea_tooth" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			id: "12D76E217F409A72"
+			tasks: [{
+				id: "2682840CF8FF267B"
+				item: { count: 1, id: "cobblemon:metal_coat" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			id: "79FD333B24452A44"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "725F73979D548277"
+					table_id: 6053219686999879605L
+					type: "random"
+				}
+				{
+					id: "03A41BB472B04C66"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7CD257FAD325A2EC"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			id: "4BB2573CF772E2D0"
+			rewards: [
+				{
+					count: 3
+					id: "2747660F8E1C06BF"
+					item: {
+						count: 1
+						id: "cobblemon:link_cable"
+					}
+					type: "item"
+				}
+				{
+					id: "214F7AD61D8EF448"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6BF2A69AC08C55E4"
+				item: { count: 1, id: "cobblemon:link_cable" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			id: "000E4E74A0DAFEBA"
+			tasks: [{
+				id: "22F4F732833D83B7"
+				item: { count: 1, id: "cobblemon:dragon_scale" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			id: "1A505EE2B4EB9265"
+			tasks: [{
+				id: "1A83C67DABED97F4"
+				item: { count: 1, id: "cobblemon:dubious_disc" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			id: "7DC64D088D00B835"
+			tasks: [{
+				id: "7337F2C6C636122D"
+				item: { count: 1, id: "cobblemon:electirizer" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			id: "40219301DDDB15A2"
+			tasks: [{
+				id: "7C570AD8006B265B"
+				item: { count: 1, id: "cobblemon:galarica_cuff" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			id: "1316410C45AE5BDB"
+			tasks: [{
+				id: "61033AF70115D6C5"
+				item: { count: 1, id: "cobblemon:galarica_wreath" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			id: "595F5BFC46536D68"
+			tasks: [{
+				id: "0C73E97BF2B5B9FB"
+				item: { count: 1, id: "cobblemon:kings_rock" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "49BD57A32C17C39F"
+			tasks: [{
+				id: "2C141382922A1C83"
+				item: { count: 1, id: "cobblemon:magmarizer" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -5.0d
+		}
+		{
+			id: "14493F864DD8ACEE"
+			tasks: [{
+				id: "32DCAC6B99954445"
+				item: { count: 1, id: "cobblemon:peat_block" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			id: "0DDEA9AEA517107F"
+			tasks: [{
+				id: "20C00A5E3A70B5D7"
+				item: { count: 1, id: "cobblemon:prism_scale" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			id: "32BA8274ED8ACCA6"
+			tasks: [{
+				id: "0B2F18823F2CD53B"
+				item: { count: 1, id: "cobblemon:protector" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			id: "1FEB88B4732DFFF8"
+			tasks: [{
+				id: "296628018E401DEA"
+				item: { count: 1, id: "cobblemon:razor_claw" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			id: "555F5354AAA471D1"
+			tasks: [{
+				id: "3C1191B4C5957CDE"
+				item: { count: 1, id: "cobblemon:razor_fang" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			id: "1580C123E939E304"
+			tasks: [{
+				id: "675CFAD9C854AC8F"
+				item: { count: 1, id: "cobblemon:reaper_cloth" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "6E41FC2D07C53BBF"
+			tasks: [{
+				id: "209526720EFAFC11"
+				item: { count: 1, id: "cobblemon:sachet" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			id: "1404B4B3FBE175BA"
+			tasks: [{
+				id: "20C806162535DF8B"
+				item: { count: 1, id: "cobblemon:shell_helmet" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:sweet_apple"
+			}
+			id: "1750BF5DABF5B181"
+			rewards: [
+				{
+					id: "492A79F9FBBA8F4F"
+					item: {
+						count: 1
+						id: "cobblemon:sweet_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "1E31F3FE3623C8CC"
+					item: {
+						count: 1
+						id: "cobblemon:tart_apple"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2C0D2CE5CD79512B"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			id: "53326045457E62E7"
+			tasks: [{
+				id: "4BFC75CEF9210986"
+				item: { count: 1, id: "cobblemon:upgrade" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			id: "53553193E421B9C1"
+			tasks: [{
+				id: "27377AED38F50528"
+				item: { count: 1, id: "cobblemon:whipped_dream" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			id: "730E73CB41894271"
+			tasks: [{
+				id: "342222CF128E2602"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:sweets)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			id: "0A13345122B89DC9"
+			tasks: [{
+				id: "403343CA5440E98A"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:evolution_stones)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/particle/request/icon_exclamation.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3A41743DE64680C2"
+			invisible: true
+			tasks: [
+				{
+					id: "1B18B7F97389860A"
+					item: { count: 1, id: "cobblemon:tart_apple" }
+					type: "item"
+				}
+				{
+					id: "5BE925C0ED00E2EB"
+					item: { count: 1, id: "cobblemon:sweet_apple" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -0.5d
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lightmans_currency"
+	group: "1448AD42248EBE02"
+	icon: {
+		id: "lightmanscurrency:coin_gold"
+	}
+	id: "55606C3E0A76E6B8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

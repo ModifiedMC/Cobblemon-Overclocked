@@ -1,0 +1,63 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ores_beneath_the_surface"
+	group: "4A3FB32F83BB586D"
+	icon: {
+		id: "allthemodium:unobtainium_ore"
+	}
+	id: "445E0A012CE83970"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7E3BCB0A4C7598E3"
+			tasks: [{
+				id: "32F3B4E8DCD18DE1"
+				type: "custom"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "4B40BEBAF65F7A8F"
+			tasks: [{
+				id: "709F0B4464F39D96"
+				item: { count: 1, id: "allthemodium:teleport_pad" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "31270876DE747651"
+			tasks: [{
+				id: "7AD0D767DB3C2045"
+				item: { count: 1, id: "allthemodium:allthemodium_ore" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			id: "4E73E84B766893C1"
+			tasks: [{
+				id: "255F6411E9E9B515"
+				item: { count: 1, id: "allthemodium:vibranium_ore" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			id: "7FED8C5B8B3F0DA7"
+			tasks: [{
+				id: "54AB333D90768E88"
+				item: { count: 1, id: "allthemodium:unobtainium_ore" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+	]
+}

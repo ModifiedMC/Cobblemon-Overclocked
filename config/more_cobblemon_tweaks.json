@@ -1,0 +1,12 @@
+{
+  "pc_wallpapers": {
+    "cobblemon.mcserv.fun": {
+      "0": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/yellow_wallpaper.png"
+    }
+  },
+  "pc_box_names": {
+    "cobblemon.mcserv.fun": {
+      "0": "Shinies!"
+    }
+  }
+}

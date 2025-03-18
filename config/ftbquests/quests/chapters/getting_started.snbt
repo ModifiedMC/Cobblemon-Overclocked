@@ -1,0 +1,271 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_started"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "chalk:block/mark/house"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "01C9B1B19DDE72C6"
+	images: [
+		{
+			alpha: 144
+			height: 21.6d
+			image: "modified:textures/ftbquests/backgrounds/pokecentre.png"
+			rotation: 0.0d
+			width: 38.4d
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			click: "https://discord.gg/mXjFRhvv6h"
+			height: 1.0d
+			hover: ["Click to go to the ModifiedMC Discord!"]
+			image: "modified:textures/ftbquests/logos/modified_m_static.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -1.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:item/advancements/cobblemon_logo_purple"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3C6C4BBDDBB63C96"
+			rewards: [{
+				id: "0A6E52C85C979F9A"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "484AB4D5E721DD92"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3C6C4BBDDBB63C96"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbchunks:textures/minimap_info.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0F0306978AC3001A"
+			tasks: [{
+				id: "75E6D59319FF80C8"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3C6C4BBDDBB63C96"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/particle/request/icon_team.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6764FAFA232450EE"
+			tasks: [{
+				id: "66952071FCBF8F47"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3C6C4BBDDBB63C96"]
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "7AF0F49FD5B1B4E4"
+			tasks: [{
+				id: "2BA12480E42A02E2"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3C6C4BBDDBB63C96"]
+			icon: {
+				id: "minecraft:map"
+			}
+			id: "481C3421E299CA28"
+			tasks: [{
+				id: "458CE6320E29219D"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3C6C4BBDDBB63C96"]
+			icon: {
+				components: {
+					"ultimine_addition:mining_skill_card_data": {
+						DisplayItem: "minecraft:netherite_pickaxe"
+						Tier: 4
+						UUID: [I;
+							1801058755
+							248857928
+							-1222871239
+							391230063
+						]
+					}
+				}
+				id: "ultimine_addition:mining_skill_card_pickaxe"
+			}
+			id: "71D3D2C181B923C9"
+			tasks: [{
+				id: "4BBEF1E9ABA4469C"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"7AF0F49FD5B1B4E4"
+				"481C3421E299CA28"
+				"0F0306978AC3001A"
+				"6764FAFA232450EE"
+				"71D3D2C181B923C9"
+			]
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "65CDB9F01373E258"
+			rewards: [{
+				auto: "enabled"
+				command: "/openstarterscreen @p"
+				icon: {
+					id: "cobblemon:poke_ball"
+				}
+				id: "2FC6EA0D0BEBDD49"
+				permission_level: 2
+				team_reward: false
+				type: "command"
+			}]
+			tasks: [{
+				id: "22FBFC7FA7C19E1F"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["65CDB9F01373E258"]
+			id: "3C9C8265B6387D0F"
+			rewards: [
+				{
+					count: 10
+					id: "263023CAEA87E839"
+					item: {
+						count: 1
+						id: "cobblemon:poke_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "3AC4C5BEAFF373CC"
+					item: {
+						count: 1
+						id: "cobblemon:potion"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7551D86B9C09C7F7"
+					item: {
+						count: 1
+						id: "refurbished_furniture:cheese_sandwich"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "319C9413423E6C3C"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			id: "611489B6370D9559"
+			rewards: [{
+				id: "4EF9841FBFF758C0"
+				item: {
+					count: 1
+					id: "ftbquests:book"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "48D8F3FAE72576C6"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "relics:textures/gui/description/general/badges/relic/flawless_relic.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5D3311AA4AA0B591"
+			rewards: [{
+				id: "7063BA2CBE85DA2C"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			tasks: [{
+				id: "638DBEBCCD8DA41A"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			id: "178069BF4E304459"
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "relics:textures/gui/description/general/icons/leveling_point.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "6A92FB2B20B8B33E"
+				type: "custom"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+	]
+}

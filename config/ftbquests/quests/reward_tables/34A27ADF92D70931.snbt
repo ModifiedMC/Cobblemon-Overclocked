@@ -1,0 +1,151 @@
+{
+	id: "34A27ADF92D70931"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{
+			id: "16C7B1684E8CFFF1"
+			item: {
+				count: 1
+				id: "cobblemon_utility:goldencap"
+			}
+			weight: 2.5f
+		}
+		{
+			id: "38CBFDC776B9A58F"
+			item: {
+				count: 1
+				id: "cobblemon_utility:atksilvercap"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "78B6A7FC38B0B8E9"
+			item: {
+				count: 1
+				id: "cobblemon_utility:spatksilvercap"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "55CBDF3CB7D4B2CC"
+			item: {
+				count: 1
+				id: "cobblemon_utility:spdefsilvercap"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "0F474B990F4739CB"
+			item: {
+				count: 1
+				id: "cobblemon_utility:speedsilvercap"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "6A337137C142DC3E"
+			item: {
+				count: 1
+				id: "cobblemon_utility:defsilvercap"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "24FC4F5F6660E7CD"
+			item: {
+				count: 1
+				id: "cobblemon_utility:hpsilvercap"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "4E62650E6957B44D"
+			item: {
+				count: 1
+				id: "cobblemon_utility:woodencap"
+			}
+			weight: 14.0f
+		}
+		{
+			id: "2586D634CF8373EE"
+			item: {
+				count: 1
+				id: "cobblemon_utility:voidcap"
+			}
+			weight: 3.4f
+		}
+		{
+			id: "3861FE0EFD7F3CDC"
+			item: {
+				count: 1
+				id: "cobblemon_utility:shinycard"
+			}
+			weight: 0.51f
+		}
+		{
+			id: "099A3FF0EAFB2C36"
+			item: {
+				count: 1
+				id: "cobblemon_utility:ballsynchronizer"
+			}
+			weight: 7.0f
+		}
+		{
+			id: "091784DA90DECD45"
+			item: {
+				count: 1
+				id: "cobblemon_utility:transmutationorb"
+			}
+			weight: 7.0f
+		}
+		{
+			id: "05359A6B09C1857B"
+			item: {
+				count: 1
+				id: "cobblemon_utility:voidfeather"
+			}
+			weight: 3.4f
+		}
+		{
+			id: "654B974283319EE3"
+			item: {
+				count: 1
+				id: "cobblemon_utility:commoncandy"
+			}
+			weight: 14.0f
+		}
+		{
+			id: "461A6ED755E8874F"
+			item: {
+				count: 1
+				id: "cobblemon_utility:poketreat"
+			}
+			weight: 8.5f
+		}
+		{
+			id: "389DC3D2AC12A6EC"
+			item: {
+				count: 1
+				id: "cobblemon_utility:stalepoketreat"
+			}
+			weight: 8.5f
+		}
+		{
+			id: "0A014491CFCD0B4C"
+			item: {
+				count: 1
+				id: "cobblemon_utility:devolutionrelic"
+			}
+			weight: 3.4f
+		}
+		{
+			id: "06E75B2E8DC74551"
+			item: {
+				count: 1
+				id: "cobblemon_utility:mastercandy"
+			}
+			weight: 0.34f
+		}
+	]
+}

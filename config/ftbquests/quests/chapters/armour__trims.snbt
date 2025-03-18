@@ -1,0 +1,21 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "armour__trims"
+	group: "67A2C2B701748D1C"
+	icon: {
+		id: "allthemodium:allthemodium_chestplate"
+	}
+	id: "7BE632CBCC81A9CB"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "530FA6A190A515F3"
+		tasks: [{
+			id: "2B7206DD336F752E"
+			type: "custom"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

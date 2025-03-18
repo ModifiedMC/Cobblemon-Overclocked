@@ -1,0 +1,13 @@
+{
+	id: "0667B9994DB345C7"
+	loot_size: 1
+	order_index: 17
+	rewards: [
+		{ id: "1C03523625A88546", item: { count: 1, id: "cobblemon:health_feather" } }
+		{ id: "60CF0AB8A6D86C85", item: { count: 1, id: "cobblemon:muscle_feather" } }
+		{ id: "1B5A4A42FCCFCE45", item: { count: 1, id: "cobblemon:resist_feather" } }
+		{ id: "3604F56AFD1E3889", item: { count: 1, id: "cobblemon:genius_feather" } }
+		{ id: "7E5836F33C135781", item: { count: 1, id: "cobblemon:clever_feather" } }
+		{ id: "6140CCA9FCD192F1", item: { count: 1, id: "cobblemon:swift_feather" } }
+	]
+}

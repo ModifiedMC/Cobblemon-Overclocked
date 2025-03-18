@@ -1,0 +1,15 @@
+{
+	id: "6E8AAA979EFAADB9"
+	loot_size: 1
+	order_index: 15
+	rewards: [
+		{ id: "65A2310DEDC442C6", item: { count: 1, id: "cobblemon:x_defence" } }
+		{ id: "3B33FF713F000A5B", item: { count: 1, id: "cobblemon:x_attack" } }
+		{ id: "0273C0189BDF5072", item: { count: 1, id: "cobblemon:x_accuracy" } }
+		{ id: "6B87152CEDA9509E", item: { count: 1, id: "cobblemon:x_special_defence" } }
+		{ id: "0D6F1D676DDC029C", item: { count: 1, id: "cobblemon:x_special_attack" } }
+		{ id: "34E8BA2BF1794081", item: { count: 1, id: "cobblemon:x_speed" } }
+		{ id: "39C12A86814067CE", item: { count: 1, id: "cobblemon:guard_spec" } }
+		{ id: "2EFBBEBDBF18F84E", item: { count: 1, id: "cobblemon:dire_hit" } }
+	]
+}

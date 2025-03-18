@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mob_hunter"
+	group: "24CDF24BE292524D"
+	id: "48AD9200F46301BE"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

@@ -1,0 +1,538 @@
+{
+	autofocus_id: "7676E887F513A1BE"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "champions_league"
+	group: "1F4AE109ED6749AD"
+	icon: {
+		components: {
+			"ftbquests:icon": "relics:textures/gui/description/general/badges/relic/flawless_relic.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "44AA793570165146"
+	images: [
+		{
+			alpha: 169
+			height: 3.0d
+			image: "rctmod:item/trainer_card"
+			rotation: 0.0d
+			width: 3.0d
+			x: 7.5d
+			y: -4.0d
+		}
+		{
+			height: 3.0d
+			image: "minecraft:block/spawner"
+			rotation: 0.0d
+			width: 3.0d
+			x: 7.5d
+			y: -0.5d
+		}
+		{
+			height: 3.0d
+			image: "relics:textures/gui/description/general/badges/relic/flawless_relic.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 1.5d
+			y: 9.5d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/poke_balls/master_ball"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "cobblemon:item/poke_balls/master_ball"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			height: 4.0d
+			hover: ["Under construction"]
+			image: "minecraft:item/empty_slot_pickaxe"
+			rotation: 0.0d
+			width: 4.0d
+			x: 11.0d
+			y: 4.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4A9CD8DF4334CA09"]
+			id: "7676E887F513A1BE"
+			rewards: [
+				{
+					id: "4E0C104DEA528977"
+					item: {
+						count: 1
+						id: "rctmod:trainer_card"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "453515B7D679238B"
+					table_id: 3792728936859240753L
+					type: "random"
+				}
+				{
+					id: "3963DBDC7590912D"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7202FF17B0E455A2"
+				item: { count: 1, id: "rctmod:trainer_card" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4A9CD8DF4334CA09"]
+			hide_dependent_lines: true
+			id: "07863C1899A78E38"
+			rewards: [
+				{
+					id: "169B0B5F0AC85862"
+					item: {
+						count: 1
+						id: "rctmod:trainer_spawner"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "40D62F1F077D1F3A"
+					table_id: 3792728936859240753L
+					type: "random"
+				}
+				{
+					id: "5ADD960BE6686E60"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4D4026198399CDD0"
+				item: { count: 1, id: "rctmod:trainer_spawner" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -0.5d
+		}
+		{
+			hide_dependent_lines: true
+			id: "4A9CD8DF4334CA09"
+			rewards: [
+				{
+					id: "46967C17C062D7B5"
+					item: {
+						count: 1
+						id: "pkgbadges:big_badges_box"
+					}
+					type: "item"
+				}
+				{
+					id: "72C31525D4E52F57"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "34777A2453DAE448"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "68CBF7464655509E"
+			tasks: [{
+				id: "46E2B33378274EFD"
+				item: { count: 1, id: "cobblemon:hard_stone" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "48866AD1EEF52D49"
+			tasks: [{
+				id: "31EDDB8E80D7DD3C"
+				item: { count: 1, id: "cobblemon:mystic_water" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "73BA9B5BD210B6F2"
+			tasks: [{
+				id: "2220F9FBE197211F"
+				item: { count: 1, id: "cobblemon:black_tumblestone" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "55544A30100D89BD"
+			tasks: [{
+				id: "7E009F62BF17910E"
+				item: { count: 1, id: "minecraft:gold_nugget" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "2541EB890D364B99"
+			tasks: [{
+				id: "7DFD70FF69D75226"
+				item: { count: 1, id: "cobblemon:silk_scarf" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "17EE02A867A34A4C"
+			tasks: [{
+				id: "1EBEF5D77E6BDD94"
+				item: { count: 1, id: "cobblemon:magnet" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "2EB779BBD6F1BECF"
+			tasks: [{
+				id: "0AF59D2632204C83"
+				item: { count: 1, id: "cobblemon:miracle_seed" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "35DF00F1E81A6B18"
+			tasks: [{
+				id: "6A587FFED14AB1AD"
+				item: { count: 1, id: "cobblemon:upgrade" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "2AC137852DA4C38E"
+			tasks: [{
+				id: "467388DA03AE30BE"
+				item: { count: 1, id: "cobblemon:soothe_bell" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "773DD3685CEC3C45"
+			tasks: [{
+				id: "5FAB34ACD3D7671A"
+				item: { count: 1, id: "cobblemon:black_sludge" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "4589A549DA946A35"
+			tasks: [{
+				id: "3C4D4A2E2621C302"
+				item: { count: 1, id: "cobblemon:dubious_disc" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "301F1696722B5175"
+			tasks: [{
+				id: "7DCA60CBCE18298B"
+				item: { count: 1, id: "cobblemon:twisted_spoon" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "703DF3EB9543851F"
+			tasks: [{
+				id: "2AFB42A829BC18E4"
+				item: { count: 1, id: "cobblemon:expert_belt" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "5271B269DAFB24B0"
+			tasks: [{
+				id: "3ECF311B843237E7"
+				item: { count: 1, id: "cobblemon:poison_barb" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "32B00B671E8CFC02"
+			tasks: [{
+				id: "22CF8334144392AB"
+				item: { count: 1, id: "cobblemon:vivichoke" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "3F83AD208596996B"
+			tasks: [{
+				id: "5CBFA167DE1BC935"
+				item: { count: 1, id: "cobblemon:charcoal_stick" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "7B7E824D7BD29739"
+			tasks: [{
+				id: "791A8E424AD14C5F"
+				item: { count: 1, id: "cobblemon:covert_cloak" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "6CDA73F7FC7AD616"
+			tasks: [{
+				id: "51B2F3D6961E3FED"
+				item: { count: 1, id: "cobblemon:utility_umbrella" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "1B93842B9AD3B422"
+			tasks: [{
+				id: "05036B6774CE9938"
+				item: { count: 1, id: "cobblemon:destiny_knot" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "30C269E0695A704D"
+			tasks: [{
+				id: "023167F2627AE650"
+				item: { count: 1, id: "cobblemon:dragon_scale" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "173D2B8A8694F17A"
+			tasks: [{
+				id: "2114BD8B39157E3B"
+				item: { count: 1, id: "cobblemon:lucky_egg" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "7EBAF1D56B1151D8"
+			tasks: [{
+				id: "672A7DEB8330F54D"
+				item: { count: 1, id: "cobblemon:choice_scarf" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "360505F6E85575B3"
+			tasks: [{
+				id: "1DF4A4FD9ABC57E8"
+				item: { count: 1, id: "cobblemon:cleanse_tag" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "23AF41B039B8C705"
+			tasks: [{
+				id: "46792D2A27A143BE"
+				item: { count: 1, id: "cobblemon:focus_band" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "58A05E9960629A37"
+			tasks: [{
+				id: "5305657E9672FBEB"
+				item: { count: 1, id: "cobblemon:dragon_fang" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "649732FA0F7D0AE0"
+			tasks: [{
+				id: "1206EF5BA5EB24C7"
+				item: { count: 1, id: "cobblemon:never_melt_ice" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["07863C1899A78E38"]
+			id: "738CA63FC60EECEB"
+			tasks: [{
+				id: "4E22C544E910BBD8"
+				item: { count: 1, id: "cobblemon:life_orb" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.5d
+		}
+		{
+			id: "547BE386115881FE"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/rctmod player set series radicalred @p"
+					disable_reward_screen_blur: true
+					exclude_from_claim_all: true
+					id: "19A579D61C104528"
+					permission_level: 2
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/say !!! Hi, @p ! You have now started on your path to champion of the Kanto Region! Welcome to \"Radical Red\"."
+					id: "7D350BEAE655B69A"
+					type: "command"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "7A29C96C42A52CE3"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			id: "53B63856D2DA0DDE"
+			shape: "gear"
+			tasks: [{
+				id: "1AF22FC4F50844C3"
+				type: "custom"
+			}]
+			x: 12.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			id: "0A02FD6DD9B44D49"
+			rewards: [{
+				auto: "enabled"
+				command: "/rctmod player get progress @p graph"
+				id: "6376417EE39825F2"
+				permission_level: 2
+				type: "command"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "44518033148EC4A4"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 4.5d
+		}
+		{
+			id: "1A282189711E1EC0"
+			invisible: true
+			rewards: [{
+				command: "/rctmod player set progress @p after champion_terry_01b7"
+				id: "1D9D964C08D10BE3"
+				permission_level: 2
+				type: "command"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "5FCD05B3C2C76356"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 9.0d
+		}
+	]
+}

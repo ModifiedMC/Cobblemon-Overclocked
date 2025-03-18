@@ -1,0 +1,10 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:spruce_door"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:spruce_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stripped_oak_wood"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:pokemon_model","components":{"cobblemon:pokemon_item":{"species":"cobblemon:abomasnow","aspects":[],"tint":[1.0,1.0,1.0,1.0]}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:oak_fence"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:name_tag"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"arts_and_crafts:polished_gypsum_stairs"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

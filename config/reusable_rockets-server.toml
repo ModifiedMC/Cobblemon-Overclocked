@@ -1,0 +1,26 @@
+#If the rocket can be used while already getting boosted
+allow_rocket_spamming = false
+
+	[rocket.tier_1]
+		# Default: 2
+		# Range: > 1
+		max_duration = 2
+		# Default: 32
+		# Range: > 1
+		max_uses = 32
+
+	[rocket.tier_2]
+		# Default: 4
+		# Range: > 1
+		max_duration = 4
+		# Default: 64
+		# Range: > 1
+		max_uses = 64
+
+	[rocket.tier_3]
+		# Default: 6
+		# Range: > 1
+		max_duration = 6
+		# Default: 128
+		# Range: > 1
+		max_uses = 128

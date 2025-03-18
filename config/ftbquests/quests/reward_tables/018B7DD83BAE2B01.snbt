@@ -1,0 +1,25 @@
+{
+	id: "018B7DD83BAE2B01"
+	loot_size: 1
+	order_index: 16
+	rewards: [
+		{ id: "01826C3B865E459B", item: { count: 1, id: "cobblemon:normal_gem" } }
+		{ id: "4B42305F9DC43AB8", item: { count: 1, id: "cobblemon:fire_gem" } }
+		{ id: "2C9BD156F474C116", item: { count: 1, id: "cobblemon:water_gem" } }
+		{ id: "00251A6242F7B93B", item: { count: 1, id: "cobblemon:grass_gem" } }
+		{ id: "12A6EBA32EBEEBAD", item: { count: 1, id: "cobblemon:electric_gem" } }
+		{ id: "34B4812B198840D0", item: { count: 1, id: "cobblemon:ice_gem" } }
+		{ id: "16F2BC30B890C7E0", item: { count: 1, id: "cobblemon:fighting_gem" } }
+		{ id: "4FCCF5153722E610", item: { count: 1, id: "cobblemon:poison_gem" } }
+		{ id: "6383C812C28B66B9", item: { count: 1, id: "cobblemon:ground_gem" } }
+		{ id: "4F476D0DF97D02AD", item: { count: 1, id: "cobblemon:flying_gem" } }
+		{ id: "53585C1A4679C182", item: { count: 1, id: "cobblemon:psychic_gem" } }
+		{ id: "005EE85450F09FCD", item: { count: 1, id: "cobblemon:bug_gem" } }
+		{ id: "558A543891A524B2", item: { count: 1, id: "cobblemon:rock_gem" } }
+		{ id: "1BA7670AE24AC2A2", item: { count: 1, id: "cobblemon:ghost_gem" } }
+		{ id: "0CA00937E7C7F641", item: { count: 1, id: "cobblemon:dragon_gem" } }
+		{ id: "76512AE35B4BB2CB", item: { count: 1, id: "cobblemon:dark_gem" } }
+		{ id: "6331427CED79A489", item: { count: 1, id: "cobblemon:steel_gem" } }
+		{ id: "72CDBF7A249737D2", item: { count: 1, id: "cobblemon:fairy_gem" } }
+	]
+}

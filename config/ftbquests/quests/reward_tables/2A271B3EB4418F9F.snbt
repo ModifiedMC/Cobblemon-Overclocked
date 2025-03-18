@@ -1,0 +1,204 @@
+{
+	id: "2A271B3EB4418F9F"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 9
+			id: "764E567947AE9F89"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:raw_osmium"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 9
+			id: "6DF98BDAAA870BB3"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:ingot_osmium"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{ id: "35A83C4A7A4F3B0A", item: { components: { "ftbquests:missing_item": "mekanism:block_osmium" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			count: 10
+			id: "3D1C1632A4D291FE"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:alloy_infused"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 5
+			id: "57A3B0234E9F4FE8"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:alloy_reinforced"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{ id: "6B03916EAEBACA7B", item: { components: { "ftbquests:missing_item": "mekanism:alloy_atomic" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			count: 9
+			id: "0232F2A547AD74B4"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:bio_fuel"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 9
+			id: "627B7D232FCC32D1"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:enriched_carbon"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 9
+			id: "36B1D89CAE974561"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:enriched_redstone"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 5
+			id: "61097648A993D0D6"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:enriched_diamond"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 9
+			id: "6DE3C31F2EC7B2A8"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:enriched_refined_obsidian"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 9
+			id: "002078F341EAD40E"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:enriched_gold"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{ id: "051831E40D3838B6", item: { components: { "ftbquests:missing_item": "mekanism:basic_control_circuit" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			count: 9
+			id: "28772EFD0F0C70EC"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:enriched_tin"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 9
+			id: "14D74B3DEBEAB495"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:raw_tin"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 9
+			id: "72E7D986FD730A77"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:ingot_tin"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{ id: "429B8D8C758A4480", item: { components: { "ftbquests:missing_item": "mekanism:block_tin" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			count: 9
+			id: "7F576CF118DAA67D"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:raw_lead"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 9
+			id: "6632FE84D2B6BE72"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:ingot_lead"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{ id: "594E220767340F72", item: { components: { "ftbquests:missing_item": "mekanism:block_lead" }, count: 1, id: "ftbquests:missing_item" } }
+		{
+			count: 9
+			id: "75D45A1B75842ED3"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:raw_uranium"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 9
+			id: "14A256D7051F5B52"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mekanism:ingot_uranium"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{ id: "0C6C960C1548A9FA", item: { components: { "ftbquests:missing_item": "mekanism:block_uranium" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "60E0E44403DA894C", item: { components: { "ftbquests:missing_item": "mekanism:block_raw_osmium" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "7AEBC1BDCE40E589", item: { components: { "ftbquests:missing_item": "mekanism:block_raw_tin" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "6B836463D2C2D31A", item: { components: { "ftbquests:missing_item": "mekanism:block_raw_lead" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "6BAF6784C1253063", item: { components: { "ftbquests:missing_item": "mekanism:block_raw_uranium" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+}

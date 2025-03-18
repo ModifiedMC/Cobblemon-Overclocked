@@ -1,0 +1,8968 @@
+{
+	autofocus_id: "4D1CAD76F3C0B26A"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "generation_1"
+	group: "249E531D4C1B723E"
+	icon: {
+		components: {
+			"ftbquests:icon": "cobblemon:textures/entity_icon/0004_charmander/charmander.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "263A131F6695A4D0"
+	images: [
+		{
+			height: 2.0d
+			image: "cobblemon:textures/gui/pokedex/caught_icon_small.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			height: 3.0d
+			hover: ["Dex section is a WIP!"]
+			image: "sophisticatedbackpacks:item/empty_pickaxe_slot"
+			order: 1
+			rotation: 0.0d
+			width: 3.0d
+			x: 1.5d
+			y: -7.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0004_charmander/charmander.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5D22D76A4A1DD7B8"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "08620EC477D23BE2"
+				poke_ball_used: ""
+				pokemon: "cobblemon:charmander"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0005_charmeleon/charmeleon.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4C286C9572E9CED0"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7D9E4BE8AFDD2EA5"
+				poke_ball_used: ""
+				pokemon: "cobblemon:charmeleon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0006_charizard/charizard.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1C712318327A82E8"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "68072079FF9CBD1D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:charizard"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0007_squirtle/squirtle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "68EA9B4A40C8FCCA"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "02B10473BFE7BE00"
+				poke_ball_used: ""
+				pokemon: "cobblemon:squirtle"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0008_wartortle/wartortle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3B9A3B7D840A09F9"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "47CE8EA59558F376"
+				poke_ball_used: ""
+				pokemon: "cobblemon:wartortle"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0009_blastoise/blastoise.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5579BAB525F40A06"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4F11C6A7345027FC"
+				poke_ball_used: ""
+				pokemon: "cobblemon:blastoise"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0010_caterpie/caterpie.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "72CDC9C169E9B7BD"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "317C2209C1EDB58B"
+				poke_ball_used: ""
+				pokemon: "cobblemon:caterpie"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0011_metapod/metapod.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "30099F5A8402E8A4"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0A14A0CE921CDAF9"
+				poke_ball_used: ""
+				pokemon: "cobblemon:metapod"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0012_butterfree/butterfree.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4EEE0E82C6D4CEB9"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "667EBD1BC523839E"
+				poke_ball_used: ""
+				pokemon: "cobblemon:butterfree"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0013_weedle/weedle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "79252490A922A468"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5D1BDDD45A8B9AC7"
+				poke_ball_used: ""
+				pokemon: "cobblemon:weedle"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0014_kakuna/kakuna.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3C702576EFDDC1D5"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "62B1A17A051567EB"
+				poke_ball_used: ""
+				pokemon: "cobblemon:kakuna"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0015_beedrill/beedrill.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "79CD494C8330C7DB"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4B52FA8E6E9BF299"
+				poke_ball_used: ""
+				pokemon: "cobblemon:beedrill"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0016_pidgey/pidgey.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3992D028E0929249"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "55680C57AFDD7806"
+				poke_ball_used: ""
+				pokemon: "cobblemon:pidgey"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0017_pidgeotto/pidgeotto.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "30FCB84EE6C9E28F"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "33A4AB49BBB0FB0D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:pidgeotto"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0018_pidgeot/pidgeot.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3FA1D533FB658336"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7420FB14FF85737B"
+				poke_ball_used: ""
+				pokemon: "cobblemon:pidgeot"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0020_raticate/raticate.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5D34B28F03B77E92"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "617308EF7E673995"
+				poke_ball_used: ""
+				pokemon: "cobblemon:raticate"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0021_spearow/spearow.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "197E47DD47C86DCD"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2ED38E18D78F8C68"
+				poke_ball_used: ""
+				pokemon: "cobblemon:spearow"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0022_fearow/fearow.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6063A128CE83B274"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5D914FE5AB3A7741"
+				poke_ball_used: ""
+				pokemon: "cobblemon:fearow"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0023_ekans/ekans.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1780814809888939"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2F5A78A46819302A"
+				poke_ball_used: ""
+				pokemon: "cobblemon:ekans"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0001_bulbasaur/bulbasaur_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "13F4776D7F8775CF"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "64B08071BEC5FEE5"
+				poke_ball_used: ""
+				pokemon: "cobblemon:bulbasaur"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.0d
+			y: -6.5d
+		}
+		{
+			id: "2F68806D65D384BB"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0002_ivysaur/ivysaur_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "1FD1B3FD7217F000"
+				poke_ball_used: ""
+				pokemon: "cobblemon:ivysaur"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0024_arbok/arbok.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "383C51F831F14012"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "49E53A502EBCBEFA"
+				poke_ball_used: ""
+				pokemon: "cobblemon:arbok"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0025_pikachu/pikachu.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5B349DCE21CAB3D1"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "258C6355A4EDA332"
+				poke_ball_used: ""
+				pokemon: "cobblemon:pikachu"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0026_raichu/raichu.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4AD075A4AC8BEFAE"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "289F3A69967D12E8"
+				poke_ball_used: ""
+				pokemon: "cobblemon:raichu"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0027_sandshrew/sandshrew.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2F1D041B12A02149"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "3799C4F38FAED02F"
+				poke_ball_used: ""
+				pokemon: "cobblemon:sandshrew"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0028_sandslash/sandslash.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "699B01C672874B40"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "79F9DA6110DF1B23"
+				poke_ball_used: ""
+				pokemon: "cobblemon:sandslash"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0029_nidoranf/nidoranf.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "240A21CD7FB06310"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5811C59A9289EC8B"
+				poke_ball_used: ""
+				pokemon: "cobblemon:nidoranf"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0030_nidorina/nidorina.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "141B339B1A7CB5CE"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5FEE85A1105DD567"
+				poke_ball_used: ""
+				pokemon: "cobblemon:nidorina"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0031_nidoqueen/nidoqueen.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "794588D67975150F"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "07E5B0CEB41C4AD4"
+				poke_ball_used: ""
+				pokemon: "cobblemon:nidoqueen"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0032_nidoranm/nidoranm.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7EE35C9E13C15773"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "50080AAB4B3D59F5"
+				poke_ball_used: ""
+				pokemon: "cobblemon:nidoranm"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0033_nidorino/nidorino.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2E0E83C2E2A72612"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1D3203B848EAF49D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:nidorino"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0034_nidoking/nidoking.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "751791879C43628B"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3985D549C5FA682E"
+				poke_ball_used: ""
+				pokemon: "cobblemon:nidoking"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0035_clefairy/clefairy.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "092B1C0AC831F38D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "04932006BDDD9D4D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:clefairy"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0036_clefable/clefable.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "394C4985202F2CD7"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2FC23AB007C4A837"
+				poke_ball_used: ""
+				pokemon: "cobblemon:clefable"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0037_vulpix/vulpix.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "42EC9E6A77562073"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "1FFDFD54ED02D27D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:vulpix"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0019_rattata/rattata_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2977713DA6809B95"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "3B08414FBDAB84F4"
+				poke_ball_used: ""
+				pokemon: "cobblemon:rattata"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0039_jigglypuff/jigglypuff.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "024A83DBD47E2B5A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3BF4E30C5A89F4C4"
+				poke_ball_used: ""
+				pokemon: "cobblemon:jigglypuff"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0040_wigglytuff/wigglytuff.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7711B05206E81D5C"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "32AEC44613506C9E"
+				poke_ball_used: ""
+				pokemon: "cobblemon:wigglytuff"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0041_zubat/zubat.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5E88C938FDD5D5B9"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1BC78AC171450000"
+				poke_ball_used: ""
+				pokemon: "cobblemon:zubat"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0001_bulbasaur/bulbasaur.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "47F955F5949100EA"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "38E50F8E14F316CD"
+				poke_ball_used: ""
+				pokemon: "cobblemon:bulbasaur"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.0d
+			y: -15.0d
+		}
+		{
+			id: "0EB5F345BC757EDC"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0002_ivysaur/ivysaur.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "73E0A0CAC5C1C189"
+				poke_ball_used: ""
+				pokemon: "cobblemon:ivysaur"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0019_rattata/rattata.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "556899D768B49799"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "4C43710938D848E4"
+				poke_ball_used: ""
+				pokemon: "cobblemon:rattata"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0003_venusaur/venusaur_female.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "52B1F17ECA8264A0"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5A659D7907BD8BD2"
+				poke_ball_used: ""
+				pokemon: "cobblemon:venusaur"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: -15.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0003_venusaur/venusaur_female_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5BD32AA940AB8AE5"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "64CC9DACDDBDAC26"
+				poke_ball_used: ""
+				pokemon: "cobblemon:venusaur"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0042_golbat/golbat.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "50FDBD35CB80EBF8"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "46C8CA2E0D9FE87B"
+				poke_ball_used: ""
+				pokemon: "cobblemon:golbat"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0043_oddish/oddish.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0705DFA6BD3E7579"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "395399A6763E00B4"
+				poke_ball_used: ""
+				pokemon: "cobblemon:oddish"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0044_gloom/gloom.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5A12FE620462AB27"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1C978AA2BDA53292"
+				poke_ball_used: ""
+				pokemon: "cobblemon:gloom"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0045_vileplume/vileplume_female.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5252B8A2935CEF03"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "35D3744EE75C7017"
+				poke_ball_used: ""
+				pokemon: "cobblemon:vileplume"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0046_paras/paras.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "66C540205D3C8B8A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "221D983CC64AA973"
+				poke_ball_used: ""
+				pokemon: "cobblemon:paras"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0047_parasect/parasect.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3C1677F96A0202A5"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "38A5C38A21C7E253"
+				poke_ball_used: ""
+				pokemon: "cobblemon:parasect"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0048_venonat/venonat.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "05E09E8D0CA22D26"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "42647D26860DEC98"
+				poke_ball_used: ""
+				pokemon: "cobblemon:venonat"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0049_venomoth/venomoth.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "76D9A48D501079A8"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6C6F3B700D8E3147"
+				poke_ball_used: ""
+				pokemon: "cobblemon:venomoth"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0050_diglett/diglett.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "24537C7179B551E4"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "3EE445F02B48082A"
+				poke_ball_used: ""
+				pokemon: "cobblemon:diglett"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0051_dugtrio/dugtrio.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "537637CFC40CE023"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "5BCC4D1986F90166"
+				poke_ball_used: ""
+				pokemon: "cobblemon:dugtrio"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0052_meowth/meowth.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7B834417192B13C9"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "1FB0C0B3E051D699"
+				poke_ball_used: ""
+				pokemon: "cobblemon:meowth"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0053_persian/persian.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "113FC93028A8E166"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "73D5DEDA207AE8C4"
+				poke_ball_used: ""
+				pokemon: "cobblemon:persian"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0054_psyduck/psyduck.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "357076B688A74E70"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5031ECECABCE66BD"
+				poke_ball_used: ""
+				pokemon: "cobblemon:psyduck"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0055_golduck/golduck.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6D19158DBE644D12"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "269C55012CCEECF8"
+				poke_ball_used: ""
+				pokemon: "cobblemon:golduck"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0056_mankey/mankey.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7CBE4B0B2D90C194"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1DEB87EE1BF27FA7"
+				poke_ball_used: ""
+				pokemon: "cobblemon:mankey"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0057_primeape/primeape.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "672107FE26421995"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5D9B7A4D51CF244D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:primeape"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0058_growlithe/growlithe.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "76C328F7118651FA"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "4EF29F4E4C57F38E"
+				poke_ball_used: ""
+				pokemon: "cobblemon:growlithe"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0059_arcanine/arcanine.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7360599F674E8C19"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "43BAC99E7B634914"
+				poke_ball_used: ""
+				pokemon: "cobblemon:arcanine"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -13.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0060_poliwag/poliwag.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2C6A85EFF5432497"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "46971902295AACCA"
+				poke_ball_used: ""
+				pokemon: "cobblemon:poliwag"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -13.0d
+		}
+		{
+			id: "755E09196DB2F06A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "24202B61F48B19C3"
+				poke_ball_used: ""
+				pokemon: "cobblemon:poliwhirl"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.0d
+			y: -12.0d
+		}
+		{
+			id: "4A053F6D9AFBE0EC"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3ED26F0BF2348BCD"
+				poke_ball_used: ""
+				pokemon: "cobblemon:poliwrath"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: -12.0d
+		}
+		{
+			id: "0322F2B7FEE02CC0"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1D607D1ECEEF0225"
+				poke_ball_used: ""
+				pokemon: "cobblemon:abra"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: -12.0d
+		}
+		{
+			id: "648A4726F2BF85B4"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "51C1B1B3E8AA7C06"
+				poke_ball_used: ""
+				pokemon: "cobblemon:kadabra"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.0d
+			y: -12.0d
+		}
+		{
+			id: "4FD2389C69CADEDB"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "65D961EF5BFE19ED"
+				poke_ball_used: ""
+				pokemon: "cobblemon:alakazam"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.0d
+			y: -12.0d
+		}
+		{
+			id: "2516E4F9A3929639"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7AD0C92B023FA9AB"
+				poke_ball_used: ""
+				pokemon: "cobblemon:machop"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -12.0d
+		}
+		{
+			id: "243D6B9CA1971141"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6BECF167B2047996"
+				poke_ball_used: ""
+				pokemon: "cobblemon:machoke"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.0d
+			y: -12.0d
+		}
+		{
+			id: "0FDBAA902D5EDA21"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "38521A8150245BEA"
+				poke_ball_used: ""
+				pokemon: "cobblemon:machamp"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.0d
+			y: -12.0d
+		}
+		{
+			id: "24D3979336D99120"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "74D54B1F5CC607EC"
+				poke_ball_used: ""
+				pokemon: "cobblemon:bellsprout"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -12.0d
+		}
+		{
+			id: "3CBB45C64832506B"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "49B4DF70AD9E06BB"
+				poke_ball_used: ""
+				pokemon: "cobblemon:weepinbell"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.0d
+			y: -12.0d
+		}
+		{
+			id: "7A8436EF8FAC3FC7"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "50071A227A957783"
+				poke_ball_used: ""
+				pokemon: "cobblemon:victreebel"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.0d
+			y: -12.0d
+		}
+		{
+			id: "20EB2ECE027EB79F"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4990DB78DEE273C5"
+				poke_ball_used: ""
+				pokemon: "cobblemon:tentacool"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -12.0d
+		}
+		{
+			id: "25BC97ED81F78062"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2811087AE73D743C"
+				poke_ball_used: ""
+				pokemon: "cobblemon:tentacruel"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.0d
+			y: -12.0d
+		}
+		{
+			id: "4BAF3A725F68C28E"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2E10EA1491F7A02D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:geodude"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.0d
+			y: -12.0d
+		}
+		{
+			id: "53047851F0EC1B85"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "69A622B1AAD200C5"
+				poke_ball_used: ""
+				pokemon: "cobblemon:graveler"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -12.0d
+		}
+		{
+			id: "5EF9FF5FA1E36DA6"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "795C5187709F7D60"
+				poke_ball_used: ""
+				pokemon: "cobblemon:golem"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.0d
+			y: -12.0d
+		}
+		{
+			id: "2695A112CF1482A1"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1EBED4B6B0BFFBE9"
+				poke_ball_used: ""
+				pokemon: "cobblemon:ponyta"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.0d
+			y: -12.0d
+		}
+		{
+			id: "7F976314C99A5304"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5A3D2474A80B7C4D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:rapidash"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -12.0d
+		}
+		{
+			id: "0B31DA537F1FEFC2"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "707121BFFBCEF908"
+				poke_ball_used: ""
+				pokemon: "cobblemon:slowpoke"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -12.0d
+		}
+		{
+			id: "2E91FF07AADF43BF"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3807DD17518860F0"
+				poke_ball_used: ""
+				pokemon: "cobblemon:slowbro"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -12.0d
+		}
+		{
+			id: "13E6EB7BDF824913"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4C8D248F95992179"
+				poke_ball_used: ""
+				pokemon: "cobblemon:magnemite"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.0d
+			y: -11.0d
+		}
+		{
+			id: "65AFCB524D76C9C3"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "056C15D9FD6843B0"
+				poke_ball_used: ""
+				pokemon: "cobblemon:magneton"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: -11.0d
+		}
+		{
+			id: "3B1391BA82A09534"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "210D37B22E051878"
+				poke_ball_used: ""
+				pokemon: "cobblemon:farfetchd"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: -11.0d
+		}
+		{
+			id: "399ECB46B03ADA7B"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6158465756B2B83F"
+				poke_ball_used: ""
+				pokemon: "cobblemon:doduo"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.0d
+			y: -11.0d
+		}
+		{
+			id: "013F11ECCE9F0FFB"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4606B517AA7EAB1D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:electrode"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.0d
+			y: -10.0d
+		}
+		{
+			id: "2FEB11F6FE4F8FD1"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "19FF1EA03804705E"
+				poke_ball_used: ""
+				pokemon: "cobblemon:starmie"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.0d
+			y: -9.0d
+		}
+		{
+			id: "246EE19872A5EBC2"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "07165E4F1562EFA2"
+				poke_ball_used: ""
+				pokemon: "cobblemon:mrmime"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: -9.0d
+		}
+		{
+			id: "392527227ED79585"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "05ED25B909213722"
+				poke_ball_used: ""
+				pokemon: "cobblemon:exeggcute"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: -10.0d
+		}
+		{
+			id: "7F115CCF46ED17D5"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3422A298FBE85B83"
+				poke_ball_used: ""
+				pokemon: "cobblemon:exeggutor"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: -10.0d
+		}
+		{
+			id: "7B88F84F73309B32"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7691AC18113CD66D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:scyther"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: -9.0d
+		}
+		{
+			id: "492E1FFD94A8D2FF"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3765795E6A0F3979"
+				poke_ball_used: ""
+				pokemon: "cobblemon:cubone"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.0d
+			y: -10.0d
+		}
+		{
+			id: "19EC7D8DC871DCEC"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2F5688C735707ED2"
+				poke_ball_used: ""
+				pokemon: "cobblemon:dodrio"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.0d
+			y: -11.0d
+		}
+		{
+			id: "39681CF48C188F9D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5BB2323C5BF11A2B"
+				poke_ball_used: ""
+				pokemon: "cobblemon:seel"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -11.0d
+		}
+		{
+			id: "3190FAD5FED15693"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5713A7FA07EA2E64"
+				poke_ball_used: ""
+				pokemon: "cobblemon:dewgong"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.0d
+			y: -11.0d
+		}
+		{
+			id: "45E563687B5A5221"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "62B1B8AC68D9BF8C"
+				poke_ball_used: ""
+				pokemon: "cobblemon:marowak"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.0d
+			y: -10.0d
+		}
+		{
+			id: "17D0FEA8006E3FC5"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "692DCD3F44B24319"
+				poke_ball_used: ""
+				pokemon: "cobblemon:hitmonlee"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -10.0d
+		}
+		{
+			id: "0DC88690B024A070"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1E4D56366731CC1F"
+				poke_ball_used: ""
+				pokemon: "cobblemon:grimer"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.0d
+			y: -11.0d
+		}
+		{
+			id: "3861326A912EB2E8"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "39BE315EFC312D25"
+				poke_ball_used: ""
+				pokemon: "cobblemon:hitmonchan"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.0d
+			y: -10.0d
+		}
+		{
+			id: "0C39BBF9053FC3FB"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3B85E1B7BBD7DCCA"
+				poke_ball_used: ""
+				pokemon: "cobblemon:lickitung"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.0d
+			y: -10.0d
+		}
+		{
+			id: "0B2C5182A2D8E7EA"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "57F8267519C6C0D6"
+				poke_ball_used: ""
+				pokemon: "cobblemon:muk"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -11.0d
+		}
+		{
+			id: "1B808071BE2206D4"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "13F156853A1AE916"
+				poke_ball_used: ""
+				pokemon: "cobblemon:koffing"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -10.0d
+		}
+		{
+			id: "50E452529E803C1D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2FBC45203FE3EC94"
+				poke_ball_used: ""
+				pokemon: "cobblemon:weezing"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.0d
+			y: -10.0d
+		}
+		{
+			id: "31CCC84B601ED4C7"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2717F36B44620C5A"
+				poke_ball_used: ""
+				pokemon: "cobblemon:shellder"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.0d
+			y: -11.0d
+		}
+		{
+			id: "3766E17D87FD2D68"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "05977DC2A0E7259C"
+				poke_ball_used: ""
+				pokemon: "cobblemon:cloyster"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.0d
+			y: -11.0d
+		}
+		{
+			id: "741232E3996C272D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1592AE358DE8B337"
+				poke_ball_used: ""
+				pokemon: "cobblemon:rhyhorn"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.0d
+			y: -10.0d
+		}
+		{
+			id: "018F60F9F003EFF8"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5D965384F8895E0E"
+				poke_ball_used: ""
+				pokemon: "cobblemon:rhydon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -10.0d
+		}
+		{
+			id: "1EC88B1B70885E3A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1B34972D07C2F919"
+				poke_ball_used: ""
+				pokemon: "cobblemon:gastly"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -11.0d
+		}
+		{
+			id: "1246E6E4A458A1A0"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2DE35A52A012D3DF"
+				poke_ball_used: ""
+				pokemon: "cobblemon:haunter"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.0d
+			y: -11.0d
+		}
+		{
+			id: "650262C04A022270"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "64AD2C92280035BB"
+				poke_ball_used: ""
+				pokemon: "cobblemon:chansey"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.0d
+			y: -10.0d
+		}
+		{
+			id: "77C2E98E2842DFA7"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0AA22167508B96E0"
+				poke_ball_used: ""
+				pokemon: "cobblemon:tangela"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.0d
+			y: -10.0d
+		}
+		{
+			id: "30235CC7BE5C399D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7CD19E257E81BAA1"
+				poke_ball_used: ""
+				pokemon: "cobblemon:gengar"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.0d
+			y: -11.0d
+		}
+		{
+			id: "3A2C06564BB0EE69"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2FC8A07327154AAC"
+				poke_ball_used: ""
+				pokemon: "cobblemon:onix"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -11.0d
+		}
+		{
+			id: "3A66214BCC6BF66D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "257B00A027DBC09D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:kangaskhan"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -10.0d
+		}
+		{
+			id: "0C87A20CBCEA0F06"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4215A3A3FDEBBFF6"
+				poke_ball_used: ""
+				pokemon: "cobblemon:horsea"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.0d
+			y: -10.0d
+		}
+		{
+			id: "034C3122C915142A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3FA771392356854D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:drowzee"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.0d
+			y: -11.0d
+		}
+		{
+			id: "2F639C713260D632"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1A4D22E482DE750F"
+				poke_ball_used: ""
+				pokemon: "cobblemon:hypno"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.0d
+			y: -11.0d
+		}
+		{
+			id: "0E3B3D920FE961B2"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "11B3D6DB221A6767"
+				poke_ball_used: ""
+				pokemon: "cobblemon:seadra"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.0d
+			y: -10.0d
+		}
+		{
+			id: "7F5B82E3698C1F73"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4DADDE6F603B6D26"
+				poke_ball_used: ""
+				pokemon: "cobblemon:goldeen"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -10.0d
+		}
+		{
+			id: "700FAE98A0E3A576"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "20F97EEE9754A5C9"
+				poke_ball_used: ""
+				pokemon: "cobblemon:krabby"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -11.0d
+		}
+		{
+			id: "6A5B20EA981193A6"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "667C5EE4DFA03CEA"
+				poke_ball_used: ""
+				pokemon: "cobblemon:kingler"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -11.0d
+		}
+		{
+			id: "09883669BD7735AA"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "64661B5631A158D7"
+				poke_ball_used: ""
+				pokemon: "cobblemon:seaking"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -10.0d
+		}
+		{
+			id: "4772A0B25C4A7F7B"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0A4EB0FD56B4B57B"
+				poke_ball_used: ""
+				pokemon: "cobblemon:voltorb"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -11.0d
+		}
+		{
+			id: "76D8DB4583ECB71A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "091749EC305748C4"
+				poke_ball_used: ""
+				pokemon: "cobblemon:staryu"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -10.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0038_ninetales/ninetales.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "35DC85A6799CA516"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "0C11365735CEAED9"
+				poke_ball_used: ""
+				pokemon: "cobblemon:ninetales"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -14.0d
+		}
+		{
+			id: "5D99F9BCF7A3FE78"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "56692C1288ED7B04"
+				poke_ball_used: ""
+				pokemon: "cobblemon:jynx"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.0d
+			y: -9.0d
+		}
+		{
+			id: "54DA578BB8C36E5A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "45F6ED8D508F65B4"
+				poke_ball_used: ""
+				pokemon: "cobblemon:electabuzz"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.0d
+			y: -9.0d
+		}
+		{
+			id: "4D5608FC5DDB6ACE"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5B5939161D08169E"
+				poke_ball_used: ""
+				pokemon: "cobblemon:magmar"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -9.0d
+		}
+		{
+			id: "1D82462759053D83"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6C85D809A1E86F40"
+				poke_ball_used: ""
+				pokemon: "cobblemon:pinsir"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.0d
+			y: -9.0d
+		}
+		{
+			id: "155A1D63683A980F"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "596A3376F4449431"
+				poke_ball_used: ""
+				pokemon: "cobblemon:tauros"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.0d
+			y: -9.0d
+		}
+		{
+			id: "2239E7C81C0F3F33"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "224219473341AF9C"
+				poke_ball_used: ""
+				pokemon: "cobblemon:magikarp"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0130_gyarados/gyarados.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5C29300662C43A8D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0CC30C70AE67C535"
+				poke_ball_used: ""
+				pokemon: "cobblemon:gyarados"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.0d
+			y: -9.0d
+		}
+		{
+			id: "263D6ED207F263B6"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1BAE839BAD53574B"
+				poke_ball_used: ""
+				pokemon: "cobblemon:lapras"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.0d
+			y: -9.0d
+		}
+		{
+			id: "62B5AF661C5F7076"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "67C63B5EA004A24A"
+				poke_ball_used: ""
+				pokemon: "cobblemon:ditto"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -9.0d
+		}
+		{
+			id: "57AD3C5E6DF5F574"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "08BBAA80C26C4715"
+				poke_ball_used: ""
+				pokemon: "cobblemon:eevee"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.0d
+			y: -9.0d
+		}
+		{
+			id: "2B72130C519C5199"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "166DC0A0B4287C36"
+				poke_ball_used: ""
+				pokemon: "cobblemon:vaporeon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.0d
+			y: -9.0d
+		}
+		{
+			id: "5E68F7621D7D823B"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "363CFAE8B3E12050"
+				poke_ball_used: ""
+				pokemon: "cobblemon:jolteon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -9.0d
+		}
+		{
+			id: "1FEF72F134182D16"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "60395E4155828515"
+				poke_ball_used: ""
+				pokemon: "cobblemon:flareon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.0d
+			y: -9.0d
+		}
+		{
+			id: "5238D59C0C85C996"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7F0F462B4C33BB01"
+				poke_ball_used: ""
+				pokemon: "cobblemon:porygon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.0d
+			y: -9.0d
+		}
+		{
+			id: "3D9A27CAAD6E6677"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0507F369133E43BA"
+				poke_ball_used: ""
+				pokemon: "cobblemon:omanyte"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -9.0d
+		}
+		{
+			id: "0E54B1648061D4ED"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4D519138A731734C"
+				poke_ball_used: ""
+				pokemon: "cobblemon:omastar"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -9.0d
+		}
+		{
+			id: "700C395DB4376CD8"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6653C510EAAE5966"
+				poke_ball_used: ""
+				pokemon: "cobblemon:kabuto"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0141_kabutops/kabutops.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2D049FCA21E60AD9"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1D1E594231161DDC"
+				poke_ball_used: ""
+				pokemon: "cobblemon:kabutops"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0142_aerodactyl/aerodactyl.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0BAFFD5ECF530451"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "33D5CA90567B2957"
+				poke_ball_used: ""
+				pokemon: "cobblemon:aerodactyl"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0143_snorlax/snorlax.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6518A268A58F563D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5C7E07AE822E3DE4"
+				poke_ball_used: ""
+				pokemon: "cobblemon:snorlax"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0144_articuno/articuno.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "62DB066D57A3DF12"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0F7A96FF2103F8B0"
+				poke_ball_used: ""
+				pokemon: "cobblemon:articuno"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0145_zapdos/zapdos.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6745E4406D733243"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "4662F6FEDB2698C8"
+				poke_ball_used: ""
+				pokemon: "cobblemon:zapdos"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0146_moltres/moltres.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "631CC9D642B4195C"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "3004A47EFD87799B"
+				poke_ball_used: ""
+				pokemon: "cobblemon:moltres"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0147_dratini/dratini.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3AFADBDEA8B2F948"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "788328DECD39996C"
+				poke_ball_used: ""
+				pokemon: "cobblemon:dratini"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0148_dragonair/dragonair.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4AE6E52FF105D717"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "13043A8E666C4501"
+				poke_ball_used: ""
+				pokemon: "cobblemon:dragonair"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0149_dragonite/dragonite.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "42588932B3A652EC"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1E1F968432F6E647"
+				poke_ball_used: ""
+				pokemon: "cobblemon:dragonite"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0150_mewtwo/mewtwo.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "664DA40C3B7DD80D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "401E629F42AFC063"
+				poke_ball_used: ""
+				pokemon: "cobblemon:mewtwo"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0151_mew/mew.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4D1CAD76F3C0B26A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "67D89A0A4A80EECB"
+				poke_ball_used: ""
+				pokemon: "cobblemon:mew"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0004_charmander/charmander_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5E86F5F65A124C81"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6FB34A923093F9C6"
+				poke_ball_used: ""
+				pokemon: "cobblemon:charmander"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0005_charmeleon/charmeleon_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "38DD59D2B2D629D7"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2D2EF474398E9DE1"
+				poke_ball_used: ""
+				pokemon: "cobblemon:charmeleon"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0006_charizard/charizard_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "68BAA223659F8D8D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "37E0D9E6C98821E9"
+				poke_ball_used: ""
+				pokemon: "cobblemon:charizard"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0007_squirtle/squirtle_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5FC6B522EFB64741"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "77D67DAB6E55F19D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:squirtle"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0008_wartortle/wartortle_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "001FE81905531C66"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4DFC03385A77AA44"
+				poke_ball_used: ""
+				pokemon: "cobblemon:wartortle"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0009_blastoise/blastoise_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "608A4B0E31DEBAC7"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7BA48A0DE812E354"
+				poke_ball_used: ""
+				pokemon: "cobblemon:blastoise"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0010_caterpie/caterpie_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4155CF3B9C939CE9"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "39E3368A112F0AF4"
+				poke_ball_used: ""
+				pokemon: "cobblemon:caterpie"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0011_metapod/metapod_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "342710EC544DE155"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1D6AD2246CEA8B7A"
+				poke_ball_used: ""
+				pokemon: "cobblemon:metapod"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0012_butterfree/butterfree_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "53D439418502740D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4BB8E141ADDDF92B"
+				poke_ball_used: ""
+				pokemon: "cobblemon:butterfree"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0013_weedle/weedle_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "44C86B953B00803E"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "42503642D1800C2B"
+				poke_ball_used: ""
+				pokemon: "cobblemon:weedle"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0014_kakuna/kakuna_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2D61BF46AEE8B991"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4F6CDB7F4EBD66D6"
+				poke_ball_used: ""
+				pokemon: "cobblemon:kakuna"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0015_beedrill/beedrill_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "77A13A4648A1EF3E"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "33B4430B4945C293"
+				poke_ball_used: ""
+				pokemon: "cobblemon:beedrill"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0016_pidgey/pidgey_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2EEEA577D576E537"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2BC010A3662BD3BA"
+				poke_ball_used: ""
+				pokemon: "cobblemon:pidgey"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0017_pidgeotto/pidgeotto_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "64ADD3D58CEB9B7F"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0BD04B5A29F165D6"
+				poke_ball_used: ""
+				pokemon: "cobblemon:pidgeotto"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0018_pidgeot/pidgeot_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5308D9C65F638854"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7305D0C2E9E0DBB4"
+				poke_ball_used: ""
+				pokemon: "cobblemon:pidgeot"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0020_raticate/raticate_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6FC561839E23F606"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "489339CCA71C1C84"
+				poke_ball_used: ""
+				pokemon: "cobblemon:raticate"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0021_spearow/spearow_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1CAC6A00DB08FB71"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "53A4B9ED8A42B616"
+				poke_ball_used: ""
+				pokemon: "cobblemon:spearow"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0041_zubat/zubat_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "34E2D9A16CCF9B6C"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "47E194073E460280"
+				poke_ball_used: ""
+				pokemon: "cobblemon:zubat"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.0d
+			y: -4.5d
+		}
+		{
+			id: "4C407A2C2CF3BBB3"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0061_poliwhirl/poliwhirl_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "2E6E457B9183A6FB"
+				poke_ball_used: ""
+				pokemon: "cobblemon:poliwhirl"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.0d
+			y: -3.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0022_fearow/fearow_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "38755A1E1B2B590D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "56BD1A88B4824ABB"
+				poke_ball_used: ""
+				pokemon: "cobblemon:fearow"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0023_ekans/ekans_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "467852007A7C45D1"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3D4464EAFABFBC0D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:ekans"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0024_arbok/arbok_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0E21EF0DA03169BC"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "40FF9D3CB069F1CA"
+				poke_ball_used: ""
+				pokemon: "cobblemon:arbok"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0025_pikachu/pikachu_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "73471BE6C6BC54FB"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "13F009142D99383F"
+				poke_ball_used: ""
+				pokemon: "cobblemon:pikachu"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0026_raichu/raichu_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "695A24AE303FD4AF"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "31D279FAE8CC5484"
+				poke_ball_used: ""
+				pokemon: "cobblemon:raichu"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0027_sandshrew/sandshrew_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "77DAF1881B8BF1E3"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "2013DD53A1303306"
+				poke_ball_used: ""
+				pokemon: "cobblemon:sandshrew"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0028_sandslash/sandslash_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3349BB1DF33B4815"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "788E3D2FBD728043"
+				poke_ball_used: ""
+				pokemon: "cobblemon:sandslash"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0029_nidoranf/nidoranf_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "67FDDCFFB9CE3E06"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4374CE207EDB548D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:nidoranf"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0030_nidorina/nidorina_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3CB61850E2ED3134"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "736E14A0026C24A0"
+				poke_ball_used: ""
+				pokemon: "cobblemon:nidorina"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0031_nidoqueen/nidoqueen_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "680B0005E65E47ED"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "10F339DC2066322B"
+				poke_ball_used: ""
+				pokemon: "cobblemon:nidoqueen"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0032_nidoranm/nidoranm_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2CCA13BE91D04884"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "30A39F44175C0AD1"
+				poke_ball_used: ""
+				pokemon: "cobblemon:nidoranm"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0033_nidorino/nidorino_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2A99B89164DF3EEF"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "24AB5BB88DCC358F"
+				poke_ball_used: ""
+				pokemon: "cobblemon:nidorino"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0034_nidoking/nidoking_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "10D9111FB206116C"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1C96B1B01B279866"
+				poke_ball_used: ""
+				pokemon: "cobblemon:nidoking"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0035_clefairy/clefairy_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6337CD56BB7B10AE"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2435EB3D56B00A24"
+				poke_ball_used: ""
+				pokemon: "cobblemon:clefairy"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0036_clefable/clefable_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "527AFE8575B49B54"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "59A40F4A561FBF35"
+				poke_ball_used: ""
+				pokemon: "cobblemon:clefable"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0037_vulpix/vulpix_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3F94F4BF535DB181"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "310F2C6F1D168BD3"
+				poke_ball_used: ""
+				pokemon: "cobblemon:vulpix"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0038_ninetales/ninetales_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4671F84290670071"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "2FD5D15E7277FD41"
+				poke_ball_used: ""
+				pokemon: "cobblemon:ninetales"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0039_jigglypuff/jigglypuff_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3ED78C5F88D8E1D2"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2F03C298CC92D8F9"
+				poke_ball_used: ""
+				pokemon: "cobblemon:jigglypuff"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0040_wigglytuff/wigglytuff_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2D76DDAADF2A4297"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3567F4FCB29345DD"
+				poke_ball_used: ""
+				pokemon: "cobblemon:wigglytuff"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0042_golbat/golbat_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5B3105B86A65CA8D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5674EE413043C2F6"
+				poke_ball_used: ""
+				pokemon: "cobblemon:golbat"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0043_oddish/oddish_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0334BBE68CC439EF"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "01EC2F13B48E3BE7"
+				poke_ball_used: ""
+				pokemon: "cobblemon:oddish"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0044_gloom/gloom_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2690A9D8BAC10FF3"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "19C83270E5847698"
+				poke_ball_used: ""
+				pokemon: "cobblemon:gloom"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0045_vileplume/vileplume_female_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7B15D96F5966E6F0"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "46E3C4B0BA2A818F"
+				poke_ball_used: ""
+				pokemon: "cobblemon:vileplume"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0046_paras/paras_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2678F810599DD3D0"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6BBCD560CAC9CFF4"
+				poke_ball_used: ""
+				pokemon: "cobblemon:paras"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0047_parasect/parasect_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "14285B1D5C4E399F"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "13F2D44495D81272"
+				poke_ball_used: ""
+				pokemon: "cobblemon:parasect"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0048_venonat/venonat_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6F484E7B5B626F0A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2710DEC1F5ED457A"
+				poke_ball_used: ""
+				pokemon: "cobblemon:venonat"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0049_venomoth/venomoth_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "62404CD9C97745D5"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0FFB8EA4F1653FB2"
+				poke_ball_used: ""
+				pokemon: "cobblemon:venomoth"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0050_diglett/diglett_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6D9BE9E9B731C63A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "745C0538984B4FA7"
+				poke_ball_used: ""
+				pokemon: "cobblemon:diglett"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0051_dugtrio/dugtrio_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "62898F6193D61D8E"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "449A347B129F62AA"
+				poke_ball_used: ""
+				pokemon: "cobblemon:dugtrio"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0052_meowth/meowth_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7DB34391135ED2DF"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "227F05B86A346789"
+				poke_ball_used: ""
+				pokemon: "cobblemon:meowth"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0053_persian/persian_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "12CA7EF098DE277A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "56BD65B4E6BC7F8C"
+				poke_ball_used: ""
+				pokemon: "cobblemon:persian"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0054_psyduck/psyduck_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6345591ACEE8E7ED"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "19FCB7125A783454"
+				poke_ball_used: ""
+				pokemon: "cobblemon:psyduck"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0055_golduck/golduck_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6731D5690866B2FA"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6C41AD41F2780D10"
+				poke_ball_used: ""
+				pokemon: "cobblemon:golduck"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0056_mankey/mankey_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0A1E69ECEA48CA70"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "66DD76D9425A7BA6"
+				poke_ball_used: ""
+				pokemon: "cobblemon:mankey"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0057_primeape/primeape_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "174596AC8642CCD1"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4E2FAD09C7C57B57"
+				poke_ball_used: ""
+				pokemon: "cobblemon:primeape"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0058_growlithe/growlithe_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "707818323ABB8C82"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "4E277C97D78F95A3"
+				poke_ball_used: ""
+				pokemon: "cobblemon:growlithe"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0059_arcanine/arcanine_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5761A03D1A8CF48C"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "660DBC2C63FE4D56"
+				poke_ball_used: ""
+				pokemon: "cobblemon:arcanine"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0060_poliwag/poliwag_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "304977B7921DDCD2"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3C284426388A7FDF"
+				poke_ball_used: ""
+				pokemon: "cobblemon:poliwag"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			id: "5C2976071B2E551E"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3C58749E74199674"
+				poke_ball_used: ""
+				pokemon: "cobblemon:magnemite"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.0d
+			y: -2.5d
+		}
+		{
+			id: "2E5DC8C9EB74AEA2"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3113E0B1C937612B"
+				poke_ball_used: ""
+				pokemon: "cobblemon:electrode"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.0d
+			y: -1.5d
+		}
+		{
+			id: "2D73EA65A79A14C7"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "462962ADC6ACC80F"
+				poke_ball_used: ""
+				pokemon: "cobblemon:starmie"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.0d
+			y: -0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0141_kabutops/kabutops_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1DA54C10E90F6F5A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0AEF5C345EEED97F"
+				poke_ball_used: ""
+				pokemon: "cobblemon:kabutops"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0019_rattata/rattata_alolan.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "264DF1CB377CAADF"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "73A9E4A5A830AD18"
+				poke_ball_used: ""
+				pokemon: "cobblemon:rattata"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0019_rattata/rattata_alolan_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7C2BE16C7DE92956"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "0CEA7F072652D8EF"
+				poke_ball_used: ""
+				pokemon: "cobblemon:rattata"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -20.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0020_raticate/raticate_alolan.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "14DD97BD753005D5"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "59997B90AA7C4F6E"
+				poke_ball_used: ""
+				pokemon: "cobblemon:raticate"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0020_raticate/raticate_alolan_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "68D9638A70A5A809"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "33EAAF9F07961786"
+				poke_ball_used: ""
+				pokemon: "cobblemon:raticate"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0026_raichu/raichu_alolan_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5FB0EE8024B821C0"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "363F28C399812181"
+				poke_ball_used: ""
+				pokemon: "cobblemon:raichu"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0026_raichu/raichu_alolan.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "693EE47D7084A1CA"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "49F69346EE76CABA"
+				poke_ball_used: ""
+				pokemon: "cobblemon:raichu"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0027_sandshrew/sandshrew_alolan_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1D14695937C0F20C"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "3C85C42AF9DA646D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:sandshrew"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0027_sandshrew/sandshrew_alolan.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "78757597C09B3337"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "2B5691EAE77DBAC6"
+				poke_ball_used: ""
+				pokemon: "cobblemon:sandshrew"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0028_sandslash/sandslash_alolan_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "117F04484B51A64E"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "2D2BA26EBA905D59"
+				poke_ball_used: ""
+				pokemon: "cobblemon:sandslash"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0028_sandslash/n.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "13C31FC608A94024"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "47318A4BBBE22D35"
+				poke_ball_used: ""
+				pokemon: "cobblemon:sandslash"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.5d
+			y: 2.0d
+		}
+		{
+			id: "3B2781C402AE92B6"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0062_poliwrath/poliwrath_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "3A909E0A7C014DCB"
+				poke_ball_used: ""
+				pokemon: "cobblemon:poliwrath"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: -3.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0037_vulpix/vulpix_alolan.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "401DCD13B558AB46"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "1D747A2B262CBF46"
+				poke_ball_used: ""
+				pokemon: "cobblemon:vulpix"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0038_ninetales/ninetales_alolan_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "70F550F9530747C1"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "76E4FBA007A52817"
+				poke_ball_used: ""
+				pokemon: "cobblemon:ninetales"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0037_vulpix/vulpix_alolan_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2C7E92C417C43CBB"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "5717BD8B82785B0C"
+				poke_ball_used: ""
+				pokemon: "cobblemon:vulpix"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0038_ninetales/ninetales_alolan.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "406052165BB020F8"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "7518A616536BB9AE"
+				poke_ball_used: ""
+				pokemon: "cobblemon:ninetales"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.5d
+			y: 2.0d
+		}
+		{
+			id: "7ED2016C042ABC22"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0063_abra/abra_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "29E53D5B17221065"
+				poke_ball_used: ""
+				pokemon: "cobblemon:abra"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: -3.5d
+		}
+		{
+			id: "28DBE040736AA4F0"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0064_kadabra/kadabra_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "29CD7D052A1040A5"
+				poke_ball_used: ""
+				pokemon: "cobblemon:kadabra"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.0d
+			y: -3.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0065_alakazam/alakazam_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "41F7BDDC3B50E1A6"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5D5F640820E9CB40"
+				poke_ball_used: ""
+				pokemon: "cobblemon:alakazam"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.0d
+			y: -3.5d
+		}
+		{
+			id: "1A049452EAD194AF"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0066_machop/machop_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "1B68316FBF0FC2A7"
+				poke_ball_used: ""
+				pokemon: "cobblemon:machop"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -3.5d
+		}
+		{
+			id: "533E39D1B5CE1253"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0067_machoke/machoke_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "597772973451FB57"
+				poke_ball_used: ""
+				pokemon: "cobblemon:machoke"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.0d
+			y: -3.5d
+		}
+		{
+			id: "26D6E5A99C34990E"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0068_machamp/machamp_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "39135406A1E5C47E"
+				poke_ball_used: ""
+				pokemon: "cobblemon:machamp"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.0d
+			y: -3.5d
+		}
+		{
+			id: "1F2C3C2A3FB41E9C"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0069_bellsprout/bellsprout_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "09030AD96A8D6C21"
+				poke_ball_used: ""
+				pokemon: "cobblemon:bellsprout"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -3.5d
+		}
+		{
+			id: "391E261BD018FE05"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0070_weepinbell/weepinbell_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "27D70831A52BA5F1"
+				poke_ball_used: ""
+				pokemon: "cobblemon:weepinbell"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.0d
+			y: -3.5d
+		}
+		{
+			id: "0765B839C2C82FBD"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0071_victreebel/victreebel_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "35D6602DF79A6D89"
+				poke_ball_used: ""
+				pokemon: "cobblemon:victreebel"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.0d
+			y: -3.5d
+		}
+		{
+			id: "289B6FC417ECBFE0"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "12C458647AA809AE"
+				poke_ball_used: ""
+				pokemon: "cobblemon:tentacool"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -3.5d
+		}
+		{
+			id: "69219EAB156F6AC0"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1884C3AA20510358"
+				poke_ball_used: ""
+				pokemon: "cobblemon:tentacruel"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.0d
+			y: -3.5d
+		}
+		{
+			id: "5335990091041BE0"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1AABD18646B32D98"
+				poke_ball_used: ""
+				pokemon: "cobblemon:geodude"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.0d
+			y: -3.5d
+		}
+		{
+			id: "777B2E49103EC27A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3E6D111611E742BD"
+				poke_ball_used: ""
+				pokemon: "cobblemon:graveler"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			id: "4372F8F652FD3ABA"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7FB2468A9D440579"
+				poke_ball_used: ""
+				pokemon: "cobblemon:golem"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.0d
+			y: -3.5d
+		}
+		{
+			id: "11EF331DE43483F4"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1FB6ACDF3392A349"
+				poke_ball_used: ""
+				pokemon: "cobblemon:ponyta"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			id: "5248C3F54A0154EA"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "370DF9E6C53B77E6"
+				poke_ball_used: ""
+				pokemon: "cobblemon:rapidash"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			id: "116D05671C5B3564"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5634600783164C57"
+				poke_ball_used: ""
+				pokemon: "cobblemon:slowpoke"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			id: "4D48B7959CA553EF"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "22E2D4AB4A2A83E2"
+				poke_ball_used: ""
+				pokemon: "cobblemon:slowbro"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			id: "6726F1E5B93F61C4"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "333A196D0110F6CA"
+				poke_ball_used: ""
+				pokemon: "cobblemon:magneton"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: -2.5d
+		}
+		{
+			id: "0E2ACD7DD59EB844"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "42FE1E008D1C625B"
+				poke_ball_used: ""
+				pokemon: "cobblemon:exeggcute"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: -1.5d
+		}
+		{
+			id: "01BD3145324C9FE8"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "11DF3D77056B68A6"
+				poke_ball_used: ""
+				pokemon: "cobblemon:mrmime"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: -0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0142_aerodactyl/aerodactyl_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "25A9BE77BD94C266"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "667E5D4DAF0CA855"
+				poke_ball_used: ""
+				pokemon: "cobblemon:aerodactyl"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0143_snorlax/snorlax_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3804EBFD5BEEF436"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "24FC395040938A62"
+				poke_ball_used: ""
+				pokemon: "cobblemon:snorlax"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0144_articuno/articuno_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "295AFC0F059842DA"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "27FC4CA23FFE3519"
+				poke_ball_used: ""
+				pokemon: "cobblemon:articuno"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0145_zapdos/zapdos_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1DB6B32AAE3E36F0"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "54EBE32B2E89659D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:zapdos"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0146_moltres/moltres_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "611173F9D576F04B"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "normal"
+				gender: ""
+				id: "3B2E2A50372C8A58"
+				poke_ball_used: ""
+				pokemon: "cobblemon:moltres"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0147_dratini/dratini_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "54409D65347DC972"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6B2CAAB613FA6581"
+				poke_ball_used: ""
+				pokemon: "cobblemon:dratini"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0148_dragonair/dragonair_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "323ED3E044A4AA16"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7A8A19A6F5F878FA"
+				poke_ball_used: ""
+				pokemon: "cobblemon:dragonair"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0149_dragonite/dragonite_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "24F51CA1732B84F9"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "36BDC3932C7906CC"
+				poke_ball_used: ""
+				pokemon: "cobblemon:dragonite"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0150_mewtwo/mewtwo_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "663E5457CD3413A9"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "49A5AEF571558C2C"
+				poke_ball_used: ""
+				pokemon: "cobblemon:mewtwo"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0151_mew/mew_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1173573A10317F51"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6902E623F0C6EC06"
+				poke_ball_used: ""
+				pokemon: "cobblemon:mew"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.0d
+			y: 0.5d
+		}
+		{
+			id: "5B6EAB1792F12BDC"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "11BD8D75ED0E6DC2"
+				poke_ball_used: ""
+				pokemon: "cobblemon:farfetchd"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: -2.5d
+		}
+		{
+			id: "5DE4F841BFC295C9"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "50901973082FC10E"
+				poke_ball_used: ""
+				pokemon: "cobblemon:exeggutor"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: -1.5d
+		}
+		{
+			id: "049E80BBB896D135"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1EC92DCD91066429"
+				poke_ball_used: ""
+				pokemon: "cobblemon:scyther"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: -0.5d
+		}
+		{
+			id: "3BAAE46D3AC42FBB"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0E87D34879D04DDD"
+				poke_ball_used: ""
+				pokemon: "cobblemon:voltorb"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			id: "0346952212DC7813"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1720E9F9058A524F"
+				poke_ball_used: ""
+				pokemon: "cobblemon:staryu"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			id: "7BA9B06F06C76F1D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4C7C7872D0270195"
+				poke_ball_used: ""
+				pokemon: "cobblemon:kabuto"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			id: "0E7618623590FA67"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5800B234F4BD1FED"
+				poke_ball_used: ""
+				pokemon: "cobblemon:omastar"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			id: "42DB1E617F17D991"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "559BBAADFAAB4135"
+				poke_ball_used: ""
+				pokemon: "cobblemon:omanyte"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			id: "0D9C5D38A26B1D1E"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "07B08A23814A1609"
+				poke_ball_used: ""
+				pokemon: "cobblemon:porygon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			id: "17E9C557BD6CD113"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7A0D4328A33209F0"
+				poke_ball_used: ""
+				pokemon: "cobblemon:flareon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			id: "73A03F07B568F887"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3DF24F99F9F9C46D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:jolteon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			id: "5618B468808535ED"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1C2A6C906D81BBB1"
+				poke_ball_used: ""
+				pokemon: "cobblemon:vaporeon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			id: "2FEC3F2FB6AF2C21"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7678B481E192D475"
+				poke_ball_used: ""
+				pokemon: "cobblemon:eevee"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.0d
+			y: -0.5d
+		}
+		{
+			id: "4E43F621E9846434"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4186551F131E916B"
+				poke_ball_used: ""
+				pokemon: "cobblemon:ditto"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			id: "23B6964DDC0F43F8"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5856025404500386"
+				poke_ball_used: ""
+				pokemon: "cobblemon:lapras"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.0d
+			y: -0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0130_gyarados/gyarados_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5B1E040CC9E1614A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "397DBB2DD2A3DAB7"
+				poke_ball_used: ""
+				pokemon: "cobblemon:gyarados"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.0d
+			y: -0.5d
+		}
+		{
+			id: "5E0DA0467633C1DE"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1521DB4ABDFC5DD0"
+				poke_ball_used: ""
+				pokemon: "cobblemon:magikarp"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -0.5d
+		}
+		{
+			id: "26A7D5CEB001C6A5"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7E08ADF38226A42C"
+				poke_ball_used: ""
+				pokemon: "cobblemon:tauros"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.0d
+			y: -0.5d
+		}
+		{
+			id: "7F154AF679A5BFBD"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "27FE63D1EBA835C4"
+				poke_ball_used: ""
+				pokemon: "cobblemon:pinsir"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.0d
+			y: -0.5d
+		}
+		{
+			id: "1C23DA934D3D8CE2"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "46A339C9D402853A"
+				poke_ball_used: ""
+				pokemon: "cobblemon:magmar"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -0.5d
+		}
+		{
+			id: "2ED5B98E734F7D0B"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5DB2E543749BE56A"
+				poke_ball_used: ""
+				pokemon: "cobblemon:electabuzz"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.0d
+			y: -0.5d
+		}
+		{
+			id: "29C50F516AD3B1DD"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "719F769DED5542B6"
+				poke_ball_used: ""
+				pokemon: "cobblemon:jynx"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.0d
+			y: -0.5d
+		}
+		{
+			id: "29926A2D5183B64C"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4B8626EECDAC098A"
+				poke_ball_used: ""
+				pokemon: "cobblemon:cubone"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.0d
+			y: -1.5d
+		}
+		{
+			id: "075CE5021215AEB1"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0F1AD162F30691E6"
+				poke_ball_used: ""
+				pokemon: "cobblemon:doduo"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -17.0d
+			y: -2.5d
+		}
+		{
+			id: "0BA29CDD191F9C79"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6654AF3B3C0D6967"
+				poke_ball_used: ""
+				pokemon: "cobblemon:dodrio"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.0d
+			y: -2.5d
+		}
+		{
+			id: "4DEEF08120173CE8"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "41434817EAE368BF"
+				poke_ball_used: ""
+				pokemon: "cobblemon:seel"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -2.5d
+		}
+		{
+			id: "35EFF8FDCE0C9AAA"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0B9943FE4558FF53"
+				poke_ball_used: ""
+				pokemon: "cobblemon:dewgong"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.0d
+			y: -2.5d
+		}
+		{
+			id: "7BD2DFDF7374CE8F"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "739DF1A3425013F8"
+				poke_ball_used: ""
+				pokemon: "cobblemon:grimer"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.0d
+			y: -2.5d
+		}
+		{
+			id: "21D1014FB98992FF"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3113183E8E3B4958"
+				poke_ball_used: ""
+				pokemon: "cobblemon:muk"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -2.5d
+		}
+		{
+			id: "2FE5A7B0C3A1133D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "62B8E20773390A24"
+				poke_ball_used: ""
+				pokemon: "cobblemon:shellder"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.0d
+			y: -2.5d
+		}
+		{
+			id: "36DF1AAAB2C4F0F4"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1886698EC0B1B0DE"
+				poke_ball_used: ""
+				pokemon: "cobblemon:cloyster"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.0d
+			y: -2.5d
+		}
+		{
+			id: "3AE2B78907545B62"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0E665755C0B3EC2C"
+				poke_ball_used: ""
+				pokemon: "cobblemon:gastly"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -2.5d
+		}
+		{
+			id: "2D892A2C6D5AC5A5"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4B0A00DB5161672F"
+				poke_ball_used: ""
+				pokemon: "cobblemon:haunter"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.0d
+			y: -2.5d
+		}
+		{
+			id: "1A07B17FCA58BE70"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1A483202F7C0E73B"
+				poke_ball_used: ""
+				pokemon: "cobblemon:gengar"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			id: "5843695900FAACE8"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4D590C72BD36A127"
+				poke_ball_used: ""
+				pokemon: "cobblemon:onix"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			id: "4275B5B42B3C938E"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "63D002CEDF4CD7E0"
+				poke_ball_used: ""
+				pokemon: "cobblemon:drowzee"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			id: "2479EF4DBEF5FA5D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0D331774E21E0A46"
+				poke_ball_used: ""
+				pokemon: "cobblemon:marowak"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.0d
+			y: -1.5d
+		}
+		{
+			id: "1B799EC5186F3416"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3A19B0369B2FDF47"
+				poke_ball_used: ""
+				pokemon: "cobblemon:hitmonlee"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -1.5d
+		}
+		{
+			id: "68F3648D29ABAB0E"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "52688844ABCCF394"
+				poke_ball_used: ""
+				pokemon: "cobblemon:hitmonchan"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -14.0d
+			y: -1.5d
+		}
+		{
+			id: "5DEF4E59AA438E17"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "15714B0F2C8342F0"
+				poke_ball_used: ""
+				pokemon: "cobblemon:lickitung"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.0d
+			y: -1.5d
+		}
+		{
+			id: "546ECC72BB96572C"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6DC00B7F88AA9BD7"
+				poke_ball_used: ""
+				pokemon: "cobblemon:koffing"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -1.5d
+		}
+		{
+			id: "64EDF665FD3D792D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "15DA392A0B3C0A51"
+				poke_ball_used: ""
+				pokemon: "cobblemon:weezing"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.0d
+			y: -1.5d
+		}
+		{
+			id: "1837FE4CC04E7F1F"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "715B23484C2247D7"
+				poke_ball_used: ""
+				pokemon: "cobblemon:rhyhorn"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.0d
+			y: -1.5d
+		}
+		{
+			id: "1AB41A4D7088D2BE"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "15F9964F558CBCEA"
+				poke_ball_used: ""
+				pokemon: "cobblemon:rhydon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -1.5d
+		}
+		{
+			id: "76F0D7DFDC09D08A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "36FCEBD6467B8E5D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:chansey"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			id: "6A29BBA8DB614372"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "63CD499F173978A2"
+				poke_ball_used: ""
+				pokemon: "cobblemon:tangela"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.0d
+			y: -1.5d
+		}
+		{
+			id: "28FB10CFBB818AA4"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1DC762FC624DC31B"
+				poke_ball_used: ""
+				pokemon: "cobblemon:kangaskhan"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			id: "0DC29FC5D399916B"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "23F3B16AC4C33C65"
+				poke_ball_used: ""
+				pokemon: "cobblemon:horsea"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			id: "7F71460182D3A293"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "34292B3B29D2D07A"
+				poke_ball_used: ""
+				pokemon: "cobblemon:seadra"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			id: "0518E99510211E6A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5A8BE198FBF60683"
+				poke_ball_used: ""
+				pokemon: "cobblemon:goldeen"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			id: "4F8321DBE09FF20A"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4C2DC7A898BC8AC1"
+				poke_ball_used: ""
+				pokemon: "cobblemon:seaking"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			id: "558BB2A6149EBAD5"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4D63F2414974FE31"
+				poke_ball_used: ""
+				pokemon: "cobblemon:hypno"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			id: "722C01DD74EB22A4"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "45EAF85D2F59DD05"
+				poke_ball_used: ""
+				pokemon: "cobblemon:krabby"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			id: "495C6C2E1E0F88CE"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "788EDD7DFBF5CA8A"
+				poke_ball_used: ""
+				pokemon: "cobblemon:kingler"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0050_diglett/diglett_alolan_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "21E3494CB2361906"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "4A9B062023EED33F"
+				poke_ball_used: ""
+				pokemon: "cobblemon:diglett"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0050_diglett/diglett_alolan.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1FE749DC46A1AE9E"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "54DB9AFA2341797D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:diglett"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0051_dugtrio/dugtrio_alolan_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "288A4B160FE57131"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "3AA44828E6199C9A"
+				poke_ball_used: ""
+				pokemon: "cobblemon:dugtrio"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0051_dugtrio/dugtrio_alolan.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3C2F1505FB3A84F1"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "7D937F04D29DFA2D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:dugtrio"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0052_meowth/meowth_alolan_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2E3CE49151A1284F"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "6655AC0225D79DCF"
+				poke_ball_used: ""
+				pokemon: "cobblemon:meowth"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0052_meowth/meowth_alolan.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2090324118EEC1B9"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "247498A807AAFA07"
+				poke_ball_used: ""
+				pokemon: "cobblemon:meowth"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0053_persian/persian_alolan.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "67080D3E44C286C3"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "0CA4AFB020C394A9"
+				poke_ball_used: ""
+				pokemon: "cobblemon:persian"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0053_persian/persian_alolan_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "74DEC987253D6F85"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "alola"
+				gender: ""
+				id: "1D221E12422D7693"
+				poke_ball_used: ""
+				pokemon: "cobblemon:persian"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0058_growlithe/growlithe_hisuian_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "37EA2A0D42B36F9D"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "hisui"
+				gender: ""
+				id: "62ED38103A6ECF93"
+				poke_ball_used: ""
+				pokemon: "cobblemon:growlithe"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0059_arcanine/arcanine_hisuian_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "453652833A1029D8"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "hisui"
+				gender: ""
+				id: "56BB9FB79D34BF4C"
+				poke_ball_used: ""
+				pokemon: "cobblemon:arcanine"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0058_growlithe/growlithe_hisuian.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6D6845AD425473AC"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "hisui"
+				gender: ""
+				id: "620BC0BD65890D4D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:growlithe"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0059_arcanine/arcanine_hisuian.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "571054E8623B019B"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "hisui"
+				gender: ""
+				id: "7E92E586498F12C2"
+				poke_ball_used: ""
+				pokemon: "cobblemon:arcanine"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0144_articuno/articuno_galarian.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1849FC7D6B6C684E"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				id: "3966EC363262895D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:articuno"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.5d
+			y: 4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0144_articuno/articuno_galarian_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3C5C1C95820A37EA"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				id: "29BC5C2C34DEAB91"
+				poke_ball_used: ""
+				pokemon: "cobblemon:articuno"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.5d
+			y: 5.5d
+		}
+		{
+			id: "1D0B886166C00B02"
+			tasks: [{
+				action: "catch,evolve,obtain"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0145_zapdos/zapdos_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "509C24B6811A02F5"
+				poke_ball_used: ""
+				pokemon: "cobblemon:zapdos"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.5d
+			y: 5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0145_zapdos/zapdos.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "305D20A3F5837E10"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				id: "67BF20AED6472FA1"
+				poke_ball_used: ""
+				pokemon: "cobblemon:zapdos"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.5d
+			y: 4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0146_moltres/moltres_galarian.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6D8E395D6ACA735E"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				id: "55BE794557384653"
+				poke_ball_used: ""
+				pokemon: "cobblemon:moltres"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.5d
+			y: 4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0146_moltres/moltres_galarian_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "03A8D8DCF2ECB24B"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				id: "2079C4DD93C8EB7D"
+				poke_ball_used: ""
+				pokemon: "cobblemon:moltres"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.5d
+			y: 5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0052_meowth/meowth_galarian_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2A0B1760DAEC72CE"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				id: "740CE65EB1B67E21"
+				poke_ball_used: ""
+				pokemon: "cobblemon:meowth"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0052_meowth/meowth_galarian.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "67B15845F59F680E"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				id: "2524256FB8531DD2"
+				poke_ball_used: ""
+				pokemon: "cobblemon:meowth"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -10.5d
+			y: 2.0d
+		}
+		{
+			id: "171129FD5798C879"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0077_ponyta/ponyta_galarian.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "707B5FB754CBD0B4"
+				poke_ball_used: ""
+				pokemon: "cobblemon:ponyta"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			id: "1EEB3236AC9772DD"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0077_ponyta/ponyta_galarian_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "397C8F60A6FA5896"
+				poke_ball_used: ""
+				pokemon: "cobblemon:ponyta"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.5d
+			y: 3.0d
+		}
+		{
+			id: "063D1C8052C02AE0"
+			tasks: [{
+				action: "catch,evolve,obtain"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0078_rapidash/rapidash_galarian_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "61740466C4514A8C"
+				poke_ball_used: ""
+				pokemon: "cobblemon:ponyta"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.5d
+			y: 3.0d
+		}
+		{
+			id: "24167D40AF7C36C1"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0078_rapidash/rapidash_galarian.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "39375E6CDC08B893"
+				poke_ball_used: ""
+				pokemon: "cobblemon:rapidash"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			id: "046F63100DCC489E"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0079_slowpoke/slowpoke_galarian.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "3491B5A5BDB8B8AA"
+				poke_ball_used: ""
+				pokemon: "cobblemon:slowpoke"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			id: "56B4FC5344BA19BA"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0079_slowpoke/slowpoke_galarian_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "0AD235FFF882E530"
+				poke_ball_used: ""
+				pokemon: "cobblemon:slowpoke"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			id: "402DF789D4159FD5"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0080_slowbro/slowbro_galarian_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "64566B95BCB9BC49"
+				poke_ball_used: ""
+				pokemon: "cobblemon:slowbro"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			id: "155ACFFA1CC0E49C"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0080_slowbro/slowbro_galarian.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "7A5705539BBF3F30"
+				poke_ball_used: ""
+				pokemon: "cobblemon:slowbro"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			id: "4D12AD400BA48F34"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0199_slowking/slowking_galarian.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "6DAA8E9C438A6434"
+				poke_ball_used: ""
+				pokemon: "cobblemon:slowking"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0199_slowking/slowking_galarian_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3FECA872C0432A08"
+			tasks: [{
+				action: "catch,obtain,evolve"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0199_slowking/slowking_galarian_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "7EEBCD8653F11829"
+				poke_ball_used: ""
+				pokemon: "cobblemon:slowking"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			id: "0B086A084062CF94"
+			tasks: [{
+				action: "catch,evolve,obtain"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0083_farfetchd/farfetchd_galarian_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "0BDB37A4C518A890"
+				poke_ball_used: ""
+				pokemon: "cobblemon:farfetchd"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/entity_icon/0083_farfetchd/farfetchd_galarian.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5BEFC46432259BCF"
+			tasks: [{
+				action: "catch,evolve,obtain"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0083_farfetchd/farfetchd_galarian.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "0DCCD2E0424C7B1C"
+				poke_ball_used: ""
+				pokemon: "cobblemon:farfetchd"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "2C4E5D5C759C31DF"
+			tasks: [{
+				action: "catch,evolve,obtain"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0122_mrmime/mr_mime_galarian.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "0F4E0923E1FCC4CE"
+				poke_ball_used: ""
+				pokemon: "cobblemon:mrmime"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			id: "7AFF516B601DABF5"
+			tasks: [{
+				action: "catch,evolve,obtain"
+				amount: 1L
+				biome: ""
+				dimension: ""
+				form: "galar"
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/entity_icon/0122_mrmime/mr_mime_shiny.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "07E1440A4494FEFD"
+				poke_ball_used: ""
+				pokemon: "cobblemon:mrmime"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+	]
+}

@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"dramaticdoors:tall_oak_door"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:oak_trapdoor"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

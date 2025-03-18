@@ -1,0 +1,185 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "qol_improvements"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "dynamic_fps:textures/battery/toast/charging.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "78A60EFB261A9143"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4A0AAADCDF3570B0"
+			rewards: [{
+				id: "3FE9C8E8F2B4582D"
+				item: {
+					count: 1
+					id: "naturescompass:naturescompass"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "29DCD783B1A4A7C3"
+				item: { count: 1, id: "naturescompass:naturescompass" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "49E9FA35D00C6255"
+			rewards: [{
+				id: "7BB03252D6E85B24"
+				item: {
+					count: 1
+					id: "waystones:blackstone_waystone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "597D0BC67A4D7342"
+				item: { count: 1, id: "waystones:waystone" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "2C1D9F06ED3A144B"
+			rewards: [
+				{
+					id: "27F7A276A7CD6C0A"
+					item: {
+						count: 1
+						id: "xpbook:xp_tome"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "36E71E84A3547048"
+					item: {
+						count: 1
+						id: "minecraft:experience_bottle"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "43E578D4BA210D43"
+				item: { count: 1, id: "xpbook:xp_tome" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "3CD34A691E644B39"
+			rewards: [{
+				id: "65D64E25B93AC42D"
+				item: {
+					count: 1
+					id: "akashictome:tome"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3A591B0B6EC58D9E"
+				item: { count: 1, id: "akashictome:tome" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:recovery_compass"
+			}
+			id: "626504DF6F2FA32E"
+			rewards: [
+				{
+					id: "22DB01B13CDF2304"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "62E07BC5986F8F11"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1E6B20592343D02F"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			id: "0740DE864E0C3E0A"
+			rewards: [
+				{
+					id: "4F10B716CBDB006C"
+					item: {
+						count: 1
+						id: "minecraft:spyglass"
+					}
+					type: "item"
+				}
+				{
+					id: "6B39825DDC27C819"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "524990FCFC484384"
+				item: { count: 1, id: "minecraft:spyglass" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			id: "6A6BA5929CEFA82C"
+			tasks: [
+				{
+					id: "42619053C0E5D953"
+					item: { count: 1, id: "pocketmachines:pocket_crafting" }
+					type: "item"
+				}
+				{
+					id: "14A4210CD70F6063"
+					item: { count: 1, id: "pocketmachines:pocket_furnace" }
+					type: "item"
+				}
+				{
+					id: "438F8D6E5C3EA96B"
+					item: { count: 1, id: "pocketmachines:pocket_anvil" }
+					type: "item"
+				}
+				{
+					id: "47E5DE6B2F8C781C"
+					item: { count: 1, id: "pocketmachines:pocket_ender_chest" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+	]
+}

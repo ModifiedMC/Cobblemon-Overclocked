@@ -1,0 +1,9 @@
+[visuals]
+	#Makes advancement icons animated
+	animated_icons = false
+	#Makes stat frame text centered
+	centered_text = true
+	#How ofter the client will request stats update from server in seconds
+	# Default: 60
+	# Range: 1 ~ 1000
+	stat_update_interval = 60

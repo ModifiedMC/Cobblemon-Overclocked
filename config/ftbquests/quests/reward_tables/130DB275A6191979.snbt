@@ -1,0 +1,21 @@
+{
+	id: "130DB275A6191979"
+	loot_size: 3
+	order_index: 9
+	rewards: [
+		{ id: "0ABB98270EE487FD", item: { count: 1, id: "cobblemon:red_apricorn" } }
+		{ id: "1C560B3AE0E57DA9", item: { count: 1, id: "cobblemon:yellow_apricorn" } }
+		{ id: "3148BADB90F32F79", item: { count: 1, id: "cobblemon:green_apricorn" } }
+		{ id: "355702D39BDA18C7", item: { count: 1, id: "cobblemon:blue_apricorn" } }
+		{ id: "2A0D36FA9D888C15", item: { count: 1, id: "cobblemon:pink_apricorn" } }
+		{ id: "62D72235EF66219C", item: { count: 1, id: "cobblemon:black_apricorn" } }
+		{ id: "02D4A73C26E64BB0", item: { count: 1, id: "cobblemon:white_apricorn" } }
+		{ id: "6E595409B4602F96", item: { count: 1, id: "cobblemon:red_apricorn_seed" } }
+		{ id: "03FD9337406C9AE9", item: { count: 1, id: "cobblemon:yellow_apricorn_seed" } }
+		{ id: "1571FB11F2A636AC", item: { count: 1, id: "cobblemon:green_apricorn_seed" } }
+		{ id: "23979A80F7C9241F", item: { count: 1, id: "cobblemon:blue_apricorn_seed" } }
+		{ id: "1DA962CB028D6DCB", item: { count: 1, id: "cobblemon:pink_apricorn_seed" } }
+		{ id: "52F7AB685AEBCE03", item: { count: 1, id: "cobblemon:black_apricorn_seed" } }
+		{ id: "43744B803123A0A4", item: { count: 1, id: "cobblemon:white_apricorn_seed" } }
+	]
+}

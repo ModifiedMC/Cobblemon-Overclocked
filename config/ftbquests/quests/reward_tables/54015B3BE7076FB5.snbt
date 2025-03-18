@@ -1,0 +1,48 @@
+{
+	id: "54015B3BE7076FB5"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{ id: "0188168C69224F85", item: { count: 1, id: "cobblemon:shell_helmet" } }
+		{ id: "0AAD15223E86BA49", item: { count: 1, id: "cobblemon:malicious_armor" } }
+		{ id: "76D0540CE6C95836", item: { count: 1, id: "cobblemon:auspicious_armor" } }
+		{ id: "575CA002AF701703", item: { count: 1, id: "cobblemon:ribbon_sweet" } }
+		{ id: "1A65F5421286EB5A", item: { count: 1, id: "cobblemon:star_sweet" } }
+		{ id: "7571A962F96B74D3", item: { count: 1, id: "cobblemon:flower_sweet" } }
+		{ id: "69B23D6B9E58B254", item: { count: 1, id: "cobblemon:clover_sweet" } }
+		{ id: "7CB7F71A8B9C2642", item: { count: 1, id: "cobblemon:berry_sweet" } }
+		{ id: "614D128A38ABA771", item: { count: 1, id: "cobblemon:love_sweet" } }
+		{ id: "475AFA441190E6C4", item: { count: 1, id: "cobblemon:strawberry_sweet" } }
+		{ id: "4E4A274B39066DA6", item: { count: 1, id: "cobblemon:unremarkable_teacup" } }
+		{ id: "5C0D5F8E62A5F9D1", item: { count: 1, id: "cobblemon:masterpiece_teacup" } }
+		{ id: "4316605F9698AA78", item: { count: 1, id: "cobblemon:chipped_pot" } }
+		{ id: "107BE8FB8FF254D5", item: { count: 1, id: "cobblemon:cracked_pot" } }
+		{ id: "0E0344BCA2D6D8F9", item: { count: 1, id: "cobblemon:sweet_apple" } }
+		{ id: "0D494A341BEB8965", item: { count: 1, id: "cobblemon:tart_apple" } }
+		{ id: "782FA90126B34810", item: { count: 1, id: "cobblemon:whipped_dream" } }
+		{ id: "68F89538F58EAAD7", item: { count: 1, id: "cobblemon:sachet" } }
+		{ id: "4D8A75FBC3D738B0", item: { count: 1, id: "cobblemon:reaper_cloth" } }
+		{ id: "72D2B1C756231561", item: { count: 1, id: "cobblemon:prism_scale" } }
+		{ id: "675CD371F8932B4B", item: { count: 1, id: "cobblemon:peat_block" } }
+		{ id: "210F2AEA2524218B", item: { count: 1, id: "cobblemon:dubious_disc" } }
+		{ id: "1B05BB1DCB821089", item: { count: 1, id: "cobblemon:upgrade" } }
+		{ id: "60A6BA5C5EEB2256", item: { count: 1, id: "cobblemon:magmarizer" } }
+		{ id: "50AD37F8CB625135", item: { count: 1, id: "cobblemon:electirizer" } }
+		{ id: "3BD5ADA31EDB9A29", item: { count: 1, id: "cobblemon:dragon_scale" } }
+		{ id: "0555D5BB6062E177", item: { count: 1, id: "cobblemon:oval_stone" } }
+		{ id: "311A00E680865280", item: { count: 1, id: "cobblemon:protector" } }
+		{ id: "12E8FB5EBAAE2CB8", item: { count: 1, id: "cobblemon:black_augurite" } }
+		{ id: "27DACB939E56C253", item: { count: 1, id: "cobblemon:galarica_wreath" } }
+		{ id: "25B37570F3FD1C21", item: { count: 1, id: "cobblemon:galarica_cuff" } }
+		{ id: "005BA54C5D5710B8", item: { count: 1, id: "cobblemon:ice_stone" } }
+		{ id: "74954E4498127E0B", item: { count: 1, id: "cobblemon:dawn_stone" } }
+		{ id: "5341EAF6CFA34A69", item: { count: 1, id: "cobblemon:dusk_stone" } }
+		{ id: "15EA8BA06F511C9E", item: { count: 1, id: "cobblemon:shiny_stone" } }
+		{ id: "096AFB12F321DD3F", item: { count: 1, id: "cobblemon:sun_stone" } }
+		{ id: "5790865850584F22", item: { count: 1, id: "cobblemon:moon_stone" } }
+		{ id: "64385C15F216B110", item: { count: 1, id: "cobblemon:leaf_stone" } }
+		{ id: "158DDC5128C66139", item: { count: 1, id: "cobblemon:thunder_stone" } }
+		{ id: "65B2BBE6DC351ED4", item: { count: 1, id: "cobblemon:water_stone" } }
+		{ id: "65422CD069BB88A7", item: { count: 1, id: "cobblemon:fire_stone" } }
+	]
+}

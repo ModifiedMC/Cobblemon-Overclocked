@@ -1,0 +1,43 @@
+{
+  "hideUnknownPokemon": false,
+  "showPokemonTooltips": true,
+  "hideUnknownPokemonTooltips": false,
+  "hideNaturalBlockConditions": true,
+  "checkSpawnWidth": 8,
+  "checkSpawnHeight": 16,
+  "searchAreaWidth": 200.0,
+  "searchAreaHeight": 200.0,
+  "pokemonFeatureWeights": {
+    "shiny": 10.0,
+    "perfectIvsRates": {
+      "1": 1.0,
+      "2": 2.0,
+      "3": 3.0,
+      "4": 4.0,
+      "5": 5.0,
+      "6": 6.0
+    },
+    "hiddenAbility": 1.0,
+    "eggMove": 1.0
+  },
+  "collectableConditions": [
+    "biomes",
+    "coordinates",
+    "light",
+    "moon_phase",
+    "sky_light",
+    "slime_chunk",
+    "structures",
+    "time_range",
+    "under_open_sky",
+    "weather",
+    "y_height",
+    "depth_submerged",
+    "depth_surface",
+    "fluid_submerged",
+    "fluid_surface",
+    "area_type_block",
+    "grounded_type_block",
+    "seafloor_type_block"
+  ]
+}

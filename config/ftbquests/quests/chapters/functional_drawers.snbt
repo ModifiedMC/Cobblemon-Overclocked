@@ -1,0 +1,234 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "functional_drawers"
+	group: "4669DE74F6076139"
+	icon: {
+		id: "functionalstorage:oak_4"
+	}
+	id: "69B4682DD5E91CB9"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "359A7AB198BD451E"
+			tasks: [{
+				id: "7058FB73F98E6CB0"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(functionalstorage:drawer)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "1CFD03710282FE1B"
+			tasks: [{
+				id: "4C8FDF31B2301FEF"
+				item: { components: { "functionalstorage:direction": "north" }, count: 1, id: "functionalstorage:puller_upgrade" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "40AC8EA214D4D6D8"
+			tasks: [{
+				id: "614E903A1E257496"
+				item: { components: { "functionalstorage:direction": "north" }, count: 1, id: "functionalstorage:pusher_upgrade" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "49F7940F137A640A"
+			tasks: [{
+				id: "7C8C34D2FB407287"
+				item: { components: { "functionalstorage:direction": "north" }, count: 1, id: "functionalstorage:collector_upgrade" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "318DC5873E36D4D7"
+			tasks: [{
+				id: "57DDE32F4F0AE961"
+				item: { count: 1, id: "functionalstorage:armory_cabinet" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			id: "450672C81A13918E"
+			tasks: [{
+				id: "72E8BF05A5890613"
+				item: { count: 1, id: "functionalstorage:copper_upgrade" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "24D5996353F8F0E4"
+			tasks: [{
+				id: "767AAB8450CADFA8"
+				item: { count: 1, id: "functionalstorage:linking_tool" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			id: "5ACA8429876E8453"
+			tasks: [{
+				id: "2AA77A2DA1E1C1D7"
+				item: { count: 1, id: "functionalstorage:configuration_tool" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			id: "32E15B51B6684979"
+			tasks: [{
+				id: "38B6C7FDC52F82FC"
+				item: { count: 1, id: "functionalstorage:void_upgrade" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "5B495D59747F4CAA"
+			tasks: [{
+				id: "7D6BD16142D9A66C"
+				item: { count: 1, id: "functionalstorage:ender_drawer" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "143C7B77327CED4E"
+			tasks: [{
+				id: "2045FBDF695FB52B"
+				item: { components: { "functionalstorage:slot": 0 }, count: 1, id: "functionalstorage:redstone_upgrade" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "6F2B7C0B7E53E6B4"
+			tasks: [{
+				id: "7EF3A84904D77ADB"
+				item: { count: 1, id: "functionalstorage:fluid_1" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "63C1C9DFC081954B"
+			tasks: [{
+				id: "073506141ED8049E"
+				item: { count: 1, id: "functionalstorage:storage_controller" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			id: "1E3648DE542D2E76"
+			tasks: [{
+				id: "1925F9633E09E803"
+				item: { count: 1, id: "functionalstorage:controller_extension" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			id: "33BBC29E4D02F392"
+			tasks: [{
+				id: "738301DDD738486D"
+				item: { count: 1, id: "functionalstorage:compacting_drawer" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			id: "52FCDD7A65DCAEBD"
+			tasks: [{
+				id: "57ED12B45504CF78"
+				item: { count: 1, id: "functionalstorage:gold_upgrade" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			id: "01E8FF0CA5760DFF"
+			tasks: [{
+				id: "1143B1DDA47FF88E"
+				item: { count: 1, id: "functionalstorage:diamond_upgrade" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			id: "526F1A2E10260498"
+			tasks: [{
+				id: "4680B6B59D4E053D"
+				item: { count: 1, id: "functionalstorage:netherite_upgrade" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			id: "63E60D6E4771E1DD"
+			tasks: [{
+				id: "5C589CBF8090CAB8"
+				item: { count: 1, id: "functionalstorage:iron_downgrade" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			id: "70CBA6E82F90274C"
+			tasks: [{
+				id: "0D8585BEF7AF2949"
+				item: { count: 1, id: "functionalstorage:dripping_upgrade" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			id: "60B4DC06F47151B1"
+			tasks: [{
+				id: "3EE75CA5063F03DA"
+				item: { count: 1, id: "functionalstorage:water_generator_upgrade" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "7F16EAAE472DA338"
+			tasks: [{
+				id: "30F3EF5ECC5D1C7C"
+				item: { count: 1, id: "functionalstorage:obsidian_upgrade" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+	]
+}

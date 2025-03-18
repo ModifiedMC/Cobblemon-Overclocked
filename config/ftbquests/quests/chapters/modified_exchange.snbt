@@ -1,0 +1,42 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "modified_exchange"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "lightmanscurrency:item/coin_chest_bank_upgrade"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "5CE9470963026BD4"
+	images: [
+		{
+			height: 4.5d
+			image: "cobblemon:textures/gui/summary/portrait_background.png"
+			rotation: 0.0d
+			width: 4.5d
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			height: 1.25d
+			image: "modified:textures/ftbquests/divider.png"
+			rotation: 0.0d
+			width: 27.0d
+			x: 1.0d
+			y: 3.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		id: "150B944FBE8D3DA4"
+		tasks: [{
+			id: "61F6C88FF1CD24F1"
+			type: "custom"
+		}]
+		x: 1.0d
+		y: 0.0d
+	}]
+}

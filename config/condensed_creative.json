@@ -1,0 +1,15 @@
+{
+  "defaultCCGroups": true,
+  "defaultEntriesConfig": {
+    "enchantmentBooks": "SINGLE_GROUP",
+    "tippedArrows": "SINGLE_GROUP",
+    "potions": "SINGLE_GROUP"
+  },
+  "rotationPreview": true,
+  "entryRefreshButton": false,
+  "entryBackgroundColor": true,
+  "entryBorderColor": true,
+  "condensedEntryBorderColor": -1069634569,
+  "tagPreviewForEntries": true,
+  "debugIdentifiersForEntries": false
+}

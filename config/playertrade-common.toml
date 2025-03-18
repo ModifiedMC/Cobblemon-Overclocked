@@ -1,0 +1,5 @@
+["Player Trade Common Configs"]
+	#Whether the /playertrade <playername> command, which allows for infinite range trading, should work or not. (Server authoritative; Requires restart.)
+	"Enable Command Trading" = false
+	#Whether right-clicking another player with an empty hand should send a trade request (Server authoritative)
+	"Enable Empty Hand Trading" = true

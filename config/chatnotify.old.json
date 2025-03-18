@@ -1,0 +1,86 @@
+{
+  "version": 9,
+  "detectionMode": "HUD_KNOWN_TAGS",
+  "debugMode": "NONE",
+  "notifMode": "ALL_SINGLE_SOUND",
+  "restyleMode": "ALL_INSTANCES",
+  "sendMode": "PACKET",
+  "senderDetectionMode": "COMBINED",
+  "checkOwnMessages": true,
+  "soundSource": "PLAYERS",
+  "defaultColor": 16761856,
+  "defaultSound": {
+    "version": 1,
+    "enabled": true,
+    "id": "block.note_block.bell",
+    "volume": 1.0,
+    "pitch": 1.0
+  },
+  "prefixes": [
+    "/shout",
+    "/me",
+    "!"
+  ],
+  "notifications": [
+    {
+      "version": 6,
+      "enabled": true,
+      "checkOwnMode": "DEFER",
+      "exclusionEnabled": false,
+      "responseEnabled": false,
+      "sound": {
+        "version": 1,
+        "enabled": true,
+        "id": "block.note_block.bell",
+        "volume": 1.0,
+        "pitch": 1.0
+      },
+      "textStyle": {
+        "version": 2,
+        "doColor": false,
+        "color": 15532287,
+        "bold": "DISABLED",
+        "italic": "DISABLED",
+        "underlined": "DISABLED",
+        "strikethrough": "DISABLED",
+        "obfuscated": "DISABLED"
+      },
+      "replacementMsg": "",
+      "replacementMsgEnabled": false,
+      "statusBarMsg": "",
+      "statusBarMsgEnabled": false,
+      "titleMsg": "",
+      "titleMsgEnabled": false,
+      "toastMsg": "",
+      "toastMsgEnabled": false,
+      "triggers": [
+        {
+          "version": 4,
+          "enabled": true,
+          "string": "xImpavid",
+          "styleTarget": {
+            "version": 2,
+            "enabled": false,
+            "string": "",
+            "type": "NORMAL"
+          },
+          "type": "NORMAL"
+        },
+        {
+          "version": 4,
+          "enabled": true,
+          "string": "xImpavid",
+          "styleTarget": {
+            "version": 2,
+            "enabled": false,
+            "string": "",
+            "type": "NORMAL"
+          },
+          "type": "NORMAL"
+        }
+      ],
+      "exclusionTriggers": [],
+      "responseMessages": []
+    }
+  ]
+}

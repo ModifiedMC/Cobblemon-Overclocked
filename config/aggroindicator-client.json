@@ -1,0 +1,13 @@
+{
+  "renderAlertIcon": true,
+  "scaleWithMobSize": true,
+  "mobBlacklist": [
+    "minecraft:bat"
+  ],
+  "alertIconStyle": 0,
+  "renderRange": 24.0,
+  "xOffset": 0.0,
+  "yOffset": 10.0,
+  "alertIconSize": 30.0,
+  "alertColorHex": "0xFF6666"
+}

@@ -1,0 +1,577 @@
+{
+	autofocus_id: "67ED8996E37C1AE2"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create"
+	group: "3CDCB70E6C304444"
+	icon: {
+		id: "create:goggles"
+	}
+	id: "76D0719B466A15BF"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5AAC286CC05907CF"
+			tasks: [{
+				id: "322D952290479C18"
+				item: { count: 1, id: "create:wrench" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "40E62B65DFCA91D0"
+			tasks: [{
+				id: "42037C236710F0AE"
+				item: { count: 1, id: "create:goggles" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "67ED8996E37C1AE2"
+			tasks: [{
+				id: "7FF1F27DD54FE3B9"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			id: "0052FA7926653B67"
+			rewards: [{
+				count: 16
+				id: "0822C997CB5C9535"
+				item: {
+					count: 1
+					id: "create:andesite_alloy"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4E8B3CD48DEE4BC8"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			id: "3A25B3BC77AB54AE"
+			tasks: [{
+				id: "1E1E578DD8EE5FC8"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(create:casing)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			id: "7F13F30AA2DC7338"
+			tasks: [
+				{
+					id: "5A6B4455204DF82C"
+					item: { count: 1, id: "create:cogwheel" }
+					type: "item"
+				}
+				{
+					id: "089359CC0BC9FE64"
+					item: { count: 1, id: "create:large_cogwheel" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			id: "23CCB88D6B97B5E8"
+			tasks: [{
+				id: "4D24ECACB2F1D3CC"
+				item: { count: 1, id: "create:hand_crank" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			id: "03A73528FCD209B3"
+			tasks: [
+				{
+					id: "1CF4AFD0A3C7D3CF"
+					item: { count: 1, id: "create:water_wheel" }
+					type: "item"
+				}
+				{
+					id: "25E53BC13EE530C0"
+					item: { count: 1, id: "create:large_water_wheel" }
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			id: "48D71FE973995BDD"
+			tasks: [
+				{
+					id: "108BB4B75C2ED5DA"
+					item: { count: 1, id: "create:windmill_bearing" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6F82011A0A914E2E"
+					item: { count: 1, id: "create:white_sail" }
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			id: "6D4A4E12435D8388"
+			tasks: [
+				{
+					id: "1491E67E02B5558B"
+					item: { count: 1, id: "create:shaft" }
+					type: "item"
+				}
+				{
+					id: "618B6E1FF1B74E26"
+					item: { count: 1, id: "create:gearbox" }
+					type: "item"
+				}
+				{
+					id: "54353A4E1EAFCFF0"
+					item: { count: 1, id: "create:vertical_gearbox" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			id: "7191616A3BF198AB"
+			tasks: [{
+				id: "1680F1448B333F28"
+				item: { count: 1, id: "create:mechanical_press" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -6.5d
+		}
+		{
+			id: "2C380EF423920765"
+			tasks: [{
+				id: "541AA4356A53C108"
+				item: { count: 1, id: "create:mechanical_mixer" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			id: "1CC20CA21F92873F"
+			tasks: [{
+				id: "2D0D5FDA4C1576C9"
+				item: { count: 1, id: "create:mechanical_pump" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -6.5d
+		}
+		{
+			id: "14C9AC67DEDE3F11"
+			tasks: [{
+				id: "5930ECE569827006"
+				item: { count: 1, id: "create:mechanical_piston" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			id: "0C575E538EB812E1"
+			tasks: [{
+				id: "21C7E270F04B6F49"
+				item: { count: 1, id: "create:sticky_mechanical_piston" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -6.5d
+		}
+		{
+			id: "56088C8861CABDE7"
+			tasks: [{
+				id: "1186C241FF4A471B"
+				item: { count: 1, id: "create:mechanical_bearing" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.5d
+		}
+		{
+			id: "18179747C12A4F63"
+			tasks: [{
+				id: "67E082B7B7BF23F2"
+				item: { count: 1, id: "create:mechanical_drill" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -6.5d
+		}
+		{
+			id: "58342B97DB0F1D9D"
+			tasks: [{
+				id: "4DA059CF6482154D"
+				item: { count: 1, id: "create:mechanical_saw" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -6.5d
+		}
+		{
+			id: "74729922A59EC868"
+			tasks: [{
+				id: "1EDB712DC3ABECAC"
+				item: { count: 1, id: "create:mechanical_harvester" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -6.5d
+		}
+		{
+			id: "79AA137B7665B50F"
+			tasks: [{
+				id: "4A7DD132B2E5437F"
+				item: { count: 1, id: "create:mechanical_plough" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -6.5d
+		}
+		{
+			id: "62C77F836901A6A4"
+			tasks: [{
+				id: "55DE7F30FAA24134"
+				item: { count: 1, id: "create:mechanical_roller" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -6.5d
+		}
+		{
+			id: "1B19573DA2829864"
+			tasks: [{
+				id: "749FE7D8E236792F"
+				item: { count: 1, id: "create:mechanical_crafter" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			id: "701C05E611FF1DA1"
+			tasks: [{
+				id: "3FE63BFB4A63486D"
+				item: { count: 1, id: "create:mechanical_arm" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "30F596338568AB8F"
+			tasks: [{
+				id: "391DA573EF7A7CE9"
+				item: { count: 1, id: "create:basin" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -5.5d
+		}
+		{
+			id: "117717F1DF44D718"
+			tasks: [{
+				id: "32AA6C19637CA45C"
+				item: { count: 1, id: "create:brass_sheet" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			id: "7A35FFAC4A62D14E"
+			tasks: [{
+				id: "71DA92B467A0A67C"
+				item: { count: 1, id: "create:belt_connector" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -5.0d
+		}
+		{
+			id: "2FD1C6CDC07C7CE6"
+			tasks: [{
+				id: "01E745459C1DD939"
+				item: { count: 1, id: "create:steam_engine" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -6.5d
+		}
+		{
+			id: "071AF2BCBD90EDF9"
+			tasks: [{
+				id: "373EDE44D8BCC279"
+				item: { count: 1, id: "create:fluid_tank" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			id: "72404FC51265D522"
+			tasks: [{
+				id: "7836FEBC687E7011"
+				item: { count: 1, id: "create:fluid_pipe" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			id: "2A9C1CC3D3EE85E4"
+			tasks: [{
+				id: "4F4525C9096B5FEE"
+				item: { count: 1, id: "create:smart_fluid_pipe" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -4.0d
+		}
+		{
+			id: "74671368837C8BEF"
+			tasks: [{
+				id: "3EAC118DD960A089"
+				item: { count: 1, id: "create:fluid_valve" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -5.0d
+		}
+		{
+			id: "76C64ED6EEA5BACC"
+			tasks: [{
+				id: "7D1465410BBD0B62"
+				item: { count: 1, id: "create:empty_blaze_burner" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			id: "7DE53E4CA92D1EE0"
+			tasks: [{
+				id: "6E45FCD716F70F0F"
+				item: { count: 1, id: "create:blaze_burner" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			id: "408245E58D0D971E"
+			tasks: [{
+				id: "66C3AD54260A5A21"
+				item: { count: 1, id: "create:crushing_wheel" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			id: "5B0C9B5F6DC7FFC3"
+			tasks: [{
+				id: "183925FBAE2D9B51"
+				item: { count: 1, id: "create:steam_whistle" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -7.5d
+		}
+		{
+			id: "57FF1AA0E292742A"
+			tasks: [{
+				id: "55390AEA2602EB82"
+				item: { count: 1, id: "create:precision_mechanism" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			id: "30341CB2893E42FE"
+			tasks: [{
+				id: "7FE6CA16C9471C07"
+				item: { count: 1, id: "create:controls" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -3.5d
+		}
+		{
+			id: "29D36079D7AC08B3"
+			tasks: [{
+				id: "0DB0CA0007F120A3"
+				item: { count: 1, id: "create:railway_casing" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			id: "763DED6FC8D743D4"
+			tasks: [{
+				id: "25A88E0359603AD3"
+				item: { count: 1, id: "create:schedule" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -6.5d
+		}
+		{
+			id: "0B803A2A48182374"
+			tasks: [{
+				id: "21DAD46C60E8BAB8"
+				item: { count: 1, id: "create:track_station" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			id: "782066216D903FA0"
+			tasks: [{
+				id: "702934411708E659"
+				item: { count: 1, id: "create:track_signal" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -6.5d
+		}
+		{
+			id: "076D81D6093DCA69"
+			tasks: [{
+				id: "18C567E3F53C2FE4"
+				item: { count: 1, id: "create:track_observer" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -5.5d
+		}
+		{
+			id: "29EB6EF1B74AB406"
+			tasks: [{
+				id: "38AB6D151E0576B6"
+				item: { count: 1, id: "create:train_door" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -2.5d
+		}
+		{
+			id: "5013EB3B5221AD3F"
+			tasks: [{
+				id: "76F2CB4BD45A6ED4"
+				item: { count: 1, id: "create:train_trapdoor" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.5d
+		}
+		{
+			id: "4F04EA8E8B6FD22B"
+			tasks: [{
+				id: "1394C6B196E67026"
+				item: { count: 1, id: "create:track" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.5d
+		}
+		{
+			id: "59C193210CE6E000"
+			tasks: [{
+				id: "660C9DC5156ED9E3"
+				item: { count: 1, id: "create:deployer" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			id: "175872F64318E933"
+			tasks: [{
+				id: "28577B51F80D3F45"
+				item: { count: 1, id: "create:schematicannon" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			id: "755C9022C85FBA9F"
+			tasks: [{
+				id: "77FE859E63082C39"
+				item: { count: 1, id: "create:schematic_table" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "512EC85B881AF484"
+			tasks: [{
+				id: "55D5D37A62292432"
+				item: { count: 1, id: "create:schematic_and_quill" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "373946C079C2C161"
+			tasks: [{
+				id: "4F1BE92D1774C45C"
+				item: { count: 1, id: "create:empty_schematic" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "642B8BFFBC40AD22"
+			tasks: [{
+				id: "355401C77BC9B411"
+				item: { count: 1, id: "create:sand_paper" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.5d
+		}
+		{
+			id: "5D187F0215CD6073"
+			tasks: [{
+				id: "4C79F068282728B4"
+				item: { count: 1, id: "create:crafting_blueprint" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+	]
+}

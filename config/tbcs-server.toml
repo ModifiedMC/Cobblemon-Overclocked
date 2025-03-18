@@ -1,0 +1,22 @@
+[Trainers]
+	#━━━━━━━━━━
+	#List of paths, relative to the world directory, to search for trainer
+	#json files when (re)loading a world.
+	#
+	#Default: ["trainers", "../trainers", "../../trainers"]
+	trainerPaths = ["trainers", "../trainers", "../../trainers"]
+	#━━━━━━━━━━
+	#List of mod ids from mods that also rely on RCTApi to define trainers.
+	#Copies of trainers from the listed mods will also be registered to TBCS.
+	#
+	#Default: ["rctmod"]
+	trainerMods = ["rctmod"]
+
+[Commands]
+	#━━━━━━━━━━
+	#Permission level of win commands.
+	#
+	#Default: 2
+	# Default: 2
+	# Range: 1 ~ 4
+	winCommandsPermission = 2
