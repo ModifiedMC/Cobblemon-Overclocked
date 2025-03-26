@@ -1,0 +1,13 @@
+name = "Forgified Fabric API"
+filename = "forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dff5120f51e3154151fe7c0acc4c56bd154f46de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6289153
+project-id = 889079

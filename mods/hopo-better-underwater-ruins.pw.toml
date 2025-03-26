@@ -1,0 +1,13 @@
+name = "Hopo Better Underwater Ruins"
+filename = "HopoBetterUnderwaterRuins-[1.21.1-1.21.3]-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed9ef869194fd54921062b1d5e9c388815ae1b1b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5840935
+project-id = 632622

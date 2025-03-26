@@ -1,0 +1,13 @@
+name = "DarkDeath - RPG Kill Command"
+filename = "darkdeath-neoforge-1.21-1.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a0fff09d7cf711090c8cad806b48f908c9f90f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5489089
+project-id = 924487

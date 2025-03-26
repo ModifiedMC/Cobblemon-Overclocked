@@ -1,0 +1,13 @@
+name = "Cobblemon Classic Grass Pack"
+filename = "Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0943d03bd4a23439a10a478f1a00ae3a390bfad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5971658
+project-id = 1024881

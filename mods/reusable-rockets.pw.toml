@@ -1,0 +1,13 @@
+name = "Reusable Rockets"
+filename = "reusable-rockets-neoforge-1.21.1-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aaa60b50208985efbb5bfb58812ddc30f294a6dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5609078
+project-id = 414249

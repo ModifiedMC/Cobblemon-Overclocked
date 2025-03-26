@@ -1,0 +1,13 @@
+name = "Cardiac"
+filename = "Cardiac-NEOFORGE-0.5.3.3+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af119e33c3230d42422504090aa09ff0ffcbcc33"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5901845
+project-id = 968266

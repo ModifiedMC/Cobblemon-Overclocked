@@ -1,0 +1,13 @@
+name = "Just Player Heads"
+filename = "justplayerheads-1.21.1-4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "830ef0cd60b5b2176e4e68a2caf10ea62bcf12e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6185626
+project-id = 303441

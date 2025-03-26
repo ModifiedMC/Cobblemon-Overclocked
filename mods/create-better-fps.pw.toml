@@ -1,0 +1,13 @@
+name = "Create Better FPS"
+filename = "Ponder-NeoForge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a47c7486bf83703107bee985499cd9efc3fa574"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6299900
+project-id = 1217518

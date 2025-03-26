@@ -1,0 +1,13 @@
+name = "Better With Minecolonies"
+filename = "betterwithminecolonies-1.20.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f351d20a398936a9bb76276e1ade5391dcd06788"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5768073
+project-id = 344906

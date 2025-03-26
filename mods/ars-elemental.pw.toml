@@ -1,0 +1,13 @@
+name = "Ars Elemental"
+filename = "ars_elemental-1.21.1-0.7.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ced2331de33b81cb958f86879440427c7f1f9c9d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6302725
+project-id = 561470

@@ -1,0 +1,13 @@
+name = "Handcrafted"
+filename = "handcrafted-neoforge-1.21.1-4.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8008013477cc688f14f968fda1e9aa7d812578bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5617252
+project-id = 538214

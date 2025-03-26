@@ -1,0 +1,13 @@
+name = "Iron's Gems 'n Jewelry"
+filename = "irons_jewelry-1.21.1-1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2e543652a0fa24b126d854d9a66778da7640520"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6236597
+project-id = 1101111

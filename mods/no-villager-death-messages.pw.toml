@@ -1,0 +1,13 @@
+name = "No Villager Death Messages"
+filename = "novillagerdm-1.21.1-6.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "284694712ae9c5a17dfff4c0830048574996a229"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5812197
+project-id = 451682

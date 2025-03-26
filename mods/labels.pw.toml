@@ -1,0 +1,13 @@
+name = "Storage Labels"
+filename = "labels-1.21-2.0.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c171dfada42c38d8d5d4664e951140190ca8f925"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6274087
+project-id = 688223

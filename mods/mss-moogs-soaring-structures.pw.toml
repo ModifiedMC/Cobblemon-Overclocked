@@ -1,0 +1,13 @@
+name = "MSS - Moog's Soaring Structures"
+filename = "mss-1.2.8-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f2f23004adeedd170bc74e02b800dcaf4c7cdab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6251658
+project-id = 1040210

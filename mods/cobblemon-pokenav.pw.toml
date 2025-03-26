@@ -1,0 +1,13 @@
+name = "Cobblemon Pokenav"
+filename = "cobblenav-neoforge-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "468613e800763339036e1c84136fc851c6eb2b12"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6227082
+project-id = 976014

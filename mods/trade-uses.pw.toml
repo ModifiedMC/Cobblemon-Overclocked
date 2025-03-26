@@ -1,0 +1,13 @@
+name = "Trade Uses"
+filename = "tradeuses-1.2.5-1.21-NEOFORGE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae73f6ef5b5762985c66775b3c830ad761671a4b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5489783
+project-id = 902314

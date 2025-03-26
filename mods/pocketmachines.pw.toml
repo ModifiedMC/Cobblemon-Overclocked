@@ -1,0 +1,13 @@
+name = "Simple Pocket Machines"
+filename = "SimplePocketMachines-NeoForge-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "597deaaf3332f981601b8f71743d0e32f6c9661d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5935885
+project-id = 1090864

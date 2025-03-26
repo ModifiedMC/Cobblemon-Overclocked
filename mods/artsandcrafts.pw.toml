@@ -1,0 +1,13 @@
+name = "Arts & Crafts"
+filename = "arts_and_crafts-neoforge-1.21.1-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3af98530250f5cbf68ba930c57d91e03076a7657"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6266035
+project-id = 1034791

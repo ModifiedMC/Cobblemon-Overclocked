@@ -1,0 +1,13 @@
+name = "Macaw's Fences and Walls"
+filename = "mcw-fences-1.1.2-mc1.21.1neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a339b168ac73c343c6d8fa7bb0710bc381fb70d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5635646
+project-id = 453925

@@ -1,0 +1,13 @@
+name = "DarkSleep - RPG Sleep Percentage"
+filename = "darksleep-neoforge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "facb182c2a25c5e9d26f99286ba1c5f58080772c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5741536
+project-id = 1106281

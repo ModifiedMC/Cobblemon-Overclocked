@@ -1,0 +1,13 @@
+name = "Cobblemon Move Inspector"
+filename = "CobblemonMoveInspector-neoforge-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fa001e09b674af3a544027dfcee86d8c6a491e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6041812
+project-id = 1022036

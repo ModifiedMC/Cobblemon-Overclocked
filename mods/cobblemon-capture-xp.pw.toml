@@ -1,0 +1,13 @@
+name = "Cobblemon Capture XP"
+filename = "capture-xp-1.6-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d643e278e119922c0691202762075ad114b4fa0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6046938
+project-id = 901059
