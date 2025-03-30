@@ -1,0 +1,13 @@
+name = "Pyrotechnic Elytra"
+filename = "pyrotechnic-elytra-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82267ff57e9ac9bdedb7875660056dc1c3c205ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5770248
+project-id = 968105

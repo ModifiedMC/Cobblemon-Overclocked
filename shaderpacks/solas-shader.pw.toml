@@ -1,0 +1,13 @@
+name = "Solas Shader"
+filename = "Solas Shader V2.7.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "3581e7ecade3e07799c4f43790cb205b34bd2b1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6307130
+project-id = 678384

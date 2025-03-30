@@ -85,6 +85,7 @@
 					type: "random"
 				}
 				{
+					count: 25
 					id: "3963DBDC7590912D"
 					item: {
 						count: 1
@@ -121,6 +122,7 @@
 					type: "random"
 				}
 				{
+					count: 10
 					id: "5ADD960BE6686E60"
 					item: {
 						count: 1

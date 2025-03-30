@@ -1,0 +1,13 @@
+name = "Level Text Fix"
+filename = "leveltextfix-neoforge-1.21.1-21.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ef5f9eb49e6dc2e711057d802b039e5ec9ce356"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5824135
+project-id = 840817

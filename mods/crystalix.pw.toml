@@ -1,0 +1,13 @@
+name = "Crystalix"
+filename = "crystalix-1.2.2_neoforge_1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8dc7e4d0223e7d0c46d1921e0911424c6aecde32"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6197436
+project-id = 1187033

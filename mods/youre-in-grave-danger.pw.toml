@@ -1,0 +1,13 @@
+name = "You're in Grave Danger"
+filename = "youre-in-grave-danger-neoforge-2.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dfa0e00a5d32238f653f4909c2b94b626f08c446"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6356055
+project-id = 544912

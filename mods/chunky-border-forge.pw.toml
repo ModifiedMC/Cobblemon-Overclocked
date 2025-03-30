@@ -1,0 +1,13 @@
+name = "Chunky Border (Forge/NeoForge)"
+filename = "ChunkyBorder-1.2.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1c53d6e13100658d4dc2b2e33a650162748c4ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5437062
+project-id = 974992

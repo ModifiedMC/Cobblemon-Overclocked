@@ -1,0 +1,13 @@
+name = "CoolCatLib"
+filename = "coolcatlib-neoforge-1.21-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57bf3b68022321bbe51f74a815e032cda5ce92c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6320800
+project-id = 916525

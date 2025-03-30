@@ -13,14 +13,24 @@
 		{
 			dependencies: ["6D434229693AAB78"]
 			id: "3E06C455AF761E60"
-			rewards: [{
-				id: "795A9995868C2E65"
-				item: {
-					count: 1
-					id: "cobblemon:red_mint_seeds"
+			rewards: [
+				{
+					id: "795A9995868C2E65"
+					item: {
+						count: 1
+						id: "cobblemon:red_mint_seeds"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "44A852360149895B"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1670BAC5A16C7BD7"
 				item: { count: 1, id: "cobblemon:red_mint_leaf" }
@@ -32,14 +42,24 @@
 		{
 			dependencies: ["6D434229693AAB78"]
 			id: "5F181FC004426355"
-			rewards: [{
-				id: "73C676130D0BD6E2"
-				item: {
-					count: 1
-					id: "cobblemon:blue_mint_seeds"
+			rewards: [
+				{
+					id: "73C676130D0BD6E2"
+					item: {
+						count: 1
+						id: "cobblemon:blue_mint_seeds"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "01BDEFB5D400AD4C"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6B42A0C52BAAC41C"
 				item: { count: 1, id: "cobblemon:blue_mint_leaf" }
@@ -51,14 +71,24 @@
 		{
 			dependencies: ["6D434229693AAB78"]
 			id: "78475D3F82887018"
-			rewards: [{
-				id: "59C7622424130BD0"
-				item: {
-					count: 1
-					id: "cobblemon:cyan_mint_seeds"
+			rewards: [
+				{
+					id: "59C7622424130BD0"
+					item: {
+						count: 1
+						id: "cobblemon:cyan_mint_seeds"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "6F313BDFA762EF9D"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "49F842E41064AC94"
 				item: { count: 1, id: "cobblemon:cyan_mint_leaf" }
@@ -70,14 +100,24 @@
 		{
 			dependencies: ["6D434229693AAB78"]
 			id: "03EF866E75AAAF42"
-			rewards: [{
-				id: "0983813E21A1BBCD"
-				item: {
-					count: 1
-					id: "cobblemon:pink_mint_seeds"
+			rewards: [
+				{
+					id: "0983813E21A1BBCD"
+					item: {
+						count: 1
+						id: "cobblemon:pink_mint_seeds"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "1678CEF942C5C05F"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4935B04F01292228"
 				item: { count: 1, id: "cobblemon:pink_mint_leaf" }
@@ -89,14 +129,24 @@
 		{
 			dependencies: ["6D434229693AAB78"]
 			id: "747DED760AF00DFC"
-			rewards: [{
-				id: "17AB3EA9F0E73F67"
-				item: {
-					count: 1
-					id: "cobblemon:green_mint_seeds"
+			rewards: [
+				{
+					id: "17AB3EA9F0E73F67"
+					item: {
+						count: 1
+						id: "cobblemon:green_mint_seeds"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "3B664D5A1D4DA79C"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "17434190114242EA"
 				item: { count: 1, id: "cobblemon:green_mint_leaf" }
@@ -108,14 +158,24 @@
 		{
 			dependencies: ["6D434229693AAB78"]
 			id: "64BF31C3D18F6404"
-			rewards: [{
-				id: "053B316E2309DF50"
-				item: {
-					count: 1
-					id: "cobblemon:white_mint_seeds"
+			rewards: [
+				{
+					id: "053B316E2309DF50"
+					item: {
+						count: 1
+						id: "cobblemon:white_mint_seeds"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "2474F8D066E89530"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "66E6990496FEB0CB"
 				item: { count: 1, id: "cobblemon:white_mint_leaf" }
@@ -126,6 +186,14 @@
 		}
 		{
 			id: "66DD4EBB58D0E22A"
+			rewards: [{
+				id: "6042E9BAEEB9B6FB"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1B030DC16A223EA7"
 				item: { count: 1, id: "cobblemon:oran_berry" }
@@ -178,6 +246,14 @@
 		}
 		{
 			id: "7BF009042089D88E"
+			rewards: [{
+				id: "585FB8B45DE01A35"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "699A105505C21333"
 				item: { count: 1, id: "cobblemon:lonely_mint" }
@@ -188,6 +264,14 @@
 		}
 		{
 			id: "6A395E40D1C7FEA4"
+			rewards: [{
+				id: "563DD94489CEFF7D"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0981206F6A3E2124"
 				item: { count: 1, id: "cobblemon:serious_mint" }
@@ -199,9 +283,12 @@
 		{
 			id: "2366DA4610BDF5F7"
 			rewards: [{
-				id: "2CE517B1E09115A4"
-				type: "xp"
-				xp: 50
+				id: "66849749DB667110"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
 			}]
 			size: 3.0d
 			tasks: [{
@@ -233,15 +320,25 @@
 		{
 			dependencies: ["44DEDD13A522DC22"]
 			id: "3DE81858A2C537E6"
-			rewards: [{
-				count: 3
-				id: "7B51E4998F0282A5"
-				item: {
-					count: 1
-					id: "cobblemon:red_apricorn_seed"
+			rewards: [
+				{
+					count: 3
+					id: "7B51E4998F0282A5"
+					item: {
+						count: 1
+						id: "cobblemon:red_apricorn_seed"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "0D64CE76247F83D9"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6A29E1099036AF0C"
 				item: { count: 1, id: "cobblemon:red_apricorn" }
@@ -253,15 +350,25 @@
 		{
 			dependencies: ["44DEDD13A522DC22"]
 			id: "4C2718C3BAE8DB17"
-			rewards: [{
-				count: 3
-				id: "0670B80B0E6E92CB"
-				item: {
-					count: 1
-					id: "cobblemon:yellow_apricorn_seed"
+			rewards: [
+				{
+					count: 3
+					id: "0670B80B0E6E92CB"
+					item: {
+						count: 1
+						id: "cobblemon:yellow_apricorn_seed"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "798B5FB7908908A0"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "52DDA3764E80997A"
 				item: { count: 1, id: "cobblemon:yellow_apricorn" }
@@ -273,15 +380,25 @@
 		{
 			dependencies: ["44DEDD13A522DC22"]
 			id: "767B5940CE5BDEF9"
-			rewards: [{
-				count: 3
-				id: "22C16F547EFE959E"
-				item: {
-					count: 1
-					id: "cobblemon:green_apricorn_seed"
+			rewards: [
+				{
+					count: 3
+					id: "22C16F547EFE959E"
+					item: {
+						count: 1
+						id: "cobblemon:green_apricorn_seed"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "3F29A2D3E8CDA7FB"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5630176BCF9EB2FC"
 				item: { count: 1, id: "cobblemon:green_apricorn" }
@@ -293,15 +410,25 @@
 		{
 			dependencies: ["44DEDD13A522DC22"]
 			id: "78D240025EA69723"
-			rewards: [{
-				count: 3
-				id: "3A20EC3728526C42"
-				item: {
-					count: 1
-					id: "cobblemon:blue_apricorn_seed"
+			rewards: [
+				{
+					count: 3
+					id: "3A20EC3728526C42"
+					item: {
+						count: 1
+						id: "cobblemon:blue_apricorn_seed"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "57A106C024E7D276"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "44484BF5F8B44D5F"
 				item: { count: 1, id: "cobblemon:blue_apricorn" }
@@ -313,15 +440,25 @@
 		{
 			dependencies: ["44DEDD13A522DC22"]
 			id: "450758EB6B91E9B2"
-			rewards: [{
-				count: 3
-				id: "5B3122558F928E45"
-				item: {
-					count: 1
-					id: "cobblemon:pink_apricorn_seed"
+			rewards: [
+				{
+					count: 3
+					id: "5B3122558F928E45"
+					item: {
+						count: 1
+						id: "cobblemon:pink_apricorn_seed"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "2CC2A34EFEC808A6"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0C7F421CB4FC17C3"
 				item: { count: 1, id: "cobblemon:pink_apricorn" }
@@ -333,15 +470,25 @@
 		{
 			dependencies: ["44DEDD13A522DC22"]
 			id: "5727126871E863AB"
-			rewards: [{
-				count: 3
-				id: "390E68C5D5F3BA51"
-				item: {
-					count: 1
-					id: "cobblemon:black_apricorn_seed"
+			rewards: [
+				{
+					count: 3
+					id: "390E68C5D5F3BA51"
+					item: {
+						count: 1
+						id: "cobblemon:black_apricorn_seed"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "6A667A7B6600A6B5"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "51A15DB9401F7643"
 				item: { count: 1, id: "cobblemon:black_apricorn" }
@@ -353,15 +500,25 @@
 		{
 			dependencies: ["44DEDD13A522DC22"]
 			id: "331537B9A19728C6"
-			rewards: [{
-				count: 3
-				id: "07743A28BBAF0089"
-				item: {
-					count: 1
-					id: "cobblemon:white_apricorn_seed"
+			rewards: [
+				{
+					count: 3
+					id: "07743A28BBAF0089"
+					item: {
+						count: 1
+						id: "cobblemon:white_apricorn_seed"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "175FAFA792E5C195"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "021B66B973B9FC53"
 				item: { count: 1, id: "cobblemon:white_apricorn" }
@@ -372,6 +529,14 @@
 		}
 		{
 			id: "34ED6C315089450B"
+			rewards: [{
+				id: "0A49AC091EA8DD58"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "382A4EEE50701B34"
 				item: { count: 1, id: "cobblemon:cheri_berry" }
@@ -382,6 +547,14 @@
 		}
 		{
 			id: "1EECFD384F3A607E"
+			rewards: [{
+				id: "33A944D15E5D379C"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "40473D1E4830B0B1"
 				item: { count: 1, id: "cobblemon:mulch_base" }
@@ -393,6 +566,14 @@
 		{
 			dependencies: ["1EECFD384F3A607E"]
 			id: "511C1070B209F039"
+			rewards: [{
+				id: "3C97CC93B845928A"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5AC5500396CB5A3A"
 				item: { count: 1, id: "cobblemon:growth_mulch" }
@@ -404,6 +585,14 @@
 		{
 			dependencies: ["1EECFD384F3A607E"]
 			id: "45639CC8CAD89C62"
+			rewards: [{
+				id: "700364F7461CE27C"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4A66FC95722A5890"
 				item: { count: 1, id: "cobblemon:rich_mulch" }
@@ -415,6 +604,14 @@
 		{
 			dependencies: ["1EECFD384F3A607E"]
 			id: "48079BFAA1931FE8"
+			rewards: [{
+				id: "06601214EE436FA2"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7A634E2898388855"
 				item: { count: 1, id: "cobblemon:surprise_mulch" }
@@ -426,6 +623,14 @@
 		{
 			dependencies: ["1EECFD384F3A607E"]
 			id: "6648F7D5D0D562B0"
+			rewards: [{
+				id: "1B05B1A698449F9D"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6499D80B528B9553"
 				item: { count: 1, id: "cobblemon:loamy_mulch" }
@@ -437,6 +642,14 @@
 		{
 			dependencies: ["1EECFD384F3A607E"]
 			id: "3C2870B5D25C260E"
+			rewards: [{
+				id: "41AFB6B8517CB937"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0892F15371C1AD31"
 				item: { count: 1, id: "cobblemon:coarse_mulch" }
@@ -448,6 +661,14 @@
 		{
 			dependencies: ["1EECFD384F3A607E"]
 			id: "3AC234AB2A9B559E"
+			rewards: [{
+				id: "13F8EB8B95AB1F20"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5C9E44B3AF5B4849"
 				item: { count: 1, id: "cobblemon:peat_mulch" }
@@ -459,6 +680,14 @@
 		{
 			dependencies: ["1EECFD384F3A607E"]
 			id: "333DA89ED1F62FA0"
+			rewards: [{
+				id: "18EB704412B3B30F"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3F873EBB6B6B808D"
 				item: { count: 1, id: "cobblemon:humid_mulch" }
@@ -470,6 +699,14 @@
 		{
 			dependencies: ["1EECFD384F3A607E"]
 			id: "2272AA0870D1C4FC"
+			rewards: [{
+				id: "6AF67A4BCAB37800"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "62F039328A284288"
 				item: { count: 1, id: "cobblemon:sandy_mulch" }
@@ -481,12 +718,22 @@
 		{
 			dependencies: ["44DEDD13A522DC22"]
 			id: "30419A82959384E7"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4B58B48BAC15FEBE"
-				table_id: 1372949679785449849L
-				type: "choice"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4B58B48BAC15FEBE"
+					table_id: 1372949679785449849L
+					type: "choice"
+				}
+				{
+					id: "2EAFA60AEB0DE0B5"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4DF8845F405A6375"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:apricorn_sprouts)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -497,6 +744,14 @@
 		}
 		{
 			id: "50277EE6B6C87232"
+			rewards: [{
+				id: "1D13D718882547D0"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "74E7A05F9A5CD4E6"
 				item: { count: 1, id: "cobblemon:adamant_mint" }
@@ -507,6 +762,14 @@
 		}
 		{
 			id: "2E3C63F2D30A475A"
+			rewards: [{
+				id: "717ED85428384F30"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "77670199A0D0F8DD"
 				item: { count: 1, id: "cobblemon:naughty_mint" }
@@ -517,6 +780,14 @@
 		}
 		{
 			id: "088C7547BD7DE90A"
+			rewards: [{
+				id: "00F6F61B0EBE09EB"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "747CE61568928F2F"
 				item: { count: 1, id: "cobblemon:brave_mint" }
@@ -527,6 +798,14 @@
 		}
 		{
 			id: "662644AB030FD0E8"
+			rewards: [{
+				id: "407FB3C6CC3D5E6E"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "12C97D20D3BA5B3A"
 				item: { count: 1, id: "cobblemon:bold_mint" }
@@ -537,6 +816,14 @@
 		}
 		{
 			id: "51AB4942271B075B"
+			rewards: [{
+				id: "6EBCEBBDDC7A3AD8"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "649749A2231FBD58"
 				item: { count: 1, id: "cobblemon:impish_mint" }
@@ -547,6 +834,14 @@
 		}
 		{
 			id: "5A11D30FFAB5F305"
+			rewards: [{
+				id: "481587109FF584A5"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2622D0D52611CE25"
 				item: { count: 1, id: "cobblemon:lax_mint" }
@@ -557,6 +852,14 @@
 		}
 		{
 			id: "02215A92BDD214FF"
+			rewards: [{
+				id: "78EB18EE90C4CACB"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "59316DE59E163E07"
 				item: { count: 1, id: "cobblemon:relaxed_mint" }
@@ -567,6 +870,14 @@
 		}
 		{
 			id: "009B8E9C9F0F0C42"
+			rewards: [{
+				id: "308A1E2B5C750612"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2236E256A46AEF07"
 				item: { count: 1, id: "cobblemon:modest_mint" }
@@ -577,6 +888,14 @@
 		}
 		{
 			id: "30BE785B59929F65"
+			rewards: [{
+				id: "6B504CEF22DCBBB4"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "69B64217B697CB81"
 				item: { count: 1, id: "cobblemon:mild_mint" }
@@ -587,6 +906,14 @@
 		}
 		{
 			id: "17861AFE4A970D76"
+			rewards: [{
+				id: "125112DDF4A17FAB"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "78BA42843636BA6B"
 				item: { count: 1, id: "cobblemon:rash_mint" }
@@ -597,6 +924,14 @@
 		}
 		{
 			id: "3C8A1662DFB2E7F4"
+			rewards: [{
+				id: "72A39DC58E55C864"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "26917CE6CF8E8983"
 				item: { count: 1, id: "cobblemon:quiet_mint" }
@@ -607,6 +942,14 @@
 		}
 		{
 			id: "5516C8A69FF3E564"
+			rewards: [{
+				id: "4B5F56E6A9AEBBBA"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "76522ABFCC4A3939"
 				item: { count: 1, id: "cobblemon:calm_mint" }
@@ -617,6 +960,14 @@
 		}
 		{
 			id: "4B3805C1369BC30B"
+			rewards: [{
+				id: "1F2509713210C9D5"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "634D0946AF853D2A"
 				item: { count: 1, id: "cobblemon:timid_mint" }
@@ -627,6 +978,14 @@
 		}
 		{
 			id: "57EFD5782E083F85"
+			rewards: [{
+				id: "4A2EECCFA8952629"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "436CABB148E90884"
 				item: { count: 1, id: "cobblemon:gentle_mint" }
@@ -637,6 +996,14 @@
 		}
 		{
 			id: "0B365D156A2AF58C"
+			rewards: [{
+				id: "67A2C14CF5FC2FB1"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "41EC0FB0A19A74C9"
 				item: { count: 1, id: "cobblemon:hasty_mint" }
@@ -647,6 +1014,14 @@
 		}
 		{
 			id: "7699B5B5D2E0E9AD"
+			rewards: [{
+				id: "3712C23A6EB28F69"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "491D173E77C3E383"
 				item: { count: 1, id: "cobblemon:careful_mint" }
@@ -657,6 +1032,14 @@
 		}
 		{
 			id: "67AB8EB88F855BB4"
+			rewards: [{
+				id: "289922CF7A7F0211"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2F5BA2A33274FA67"
 				item: { count: 1, id: "cobblemon:sassy_mint" }
@@ -667,6 +1050,14 @@
 		}
 		{
 			id: "18AE0E5FFC99BDFF"
+			rewards: [{
+				id: "00B2571E676B56E9"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2EF34A5D24C19D7C"
 				item: { count: 1, id: "cobblemon:jolly_mint" }
@@ -677,6 +1068,14 @@
 		}
 		{
 			id: "6C390213B22CBDE3"
+			rewards: [{
+				id: "2131FE9E5ADFEDE8"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "286384E1949BE9C2"
 				item: { count: 1, id: "cobblemon:naive_mint" }

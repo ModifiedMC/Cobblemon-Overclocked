@@ -1,0 +1,13 @@
+name = "Refined Storage - Curios Integration"
+filename = "refinedstorage-curios-integration-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "410fcfeb37917eca553ef4db6ba3c5a239161268"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6360514
+project-id = 1230729

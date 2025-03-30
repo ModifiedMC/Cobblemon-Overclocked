@@ -1,0 +1,13 @@
+name = "CobblemonExtras"
+filename = "CobblemonExtras-neoforge-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TXoSDUCh/versions/DqRLn5K5/CobblemonExtras-neoforge-1.4.2.jar"
+hash-format = "sha512"
+hash = "ede522b2767b7bb4f5a9a3a41f2bfacb570e53bcf898d626dfa542140f77c71cd8dc846ac200e53f82a1066d9cad98d09a30bde917c8d6cae7619c0411becb93"
+
+[update]
+[update.modrinth]
+mod-id = "TXoSDUCh"
+version = "DqRLn5K5"

@@ -1,0 +1,107 @@
+{
+  "debug": false,
+  "breakStreakOnForm": [
+    "capture",
+    "ko",
+    "resurrection",
+    "fish"
+  ],
+  "formOverrides": [
+    {
+      "fromSpecies": "cobblemon:aegislash",
+      "fromForm": "Blade",
+      "toForm": "Normal",
+      "toSpecies": "cobblemon:aegislash"
+    },
+    {
+      "fromSpecies": "cobblemon:minior",
+      "fromForm": "Meteor",
+      "toForm": "Normal",
+      "toSpecies": "cobblemon:minior"
+    },
+    {
+      "fromSpecies": "cobblemon:eiscue",
+      "fromForm": "Noice-Face",
+      "toForm": "Normal",
+      "toSpecies": "cobblemon:eiscue"
+    },
+    {
+      "fromSpecies": "cobblemon:morpeko",
+      "fromForm": "Hangry",
+      "toForm": "Normal",
+      "toSpecies": "cobblemon:morpeko"
+    },
+    {
+      "fromSpecies": "cobblemon:darmanitan",
+      "fromForm": "Zen",
+      "toForm": "Normal",
+      "toSpecies": "cobblemon:darmanitan"
+    },
+    {
+      "fromSpecies": "cobblemon:darmanitan",
+      "fromForm": "Galar-Zen",
+      "toForm": "Galar",
+      "toSpecies": "cobblemon:darmanitan"
+    },
+    {
+      "fromSpecies": "cobblemon:palafin",
+      "fromForm": "Hero",
+      "toForm": "Normal",
+      "toSpecies": "cobblemon:palafin"
+    },
+    {
+      "fromSpecies": "cobblemon:wishiwashi",
+      "fromForm": "School",
+      "toForm": "Normal",
+      "toSpecies": "cobblemon:wishiwashi"
+    },
+    {
+      "fromSpecies": "cobblemon:giratina",
+      "fromForm": "Origin",
+      "toForm": "Normal",
+      "toSpecies": "cobblemon:giratina"
+    },
+    {
+      "fromSpecies": "cobblemon:shaymin",
+      "fromForm": "Sky",
+      "toForm": "Normal",
+      "toSpecies": "cobblemon:shaymin"
+    },
+    {
+      "fromSpecies": "cobblemon:hoopa",
+      "fromForm": "Unbound",
+      "toForm": "Normal",
+      "toSpecies": "cobblemon:hoopa"
+    },
+    {
+      "fromSpecies": "cobblemon:meloetta",
+      "fromForm": "Pirouette",
+      "toForm": "Normal",
+      "toSpecies": "cobblemon:meloetta"
+    },
+    {
+      "fromSpecies": "cobblemon:necrozma",
+      "fromForm": "Dusk-Mane",
+      "toForm": "Normal",
+      "toSpecies": "cobblemon:necrozma"
+    },
+    {
+      "fromSpecies": "cobblemon:necrozma",
+      "fromForm": "Dawn-Wings",
+      "toForm": "Normal",
+      "toSpecies": "cobblemon:necrozma"
+    },
+    {
+      "fromSpecies": "cobblemon:necrozma",
+      "fromForm": "Ultra",
+      "toForm": "Normal",
+      "toSpecies": "cobblemon:necrozma"
+    },
+    {
+      "fromSpecies": "cobblemon:eternatus",
+      "fromForm": "Eternamax",
+      "toForm": "Normal",
+      "toSpecies": "cobblemon:eternatus"
+    }
+  ]
+}

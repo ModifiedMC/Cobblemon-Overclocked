@@ -1,0 +1,13 @@
+name = "NBT Autocomplete"
+filename = "NBTac-NEOFORGE-1.21.1-1.3.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1cf9b213218103d6a1249b5db49b42fc389fb7dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5957930
+project-id = 813557

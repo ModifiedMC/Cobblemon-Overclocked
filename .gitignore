@@ -1,0 +1,4 @@
+.env
+build
+shaderpacks/*.zip
+*.zip

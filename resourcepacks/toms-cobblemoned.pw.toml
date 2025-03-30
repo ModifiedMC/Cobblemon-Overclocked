@@ -1,0 +1,13 @@
+name = "Tom's Cobblemoned"
+filename = "Tom's Cobblemoned.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b129eea004df92cdaa23e33f777453713121a3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6268982
+project-id = 1214115

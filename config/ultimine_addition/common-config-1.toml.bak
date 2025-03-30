@@ -15,6 +15,9 @@
 	# Default: 2
 	# Range: 1 ~ 600
 	challenge_validator = 2
+	#Specifies the types of shapes that players are not allowed to use.
+	#Shapes IDs: [shapeless, small_tunnel, small_square, large_tunnel, mining_tunnel, escape_tunnel]
+	blacklisted_shapes = []
 
 [Trades]
 	#Here, you can change which level the Mining Skill Card appears in villager trades.

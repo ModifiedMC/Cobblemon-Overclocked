@@ -1,0 +1,13 @@
+name = "No Farmland Trample"
+filename = "notrample-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "06eece95e98b58ca3b7b3e6de59d67e920fc331c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5881107
+project-id = 914018

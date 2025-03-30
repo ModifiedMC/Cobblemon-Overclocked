@@ -1,0 +1,13 @@
+name = "Cobblemon Poképedia: Cobblepedia"
+filename = "Cobblepedia-NeoForge-0.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c164a0128e13d5297aa6a923c3826ef39da41ff2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6139845
+project-id = 850946

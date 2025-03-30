@@ -74,22 +74,22 @@
 		#The amount of item storage added by the Item Capacity Upgrade (Iron)
 		#Range: 1 -> 6400
 		#Default: 192
-		itemCapacity1=192
+		itemCapacity1=128
 		
 		#The amount of item storage added by the Item Capacity Upgrade (Gold)
 		#Range: 2 -> 6400
 		#Default: 384
-		itemCapacity2=384
+		itemCapacity2=600
 		
 		#The amount of item storage added by the Item Capacity Upgrade (Diamond)
 		#Range: 3 -> 6400
 		#Default: 576
-		itemCapacity3=576
+		itemCapacity3=2400
 		
 		#The amount of item storage added by the Item Capacity Upgrade (Netherite)
 		#Range: 4 -> 6400
 		#Default: 1152
-		itemCapacity4=1152
+		itemCapacity4=6400
 		
 	#Interaction Upgrade
 	[upgrades.interaction_upgrade]

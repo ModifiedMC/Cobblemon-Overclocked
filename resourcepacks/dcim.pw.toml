@@ -1,0 +1,13 @@
+name = "datboiwill's Cobblemon Icons for Maps"
+filename = "dCIM1.0.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89439d07db1f04674affa639c76a1012c88c85bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6202857
+project-id = 1125958

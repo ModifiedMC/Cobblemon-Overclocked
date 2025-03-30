@@ -1,0 +1,13 @@
+name = "Cyanide"
+filename = "cyanide-neoforge-1.21.1-5.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d224ea5adcf1002a07bca4e19f461a9b470b2bb6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5782674
+project-id = 541676

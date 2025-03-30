@@ -1,0 +1,13 @@
+name = "Myths and Legends [Cobblemon Sidemod]"
+filename = "MythsAndLegends-neoforge-1.7.2-Hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76e27ed22d70111de2baf8f0da110fbd6dd6ad21"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6186686
+project-id = 1037337

@@ -41,7 +41,7 @@
 	chapter.550C0D9C4C04DC2F.title: "&3Basic Tools"
 	chapter.55606C3E0A76E6B8.title: "&3Lightmans &eCurrency"
 	chapter.55A09894E962312A.title: "&3Held Items"
-	chapter.5CE9470963026BD4.title: "&8The Modified Exchange"
+	chapter.5CE9470963026BD4.title: "&dThe Modified Exchange"
 	chapter.5F3C2D5936DF2212.title: "&3Evo Items"
 	chapter.603EDE1FAA1E414B.title: "&3Sophisticated Backpacks"
 	chapter.62FB5E6CC09105B7.title: "Pokeballs"
@@ -159,6 +159,14 @@
 	quest.08256B4DE816C673.quest_subtitle: "Boosts the power of &lIce-type&r moves by 20%."
 	quest.083FB891B9505413.quest_subtitle: "Craft / obtain all available pokéballs!"
 	quest.088C7547BD7DE90A.quest_subtitle: "+ Attack / - Speed"
+	quest.096EF3E02DD9A4BF.quest_desc: [
+		"Poliwhirl ➜ Poliwrath"
+		"Shellder ➜ Cloyster"
+		"Staryu ➜ Starmie"
+		"Eevee ➜ Vaporeon"
+		"Lombre ➜ Ludicolo"
+		"Panpour ➜ Simipour"
+	]
 	quest.09DA8C18724AE7EB.quest_desc: ["One utility provided by Apotheosis are Tomes. These act similar to a book when being enchanted, but can only receive enchantments for a certain type of item.  There are nine tomes in total, one each for helmets, chestplates, leggings, boots, swords, bows, pickaxes, fishing poles, and a final tome that accepts enchantments which do not fit on any of the others."]
 	quest.0A02FD6DD9B44D49.quest_desc: ["Click the check the send a link to chat that will contain a chart of where you stand in your current series progression"]
 	quest.0A02FD6DD9B44D49.quest_subtitle: "Forgot where you left off?"
@@ -221,6 +229,23 @@
 	quest.0F6A09571E346E00.title: "Not what you were looking for?"
 	quest.0F7711FA244163F7.title: "Alola Ghost Types"
 	quest.0F80228AAED087BC.quest_subtitle: "It has a static catch rate of 1.5×. "
+	quest.0FC9368708CB4703.quest_desc: [
+		"Gloom ➜ Vileplume"
+		"Weepinbell ➜ Victreebel"
+		"Exeggcute ➜ Exeggutor"
+		"Hisuian Voltorb ➜ Hisuian Electrode"
+		"Eevee ➜ Leafeon"
+		"Nuzleaf ➜ Shiftry"
+		"Pansage ➜ Simisage"
+	]
+	quest.10618F35AB20AFAA.quest_desc: [
+		"Eevee ➜ Flareon"
+		"Growlithe ➜ Arcanine"
+		"Vulpix ➜ Ninetales"
+		"Pansear ➜ Simisear"
+		"Capsakid ➜ Scovillain"
+	]
+	quest.10A508B7C1009526.title: "1x &6PokeDollar"
 	quest.10DA0B9D0AF20440.title: "Citrine Ball"
 	quest.111B6B1C0FD79BFB.title: "Water Expert: Dive Ball"
 	quest.111C604023D503FE.quest_desc: ["All of these held items are used to boost a specific type of move!"]
@@ -296,12 +321,6 @@
 	quest.14BDB596CAB82499.quest_subtitle: "A sleek commemorative Poké Ball with the same catch rate as a standard Poké Ball."
 	quest.14BDB596CAB82499.title: "Premier Ball"
 	quest.14FD6212B109BE0B.title: "Braised Vivichoke"
-	quest.150B944FBE8D3DA4.quest_desc: [
-		"There will be a portable shop for you to buy items on the go!"
-		""
-		"Still working out pricing, \\& sourcing supplies. Check back later for updates to this tab!"
-	]
-	quest.150B944FBE8D3DA4.quest_subtitle: "Check back later for updates, Quests for this chapter are being still being worked on!"
 	quest.15423DCD50C9B832.quest_subtitle: "More effective when used on sleeping Pokémon."
 	quest.15423DCD50C9B832.title: "Dream Ball"
 	quest.1580C123E939E304.quest_desc: [
@@ -573,6 +592,10 @@
 	quest.2909DDD83D869BD0.title: "Prism Scale"
 	quest.292493888A4A60B9.title: "King's Rock"
 	quest.292F16BA90092795.quest_desc: ["These are all the &dtier 3 glyphs&r and require an &6Archmage Spell Book&r to cast. Hold &eLShift&r over any glyph for the description!"]
+	quest.29467A749D880EE7.quest_desc: [
+		"Male Kirlia ➜ Gallade"
+		"Female Snorunt ➜ Froslass"
+	]
 	quest.29574652784E07B0.quest_desc: ["This item extends the use of moves that &bsummon rain from 5 to 8 turns&r. This can give an &badvantage to your water types&r!"]
 	quest.298BEFED52443273.quest_desc: [
 		"Cobblemon’s&d Pasture Block&r is a block that lets you select Pokémon from your PC to have them roaming around the block. If you put compatible Pokémon inside, they may lay an egg that will appear in the bottom part of the block. You can collect it by right clicking the egg or by placing a hopper below the Pasture Block."
@@ -708,7 +731,7 @@
 	]
 	quest.372955E458EB53EA.quest_subtitle: "Charcadet -> Armarouge"
 	quest.3743811366CC7850.quest_desc: ["This once perfect spoon boosts the holders &dPsychic-Type moves.&r"]
-	quest.3808B72C1784E21C.title: "Johnto Ghost Types"
+	quest.3808B72C1784E21C.title: "Johto Ghost Types"
 	quest.385DCF0C7BEB5366.title: "Poké Ball Crafting"
 	quest.388DFF1E8BBC8E10.quest_subtitle: "More effective when capturing Pokémon of the opposite gender to the one you have out."
 	quest.388DFF1E8BBC8E10.title: "Love Ball"
@@ -851,6 +874,15 @@
 	quest.40E62B65DFCA91D0.quest_subtitle: "See all the details!"
 	quest.40FA5BAEA92ADAE0.title: "Galarica Cuff"
 	quest.412DCDBCFDB0DB28.title: "Vivichoke Seeds"
+	quest.417F33B815B5EF96.quest_desc: [
+		"Pikachu ➜ Raichu"
+		"Magneton ➜ Magnezone"
+		"Eevee ➜ Jolteon"
+		"Nosepass ➜ Probopass"
+		"Eelektrik ➜ Eelektross"
+		"Charjabug ➜ Vikavolt"
+		"Tadbulb ➜ Bellibolt"
+	]
 	quest.41A1F41DEECA82C0.title: "The Ultimate Poké Ball: Master Ball"
 	quest.421D0CFE1AE62935.title: "Efficiency Catcher: Repeat Ball"
 	quest.422652BAAA75458A.quest_desc: ["These are all the&d tier 2 glyphs&r and require an &6Mage's Spell Book&r to cast. Hold &eLShift&r over any glyph for the description!"]
@@ -865,6 +897,14 @@
 	quest.43A6C69606380D41.quest_desc: ["These held items can&5 give various benefits&r in battle and&5 provide an edge&r, but use them wisely because they will be&6 consumed on use and disappear!&r"]
 	quest.43A6C69606380D41.title: "One-Time-Use Items"
 	quest.43D224E551201802.title: "Pampered Pokémon: Luxury Ball"
+	quest.44080C369087292A.quest_desc: [
+		"Alolan Sandshrew ➜ Alolan Sandslash"
+		"Alolan Vulpix ➜ Alolan Ninetales"
+		"Eevee ➜ Glaceon"
+		"Galarian Darumaka ➜ Galarian Darmanitan"
+		"Crabrawler ➜ Crabominable"
+		"Cetoddle ➜ Cetitan"
+	]
 	quest.44112E71C2FD9C25.title: "Fairy Type"
 	quest.442DF1DE4CFA5938.title: "Hard Stone"
 	quest.44C944ADBB885F4D.quest_desc: ["An &cX Attack&r is a type of item that raises the target's attack stat by one stage when used in battle."]
@@ -970,7 +1010,7 @@
 	quest.4B40BEBAF65F7A8F.title: "Teleport Pad"
 	quest.4B813054AAFB96ED.title: "Poké Ball"
 	quest.4B9CE98B95BB9182.quest_desc: ["A PC is a utility block that allows the player to access the Pokémon storage system. "]
-	quest.4BB2573CF772E2D0.quest_desc: ["You can use a link cable to simulate tradingto evolve certain pokemon!"]
+	quest.4BB2573CF772E2D0.quest_desc: ["You can use a link cable to simulate trading to evolve certain pokemon!"]
 	quest.4BB2573CF772E2D0.quest_subtitle: "No Friends online?"
 	quest.4BC9FC78D1335665.quest_desc: ["To begin summoning familiars, you will need to obtain a Bound Script of the entity you wish to befriend. These can be obtained by performing the Ritual of Binding near a relevant entity. See the full list of eligible entities in the Familiars section of the Tattered Tome. Once you have obtained a Bound Script, use it to learn the familiar."]
 	quest.4C2718C3BAE8DB17.quest_desc: [
@@ -1023,6 +1063,16 @@
 	]
 	quest.4EEDE57964EC8F04.title: "Mirror Herb"
 	quest.4F7A34424782A021.quest_desc: ["&dStructures to find a Helix Fossil: &rDripstone Oasis, Enhydro Agate, Eroded Pillar, Preserved Skeleton, Sandy Den, Vibrant Hydrothermal Vents "]
+	quest.4F7AA7CFC1BCE6C1.quest_desc: [
+		"Togetic ➜ Togekiss"
+		"Roselia ➜ Roserade"
+		"Minccino ➜ Cinccino"
+		"Floette ➜ Florges"
+	]
+	quest.4F7CC8115E47BED6.quest_desc: [
+		"Used to craft a &dMega Bracelet&r - Available in many colours just change the apricorns used!"
+		"{image:mega_showdown:item/megabracelet_2d width:100 height:100 align:center}"
+	]
 	quest.4FFE28C589CA2A39.quest_desc: ["This top-tier helmet causes a Pokemon that &5makes direct contact with the holder to take damage&r. I recommend putting this on a Pokemon with&6 Rough Skin to double the damage output.&r "]
 	quest.50277EE6B6C87232.quest_subtitle: "+ Attack / - Sp. Attack."
 	quest.5032D5FCFDBE580A.title: "Clair"
@@ -1117,6 +1167,14 @@
 	quest.56D889B6AF3BF89A.quest_desc: ["&dFishing bait&r can be attached to the hook of the bobber by dragging bait over to your rod and right clicking, similar to bundles, or by holding bait in your offhand. The bait will stay on the hook until a Pokémon is reeled in, in which it will then be consumed. Bait can be swapped by dragging a different bait over to your rod and right clicking and bait can be removed entirely by right clicking a rod which has bait attached. &6Each bait has different effects. &r - Hold shift while hovering each berry to read more!"]
 	quest.56D889B6AF3BF89A.quest_subtitle: "Hold shift to reveal more details"
 	quest.56D889B6AF3BF89A.title: "Berries = Bait!"
+	quest.5714104F69B1AFEE.quest_desc: [
+		"Nidorina ➜ Nidoqueen"
+		"Nidorino ➜ Nidoking"
+		"Clefairy ➜ Clefable"
+		"Jigglypuff ➜ Wigglytuff"
+		"Skitty ➜ Delcatty"
+		"Munna ➜ Musharna"
+	]
 	quest.5727126871E863AB.quest_desc: [
 		"&dUsed to craft:"
 		"- Slate Balls,"
@@ -1205,6 +1263,9 @@
 	quest.5DF8E29A288EBDCC.quest_subtitle: "Boosts the power of &lFairy-type&r moves by 20%."
 	quest.5EAB03885BFC56D1.title: "Choice Band"
 	quest.5EDC473BB50CB6E1.title: "Specialized Tools: Dive Ball"
+	quest.5EF4CF4F7BDD5693.quest_desc: ["These are also spheres found at &6y level 5&r but these &eare hollow and contain some evolution stones and a mega crystal&r! When you break the mega crystal with diamond you can get a &dblank megastone&r which you can use to craft any one of the mega stones to mega evolve your pokemon!"]
+	quest.5EF4CF4F7BDD5693.quest_subtitle: "Also y = 5 - but better!"
+	quest.5EF4CF4F7BDD5693.title: "&dFind a Mega Site&f!"
 	quest.5F181FC004426355.quest_subtitle: "+ Defense"
 	quest.5F3DB370AC772E48.quest_subtitle: "It has a static catch rate of 1×. "
 	quest.5F4CD36297C94EC0.title: "Galar Region Starters"
@@ -1216,7 +1277,6 @@
 	]
 	quest.5FDCF20A8DB9D5F8.quest_desc: ["[ \"Also an \", { \"text\": \"Evo Item\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"12D76E217F409A72\" } } ]"]
 	quest.5FDCF20A8DB9D5F8.quest_subtitle: "Boosts the power of &lSteel-type&r moves by 20%."
-	quest.5FF86D544DC75C03.title: "Grass Type"
 	quest.5FF89891E9345218.quest_desc: [
 		"By default, a shiny hunting method similar to &dMasuda method&r will be active. It will boost the odds if the parents have a different Original Trainer (OT)."
 		""
@@ -1248,6 +1308,7 @@
 	quest.6083A75B21C1493B.quest_desc: ["This ancient piece of paper boosts the&5 holders Ghost-Type moves.&r"]
 	quest.609C3A4391CA3E65.quest_desc: ["This upgrade requires materials from the nether and allows you to cast tier 2 glyphs."]
 	quest.60F5AE0D679B3182.title: "Advanced Crafting: Great Ball"
+	quest.611489B6370D9559.quest_desc: ["Lost your physical quest book or want another one? Click the checkmark above!"]
 	quest.611489B6370D9559.quest_subtitle: "Gear = Repeatable Rewards"
 	quest.61243F7498C6074C.quest_desc: ["It has a static catch rate of 1×. "]
 	quest.61243F7498C6074C.quest_subtitle: "capable of being thrown further. "
@@ -1275,6 +1336,12 @@
 	quest.635B3B481979D2F0.title: "Arctovish"
 	quest.63643A5D1283D557.title: "Normal"
 	quest.6368437B278346AA.quest_desc: ["This sharp tooth boosts &6Clamperls' Sp. Atk Stat!&r"]
+	quest.636A34D9B8B4BECF.quest_desc: [
+		"Murkrow ➜ Honchkrow"
+		"Misdreavus ➜ Mismagius"
+		"Lampent ➜ Chandelure"
+		"Doublade ➜ Aegislash"
+	]
 	quest.6377483B78DB08A7.title: "Hoenn Region Starters"
 	quest.63D7369995C2E2BE.quest_desc: ["Check back later for updates, Quests for this chapter are being still being worked on!"]
 	quest.63F1CAE7C06306B7.title: "Hard Stone"
@@ -1421,6 +1488,13 @@
 	quest.6F4013D15EA01D38.quest_desc: ["An &9X Defense&r is a type of item that raises the target's defense stat by one stage when used in battle."]
 	quest.6F5028DC544B434D.quest_desc: ["It has a static catch rate of 1.5×. "]
 	quest.6F5028DC544B434D.quest_subtitle: "capable of being thrown further. "
+	quest.6F6F13E45243CF87.quest_desc: [
+		"Gloom ➜ Bellossom"
+		"Sunkern ➜ Sunflora"
+		"Cottonee ➜ Whimsicott"
+		"Petilil ➜ Lilligant"
+		"Helioptile ➜ Heliolisk"
+	]
 	quest.6F951730D7FB249D.title: "Poké Ball"
 	quest.703DF3EB9543851F.quest_subtitle: "Used to spawn Trainer Brendan (pt.2)"
 	quest.70A0FDCEC5AC6EDB.title: "Exploration and Adventure"
@@ -1437,7 +1511,12 @@
 	]
 	quest.71AE3633F61FD6A5.quest_subtitle: "Inherited from the mother"
 	quest.71AE3633F61FD6A5.title: "Form \\& Aspect"
-	quest.71D3D2C181B923C9.quest_desc: ["More information is included under the &dTools&r section of quests. You will need to obtain a &eMining Skill card&r, and eventually a &6Miner Certificate&r."]
+	quest.71D3D2C181B923C9.quest_desc: [
+		"More information is included under the &dTools&r section of quests. You will need to obtain a &eMining Skill card&r, and eventually a &6Miner Certificate&r."
+		""
+		""
+		"{ \"text\": \"Quest Line here\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"11CA74A02F4C5C83\" } }"
+	]
 	quest.71D3D2C181B923C9.quest_subtitle: "Yes! You can unlock the ~ key!"
 	quest.721A3264FA7A9C85.quest_desc: ["This item gives the holder &6a chance to move first if it is slower than the opponent&r. This can give a boost to your slower pokemon. "]
 	quest.724A064DD2B0C4EC.quest_desc: [
@@ -1498,9 +1577,13 @@
 		"\\& &6can be smelted down to &dgreen dye."
 	]
 	quest.7694FB5A1A38F1E1.title: "Precision Engineering: Ultra Ball"
+	quest.76CBBB30A7203C68.title: "1x &6PokeDollar"
 	quest.773DD3685CEC3C45.quest_subtitle: "Used to spawn Rocket Admin Ariana"
 	quest.777DC499E565AA92.title: "Geologist"
 	quest.781DAB6DD8759ED0.title: "Teaming Up!"
+	quest.781EBCD4D8F1368B.quest_desc: ["These are solid sphere underground at &6y level 5&r which &ehave a keystone in the middle of them&r the keystone can be used to make the &dmega bracelet&r."]
+	quest.781EBCD4D8F1368B.quest_subtitle: "Around y = 5"
+	quest.781EBCD4D8F1368B.title: "Find a &dMegaroid&r!"
 	quest.78475D3F82887018.quest_subtitle: "+ Sp. Attack"
 	quest.7890842B09B14546.quest_desc: [
 		"As Pokemon battle they gain &6experience along with EVs.&r These are &6special hidden stat values in each stat&r; Hp, Attack, Sp. Atk and etc. Each Pokemon you battle against &6gives off one Ev in particular&r. These stats &6boost your Pokemons base stats&r, making them stronger and more effective in battle. "
@@ -1509,6 +1592,7 @@
 	]
 	quest.7890842B09B14546.quest_subtitle: "EVs = Effort Values"
 	quest.7890842B09B14546.title: "Learn About EVs!"
+	quest.789A3D3A50C116F0.title: "1x &6PokeDollar"
 	quest.78D090DEBCAC475A.quest_desc: [
 		"Here, Now that you're more versed in the world of cobblemon, this tool from the professor will most definitely come in handy :)"
 		""
@@ -1591,6 +1675,7 @@
 	quest.7B7E824D7BD29739.quest_subtitle: "Used to spawn Rocket Admin Archer (pt.2)"
 	quest.7B85355A8C431289.quest_subtitle: "Blueprint + Skill card = duplicate!"
 	quest.7BA1EF8D17CC5F6F.title: "Park Ball"
+	quest.7BC83E1C825581CD.quest_desc: ["&6PokéDollars (₽)&r are the main currency used throughout your adventure in this modpack. They’re the top tier in our custom economy system and play a big role in buying many types of items, trading with NPCs, and using various special features!"]
 	quest.7BDCB1B263A519CE.quest_subtitle: "Boosts the power of &lPoison-type&r moves by 20%."
 	quest.7BE4ACF868906E2B.title: "Galar Ghost Types"
 	quest.7BEC43CCD8E9D4AC.title: "Upgrade"
@@ -1655,17 +1740,29 @@
 	reward_table.130DB275A6191979.title: "cobblemon - apricorns"
 	reward_table.14A0D2FD1224AE91.title: "cobblemon - loot - rare"
 	reward_table.14EA99A342542A9C.title: "cobblemon - loot - basic"
+	reward_table.1A06A80A0A0B6A9A.title: "mob drops - 4"
+	reward_table.1A53561C0C7E8E90.title: "mc - shulker"
 	reward_table.2009B95353314987.title: "cobblemon - held items"
+	reward_table.253C977275A4950D.title: "tier 3 stones"
 	reward_table.28800DF137D0709D.title: "currency"
+	reward_table.29ABA53F117A56ED.title: "mc - sapplings"
 	reward_table.2A271B3EB4418F9F.title: "mekanism"
+	reward_table.2AD2D1E18E9F7E0D.title: "tier 2 stones"
 	reward_table.34A27ADF92D70931.title: "cobblemon - util"
+	reward_table.391B75243489BC59.title: "cobblemon - megabrace"
+	reward_table.3CD76C21E777A1C2.title: "mc - terracotta"
+	reward_table.42E46DC97C21BC14.title: "tier 1 blocks"
 	reward_table.4B9591150FF02C87.title: "create - general"
+	reward_table.4DD012439EAAD4C1.title: "mc - wood"
 	reward_table.529A9535D7E1E874.title: "cobblemon - dexes"
 	reward_table.54015B3BE7076FB5.title: "cobblemon - evo items"
+	reward_table.55F104F2D5888BB7.title: "mc - bricks etc"
+	reward_table.5699CDA38F6C5ADF.title: "mob drops - 2"
 	reward_table.59F4ED3D53ECA953.title: "cobblemon - nav"
 	reward_table.5B83C9E030554346.title: "cobblemon - fossil"
 	reward_table.5C99B7E9DB0AD5DE.title: "cobblemon - balls"
 	reward_table.5FB2D85C48F4A657.title: "cobblemon - loot - ultrarare"
+	reward_table.6BFF69C03C41F1D1.title: "mob drops - 3"
 	reward_table.6D49D96AB92F092E.title: "modified"
 	reward_table.6E8AAA979EFAADB9.title: "cobblemon - battle items"
 	task.02F8BF4FF138982D.title: "Revive a fossil mon!"
@@ -1703,6 +1800,7 @@
 	task.2B7206DD336F752E.title: "Quests coming soon..."
 	task.2BA12480E42A02E2.title: "Pokemans"
 	task.2CA317FA51926586.title: "Any #cobblemon:tier_5_poke_balls"
+	task.2CEADAA3C6AFBB1B.title: "&6₽okeDollars!"
 	task.2D8D58D1152E299C.title: "Catch a Shiny!"
 	task.2E379B119390BD4A.title: "Any #c:crops/mint"
 	task.2F86CDE6A03524AA.title: "Any #cobblemon:apricorns"
@@ -1718,7 +1816,6 @@
 	task.3E5EBA1EFF801DAC.title: "Cobblemon Extras"
 	task.3E9251A7A6C4DD0C.title: "Starter Blueprints"
 	task.3FB26ADD79C50811.title: "Unknown type: ftbchunks:claim_chunks"
-	task.403343CA5440E98A.title: "Any #cobblemon:evolution_stones"
 	task.40BE5F8EDB2E0801.title: "Why must I submit?"
 	task.417B7AC6E24A118D.title: "Riding Cobblemon"
 	task.41E926EA7E817694.title: "Berries"
@@ -1730,6 +1827,7 @@
 	task.48D8F3FAE72576C6.title: "Repeatable Quests"
 	task.4BBEF1E9ABA4469C.title: "Unlockable Ultimine"
 	task.4DF8845F405A6375.title: "Any #cobblemon:apricorn_sprouts"
+	task.4F11941A3076A00E.title: "EVO STONES?"
 	task.50347B0B468B82E6.title: "Collect all FossilMons!"
 	task.50F00566C9770C2F.title: "The Beginning"
 	task.52A575BE1A56A5C5.title: "Guide of Apotheosis"
@@ -1746,6 +1844,7 @@
 	task.66930ED579FA547B.title: "Click to view all fossils."
 	task.66952071FCBF8F47.title: "FTB Mods!"
 	task.66CEB846C28BF8CB.title: "Enchantmets"
+	task.6978CDF80A35B992.title: "DEX SECTION IS A WIP!"
 	task.699D3B962C6CCF46.title: "Any #cobblemon:tier_5_poke_balls"
 	task.6A92FB2B20B8B33E.title: "Check out Champions League!"
 	task.6A97EE9320E2A4A6.title: "Level Cap?!"

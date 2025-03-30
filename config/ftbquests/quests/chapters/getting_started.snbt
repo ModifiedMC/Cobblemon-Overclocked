@@ -66,6 +66,14 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "0F0306978AC3001A"
+			rewards: [{
+				id: "6C60C774E3C590CC"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "75E6D59319FF80C8"
 				type: "checkmark"
@@ -82,6 +90,14 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "6764FAFA232450EE"
+			rewards: [{
+				id: "5C69F746F0FB42AF"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "66952071FCBF8F47"
 				type: "checkmark"
@@ -95,6 +111,14 @@
 				id: "cobblemon:poke_ball"
 			}
 			id: "7AF0F49FD5B1B4E4"
+			rewards: [{
+				id: "23D9CA0DC8D807B6"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2BA12480E42A02E2"
 				type: "checkmark"
@@ -108,6 +132,14 @@
 				id: "minecraft:map"
 			}
 			id: "481C3421E299CA28"
+			rewards: [{
+				id: "1A5EC73B6DADE474"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "458CE6320E29219D"
 				type: "checkmark"
@@ -133,6 +165,14 @@
 				id: "ultimine_addition:mining_skill_card_pickaxe"
 			}
 			id: "71D3D2C181B923C9"
+			rewards: [{
+				id: "171156ACB73F7284"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4BBEF1E9ABA4469C"
 				type: "checkmark"

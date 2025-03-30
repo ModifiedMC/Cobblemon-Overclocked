@@ -1,0 +1,13 @@
+name = "DarkCap - RPG Cap Your XP!"
+filename = "darkcap-neoforge-1.21-1.1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7461fe1c3c5ce5bd5115038ee3199f3418a74faf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5481132
+project-id = 686578

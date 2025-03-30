@@ -7,7 +7,7 @@
 		id: "cobblemon:exp_share"
 	}
 	id: "55A09894E962312A"
-	order_index: 5
+	order_index: 6
 	quest_links: [ ]
 	quests: [
 		{
@@ -167,9 +167,12 @@
 			}
 			id: "7890842B09B14546"
 			rewards: [{
-				id: "6B725B7244905132"
-				type: "xp"
-				xp: 50
+				id: "05ADBD26EED7078D"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "3F61578B909820D7"
@@ -744,9 +747,12 @@
 			hide_dependent_lines: true
 			id: "111C604023D503FE"
 			rewards: [{
-				id: "0A4020836A6C9EC4"
-				type: "xp"
-				xp: 50
+				id: "03089247E88C361D"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "24FB1538225F2269"

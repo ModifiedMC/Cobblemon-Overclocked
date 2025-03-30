@@ -1,0 +1,13 @@
+name = "Cobblemon Interface: Modded"
+filename = "Cobblemon Interface Modded v1.7.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45872d3c9c8838d07b00c709e69a2f9fa0db1cb0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6063208
+project-id = 989454

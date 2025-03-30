@@ -1,0 +1,23 @@
+{
+	id: "6BFF69C03C41F1D1"
+	loot_size: 1
+	order_index: 27
+	rewards: [
+		{
+			count: 16
+			id: "6B6883ABB48E5AB0"
+			item: {
+				count: 1
+				id: "minecraft:gunpowder"
+			}
+		}
+		{
+			count: 8
+			id: "281EC29D4A943007"
+			item: {
+				count: 1
+				id: "minecraft:slime_ball"
+			}
+		}
+	]
+}

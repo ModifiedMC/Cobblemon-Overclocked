@@ -80,6 +80,15 @@
 		{
 			dependencies: ["05DF0D01D6A1BE7D"]
 			id: "256BE43416AD50B3"
+			rewards: [{
+				count: 300
+				id: "46DCE7C3DC6CF4E6"
+				item: {
+					count: 1
+					id: "modified:pokedollar"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5EE5D90E9DC75512"
 				item: { count: 1, id: "ultimine_addition:miner_certificate" }

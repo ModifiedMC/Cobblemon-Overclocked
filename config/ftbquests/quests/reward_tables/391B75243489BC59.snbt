@@ -1,0 +1,14 @@
+{
+	id: "391B75243489BC59"
+	loot_size: 1
+	order_index: 29
+	rewards: [
+		{ id: "71B95BBCB54B0296", item: { count: 1, id: "mega_showdown:megabracelet" } }
+		{ id: "0B558FD0BC6AD81F", item: { count: 1, id: "mega_showdown:megabracelet_red" } }
+		{ id: "3A601BE5CE2AAF2A", item: { count: 1, id: "mega_showdown:megabracelet_yellow" } }
+		{ id: "55CDF75A429470AA", item: { count: 1, id: "mega_showdown:megabracelet_pink" } }
+		{ id: "4607D27CB877795E", item: { count: 1, id: "mega_showdown:megabracelet_green" } }
+		{ id: "391284363A712D65", item: { count: 1, id: "mega_showdown:megabracelet_blue" } }
+		{ id: "6DA2045D8D59E6AA", item: { count: 1, id: "mega_showdown:megabracelet_black" } }
+	]
+}

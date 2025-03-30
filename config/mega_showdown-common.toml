@@ -1,0 +1,20 @@
+#Enable multiple megas at one time
+multipleMegas = false
+#Enable mega evolution only for battles
+battleModeOnly = false
+#Allows you to have outside megas but they devolve on battle and then you can have battle mode style theme
+battleMode = true
+#Allows you to have multiple primals in your team
+multiplePrimals = true
+#Allows you to have both the mega btn and allows u to carry your mega's into the battle, battleMode should be false for this
+scuffedMode = false
+#Makes it so that you need to have 200+ friendship in order to mega outside
+friendshipMode = false
+#Enables/Disables zMoves in game
+zMoves = true
+#Enables/Disables teralization in game
+teralization = true
+#Allows you to trade even if your pokemon is not in base form
+tradeForm = false
+#Enables etermax eternus forme
+etermaxForme = true

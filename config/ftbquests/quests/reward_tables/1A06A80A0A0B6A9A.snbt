@@ -1,0 +1,31 @@
+{
+	id: "1A06A80A0A0B6A9A"
+	loot_size: 1
+	order_index: 26
+	rewards: [
+		{
+			count: 4
+			id: "1AF463255B6A5A55"
+			item: {
+				count: 1
+				id: "minecraft:magma_cream"
+			}
+		}
+		{
+			count: 8
+			id: "1566F0EDAFAF1287"
+			item: {
+				count: 1
+				id: "minecraft:blaze_rod"
+			}
+		}
+		{
+			count: 8
+			id: "6F7240770ADD60CB"
+			item: {
+				count: 1
+				id: "minecraft:fermented_spider_eye"
+			}
+		}
+	]
+}

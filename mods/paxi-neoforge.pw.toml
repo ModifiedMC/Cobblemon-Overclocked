@@ -1,0 +1,13 @@
+name = "Paxi (NeoForge)"
+filename = "Paxi-1.21.1-NeoForge-5.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4eba198056f75dfd3740590e384412c6dbbc9ed2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5843158
+project-id = 1015157

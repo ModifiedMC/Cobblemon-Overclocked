@@ -1,0 +1,87 @@
+#!/bin/bash
+
+set -o errexit
+set -o pipefail
+set -o nounset
+
+BASE_DIR=$( realpath $( dirname "${BASH_SOURCE[0]}" )/../ )
+NEOFORGE_VERSION=21.1.133
+CI="${CI:-false}"
+
+function urldecode() { : "${*//+/ }"; echo -e "${_//%/\\x}"; }
+
+packwiz_installed="$(type packwiz 2>/dev/null 1>&2 && echo "true" || echo "false")"
+if [[ "$packwiz_installed" == "false" ]]; then
+    echo "packwiz is not installed. https://github.com/packwiz/packwiz/"
+    exit 1
+fi
+
+jq_installed="$(type jq 2>/dev/null 1>&2 && echo "true" || echo "false")"
+if [[ "$jq_installed" == "false" ]]; then
+    echo "jq is not installed. https://jqlang.org/download/"
+    exit 1
+fi
+
+cd $BASE_DIR
+
+if [[ -f ".env" ]]; then
+    set -a # automatically export all variables
+    source .env
+    set +a
+fi
+
+shaderpack_count="$(find shaderpacks -iname "Complementary*EuphoriaPatches*.zip" | wc -l)"
+if [[ "$shaderpack_count" != 2 ]]; then
+    echo "Complementary + Euphoria shaders missing, downloading from provided URLs"
+    if [[ ! -z "${SHADER_UNBOUND_URL+x}" ]]; then
+        filename="$(urldecode "$(basename "$SHADER_UNBOUND_URL")")"
+        curl -sL "$SHADER_UNBOUND_URL" -o "shaderpacks/$filename"
+    fi
+    if [[ ! -z "${SHADER_REIMAGINED_URL+x}" ]]; then
+    filename="$(urldecode "$(basename "$SHADER_REIMAGINED_URL")")"
+        curl -sL "$SHADER_REIMAGINED_URL" -o "shaderpacks/$filename"
+    fi
+fi
+
+shaderpack_count="$(find shaderpacks -iname "Complementary*EuphoriaPatches*.zip" | wc -l)"
+if [[ "$shaderpack_count" != 2 ]]; then
+    echo "Complementary + Euphoria shaders missing, cannot build client"
+    exit 1
+fi
+
+# remove any previous build
+rm -rf build *.zip
+
+echo "Refreshing hashes..."
+packwiz refresh
+
+if [[ "$CI" != "false" ]]; then
+    changed_files="$(git status --porcelain=v1 2>/dev/null | wc -l)"
+    if [[ "$changed_files" != 0 ]]; then
+        echo '::error::File hashes were updated. Run `packwiz refresh` and then commit the changes'
+        exit 1
+    fi
+fi
+
+echo "Exporting CurseForge pack..."
+packwiz cf export
+
+# make working directory structure
+mkdir -p build/work
+mv *.zip build/
+
+# workaround for packwiz bug: https://github.com/packwiz/packwiz/issues/295
+echo "Patching CurseForge pack..."
+cd "build"
+zip_file="$(basename "$(find . -name "*.zip")")"
+unzip "$zip_file" -d work 2>/dev/null 1>&2
+rm "$zip_file"
+
+cd "work"
+cat manifest.json | jq ".minecraft.modLoaders[0] |= {\"id\": \"neoforge-$NEOFORGE_VERSION\", \"primary\": true}" > manifest.tmp.json
+mv manifest.tmp.json manifest.json
+
+zip -r "$zip_file" * 2>/dev/null 1>&2
+cd ..
+mv "work/$zip_file" ./
+rm work -rf

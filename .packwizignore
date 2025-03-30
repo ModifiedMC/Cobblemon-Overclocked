@@ -1,0 +1,6 @@
+.github
+Changelogs
+README.md
+build
+*.zip
+!shaderpacks/*.zip
