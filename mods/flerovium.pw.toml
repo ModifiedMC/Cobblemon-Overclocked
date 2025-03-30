@@ -1,6 +1,6 @@
 name = "Flerovium"
 filename = "flerovium-neoforge-1.21.1-1.0.3-all.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
