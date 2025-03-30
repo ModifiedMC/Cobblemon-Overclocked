@@ -1,6 +1,9 @@
 .github
 Changelogs
 README.md
+DEVELOPMENT.md
 build
 *.zip
 !shaderpacks/*.zip
+.env
+download

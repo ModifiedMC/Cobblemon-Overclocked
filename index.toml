@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".bin/build-client"
-hash = "4c0fd535dd0b4665c879c6bfc76ae2fd3538e8a5b69d4e1c1e9acfc25e94d1b1"
-
-[[files]]
-file = ".env"
-hash = "757a9b01fa48fe4e3a38c2e09025e9a98b1c5ac756b4f6605eba0da904f6598d"
-
-[[files]]
-file = "DEVELOPMENT.md"
-hash = "c2fb4514b505c0a488ea70abd8f511f18b842ddfe987f1e6140f3928327cfb53"
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
@@ -7206,6 +7194,10 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "c29236bb2a63c8a4a886b83d1809c0fb0d240348b4855025030fc2281fd6adb2"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/cobblemon-classic-grass-pack.pw.toml"
