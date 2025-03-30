@@ -25,7 +25,7 @@ Before starting, you will need to download the Complementary + Euphoria shaders 
 # Update all of the hashes of the files to included in the modpack
 packwiz refresh
 
-# Create CurseForge client + server .zipz in build/
+# Create CurseForge client + server .zips in build/
 .bin/build
 
 # Update a specific file
