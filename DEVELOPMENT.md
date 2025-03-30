@@ -2,8 +2,10 @@
 
 ## Requirements
 
-* [packwiz](https://github.com/packwiz/packwiz)
-* [jq](https://jqlang.org/download/)
+* Install [packwiz](https://github.com/packwiz/packwiz)
+* Install [jq](https://jqlang.org/download/)
+* Only tested on Linux (should work with any GNU Linux distro). WSL on Windows works. MacOS may work, but you will, but you will need to install the [core GNU utils](https://gist.github.com/skyzyx/3438280b18e4f7c490db8a2a2ca0b9da).
+* Download and install the patched Complementary + Euphoria shaders into the `shaderspacks` folder.
 
 ## Development
 
