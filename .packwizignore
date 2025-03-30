@@ -7,3 +7,4 @@ build
 !shaderpacks/*.zip
 .env
 download
+server

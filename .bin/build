@@ -5,11 +5,19 @@ set -o pipefail
 set -o nounset
 
 BASE_DIR=$( realpath $( dirname "${BASH_SOURCE[0]}" )/../ )
-NEOFORGE_VERSION=21.1.133
 CI="${CI:-false}"
 
 function urldecode() { : "${*//+/ }"; echo -e "${_//%/\\x}"; }
 
+function cleanup-server() {
+    pushd "$BASE_DIR/build/server" 2>/dev/null 1>&2
+    find . -maxdepth 1 -type f -delete
+    # keep mods folder to prevent always redownloading mods
+    find . -maxdepth 1 -mindepth 1 -type d ! -name "mods" -exec rm -rf {} \;
+    popd 2>/dev/null 1>&2
+}
+
+# check for commands we need
 packwiz_installed="$(type packwiz 2>/dev/null 1>&2 && echo "true" || echo "false")"
 if [[ "$packwiz_installed" == "false" ]]; then
     echo "packwiz is not installed. https://github.com/packwiz/packwiz/"
@@ -36,6 +44,7 @@ if [[ -f ".env" ]]; then
     set +a
 fi
 
+# verifiy Complementary + Euphoria shaders
 shaderpack_count="$(find shaderpacks -iname "Complementary*EuphoriaPatches*.zip" | wc -l)"
 if [[ "$shaderpack_count" != 2 ]]; then
     echo "Complementary + Euphoria shaders missing, downloading from provided URLs"
@@ -56,11 +65,14 @@ if [[ "$shaderpack_count" != 2 ]]; then
 fi
 
 # remove any previous build
-rm -rf build *.zip
+rm -rf "$BASE_DIR/build/*.zip" "$BASE_DIR/build/client" "$BASE_DIR/build/work" "$BASE_DIR/*.zip"
+cleanup-server
 
+# refresh packwiz
 echo "Refreshing hashes..."
 packwiz refresh
 
+# fail if there are changes on CI
 if [[ "$CI" != "false" ]]; then
     changed_files="$(git status --porcelain=v1 2>/dev/null | wc -l)"
     if [[ "$changed_files" != 0 ]]; then
@@ -70,43 +82,50 @@ if [[ "$CI" != "false" ]]; then
 fi
 echo -e "=====\n\n"
 
+# main CF client export
 echo "Exporting CurseForge pack..."
 packwiz cf export
 
 # make working directory structure
-mkdir -p build/work download
-mv *.zip $BASE_DIR/build/
+mkdir -p "$BASE_DIR/build/client" "$BASE_DIR/download"
+mv *.zip "$BASE_DIR/build/"
 
 # workaround for packwiz bug: https://github.com/packwiz/packwiz/issues/295
 echo "Patching CurseForge pack..."
-cd "build"
+cd "$BASE_DIR/build"
 zip_file="$(basename "$(find . -name "*.zip")")"
-unzip "$zip_file" -d work 2>/dev/null 1>&2
+unzip "$zip_file" -d "$BASE_DIR/build/client" 2>/dev/null 1>&2
 rm "$zip_file"
 
-cd "work"
-cat manifest.json | jq ".minecraft.modLoaders[0] |= {\"id\": \"neoforge-$NEOFORGE_VERSION\", \"primary\": true}" > manifest.tmp.json
-mv manifest.tmp.json manifest.json
+# patch manifest to add neoforge version
+cd "$BASE_DIR/build/client"
+NEOFORGE_VERSION="$(cat "$BASE_DIR/pack.toml" | grep "neoforge = " | sed -e 's/neoforge = "\(.*\)"/\1/')"
+cat "$BASE_DIR/build/client/manifest.json" | jq ".minecraft.modLoaders[0] |= {\"id\": \"neoforge-$NEOFORGE_VERSION\", \"primary\": true}" > "$BASE_DIR/build/client/manifest.tmp.json"
+mv "$BASE_DIR/build/client/manifest.tmp.json" "$BASE_DIR/build/client/manifest.json"
 
+# re-zip client pack
 zip -r "$zip_file" * 2>/dev/null 1>&2
-cd ..
-mv "work/$zip_file" $BASE_DIR/build/
-rm -rf work
+cd "$BASE_DIR/build"
+mv "$BASE_DIR/build/client/$zip_file" $BASE_DIR/build/
+rm -rf "$BASE_DIR/build/client"
 
 echo -e "=====\n\n"
 
+# main CF server export
 echo "Exporting CurseForge server pack..."
 
-mkdir -p work
-cd work
+mkdir -p "$BASE_DIR/build/server"
+cd "$BASE_DIR/build/server"
+# download packwiz-installer
 if [[ ! -f "packwiz-installer-bootstrap.jar" ]]; then
     curl -sL https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar -o $BASE_DIR/download/packwiz-installer-bootstrap.jar
 fi
 
-mkdir -p mods
+mkdir -p "$BASE_DIR/build/server/mods"
 old_filename=""
 any_download="false"
 can_continue="true"
+# loop over packwiz install output to get mods that need to be downloaded manually
 java -jar $BASE_DIR/download/packwiz-installer-bootstrap.jar -g -s server $BASE_DIR/pack.toml 2>&1 | while read -r line ; do
     if [[ ! "$line" =~ ^Please\ go\ to ]]; then
         continue
@@ -140,13 +159,15 @@ done || true
 if [[ "$can_continue" == "false" ]]; then
     exit 1
 fi
+# re-run installer with manually downloaded mods
 if [[ ! -f "packwiz.json" ]]; then
     java -jar $BASE_DIR/download/packwiz-installer-bootstrap.jar -g -s server $BASE_DIR/pack.toml 2>/dev/null 1>&2
 fi
 
-rm packwiz*
-server_zip_file="${zip_file/.zip/ server.zip}"
+rm "$BASE_DIR/build/server/packwiz"*
+cp "$BASE_DIR/server/"* "$BASE_DIR/build/server"
+
+server_zip_file="${zip_file/.zip/-server.zip}"
 zip -r "$server_zip_file" * 2>/dev/null 1>&2
-mv "$server_zip_file" $BASE_DIR/build/
-cd ..
-rm work -rf
+mv "$server_zip_file" "$BASE_DIR/build/"
+cleanup-server
