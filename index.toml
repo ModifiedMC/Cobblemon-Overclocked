@@ -6,11 +6,11 @@ hash = "4c0fd535dd0b4665c879c6bfc76ae2fd3538e8a5b69d4e1c1e9acfc25e94d1b1"
 
 [[files]]
 file = ".env"
-hash = "738715186a7e5b061d85ed4428a12557d7ecd827868ef8c88eec96bc057fa24a"
+hash = "757a9b01fa48fe4e3a38c2e09025e9a98b1c5ac756b4f6605eba0da904f6598d"
 
 [[files]]
 file = "DEVELOPMENT.md"
-hash = "e7fb0c357c10dfd7a5fd171bd6c9101d12e8d54929bed74996a7450ead44d718"
+hash = "c2fb4514b505c0a488ea70abd8f511f18b842ddfe987f1e6140f3928327cfb53"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -7209,45 +7209,45 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-classic-grass-pack.pw.toml"
-hash = "aaa1d10baed5dbeef2ec9203c37c08e0359337913c5d8cdf2b7b5a096f02a14d"
+hash = "62329d74acf879cd9b5db24a2048050bdcf857f5ee4dd6ec6da1337536d05112"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-interface-modded.pw.toml"
-hash = "acc27022d135e4a4e652b505cedf276a498e840f0ba7c2bee3d47fbf2bb584f3"
+hash = "de0c0d5a1cc709de6f4e029b0bb4ac11c310556a02c01f188f9f0390af2f9c13"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-interface.pw.toml"
-hash = "ad04d05ade2b608edceaf36528d505486cf3dfe46d3c7bb4f750563bae4b23b3"
+hash = "afc0bfa5de2679510b983a16db302de236be69805e1a8748759482e8ef562cc1"
 metafile = true
 
 [[files]]
 file = "resourcepacks/dcim.pw.toml"
-hash = "23377510d417ce9af0a701e8ead8602eb468ef1e6baa947dccf0fe0b3cf84b91"
+hash = "4cc4950899c50f0c2797aaa8363519cc928696ee1b6c59284e6fd61fe0a29ef8"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
+hash = "33c625f334d68395ca1084fc7a3efb1cdd80d2d8c9eaf234150c64bd62054f1d"
 metafile = true
 
 [[files]]
 file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
-hash = "e4da1b220b41e0bf8c9bf90394b9692416c1755b20b979f6913c1551869671b2"
+hash = "528fc4279ae03802e250ba48c4e800ac3522dd04aaa43a9105baae0a49d78c26"
 metafile = true
 
 [[files]]
 file = "resourcepacks/toms-cobblemoned.pw.toml"
-hash = "566f4ed74c4681fd85768dc5581a4c4aefebc139df765872f698206cf59197d6"
+hash = "d56faf1280b0873578367d1fe635449cad63d327a4495d5ef38a57f5a24d6653"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.4   EuphoriaPatches_1.5.2.zip"
+file = "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2.zip"
 hash = "b1f4742320d7d66217f7f7eb2d74a953396ba3b8682f9ec4d7d700ef6beba4d7"
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.4   EuphoriaPatches_1.5.2.zip"
+file = "shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.2.zip"
 hash = "af0f717d5fe557ed8daee407475dfeb0672d8b1c4c2081bf7f1a9ed9f6a7685b"
 
 [[files]]
