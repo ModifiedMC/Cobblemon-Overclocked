@@ -1,9 +1,9 @@
 {
   "rarities": {
-    "rare_outbreak_rarity": 20,
-    "epic_outbreak_rarity": 8,
-    "legendary_outbreak_rarity": 2,
-    "common_outbreak_rarity": 40,
+    "rare_outbreak_rarity": 5,
+    "epic_outbreak_rarity": 0,
+    "legendary_outbreak_rarity": 0,
+    "common_outbreak_rarity": 65,
     "uncommon_outbreak_rarity": 30
   },
   "portal_spawning_config": {
@@ -16,11 +16,11 @@
     "random_outbreak_timer": 36000
   },
   "shiny_config": {
-    "shiny_chance": 1024.0
+    "shiny_chance": 4096.0
   },
   "general": {
     "outbreak_spawn_rewards": true,
-    "spawn_portal_particles": true,
+    "spawn_portal_particles": false,
     "outbreaks_flush_timer": 432000,
     "temp_outbreaks_flush_timer": 72000
   },
@@ -28,12 +28,12 @@
     "volumes": {
       "outbreak_portal_pokemon_spawn_volume": 0.2,
       "outbreak_portal_shiny_pokemon_spawn_volume": 1.5,
-      "outbreak_portal_spawn_volume": 1.0
+      "outbreak_portal_spawn_volume": 0.7
     },
     "outbreak_portal_spawn_sound": true
   },
   "messages": {
-    "send_portal_spawn_message": true,
+    "send_portal_spawn_message": false,
     "biome_specific_spawns": true,
     "biome_specific_spawns_debug": false
   }

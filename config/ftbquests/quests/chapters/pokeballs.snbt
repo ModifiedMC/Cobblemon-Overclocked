@@ -1132,7 +1132,7 @@
 					type: "item"
 				}
 				{
-					count: 64
+					count: 99
 					id: "271D10850509D5E4"
 					item: {
 						count: 1

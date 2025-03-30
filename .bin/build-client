@@ -8,6 +8,8 @@ BASE_DIR=$( realpath $( dirname "${BASH_SOURCE[0]}" )/../ )
 NEOFORGE_VERSION=21.1.133
 CI="${CI:-false}"
 
+function urldecode() { : "${*//+/ }"; echo -e "${_//%/\\x}"; }
+
 packwiz_installed="$(type packwiz 2>/dev/null 1>&2 && echo "true" || echo "false")"
 if [[ "$packwiz_installed" == "false" ]]; then
     echo "packwiz is not installed. https://github.com/packwiz/packwiz/"
@@ -21,6 +23,25 @@ if [[ "$jq_installed" == "false" ]]; then
 fi
 
 cd $BASE_DIR
+
+if [[ -f ".env" ]]; then
+    set -a # automatically export all variables
+    source .env
+    set +a
+fi
+
+shaderpack_count="$(find shaderpacks -iname "Complementary*EuphoriaPatches*.zip" | wc -l)"
+if [[ "$shaderpack_count" != 2 ]]; then
+    echo "Complementary + Euphoria shaders missing, downloading from provided URLs"
+    if [[ ! -z "${SHADER_UNBOUND_URL+x}" ]]; then
+        filename="$(urldecode "$(basename "$SHADER_UNBOUND_URL")")"
+        curl -sL "$SHADER_UNBOUND_URL" -o "shaderpacks/$filename"
+    fi
+    if [[ ! -z "${SHADER_REIMAGINED_URL+x}" ]]; then
+    filename="$(urldecode "$(basename "$SHADER_REIMAGINED_URL")")"
+        curl -sL "$SHADER_REIMAGINED_URL" -o "shaderpacks/$filename"
+    fi
+fi
 
 shaderpack_count="$(find shaderpacks -iname "Complementary*EuphoriaPatches*.zip" | wc -l)"
 if [[ "$shaderpack_count" != 2 ]]; then

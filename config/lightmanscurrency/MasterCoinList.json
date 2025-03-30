@@ -1,30 +1,6 @@
 {
   "Chains": [
     {
-      "chain": "emeralds",
-      "name": {
-        "translate": "lightmanscurrency.money.chain.emeralds"
-      },
-      "displayType": "lightmanscurrency:number",
-      "displayFormat": {
-        "translate": "lightmanscurrency.money.chain.emeralds.display"
-      },
-      "displayFormatWordy": {
-        "translate": "lightmanscurrency.money.chain.emeralds.display.wordy"
-      },
-      "InputType": "DEFAULT",
-      "CoreChain": [
-        {
-          "Coin": "minecraft:emerald",
-          "baseUnit": true
-        },
-        {
-          "Coin": "minecraft:emerald_block",
-          "exchangeRate": 9
-        }
-      ]
-    },
-    {
       "chain": "main",
       "name": {
         "translate": "lightmanscurrency.money.chain.main"
@@ -89,6 +65,16 @@
           },
           "plural": {
             "translate": "item.lightmanscurrency.coin_netherite.plural"
+          }
+        },
+        {
+          "Coin": "modified:pokedollar",
+          "exchangeRate": 10,
+          "initial": {
+            "translate": "item.modified.pokedollar.initial"
+          },
+          "plural": {
+            "translate": "item.modified.pokedollar.plural"
           }
         }
       ],
@@ -230,6 +216,29 @@
               "translate": "block.lightmanscurrency.coinblock_netherite.plural"
             }
           }
+        ],
+        [
+          {
+            "Coin": "modified:pokedollar_pile",
+            "exchangeRate": 9,
+            "ParentCoin": "modified:pokedollar",
+            "initial": {
+              "translate": "block.modified.coinpile_pokedollar.initial"
+            },
+            "plural": {
+              "translate": "block.modified.coinpile_pokedollar.plural"
+            }
+          },
+          {
+            "Coin": "modified:pokedollar_block",
+            "exchangeRate": 4,
+            "initial": {
+              "translate": "block.modified.coinblock_pokedollar.initial"
+            },
+            "plural": {
+              "translate": "block.modified.coinblock_pokedollar.plural"
+            }
+          }
         ]
       ],
       "ATMData": {
@@ -243,69 +252,81 @@
             "icons": [
               {
                 "type": "lightmanscurrency:item",
-                "x": -2,
+                "x": -4,
                 "y": 1,
                 "item": "lightmanscurrency:coin_copper"
               },
               {
                 "type": "lightmanscurrency:small_arrow",
-                "x": 10,
+                "x": 8,
                 "y": 6,
                 "direction": "RIGHT"
               },
               {
                 "type": "lightmanscurrency:item",
-                "x": 12,
+                "x": 10,
                 "y": 1,
                 "item": "lightmanscurrency:coin_iron"
               },
               {
                 "type": "lightmanscurrency:small_arrow",
-                "x": 24,
+                "x": 22,
                 "y": 6,
                 "direction": "RIGHT"
               },
               {
                 "type": "lightmanscurrency:item",
-                "x": 26,
+                "x": 24,
                 "y": 1,
                 "item": "lightmanscurrency:coin_gold"
               },
               {
                 "type": "lightmanscurrency:small_arrow",
-                "x": 38,
+                "x": 36,
                 "y": 6,
                 "direction": "RIGHT"
               },
               {
                 "type": "lightmanscurrency:item",
-                "x": 40,
+                "x": 38,
                 "y": 1,
                 "item": "lightmanscurrency:coin_emerald"
               },
               {
                 "type": "lightmanscurrency:small_arrow",
-                "x": 52,
+                "x": 50,
                 "y": 6,
                 "direction": "RIGHT"
               },
               {
                 "type": "lightmanscurrency:item",
-                "x": 54,
+                "x": 52,
                 "y": 1,
                 "item": "lightmanscurrency:coin_diamond"
               },
               {
                 "type": "lightmanscurrency:small_arrow",
-                "x": 66,
+                "x": 64,
                 "y": 6,
                 "direction": "RIGHT"
               },
               {
                 "type": "lightmanscurrency:item",
-                "x": 68,
+                "x": 66,
                 "y": 1,
                 "item": "lightmanscurrency:coin_netherite"
+              },
+              {
+                "type": "lightmanscurrency:small_arrow",
+                "x": 78,
+                "y": 6,
+                "direction": "RIGHT"
+              },
+             {
+              "type": "lightmanscurrency:item",
+              "x": 80,
+              "y": 1,
+              "item": "modified:pokedollar"
               }
             ]
           },
@@ -318,357 +339,86 @@
             "icons": [
               {
                 "type": "lightmanscurrency:item",
-                "x": -2,
+                "x": -4,
                 "y": 1,
-                "item": "lightmanscurrency:coin_netherite"
+                "item": "modified:pokedollar"
               },
               {
                 "type": "lightmanscurrency:small_arrow",
-                "x": 10,
+                "x": 8,
                 "y": 6,
                 "direction": "RIGHT"
               },
               {
                 "type": "lightmanscurrency:item",
-                "x": 12,
+                "x": -4,
+                "y": 1,
+                "item": "lightmanscurrency:coin_netherite"
+              },
+              {
+                "type": "lightmanscurrency:small_arrow",
+                "x": 8,
+                "y": 6,
+                "direction": "RIGHT"
+              },
+              {
+                "type": "lightmanscurrency:item",
+                "x": 10,
                 "y": 1,
                 "item": "lightmanscurrency:coin_diamond"
               },
               {
                 "type": "lightmanscurrency:small_arrow",
+                "x": 22,
+                "y": 6,
+                "direction": "RIGHT"
+              },
+              {
+                "type": "lightmanscurrency:item",
                 "x": 24,
-                "y": 6,
-                "direction": "RIGHT"
-              },
-              {
-                "type": "lightmanscurrency:item",
-                "x": 26,
                 "y": 1,
                 "item": "lightmanscurrency:coin_emerald"
               },
               {
                 "type": "lightmanscurrency:small_arrow",
+                "x": 36,
+                "y": 6,
+                "direction": "RIGHT"
+              },
+              {
+                "type": "lightmanscurrency:item",
                 "x": 38,
-                "y": 6,
-                "direction": "RIGHT"
-              },
-              {
-                "type": "lightmanscurrency:item",
-                "x": 40,
                 "y": 1,
                 "item": "lightmanscurrency:coin_gold"
               },
               {
                 "type": "lightmanscurrency:small_arrow",
+                "x": 50,
+                "y": 6,
+                "direction": "RIGHT"
+              },
+              {
+                "type": "lightmanscurrency:item",
                 "x": 52,
-                "y": 6,
-                "direction": "RIGHT"
-              },
-              {
-                "type": "lightmanscurrency:item",
-                "x": 54,
                 "y": 1,
                 "item": "lightmanscurrency:coin_iron"
               },
               {
                 "type": "lightmanscurrency:small_arrow",
+                "x": 64,
+                "y": 6,
+                "direction": "RIGHT"
+              },
+              {
+                "type": "lightmanscurrency:item",
                 "x": 66,
-                "y": 6,
-                "direction": "RIGHT"
-              },
-              {
-                "type": "lightmanscurrency:item",
-                "x": 68,
                 "y": 1,
                 "item": "lightmanscurrency:coin_copper"
-              }
-            ]
-          },
-          {
-            "x": 6,
-            "y": 61,
-            "width": 26,
-            "height": 18,
-            "command": "exchangeDown-lightmanscurrency:coin_iron",
-            "icons": [
-              {
-                "type": "lightmanscurrency:item",
-                "x": -2,
-                "y": 1,
-                "item": "lightmanscurrency:coin_iron"
-              },
-              {
-                "type": "lightmanscurrency:small_arrow",
-                "x": 10,
-                "y": 6,
-                "direction": "RIGHT"
-              },
-              {
-                "type": "lightmanscurrency:item",
-                "x": 12,
-                "y": 1,
-                "item": "lightmanscurrency:coin_copper"
-              }
-            ]
-          },
-          {
-            "x": 6,
-            "y": 88,
-            "width": 26,
-            "height": 18,
-            "command": "exchangeUp-lightmanscurrency:coin_copper",
-            "icons": [
-              {
-                "type": "lightmanscurrency:item",
-                "x": -2,
-                "y": 1,
-                "item": "lightmanscurrency:coin_copper"
-              },
-              {
-                "type": "lightmanscurrency:small_arrow",
-                "x": 10,
-                "y": 6,
-                "direction": "RIGHT"
-              },
-              {
-                "type": "lightmanscurrency:item",
-                "x": 12,
-                "y": 1,
-                "item": "lightmanscurrency:coin_iron"
-              }
-            ]
-          },
-          {
-            "x": 41,
-            "y": 61,
-            "width": 26,
-            "height": 18,
-            "command": "exchangeDown-lightmanscurrency:coin_gold",
-            "icons": [
-              {
-                "type": "lightmanscurrency:item",
-                "x": -2,
-                "y": 1,
-                "item": "lightmanscurrency:coin_gold"
-              },
-              {
-                "type": "lightmanscurrency:small_arrow",
-                "x": 10,
-                "y": 6,
-                "direction": "RIGHT"
-              },
-              {
-                "type": "lightmanscurrency:item",
-                "x": 12,
-                "y": 1,
-                "item": "lightmanscurrency:coin_iron"
-              }
-            ]
-          },
-          {
-            "x": 41,
-            "y": 88,
-            "width": 26,
-            "height": 18,
-            "command": "exchangeUp-lightmanscurrency:coin_iron",
-            "icons": [
-              {
-                "type": "lightmanscurrency:item",
-                "x": -2,
-                "y": 1,
-                "item": "lightmanscurrency:coin_iron"
-              },
-              {
-                "type": "lightmanscurrency:small_arrow",
-                "x": 10,
-                "y": 6,
-                "direction": "RIGHT"
-              },
-              {
-                "type": "lightmanscurrency:item",
-                "x": 12,
-                "y": 1,
-                "item": "lightmanscurrency:coin_gold"
-              }
-            ]
-          },
-          {
-            "x": 75,
-            "y": 61,
-            "width": 26,
-            "height": 18,
-            "command": "exchangeDown-lightmanscurrency:coin_emerald",
-            "icons": [
-              {
-                "type": "lightmanscurrency:item",
-                "x": -2,
-                "y": 1,
-                "item": "lightmanscurrency:coin_emerald"
-              },
-              {
-                "type": "lightmanscurrency:small_arrow",
-                "x": 10,
-                "y": 6,
-                "direction": "RIGHT"
-              },
-              {
-                "type": "lightmanscurrency:item",
-                "x": 12,
-                "y": 1,
-                "item": "lightmanscurrency:coin_gold"
-              }
-            ]
-          },
-          {
-            "x": 75,
-            "y": 88,
-            "width": 26,
-            "height": 18,
-            "command": "exchangeUp-lightmanscurrency:coin_gold",
-            "icons": [
-              {
-                "type": "lightmanscurrency:item",
-                "x": -2,
-                "y": 1,
-                "item": "lightmanscurrency:coin_gold"
-              },
-              {
-                "type": "lightmanscurrency:small_arrow",
-                "x": 10,
-                "y": 6,
-                "direction": "RIGHT"
-              },
-              {
-                "type": "lightmanscurrency:item",
-                "x": 12,
-                "y": 1,
-                "item": "lightmanscurrency:coin_emerald"
-              }
-            ]
-          },
-          {
-            "x": 109,
-            "y": 61,
-            "width": 26,
-            "height": 18,
-            "command": "exchangeDown-lightmanscurrency:coin_diamond",
-            "icons": [
-              {
-                "type": "lightmanscurrency:item",
-                "x": -2,
-                "y": 1,
-                "item": "lightmanscurrency:coin_diamond"
-              },
-              {
-                "type": "lightmanscurrency:small_arrow",
-                "x": 10,
-                "y": 6,
-                "direction": "RIGHT"
-              },
-              {
-                "type": "lightmanscurrency:item",
-                "x": 12,
-                "y": 1,
-                "item": "lightmanscurrency:coin_emerald"
-              }
-            ]
-          },
-          {
-            "x": 109,
-            "y": 88,
-            "width": 26,
-            "height": 18,
-            "command": "exchangeUp-lightmanscurrency:coin_emerald",
-            "icons": [
-              {
-                "type": "lightmanscurrency:item",
-                "x": -2,
-                "y": 1,
-                "item": "lightmanscurrency:coin_emerald"
-              },
-              {
-                "type": "lightmanscurrency:small_arrow",
-                "x": 10,
-                "y": 6,
-                "direction": "RIGHT"
-              },
-              {
-                "type": "lightmanscurrency:item",
-                "x": 12,
-                "y": 1,
-                "item": "lightmanscurrency:coin_diamond"
-              }
-            ]
-          },
-          {
-            "x": 144,
-            "y": 61,
-            "width": 26,
-            "height": 18,
-            "command": "exchangeDown-lightmanscurrency:coin_netherite",
-            "icons": [
-              {
-                "type": "lightmanscurrency:item",
-                "x": -2,
-                "y": 1,
-                "item": "lightmanscurrency:coin_netherite"
-              },
-              {
-                "type": "lightmanscurrency:small_arrow",
-                "x": 10,
-                "y": 6,
-                "direction": "RIGHT"
-              },
-              {
-                "type": "lightmanscurrency:item",
-                "x": 12,
-                "y": 1,
-                "item": "lightmanscurrency:coin_diamond"
-              }
-            ]
-          },
-          {
-            "x": 144,
-            "y": 88,
-            "width": 26,
-            "height": 18,
-            "command": "exchangeUp-lightmanscurrency:coin_diamond",
-            "icons": [
-              {
-                "type": "lightmanscurrency:item",
-                "x": -2,
-                "y": 1,
-                "item": "lightmanscurrency:coin_diamond"
-              },
-              {
-                "type": "lightmanscurrency:small_arrow",
-                "x": 10,
-                "y": 6,
-                "direction": "RIGHT"
-              },
-              {
-                "type": "lightmanscurrency:item",
-                "x": 12,
-                "y": 1,
-                "item": "lightmanscurrency:coin_netherite"
               }
             ]
           }
         ]
       }
-    },
-	{
-      "chain": "pokedollar",
-      "name":{"text":"Pokedollar"},
-      "displayType": "lightmanscurrency:number",
-      "displayFormat":{"text":"{value} Pokedollar"},
-      "InputType": "TEXT",
-      "CoreChain": [
-        {
-          "Coin": "modified:pokedollar",
-          "baseUnit": true
-        }
-      ]
     }
   ]
 }

@@ -21,15 +21,25 @@
 	quests: [
 		{
 			id: "6E3CFD9314B56992"
-			rewards: [{
-				count: 3
-				id: "07C877FD1CC85C4D"
-				item: {
-					count: 1
-					id: "cobblemon:potion"
+			rewards: [
+				{
+					count: 3
+					id: "07C877FD1CC85C4D"
+					item: {
+						count: 1
+						id: "cobblemon:potion"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "68785103BA128F6B"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "590FA7AEE1DFDF11"
 				item: { count: 1, id: "cobblemon:potion" }
@@ -40,15 +50,25 @@
 		}
 		{
 			id: "1E5DBF7BFBBC3F09"
-			rewards: [{
-				count: 3
-				id: "49274E90CFBEBE08"
-				item: {
-					count: 1
-					id: "cobblemon:super_potion"
+			rewards: [
+				{
+					count: 3
+					id: "49274E90CFBEBE08"
+					item: {
+						count: 1
+						id: "cobblemon:super_potion"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "05E6E8CB0BAA2EF8"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7140E8053F2ABEFE"
 				item: { count: 1, id: "cobblemon:super_potion" }
@@ -59,15 +79,25 @@
 		}
 		{
 			id: "3706D3AD3D97108E"
-			rewards: [{
-				count: 3
-				id: "547E843819A427BE"
-				item: {
-					count: 1
-					id: "cobblemon:hyper_potion"
+			rewards: [
+				{
+					count: 3
+					id: "547E843819A427BE"
+					item: {
+						count: 1
+						id: "cobblemon:hyper_potion"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "0C6922F468DFC5AF"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6AF6839E39D37A77"
 				item: { count: 1, id: "cobblemon:hyper_potion" }
@@ -106,15 +136,25 @@
 		}
 		{
 			id: "2EEE8BD5DF368AF3"
-			rewards: [{
-				count: 2
-				id: "660978DA842DFA8E"
-				item: {
-					count: 1
-					id: "cobblemon:max_potion"
+			rewards: [
+				{
+					count: 2
+					id: "660978DA842DFA8E"
+					item: {
+						count: 1
+						id: "cobblemon:max_potion"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "65F83BA4885A0BDB"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2482121C3370DE3F"
 				item: { count: 1, id: "cobblemon:max_potion" }
@@ -125,15 +165,25 @@
 		}
 		{
 			id: "1902F60DDE1419E8"
-			rewards: [{
-				count: 2
-				id: "0DA978311E71C7CA"
-				item: {
-					count: 1
-					id: "cobblemon:berry_juice"
+			rewards: [
+				{
+					count: 2
+					id: "0DA978311E71C7CA"
+					item: {
+						count: 1
+						id: "cobblemon:berry_juice"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "466D13716C9C549F"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "75294F428CDA4A33"
 				item: { count: 1, id: "cobblemon:berry_juice" }
@@ -144,15 +194,25 @@
 		}
 		{
 			id: "7EC1A3AA7A9D1CDC"
-			rewards: [{
-				count: 2
-				id: "7D72383A544BD8B6"
-				item: {
-					count: 1
-					id: "cobblemon:fine_remedy"
+			rewards: [
+				{
+					count: 2
+					id: "7D72383A544BD8B6"
+					item: {
+						count: 1
+						id: "cobblemon:fine_remedy"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "2BF2F1B3C90E07BF"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2BAEC2ECC2F3BBB4"
 				item: { count: 1, id: "cobblemon:fine_remedy" }
@@ -163,15 +223,25 @@
 		}
 		{
 			id: "7A3F6967D5410C1E"
-			rewards: [{
-				count: 3
-				id: "468832FB8B8B67F8"
-				item: {
-					count: 1
-					id: "cobblemon:medicinal_leek"
+			rewards: [
+				{
+					count: 3
+					id: "468832FB8B8B67F8"
+					item: {
+						count: 1
+						id: "cobblemon:medicinal_leek"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "14C3EF4ECE91EC2B"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7D56639B990610F7"
 				item: { count: 1, id: "cobblemon:medicinal_leek" }
@@ -182,15 +252,25 @@
 		}
 		{
 			id: "131E6C9BFA16C30F"
-			rewards: [{
-				count: 3
-				id: "24FA274027D12EEC"
-				item: {
-					count: 1
-					id: "cobblemon:medicinal_brew"
+			rewards: [
+				{
+					count: 3
+					id: "24FA274027D12EEC"
+					item: {
+						count: 1
+						id: "cobblemon:medicinal_brew"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "74A0104196207593"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0B952F254B956474"
 				item: { count: 1, id: "cobblemon:medicinal_brew" }
@@ -201,15 +281,25 @@
 		}
 		{
 			id: "149B8A05A3F72CFD"
-			rewards: [{
-				count: 2
-				id: "3160F3E5089709AA"
-				item: {
-					count: 1
-					id: "cobblemon:superb_remedy"
+			rewards: [
+				{
+					count: 2
+					id: "3160F3E5089709AA"
+					item: {
+						count: 1
+						id: "cobblemon:superb_remedy"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "017621C71D51AE68"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2CFF469A51DE7A18"
 				item: { count: 1, id: "cobblemon:superb_remedy" }
@@ -220,15 +310,25 @@
 		}
 		{
 			id: "058E6235C1DB5C4C"
-			rewards: [{
-				count: 2
-				id: "5130A5E23884CF6D"
-				item: {
-					count: 1
-					id: "cobblemon:remedy"
+			rewards: [
+				{
+					count: 2
+					id: "5130A5E23884CF6D"
+					item: {
+						count: 1
+						id: "cobblemon:remedy"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "742B376B2C3FC87E"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3F0ADEEB506D4EBA"
 				item: { count: 1, id: "cobblemon:remedy" }
@@ -239,15 +339,25 @@
 		}
 		{
 			id: "37865F6E44E977C6"
-			rewards: [{
-				count: 3
-				id: "6D6C88E63C84FB8F"
-				item: {
-					count: 1
-					id: "cobblemon:full_heal"
+			rewards: [
+				{
+					count: 3
+					id: "6D6C88E63C84FB8F"
+					item: {
+						count: 1
+						id: "cobblemon:full_heal"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "4147B3CE67453772"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "52B39E8C9A657C87"
 				item: { count: 1, id: "cobblemon:full_heal" }
@@ -258,15 +368,25 @@
 		}
 		{
 			id: "6B9176CF06095419"
-			rewards: [{
-				count: 3
-				id: "56DB396238CE17FB"
-				item: {
-					count: 1
-					id: "cobblemon:paralyze_heal"
+			rewards: [
+				{
+					count: 3
+					id: "56DB396238CE17FB"
+					item: {
+						count: 1
+						id: "cobblemon:paralyze_heal"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "6E96E8C5F757ED1F"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "05021F15A2E46269"
 				item: { count: 1, id: "cobblemon:paralyze_heal" }
@@ -277,15 +397,25 @@
 		}
 		{
 			id: "527568027F252B66"
-			rewards: [{
-				count: 3
-				id: "09784A70DB11D8B3"
-				item: {
-					count: 1
-					id: "cobblemon:ice_heal"
+			rewards: [
+				{
+					count: 3
+					id: "09784A70DB11D8B3"
+					item: {
+						count: 1
+						id: "cobblemon:ice_heal"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "03941F8A5AC4F407"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "781B4D223597010A"
 				item: { count: 1, id: "cobblemon:ice_heal" }
@@ -296,15 +426,25 @@
 		}
 		{
 			id: "086EF8303A117654"
-			rewards: [{
-				count: 3
-				id: "26B649A83BDEEC0D"
-				item: {
-					count: 1
-					id: "cobblemon:burn_heal"
+			rewards: [
+				{
+					count: 3
+					id: "26B649A83BDEEC0D"
+					item: {
+						count: 1
+						id: "cobblemon:burn_heal"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "185B25E491DED2CF"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "177ECF78BF803E65"
 				item: { count: 1, id: "cobblemon:burn_heal" }
@@ -315,15 +455,25 @@
 		}
 		{
 			id: "34ADE77EE2C1EC0B"
-			rewards: [{
-				count: 3
-				id: "7A395DD4A9DAD338"
-				item: {
-					count: 1
-					id: "cobblemon:heal_powder"
+			rewards: [
+				{
+					count: 3
+					id: "7A395DD4A9DAD338"
+					item: {
+						count: 1
+						id: "cobblemon:heal_powder"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "663B2C4D37C2EFAA"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2EC5610753514EA1"
 				item: { count: 1, id: "cobblemon:heal_powder" }
@@ -349,6 +499,14 @@
 					id: "4D6B09108B5CC47E"
 					table_id: 461541554913494471L
 					type: "random"
+				}
+				{
+					id: "1F8A20BD5B6D0F9E"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -377,6 +535,14 @@
 					table_id: 461541554913494471L
 					type: "random"
 				}
+				{
+					id: "177D0F4D0DF171F2"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "349020FF1F14FF1D"
@@ -403,6 +569,14 @@
 					id: "2B8EA902CD628FEF"
 					table_id: 461541554913494471L
 					type: "random"
+				}
+				{
+					id: "51BAE2E38FBFD886"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -431,6 +605,14 @@
 					table_id: 461541554913494471L
 					type: "random"
 				}
+				{
+					id: "7AD2ED7E6218682D"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "7A6432392BD66EBD"
@@ -457,6 +639,14 @@
 					id: "0B0CC7D74BEF80AC"
 					table_id: 461541554913494471L
 					type: "random"
+				}
+				{
+					id: "5026198C8BA191A7"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -485,6 +675,14 @@
 					table_id: 461541554913494471L
 					type: "random"
 				}
+				{
+					id: "35A44C60BB519ECB"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "43B5DB08D924DA72"
@@ -511,6 +709,14 @@
 					id: "4D789653D9D08BA8"
 					table_id: 461541554913494471L
 					type: "random"
+				}
+				{
+					id: "1A8DD6658FFB7AF2"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -539,6 +745,14 @@
 					table_id: 461541554913494471L
 					type: "random"
 				}
+				{
+					id: "276A74149542B632"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "62FF55CCC72AC71D"
@@ -550,15 +764,25 @@
 		}
 		{
 			id: "49D0DDB64EC3AF50"
-			rewards: [{
-				count: 3
-				id: "5FB3BF65C14D411E"
-				item: {
-					count: 1
-					id: "cobblemon:revive"
+			rewards: [
+				{
+					count: 3
+					id: "5FB3BF65C14D411E"
+					item: {
+						count: 1
+						id: "cobblemon:revive"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "569FDD77623ECB06"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0A6CCE0A0507AEC7"
 				item: { count: 1, id: "cobblemon:revive" }
@@ -569,15 +793,26 @@
 		}
 		{
 			id: "53E0177A490A51CA"
-			rewards: [{
-				count: 3
-				id: "1AE9FEE07D439D7E"
-				item: {
-					count: 1
-					id: "cobblemon:max_revive"
+			rewards: [
+				{
+					count: 3
+					id: "1AE9FEE07D439D7E"
+					item: {
+						count: 1
+						id: "cobblemon:max_revive"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 5
+					id: "4E88D22E484596B2"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0E316BE2D5F183B3"
 				item: { count: 1, id: "cobblemon:max_revive" }
@@ -588,15 +823,25 @@
 		}
 		{
 			id: "4384F8BEBF860677"
-			rewards: [{
-				count: 3
-				id: "7A5BF115F0CB1FA5"
-				item: {
-					count: 1
-					id: "cobblemon:antidote"
+			rewards: [
+				{
+					count: 3
+					id: "7A5BF115F0CB1FA5"
+					item: {
+						count: 1
+						id: "cobblemon:antidote"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "397DF7E04E3E0BD4"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "46E00BDA8894383D"
 				item: { count: 1, id: "cobblemon:antidote" }
@@ -607,15 +852,25 @@
 		}
 		{
 			id: "547B0570CFD8E12A"
-			rewards: [{
-				count: 2
-				id: "60DFB0942FA3E1A6"
-				item: {
-					count: 1
-					id: "cobblemon:full_restore"
+			rewards: [
+				{
+					count: 2
+					id: "60DFB0942FA3E1A6"
+					item: {
+						count: 1
+						id: "cobblemon:full_restore"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "7B69F103FACF0253"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "13D16FE8B2A84B6D"
 				item: { count: 1, id: "cobblemon:full_restore" }
@@ -626,15 +881,25 @@
 		}
 		{
 			id: "572AF8B435EE58A5"
-			rewards: [{
-				count: 3
-				id: "7FC018D13000152D"
-				item: {
-					count: 1
-					id: "cobblemon:awakening"
+			rewards: [
+				{
+					count: 3
+					id: "7FC018D13000152D"
+					item: {
+						count: 1
+						id: "cobblemon:awakening"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "514D73FEB004E7F8"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "77494F2908252D4B"
 				item: { count: 1, id: "cobblemon:awakening" }
@@ -645,15 +910,25 @@
 		}
 		{
 			id: "2C5C59E55BE2BF2E"
-			rewards: [{
-				count: 3
-				id: "777E895EE773745E"
-				item: {
-					count: 1
-					id: "cobblemon:revival_herb"
+			rewards: [
+				{
+					count: 3
+					id: "777E895EE773745E"
+					item: {
+						count: 1
+						id: "cobblemon:revival_herb"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "1A87F766AF4B00AA"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "03D9CC04E77C6609"
 				item: { count: 1, id: "cobblemon:revival_herb" }

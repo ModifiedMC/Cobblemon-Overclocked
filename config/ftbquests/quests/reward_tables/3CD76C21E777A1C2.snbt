@@ -1,0 +1,143 @@
+{
+	id: "3CD76C21E777A1C2"
+	loot_size: 1
+	order_index: 21
+	rewards: [
+		{
+			count: 64
+			id: "27D2885494B9F268"
+			item: {
+				count: 1
+				id: "minecraft:terracotta"
+			}
+		}
+		{
+			count: 64
+			id: "5B1A6497813899F1"
+			item: {
+				count: 1
+				id: "minecraft:white_terracotta"
+			}
+		}
+		{
+			count: 64
+			id: "2E3CD3CAA51FDF8E"
+			item: {
+				count: 1
+				id: "minecraft:light_gray_terracotta"
+			}
+		}
+		{
+			count: 64
+			id: "6EEBA35A8DB25279"
+			item: {
+				count: 1
+				id: "minecraft:gray_terracotta"
+			}
+		}
+		{
+			count: 64
+			id: "178C5FE773E5B322"
+			item: {
+				count: 1
+				id: "minecraft:black_terracotta"
+			}
+		}
+		{
+			count: 64
+			id: "39B67D5A408FECB3"
+			item: {
+				count: 1
+				id: "minecraft:brown_terracotta"
+			}
+		}
+		{
+			count: 64
+			id: "2BC7110BA62EAF4B"
+			item: {
+				count: 1
+				id: "minecraft:red_terracotta"
+			}
+		}
+		{
+			count: 64
+			id: "1194D9D5CA4BEAF5"
+			item: {
+				count: 1
+				id: "minecraft:orange_terracotta"
+			}
+		}
+		{
+			count: 64
+			id: "265493E2CCD8CE03"
+			item: {
+				count: 1
+				id: "minecraft:yellow_terracotta"
+			}
+		}
+		{
+			count: 64
+			id: "2796498583E4D5D8"
+			item: {
+				count: 1
+				id: "minecraft:lime_terracotta"
+			}
+		}
+		{
+			count: 64
+			id: "2ACDFECDB948207E"
+			item: {
+				count: 1
+				id: "minecraft:green_terracotta"
+			}
+		}
+		{
+			count: 64
+			id: "18DE1C14CFE18403"
+			item: {
+				count: 1
+				id: "minecraft:cyan_terracotta"
+			}
+		}
+		{
+			count: 64
+			id: "48FAEABFA8FAA3F5"
+			item: {
+				count: 1
+				id: "minecraft:light_blue_terracotta"
+			}
+		}
+		{
+			count: 64
+			id: "6B72A966984836FB"
+			item: {
+				count: 1
+				id: "minecraft:blue_terracotta"
+			}
+		}
+		{
+			count: 64
+			id: "7838C21755DE0AB5"
+			item: {
+				count: 1
+				id: "minecraft:purple_terracotta"
+			}
+		}
+		{
+			count: 64
+			id: "73159AEBA75F59E7"
+			item: {
+				count: 1
+				id: "minecraft:magenta_terracotta"
+			}
+		}
+		{
+			count: 64
+			id: "5B095FBD7F4D6469"
+			item: {
+				count: 1
+				id: "minecraft:pink_terracotta"
+			}
+		}
+	]
+}

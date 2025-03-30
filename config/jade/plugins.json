@@ -114,6 +114,13 @@
   "jadeaddons.lootr": {
     "info": true
   },
+  "mekanism": {
+    "chemical": true,
+    "remove_builtin": true,
+    "fluid": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
   "toms_storage": {
     "inventory_config": true,
     "inventory_connector": true

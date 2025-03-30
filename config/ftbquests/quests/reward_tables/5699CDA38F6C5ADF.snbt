@@ -1,0 +1,39 @@
+{
+	id: "5699CDA38F6C5ADF"
+	loot_size: 1
+	order_index: 25
+	rewards: [
+		{
+			count: 32
+			id: "4A30B265FDA0245D"
+			item: {
+				count: 1
+				id: "minecraft:string"
+			}
+		}
+		{
+			count: 32
+			id: "79F2F300B274EF89"
+			item: {
+				count: 1
+				id: "minecraft:bone"
+			}
+		}
+		{
+			count: 16
+			id: "072E3611DF58301F"
+			item: {
+				count: 1
+				id: "minecraft:spider_eye"
+			}
+		}
+		{
+			count: 64
+			id: "3D0C217ACE116A74"
+			item: {
+				count: 1
+				id: "minecraft:rotten_flesh"
+			}
+		}
+	]
+}

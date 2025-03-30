@@ -1,0 +1,31 @@
+{
+	id: "42E46DC97C21BC14"
+	loot_size: 1
+	order_index: 22
+	rewards: [
+		{
+			count: 64
+			id: "23B6D880C31BE653"
+			item: {
+				count: 1
+				id: "minecraft:sand"
+			}
+		}
+		{
+			count: 64
+			id: "0EB467B81C0F3C54"
+			item: {
+				count: 1
+				id: "minecraft:cobblestone"
+			}
+		}
+		{
+			count: 64
+			id: "1F598C9DA09374FB"
+			item: {
+				count: 1
+				id: "minecraft:dirt"
+			}
+		}
+	]
+}

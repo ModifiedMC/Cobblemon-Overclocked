@@ -1,26 +1,30 @@
 [Settings]
-	#This will enable or disable the Skills Record's Edit Mode.
+	#Enables or disables Edit Mode in the Skills Record screen.
+	#Edit Mode allows customization of the Skills Record interface.
 	sr_edit_mode = false
 
 	[Settings.Visuals]
-		#This will enable or disable the drop shadow effect in the text screen of the Skills Record.
+		#Toggles the drop shadow effect on text in the Skills Record screen.
+		#When enabled, text will have a subtle shadow for better readability.
 		text_screen_shadow = true
-		#This is the background color for the skills record GUI.
+		#Sets the background color of the Skills Record GUI.
+		#Choose from predefined color options to customize the interface.
 		#Allowed Values: DEFAULT, RED, ORANGE, YELLOW, GREEN, BLUE, INDIGO, VIOLET
 		background_color = "DEFAULT"
-		#This will enable or disable the animations on the skills record GUI.
+		#Enables or disables animations in the Skills Record GUI.
+		#Animations provide visual feedback for interactions.
 		animations_mode = true
-		#Here you can choose whatever mode you prefer for the bar visibility
-		#In the skills record GUI.
-		#0: Always on.
-		#1: On holding its keybind. "Default Keybind: Shift"
-		#2: Disabled.
+		#Controls the visibility mode of the progress bar:
+		#0: Always visible.
+		#1: Visible only when holding its keybind.
+		#2: Disabled entirely.
 		# Default: 0
 		# Range: 0 ~ 2
 		progress_bar_mode = 0
-		#You can choose when will the challenges panel appears on the screen.
+		#Determines the position of the Challenges panel on the screen.
+		#Choose from predefined positions (e.g., LEFT, RIGHT).
 		#Allowed Values: DISABLED, TOP_LEFT, TOP_RIGHT, LEFT, RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT
 		challenges_panel_pos = "LEFT"
-		#Here you can enable or disable the Mining Skill Card Renderer
-		#It's not recommended for now! [WIP]
+		#Enables or disables the Mining Skill Card Renderer.
+		#Note: This feature is a work in progress (WIP) and not recommended for regular use.
 		msc_renderer = false

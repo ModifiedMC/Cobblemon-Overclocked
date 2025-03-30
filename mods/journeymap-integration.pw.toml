@@ -1,13 +1,13 @@
 name = "JourneyMap Integration"
-filename = "jmi-neoforge-1.21.1-1.8.jar"
+filename = "jmi-neoforge-1.21.1-1.8.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4b82c887719169ec61c03a717e70f41a81ae5fa5"
+hash = "34a4e38fd72dbdbfc7b80438534a8548af95cea6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6188709
+file-id = 6335692
 project-id = 525447

@@ -1,0 +1,39 @@
+{
+	id: "2AD2D1E18E9F7E0D"
+	loot_size: 1
+	order_index: 18
+	rewards: [
+		{
+			count: 48
+			id: "3C22065F2F29D6A6"
+			item: {
+				count: 1
+				id: "minecraft:mossy_cobblestone"
+			}
+		}
+		{
+			count: 64
+			id: "44B5DD5C9158DB41"
+			item: {
+				count: 1
+				id: "minecraft:stone_bricks"
+			}
+		}
+		{
+			count: 64
+			id: "098B8C2566F40466"
+			item: {
+				count: 1
+				id: "minecraft:stone"
+			}
+		}
+		{
+			count: 64
+			id: "04AB87FDAED9E1BF"
+			item: {
+				count: 1
+				id: "minecraft:deepslate"
+			}
+		}
+	]
+}

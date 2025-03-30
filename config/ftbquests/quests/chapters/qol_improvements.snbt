@@ -15,14 +15,24 @@
 	quests: [
 		{
 			id: "4A0AAADCDF3570B0"
-			rewards: [{
-				id: "3FE9C8E8F2B4582D"
-				item: {
-					count: 1
-					id: "naturescompass:naturescompass"
+			rewards: [
+				{
+					id: "3FE9C8E8F2B4582D"
+					item: {
+						count: 1
+						id: "naturescompass:naturescompass"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "5DF0A1879A4138C5"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "29DCD783B1A4A7C3"
 				item: { count: 1, id: "naturescompass:naturescompass" }
@@ -33,14 +43,24 @@
 		}
 		{
 			id: "49E9FA35D00C6255"
-			rewards: [{
-				id: "7BB03252D6E85B24"
-				item: {
-					count: 1
-					id: "waystones:blackstone_waystone"
+			rewards: [
+				{
+					id: "7BB03252D6E85B24"
+					item: {
+						count: 1
+						id: "waystones:blackstone_waystone"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "74AB2B0E9F6E4C19"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "597D0BC67A4D7342"
 				item: { count: 1, id: "waystones:waystone" }
@@ -61,11 +81,10 @@
 					type: "item"
 				}
 				{
-					count: 16
-					id: "36E71E84A3547048"
+					id: "0D8B3E56ADBC0364"
 					item: {
 						count: 1
-						id: "minecraft:experience_bottle"
+						id: "ars_nouveau:greater_experience_gem"
 					}
 					type: "item"
 				}
@@ -80,14 +99,24 @@
 		}
 		{
 			id: "3CD34A691E644B39"
-			rewards: [{
-				id: "65D64E25B93AC42D"
-				item: {
-					count: 1
-					id: "akashictome:tome"
+			rewards: [
+				{
+					id: "65D64E25B93AC42D"
+					item: {
+						count: 1
+						id: "akashictome:tome"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "1788F9D8806CC8D9"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3A591B0B6EC58D9E"
 				item: { count: 1, id: "akashictome:tome" }
@@ -156,6 +185,56 @@
 		}
 		{
 			id: "6A6BA5929CEFA82C"
+			rewards: [
+				{
+					id: "10657DE124AB2851"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+				{
+					id: "77ADCAAA9904E43F"
+					item: {
+						count: 1
+						id: "pocketmachines:pocket_crafting"
+					}
+					type: "item"
+				}
+				{
+					id: "24B1E28BDF20EAE5"
+					item: {
+						count: 1
+						id: "pocketmachines:pocket_furnace"
+					}
+					type: "item"
+				}
+				{
+					id: "06EFF7B6BB6D1F8F"
+					item: {
+						count: 1
+						id: "pocketmachines:pocket_anvil"
+					}
+					type: "item"
+				}
+				{
+					id: "1A829C91E5587B5C"
+					item: {
+						count: 1
+						id: "pocketmachines:pocket_ender_chest"
+					}
+					type: "item"
+				}
+				{
+					id: "249F8AA97970ECCE"
+					item: {
+						count: 1
+						id: "pocketmachines:pocket_brewing_stand"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "42619053C0E5D953"

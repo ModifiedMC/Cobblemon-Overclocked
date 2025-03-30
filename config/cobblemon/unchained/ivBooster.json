@@ -1,0 +1,18 @@
+{
+  "koStreakPoints": 0,
+  "koCountPoints": 0,
+  "captureStreakPoints": 1,
+  "captureCountPoints": 0,
+  "thresholds": {
+    "5": 1,
+    "10": 2,
+    "20": 3,
+    "35": 4,
+    "50": 5,
+    "69": 6
+  },
+  "debug": false,
+  "blacklist": [],
+  "whitelist": [],
+  "careAboutForms": true
+}

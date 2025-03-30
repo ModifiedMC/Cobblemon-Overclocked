@@ -1,0 +1,21 @@
+{
+	id: "1A53561C0C7E8E90"
+	loot_size: 1
+	order_index: 28
+	rewards: [
+		{ id: "2448DEB29A0801B3", item: { count: 1, id: "sophisticatedstorage:shulker_box" } }
+		{ id: "044106875E58BAA5", item: { components: { "sophisticatedcore:accent_color": -393218, "sophisticatedcore:main_color": -393218 }, count: 1, id: "sophisticatedstorage:shulker_box" } }
+		{ id: "0D7746766B946907", item: { components: { "sophisticatedcore:accent_color": -425955, "sophisticatedcore:main_color": -425955 }, count: 1, id: "sophisticatedstorage:shulker_box" } }
+		{ id: "37A57C46FCFC47D4", item: { components: { "sophisticatedcore:accent_color": -75715, "sophisticatedcore:main_color": -75715 }, count: 1, id: "sophisticatedstorage:shulker_box" } }
+		{ id: "130E125B21208C21", item: { components: { "sophisticatedcore:accent_color": -8337633, "sophisticatedcore:main_color": -8337633 }, count: 1, id: "sophisticatedstorage:shulker_box" } }
+		{ id: "54AB82AC3D1FE491", item: { components: { "sophisticatedcore:accent_color": -15295332, "sophisticatedcore:main_color": -15295332 }, count: 1, id: "sophisticatedstorage:shulker_box" } }
+		{ id: "781B42503184B4C0", item: { components: { "sophisticatedcore:accent_color": -12930086, "sophisticatedcore:main_color": -12930086 }, count: 1, id: "sophisticatedstorage:shulker_box" } }
+		{ id: "225F5D7D0784622E", item: { components: { "sophisticatedcore:accent_color": -12827478, "sophisticatedcore:main_color": -12827478 }, count: 1, id: "sophisticatedstorage:shulker_box" } }
+		{ id: "430AC6DA43130548", item: { components: { "sophisticatedcore:accent_color": -7785800, "sophisticatedcore:main_color": -7785800 }, count: 1, id: "sophisticatedstorage:shulker_box" } }
+		{ id: "42C3AAFBA1354760", item: { components: { "sophisticatedcore:accent_color": -5231066, "sophisticatedcore:main_color": -5231066 }, count: 1, id: "sophisticatedstorage:shulker_box" } }
+		{ id: "3DE3701B95106AD2", item: { components: { "sophisticatedcore:accent_color": -816214, "sophisticatedcore:main_color": -816214 }, count: 1, id: "sophisticatedstorage:shulker_box" } }
+		{ id: "24AEE5A083247EBF", item: { components: { "sophisticatedcore:accent_color": -6447721, "sophisticatedcore:main_color": -6447721 }, count: 1, id: "sophisticatedstorage:shulker_box" } }
+		{ id: "588B7DB5A0B1557E", item: { components: { "sophisticatedcore:accent_color": -12103854, "sophisticatedcore:main_color": -12103854 }, count: 1, id: "sophisticatedstorage:shulker_box" } }
+		{ id: "5E150DB5006155DD", item: { components: { "sophisticatedcore:accent_color": -14869215, "sophisticatedcore:main_color": -14869215 }, count: 1, id: "sophisticatedstorage:shulker_box" } }
+	]
+}

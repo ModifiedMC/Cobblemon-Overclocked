@@ -1,0 +1,143 @@
+{
+	id: "55F104F2D5888BB7"
+	loot_size: 1
+	order_index: 24
+	rewards: [
+		{
+			count: 64
+			id: "66D4EEFB6733401D"
+			item: {
+				count: 1
+				id: "minecraft:bricks"
+			}
+		}
+		{
+			count: 64
+			id: "70A57926D174F075"
+			item: {
+				count: 1
+				id: "minecraft:white_concrete"
+			}
+		}
+		{
+			count: 64
+			id: "6DEA532B2B0A61E5"
+			item: {
+				count: 1
+				id: "minecraft:light_gray_concrete"
+			}
+		}
+		{
+			count: 64
+			id: "676155E685F072AE"
+			item: {
+				count: 1
+				id: "minecraft:gray_concrete"
+			}
+		}
+		{
+			count: 64
+			id: "57CDC99D663D4386"
+			item: {
+				count: 1
+				id: "minecraft:black_concrete"
+			}
+		}
+		{
+			count: 64
+			id: "0FCC45CB05C1E2FC"
+			item: {
+				count: 1
+				id: "minecraft:brown_concrete"
+			}
+		}
+		{
+			count: 64
+			id: "1BDF8B20CA426B0D"
+			item: {
+				count: 1
+				id: "minecraft:red_concrete"
+			}
+		}
+		{
+			count: 64
+			id: "1FEE33C48A149032"
+			item: {
+				count: 1
+				id: "minecraft:orange_concrete"
+			}
+		}
+		{
+			count: 64
+			id: "562A2CC982376463"
+			item: {
+				count: 1
+				id: "minecraft:yellow_concrete"
+			}
+		}
+		{
+			count: 64
+			id: "2F86F6C1CFB58F6D"
+			item: {
+				count: 1
+				id: "minecraft:lime_concrete"
+			}
+		}
+		{
+			count: 64
+			id: "64161F878749DA35"
+			item: {
+				count: 1
+				id: "minecraft:green_concrete"
+			}
+		}
+		{
+			count: 64
+			id: "3490D7BD6F644ABC"
+			item: {
+				count: 1
+				id: "minecraft:cyan_concrete"
+			}
+		}
+		{
+			count: 64
+			id: "40D0C5DE2CDA6277"
+			item: {
+				count: 1
+				id: "minecraft:light_blue_concrete"
+			}
+		}
+		{
+			count: 64
+			id: "69D2048222AB98C3"
+			item: {
+				count: 1
+				id: "minecraft:blue_concrete"
+			}
+		}
+		{
+			count: 64
+			id: "11A6E6BD21F5DF59"
+			item: {
+				count: 1
+				id: "minecraft:purple_concrete"
+			}
+		}
+		{
+			count: 64
+			id: "61C47C7E822FF9FA"
+			item: {
+				count: 1
+				id: "minecraft:magenta_concrete"
+			}
+		}
+		{
+			count: 64
+			id: "2EFE6736D2899870"
+			item: {
+				count: 1
+				id: "minecraft:pink_concrete"
+			}
+		}
+	]
+}

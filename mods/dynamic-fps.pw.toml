@@ -1,13 +1,13 @@
 name = "Dynamic FPS"
-filename = "dynamic-fps-3.9.0+minecraft-1.21.0-neoforge.jar"
+filename = "dynamic-fps-3.9.2+minecraft-1.21.0-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3fa241feab0b791b94e8f272f22095e85109137d"
+hash = "9e6ffb34d89b71b9253e57b54032e82df368a205"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6250877
+file-id = 6347438
 project-id = 335493

@@ -1,13 +1,13 @@
 name = "Cobblemon Quests"
-filename = "cobblemon_quests-[1.21.1]-neoforge-1.1.12.jar"
+filename = "cobblemon_quests-[1.21.1]-neoforge-1.1.14.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ef3035cfbea21e482a7f3d9e3a403e72d05ec3c1"
+hash = "c1d1b12e74e2cedca79898c96e16138feecb3a93"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6042947
+file-id = 6364992
 project-id = 922979

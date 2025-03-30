@@ -1,13 +1,13 @@
 name = "FTB Ultimine Addition (Forge/NeoForge/Fabric)"
-filename = "ultimine_addition-neoforge-1.21-1.0.2.jar"
+filename = "ultimine_addition-neoforge-1.21.1-1.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "00e1b9c3907ab17b4b257525f77834c936dc1f92"
+hash = "ec38860fd4947206e60ec5f10d8f22b66206b7ac"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6037352
+file-id = 6358463
 project-id = 733166

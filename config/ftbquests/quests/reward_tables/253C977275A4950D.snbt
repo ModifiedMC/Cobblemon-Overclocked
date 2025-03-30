@@ -1,0 +1,31 @@
+{
+	id: "253C977275A4950D"
+	loot_size: 1
+	order_index: 20
+	rewards: [
+		{
+			count: 64
+			id: "4134DF6200624C79"
+			item: {
+				count: 1
+				id: "minecraft:mossy_stone_bricks"
+			}
+		}
+		{
+			count: 64
+			id: "38A50FC57FCBE129"
+			item: {
+				count: 1
+				id: "minecraft:cracked_stone_bricks"
+			}
+		}
+		{
+			count: 64
+			id: "3446FEB463628F30"
+			item: {
+				count: 1
+				id: "minecraft:chiseled_stone_bricks"
+			}
+		}
+	]
+}
