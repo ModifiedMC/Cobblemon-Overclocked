@@ -1,6 +1,6 @@
 name = "Chat Toggle"
 filename = "chattoggle-5.0.1+1.21-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Cobblemon Classic Grass Pack"
 filename = "Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

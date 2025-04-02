@@ -1,6 +1,6 @@
 name = "Radical Cobblemon Trainer Textures Plus"
 filename = "RCT Trainers+ [1.6] v1.5.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

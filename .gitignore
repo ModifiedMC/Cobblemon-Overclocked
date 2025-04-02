@@ -1,4 +1,6 @@
 .env
+download
 build
 shaderpacks/*.zip
 *.zip
+packwiz-installer-bootstrap.jar

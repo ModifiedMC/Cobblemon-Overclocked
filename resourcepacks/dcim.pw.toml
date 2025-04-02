@@ -1,6 +1,6 @@
 name = "datboiwill's Cobblemon Icons for Maps"
 filename = "dCIM1.0.3.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
