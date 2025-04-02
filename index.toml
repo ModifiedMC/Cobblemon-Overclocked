@@ -4330,11 +4330,11 @@ hash = "633a90a36cf0947b199e9a6737c19982d8130820a18b69aa0d16240b584ec001"
 
 [[files]]
 file = "config/toms_storage-common.toml"
-hash = "a7ff87dbfa4587eda3e1aa9f8e05102bdf0e6f7961fde07a360e86c6cd69da1f"
+hash = "88b597e6b6b4e6d05eaf4b649a7edd2e56abf24cb7bbdc609dfa9b3f5c56fe5f"
 
 [[files]]
 file = "config/toms_storage-server.toml"
-hash = "8927d44c31f267698d3b47912be28fa25c5834d7c2780fdf1d83cccce9f7c95c"
+hash = "2cd44930add8d579912ef81d9b3537b588b9705a7b7ef31ca0b17bf13a3d08a8"
 
 [[files]]
 file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
