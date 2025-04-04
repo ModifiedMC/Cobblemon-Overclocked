@@ -1,11 +1,8 @@
 name: 📦 CI
 
 on:
-  pull_request:
-    types: [opened, labeled, unlabeled, synchronize, ready_for_review, converted_to_draft]
-    paths: ["**", "!**/README.md"]
   push:
-    branches: [master]
+    branches: [main]
     tags: [v*]
     paths: ["**", "!**/README.md"]
   workflow_dispatch:
