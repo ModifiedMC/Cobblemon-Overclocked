@@ -1,13 +1,13 @@
 name = "Cobblemon Interface: Modded"
-filename = "Cobblemon Interface Modded v1.7.0.zip"
+filename = "Cobblemon Interface Modded v1.8.0.zip"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "45872d3c9c8838d07b00c709e69a2f9fa0db1cb0"
+hash = "91a6aa56fffbaaf7b2c272de1b0891fffbd124e7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6063208
+file-id = 6357396
 project-id = 989454

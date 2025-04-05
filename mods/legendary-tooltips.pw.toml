@@ -1,13 +1,13 @@
 name = "Legendary Tooltips [Neo/Forge]"
-filename = "LegendaryTooltips-1.21-neoforge-1.4.11.jar"
+filename = "LegendaryTooltips-1.21.1-neoforge-1.5.3.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "7d76f5a05e34069e5649c410d900b46a1342d386"
+hash = "b9a9ef13614d9130a34204e0d771889b34915a6d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5591027
+file-id = 6382176
 project-id = 532127
