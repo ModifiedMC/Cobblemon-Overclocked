@@ -98,13 +98,13 @@ zip_file="$NAME-$VERSION.zip"
 server_zip_file="$NAME-$VERSION-server.zip"
 # refresh packwiz
 echo "Refreshing hashes..."
-packwiz --cache $BASE_DIR/download/packwiz refresh
+"$BASE_DIR/.bin/packwiz-wrapper" --cache $BASE_DIR/download/packwiz refresh
 echo -e "=====\n\n"
 
 if [[ "$TYPE" == "both" ]] || [[ "$TYPE" == "client" ]]; then
     # main CF client export
     echo "Exporting CurseForge pack..."
-    packwiz --cache $BASE_DIR/download/packwiz cf export --side client
+    "$BASE_DIR/.bin/packwiz-wrapper"  --cache $BASE_DIR/download/packwiz cf export --side client
 
     # make working directory structure
     mkdir -p "$BASE_DIR/build/client"
