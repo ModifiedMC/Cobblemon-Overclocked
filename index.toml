@@ -1,26 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".bin/install-dependencies"
-hash = "d8eff440a45988ffed1c522a3bece5b0e2152c34650c19bc04c0f2d89b2a0207"
-
-[[files]]
-file = ".bin/packwiz-wrapper"
-hash = "b65782607fc02486ff8cc50b3e980ecc946a4ec008da7931e37ce5e734edf974"
-
-[[files]]
-file = ".bin/update-mod"
-hash = "ef6a3217cd64336b98e238ad5b83350a9266466ad3ef24a01dc1e82d929716f2"
-
-[[files]]
-file = ".vscode/extensions.json"
-hash = "ad77326726ad21350c959c477385ff726ca53db0bf4660d7d1490a5c2a5e52b1"
-
-[[files]]
-file = ".vscode/tasks.json"
-hash = "fbcea9472bffc7041f1b4d9ab3bb544b75707a1a935b30893727df435540fb34"
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
@@ -5727,7 +5707,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
-hash = "1192b891e6a3d88a300db8939e509478154354e20447046ac5cd1ebe493a8dd6"
+hash = "611e33dd999dabde84d76876cd82b26e7317b38adb39d30f5e11c20e463aed31"
 metafile = true
 
 [[files]]
@@ -6022,7 +6002,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "b216d54bf3b22b4bc65445ce1e468f65dfea47461fb457de4de0125386482e0f"
+hash = "526b27e937f6fe327eb583c77830562dd96928d948ed559cb614b2233e2646bc"
 metafile = true
 
 [[files]]
