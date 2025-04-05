@@ -5846,6 +5846,11 @@ hash = "69ccc78abd447582c726f2dca72294a59af0c13c8e1ec3ae32b3bacd6469206e"
 metafile = true
 
 [[files]]
+file = "mods/flat-bedrock.pw.toml"
+hash = "d17382ebb5d2d2f7e56e9fbb71b4b9d7ec9a61134dec3de9ef8bfaab876c205a"
+metafile = true
+
+[[files]]
 file = "mods/flerovium.pw.toml"
 hash = "1a31a90d5fbe12ba99ae6fec3c3462caaaba7db8fcc21ea7d8970a84882dadfc"
 metafile = true
