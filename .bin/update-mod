@@ -1,0 +1,19 @@
+#!/bin/bash
+
+set -o errexit
+set -o pipefail
+set -o nounset
+
+BASE_DIR=$( realpath $( dirname "${BASH_SOURCE[0]}" )/../ )
+pw_file="$1"
+
+if [[ "$pw_file" != *".pw.toml" ]]; then
+    echo "Not a packwiz metadta file. Nothing to update."
+    exit 1
+fi
+
+pw_file="$(basename "$pw_file")"
+pw_file="${pw_file/.pw.toml/}"
+
+
+"$BASE_DIR/.bin/packwiz-wrapper" update "$pw_file"

@@ -1,0 +1,59 @@
+#!/bin/bash
+
+set -o errexit
+set -o pipefail
+set -o nounset
+
+BASE_DIR=$( realpath $( dirname "${BASH_SOURCE[0]}" )/../ )
+
+IS_DEBIAN="$(type apt-get 2>/dev/null 1>&2 && echo "true" || echo "false")"
+
+function install-apt() {
+    package="$1"
+
+    if [[ "$IS_DEBIAN" == "false" ]]; then
+        echo "Unknown OS cannot install $package with apt-get"
+        exit 1
+    fi
+
+    sudo apt-get update
+    sudo apt-get install -y $package
+}
+
+function packwiz-path() {
+    packwiz_path="$(command -v packwiz || true)"
+    if [[ -z "$packwiz_path" ]]; then
+        packwiz_path="$BASE_DIR/.bin/packwiz"
+    fi
+
+    if [[ -f "$packwiz_path" ]]; then
+        echo "$packwiz_path"
+    fi
+}
+
+zip_installed="$(type zip 2>/dev/null 1>&2 && echo "true" || echo "false")"
+if [[ "$zip_installed" == "false" ]]; then
+    echo "Installing zip..."
+    install-apt zip
+fi
+
+if [[ -z "$(packwiz-path)" ]]; then
+    echo "Installing packwiz..."
+    curl -sL https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip -o packwiz.zip
+    unzip packwiz.zip
+    mv packwiz .bin/packwiz
+fi
+
+jq_installed="$(type jq 2>/dev/null 1>&2 && echo "true" || echo "false")"
+if [[ "$jq_installed" == "false" ]]; then
+    echo "Installing jq..."
+    install-apt jq
+fi
+
+java_installed="$(type java 2>/dev/null 1>&2 && echo "true" || echo "false")"
+if [[ "$java_installed" == "false" ]]; then
+    echo "Installing java..."
+    install-apt default-jre
+fi
+
+echo "Dependencies installed"
