@@ -1,5 +1,5 @@
 name = "Icarus"
-filename = "Icarus-NeoForge-4.5.0.jar"
+filename = "Icarus-NeoForge-4.2.0.jar"
 side = "both"
 
 [download]
@@ -9,5 +9,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6218875
+file-id = 5852957
 project-id = 428151
