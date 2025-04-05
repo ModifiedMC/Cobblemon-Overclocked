@@ -5586,6 +5586,11 @@ hash = "1c0b848e58150e2a2d95a41523dcba0729508c576219e688c15f431218eeebc6"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "ec7944a564413218a8c492f5542019fb9180531207c7ae5cada89b1b3dbf3bc2"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "470b0d6784bece922b1664b34eb022cdcfdffb6c36247389eb32a8154d20057f"
 metafile = true
@@ -5828,6 +5833,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
+metafile = true
+
+[[files]]
+file = "mods/findme.pw.toml"
+hash = "5a27a3a69890806f1fd80ee50731a1ed8bc2a3dcfb8f9bd2098ac5ac132ca950"
 metafile = true
 
 [[files]]
@@ -6368,6 +6378,11 @@ metafile = true
 [[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "70db2eec093dadc990fe5862f9c3fe59a0d0de53542872eaccb5dc7f54be5fb1"
+metafile = true
+
+[[files]]
+file = "mods/measurements.pw.toml"
+hash = "19a4e73fa0814cda9b1ab666b72d0368322779898c52225baf1a2f6a4477bb5e"
 metafile = true
 
 [[files]]
