@@ -1,0 +1,77 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Install Dependencies",
+            "type": "shell",
+            "command": "${workspaceFolder}/.bin/install-dependencies",
+            "presentation": {
+                "reveal": "always"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Build CurseForge Client Pack",
+            "type": "shell",
+            "command": "${workspaceFolder}/.bin/build client",
+            "presentation": {
+                "reveal": "always"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Build CurseForge Server Pack",
+            "type": "shell",
+            "command": "${workspaceFolder}/.bin/build server",
+            "presentation": {
+                "reveal": "always"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Update All Mods",
+            "type": "shell",
+            "command": "${workspaceFolder}/.bin/packwiz-wrapper update --all",
+            "presentation": {
+                "reveal": "always"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Update Current Mod",
+            "type": "shell",
+            "command": "${workspaceFolder}/.bin/update-mod ${file}",
+            "presentation": {
+                "reveal": "always"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Add CurseForge Mod",
+            "type": "shell",
+            "command": "${workspaceFolder}/.bin/packwiz-wrapper cf add ${input:modURL}",
+            "presentation": {
+                "reveal": "always"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Add Modrinth Mod",
+            "type": "shell",
+            "command": "${workspaceFolder}/.bin/packwiz-wrapper mr add ${input:modURL}",
+            "presentation": {
+                "reveal": "always"
+            },
+            "problemMatcher": []
+        }
+    ],
+    "inputs": [
+        {
+            "type": "promptString",
+            "id": "modURL",
+            "description": "URL to mod"
+        }
+    ]
+}

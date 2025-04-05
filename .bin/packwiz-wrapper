@@ -1,0 +1,27 @@
+#!/bin/bash
+
+set -o errexit
+set -o pipefail
+set -o nounset
+
+BASE_DIR=$( realpath $( dirname "${BASH_SOURCE[0]}" )/../ )
+
+function packwiz-path() {
+    packwiz_path="$(command -v packwiz || true)"
+    if [[ -z "$packwiz_path" ]]; then
+        packwiz_path="$BASE_DIR/.bin/packwiz"
+    fi
+
+    if [[ -f "$packwiz_path" ]]; then
+        echo "$packwiz_path"
+    fi
+}
+
+if [[ -z "$(packwiz-path)" ]]; then
+    echo "Installing packwiz..."
+    curl -sL https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip -o packwiz.zip
+    unzip packwiz.zip
+    mv packwiz .bin/packwiz
+fi
+
+"$(packwiz-path)" $@

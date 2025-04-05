@@ -23,23 +23,39 @@ function cleanup-server() {
     popd 2>/dev/null 1>&2
 }
 
+function packwiz-path() {
+    packwiz_path="$(command -v packwiz || true)"
+    if [[ -z "$packwiz_path" ]]; then
+        packwiz_path="$BASE_DIR/.bin/packwiz"
+    fi
+
+    if [[ -f "$packwiz_path" ]]; then
+        echo "$packwiz_path"
+    fi
+}
+
 # check for commands we need
-packwiz_installed="$(type packwiz 2>/dev/null 1>&2 && echo "true" || echo "false")"
-if [[ "$packwiz_installed" == "false" ]]; then
-    echo "packwiz is not installed. https://github.com/packwiz/packwiz/"
-    exit 1
+zip_installed="$(type zip 2>/dev/null 1>&2 && echo "true" || echo "false")"
+if [[ "$zip_installed" == "false" ]]; then
+    echo "zip is not installed. Installing dependencies"
+    "$BASE_DIR/.bin/install-dependencies"
+fi
+
+if [[ -z "$(packwiz-path)" ]]; then
+    echo "packwiz is not installed. Installing dependencies"
+    "$BASE_DIR/.bin/install-dependencies"
 fi
 
 jq_installed="$(type jq 2>/dev/null 1>&2 && echo "true" || echo "false")"
 if [[ "$jq_installed" == "false" ]]; then
-    echo "jq is not installed. https://jqlang.org/download/"
-    exit 1
+    echo "jq is not installed. Installing dependencies"
+    "$BASE_DIR/.bin/install-dependencies"
 fi
 
 java_installed="$(type java 2>/dev/null 1>&2 && echo "true" || echo "false")"
 if [[ "$java_installed" == "false" ]]; then
-    echo "java is not installed."
-    exit 1
+    echo "java is not installed. Installing dependencies"
+    "$BASE_DIR/.bin/install-dependencies"
 fi
 
 cd $BASE_DIR

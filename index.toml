@@ -5707,7 +5707,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
-hash = "1192b891e6a3d88a300db8939e509478154354e20447046ac5cd1ebe493a8dd6"
+hash = "611e33dd999dabde84d76876cd82b26e7317b38adb39d30f5e11c20e463aed31"
 metafile = true
 
 [[files]]
@@ -6002,7 +6002,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "b216d54bf3b22b4bc65445ce1e468f65dfea47461fb457de4de0125386482e0f"
+hash = "526b27e937f6fe327eb583c77830562dd96928d948ed559cb614b2233e2646bc"
 metafile = true
 
 [[files]]
