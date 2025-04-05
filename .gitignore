@@ -4,4 +4,6 @@ download
 build
 shaderpacks/*.zip
 *.zip
+!config/paxi/datapacks/*.zip
+!config/paxi/resourcepacks/*.zip
 packwiz-installer-bootstrap.jar
