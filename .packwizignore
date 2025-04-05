@@ -7,6 +7,8 @@ DEVELOPMENT.md
 build
 *.zip
 !shaderpacks/*.zip
+!config/paxi/datapacks/*.zip
+!config/paxi/resourcepacks/*.zip
 .env
 download
 server
