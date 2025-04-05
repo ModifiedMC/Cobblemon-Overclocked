@@ -6481,11 +6481,6 @@ hash = "bb8ab8513a76e483d506dbce3e65320b5bc0f016521abfc536215afd9231d4c0"
 metafile = true
 
 [[files]]
-file = "mods/myths-and-legends-cobblemon-addon.pw.toml"
-hash = "4b1e59a624adbdb78a19cf547f65f8718034f2b11482c5fafd07210980c6ad36"
-metafile = true
-
-[[files]]
 file = "mods/nanny.pw.toml"
 hash = "6cc0b4f7848405ec1eeab1df639aab3952273c7d0c2b47cc8056b0ea7dd0ff97"
 metafile = true
