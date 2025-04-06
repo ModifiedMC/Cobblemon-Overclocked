@@ -3657,8 +3657,92 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/datapacks/ATM for MEGASHOWDOWN v8.1.0.zip"
+hash = "49f50fcf6a81fcf2be6ff01fac1243c3365d8330f751b700ecab3d13e3c5a964"
+
+[[files]]
+file = "config/paxi/datapacks/BCA-Datapack-3.5_GE_C1.6.1_M1.21.1.zip"
+hash = "8ef7b7fcd8fa354918f6c0b70813775b8abe7c0efca2c098c3b95a2f670ebbaa"
+
+[[files]]
+file = "config/paxi/datapacks/LEGENDARY SPAWNS REVAMPED 1.2.zip"
+hash = "0bf38ad6ab0d389b4d3b9f3075b6cd3e1718923aa05a8ccba508dbeec351ef43"
+
+[[files]]
+file = "config/paxi/datapacks/MegaShowdownTweaks_Vanilla-1.5.1.zip"
+hash = "9a0215afa3e25df9757e1eebfa55d2c758f3c8d77375b34e2329cd0ad19cd307"
+
+[[files]]
+file = "config/paxi/datapacks/Megashowdown DISC, PLATES AND NEW recipes 1.1.zip"
+hash = "f17cf79813bcd103ddbca2a35c2dbffb4c3fa2344cfe03a296140613952a3d11"
+
+[[files]]
+file = "config/paxi/datapacks/PartingGems_1.0.zip"
+hash = "82de615550866ab0e415719c8cf6760652edb285d3593e702067645965e36e91"
+
+[[files]]
+file = "config/paxi/datapacks/RCT-Badges-PKGBadges.zip"
+hash = "7821f8e963d4c990aafea897a4df63823c44df18c9f5105dd4b61de9041c948c"
+
+[[files]]
+file = "config/paxi/datapacks/[m]odified-ore-tweaks.zip"
+hash = "52252741de59158e9ecfb82d58892cb9e6af2f83b03f15eb7c2ef0eb27837c6c"
+
+[[files]]
+file = "config/paxi/datapacks/ctovcobblemon-v1.0.1.zip"
+hash = "40c46b091d2e838b180020b1e8b7bb5847af6b4481439b17772cc25f8e3d0b82"
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks/ATM for MEGASHOWDOWN v8.1.0.zip"
+hash = "49f50fcf6a81fcf2be6ff01fac1243c3365d8330f751b700ecab3d13e3c5a964"
+
+[[files]]
+file = "config/paxi/resourcepacks/Cobblemon Classic Grass Pack v2.1 MC1.21.1.zip"
+hash = "4386b800db3f7710c23f5ead9c911c9f265831a02e74c704f7cc29fcd9070880"
+
+[[files]]
+file = "config/paxi/resourcepacks/Cobblemon Interface Modded v1.7.0.zip"
+hash = "e8e675538490ca96baed873dda52a1657c32163caf693b658d2ec20991943446"
+
+[[files]]
+file = "config/paxi/resourcepacks/Cobblemon Interface-Vanilla Icons.zip"
+hash = "faecfaa114c5b2288e88db12ef3912f3d18699e6dde2be2b80c52bdc8906db67"
+
+[[files]]
+file = "config/paxi/resourcepacks/CobblemonTweaksBrewingGuide.zip"
+hash = "d22ab42016f676f42887f15a894b789e053d5463948592e717141849787a1fde"
+
+[[files]]
+file = "config/paxi/resourcepacks/CobblemonTweaksUnownGalactic.zip"
+hash = "d3059428b72450959e460da36d68419b07dc591121566b31e4741e96d61c53b6"
+
+[[files]]
+file = "config/paxi/resourcepacks/FreshAnimations_v1.9.2.zip"
+hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Jakotens' Poké-Hats 3.0.zip"
+hash = "cd912af0ddce281706481c5438b67caf59e19d45f462f7a2f8559d937ddf0701"
+
+[[files]]
+file = "config/paxi/resourcepacks/RCT Trainers+ [1.6] v1.5.zip"
+hash = "24912569e16adbdceed8a84de17de4d98de321b6b2693fb7ee21effebad1b57f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Tom's Cobblemoned.zip"
+hash = "d48d983efe9efea2ec42f79eb2097370e809e4acb72d782492959ba285d06a6a"
+
+[[files]]
+file = "config/paxi/resourcepacks/dCIM1.0.3.zip"
+hash = "243d3f7e914f852c8b2044d024dfbd17386be54389801c22206e8b5ce1cb1031"
+
+[[files]]
+file = "config/paxi/resourcepacks/emissive-cobblemon-ores.zip"
+hash = "f64c448753a0be1ba4800a0bf548ca021648f90b57dde1c6aff50adbfda68d68"
 
 [[files]]
 file = "config/perception.yaml"
@@ -4237,10 +4321,6 @@ file = "config/starterstructure.json5"
 hash = "f16ef7b9d5573b538d11e27bc440abcdbccc0ba5248f916b78aef1a6c65ab0cd"
 
 [[files]]
-file = "config/starterstructure/schematics/oakpokecenter.schem"
-hash = "fbd4c1fa90d828bdda13fbb9d13e09b9b09f41d973679463c28a0332bb3409f0"
-
-[[files]]
 file = "config/structure_layout_optimizer-common.toml"
 hash = "1a9401c702f6197572290c4ffee7d0c8e1803eef12251f616bd2a76de349c87f"
 
@@ -4254,7 +4334,7 @@ hash = "459197eaf56c15c9ff6df7c1d4f3a00645aec18fb81e0b8f2d05f3e458bd4488"
 
 [[files]]
 file = "config/structurify.json"
-hash = "1d880a6381ad4374e0b83e453aab78eefbba61cb0e5b5bbd3db7dbe0e18a3e2d"
+hash = "af058ed2ca5f137c37fda4a59263e6dc48ff3eb038929c442756eadf21774671"
 
 [[files]]
 file = "config/structurize-client.toml"
@@ -5851,6 +5931,11 @@ hash = "69ccc78abd447582c726f2dca72294a59af0c13c8e1ec3ae32b3bacd6469206e"
 metafile = true
 
 [[files]]
+file = "mods/flat-bedrock.pw.toml"
+hash = "d17382ebb5d2d2f7e56e9fbb71b4b9d7ec9a61134dec3de9ef8bfaab876c205a"
+metafile = true
+
+[[files]]
 file = "mods/flerovium.pw.toml"
 hash = "1a31a90d5fbe12ba99ae6fec3c3462caaaba7db8fcc21ea7d8970a84882dadfc"
 metafile = true
@@ -5993,11 +6078,6 @@ metafile = true
 [[files]]
 file = "mods/golden-hopper.pw.toml"
 hash = "373b49f5326798ea30c000bbb36b797a066fd068b45350b9fcbae7c16b4d4f41"
-metafile = true
-
-[[files]]
-file = "mods/guideme.pw.toml"
-hash = "764623ad8b422b9694bd092b831b89fd40b223b5914d075cc27b4787bd4d626b"
 metafile = true
 
 [[files]]
