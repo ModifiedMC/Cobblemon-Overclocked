@@ -35,6 +35,7 @@ jobs:
           curl -sL https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip -o packwiz.zip
           unzip packwiz.zip
           mv packwiz .bin/packwiz
+          rm packwiz.zip
           echo "${{ github.workspace }}/.bin" >> "$GITHUB_PATH"
 
       - name: Patch Version
@@ -73,6 +74,7 @@ jobs:
           sudo apt-get install jq default-jre zip
           curl -sL https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip -o packwiz.zip
           unzip packwiz.zip
+          rm packwiz.zip
           mv packwiz .bin/packwiz
           echo "${{ github.workspace }}/.bin" >> "$GITHUB_PATH"
 
