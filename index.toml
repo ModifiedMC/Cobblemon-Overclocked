@@ -1638,7 +1638,7 @@ hash = "e2a22c8f410a57c3b3b00509d36385c7cc3933a4c24e43926997bfd98362e686"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f6d60e796bfb7fbab84318b61779bf0481b4d16576dfca0911af1ce8062af69b"
+hash = "c98e8255aba91b359239c5fa331fe325c209e84a4c4764c5842fedb40cef4bcd"
 
 [[files]]
 file = "config/better_respawn-server.toml"
@@ -4982,7 +4982,7 @@ metafile = true
 
 [[files]]
 file = "mods/allthemodium.pw.toml"
-hash = "dcb7716dc5a85ffa1a29bf85862d01252d4882f3a97c01065d472af4326bbfb8"
+hash = "53fa56e32ed86c1ad1234b55da9d4dfa1ce9771f978e054380e372d8149fb929"
 metafile = true
 
 [[files]]
@@ -5067,7 +5067,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "c157dde98427c32ec85cac86cf24ac848dcb7963ab2dc79a8469b6b815f4aa2b"
+hash = "309f082ee4fe32b90ba359bfc516ad78660152a739a9523a04d78c755e0104a0"
 metafile = true
 
 [[files]]
@@ -5162,7 +5162,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "5b0c980d4f07c66c1ca5d7692d3dff949f93b88d9420563df7a0e4cf3df23dfd"
+hash = "a184bd91749af9b6040902cff5f1c1d309887dd7dbe9aabb62bdde86bf0a070c"
 metafile = true
 
 [[files]]
@@ -5307,7 +5307,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
-hash = "0df2f73dc9e14923f7570acc6dc78a499e3573fa3eb3d228a514a89594489649"
+hash = "c966b86252b4ffdb605944d8ad53c5d83470009ecb2511bddf2eab49e2a5854f"
 metafile = true
 
 [[files]]
@@ -5378,6 +5378,11 @@ metafile = true
 [[files]]
 file = "mods/cobbreeding.pw.toml"
 hash = "c82a4d0d919ba6ebc91e42434f451b0a2bda54386f1768adcb7260bd8e20fe1b"
+metafile = true
+
+[[files]]
+file = "mods/cobgyms.pw.toml"
+hash = "331920a979bf4f40bff5caa6174a18befa02de585345fdc6a0d70c91312c336a"
 metafile = true
 
 [[files]]
@@ -5502,7 +5507,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "eceeeb5adbdf54ec24dae57eef9b5afad1c2e344016da3c1db915331a1cb3c06"
+hash = "8f5c0234b7ff63f22a4825ebd8a800dd9b66b67c3390d3139df80b6baada99cd"
 metafile = true
 
 [[files]]
@@ -5712,7 +5717,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
-hash = "c71e3d7be8de766581a142a628ff7e526327a54b3ff3693336bbdc4e9dce7fd0"
+hash = "fad7c3bd232929a8973bc313daca6f8f9ec2892e9593477acab7fec1fd4315b6"
 metafile = true
 
 [[files]]
@@ -5787,7 +5792,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-structures.pw.toml"
-hash = "af393eb9526946ea094e4f06bf93c2f451eebb786732ae2ed3f169328cb4fd3c"
+hash = "3cab074cc8b5d1b444f1d50845531180b850bb401be9b9c2081a050e288450f1"
 metafile = true
 
 [[files]]
@@ -6417,7 +6422,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderately-enough-effect-descriptions-meed.pw.toml"
-hash = "ff00b441f22389e9c80382cfec18a75a13e1e59acf47ecd47c65c135220b90d7"
+hash = "014b35701f88d1e4aa8f0c311706a94b8b580de6fb306d05b3e69075eee77350"
 metafile = true
 
 [[files]]
@@ -6757,7 +6762,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "23fa8ffff6c335f18f7950299eba541fae3ddd4e7eae8cb4ca461afe837e6b0e"
+hash = "dcd2d0d306216db4519cf5ce92b3cb801bf22c693f5f5f49c04424b3ffaaa885"
 metafile = true
 
 [[files]]
@@ -6812,7 +6817,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "20457e658eae8213af7f7cad8d4f3fe2fd2a083edfe4f51b4d0d38d4e20e71c4"
+hash = "d5b4d3396217a4539b2af81a382a895ce14e8afb792d791c9879297ff9cab1f1"
 metafile = true
 
 [[files]]
@@ -6991,6 +6996,11 @@ hash = "0c38310c2d00eccd1614d57d67cf23b9e672326418c9dd9e55658ea674e0cdfc"
 metafile = true
 
 [[files]]
+file = "mods/structurify.pw.toml"
+hash = "b5971bfb6ee4fa23409de237511e15c4f668aae238e978888f45719fc57e847b"
+metafile = true
+
+[[files]]
 file = "mods/structurize.pw.toml"
 hash = "5aa43903423c9fec48bcd375ab17890fe86c66a2a82574b8ebd7a4f5a5e29720"
 metafile = true
@@ -7012,7 +7022,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "393f53ab7639201bf062a43768e4262e3decd74248ba1b64c565082e8797970d"
+hash = "77a21a9c03483e37a2fe974212acdeb9b5edd12603e9075be66df8dd8ce5f9da"
 metafile = true
 
 [[files]]
@@ -7158,6 +7168,11 @@ metafile = true
 [[files]]
 file = "mods/xtones-reworked.pw.toml"
 hash = "79dafea8766243a169973c4289714058df1731991cd5e303270db8e7d7c0a506"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "475adc324b5f3eb6d0714a441365570e209930d25a8a381b74b6c5c4cbcedcff"
 metafile = true
 
 [[files]]
