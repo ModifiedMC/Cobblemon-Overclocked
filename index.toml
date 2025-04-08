@@ -2377,18 +2377,6 @@ file = "config/embeddium-options.json"
 hash = "3ae541cb5000075a8487bdcaf14634c3215abbd73ffc3715fd5efd2112c9a23c"
 
 [[files]]
-file = "config/emi.css"
-hash = "fa3548599af166868fc78181a5f3a43a204bca64a56fe48a4e56ea55c7aa95e8"
-
-[[files]]
-file = "config/emi_loot_config.toml"
-hash = "2ad5c221f3f039f5c9ab38ff761ea8f77072fbde893c5d8a8073cb24ac96c78c"
-
-[[files]]
-file = "config/emi_ores-client.json"
-hash = "1efbbe3d2bcae8b53d5d61596960703c047e9902a96eb46cf5214aeb68f093b6"
-
-[[files]]
 file = "config/emojiful-client.toml"
 hash = "d50402f326389452a6ed579d9436251e872cedbab6b8f94f74299b3e2a137822"
 
@@ -3665,16 +3653,12 @@ file = "config/paxi/datapacks/BCA-Datapack-3.5_GE_C1.6.1_M1.21.1.zip"
 hash = "8ef7b7fcd8fa354918f6c0b70813775b8abe7c0efca2c098c3b95a2f670ebbaa"
 
 [[files]]
-file = "config/paxi/datapacks/LEGENDARY SPAWNS REVAMPED 1.2.zip"
-hash = "0bf38ad6ab0d389b4d3b9f3075b6cd3e1718923aa05a8ccba508dbeec351ef43"
+file = "config/paxi/datapacks/LEGENDARY SPAWNS REVAMPED 1.3.zip"
+hash = "e6c74b032186eb499db53c20dd2961f18da4d2363a6f5a285db1a0ee78d72047"
 
 [[files]]
-file = "config/paxi/datapacks/MegaShowdownTweaks_Vanilla-1.5.1.zip"
-hash = "9a0215afa3e25df9757e1eebfa55d2c758f3c8d77375b34e2329cd0ad19cd307"
-
-[[files]]
-file = "config/paxi/datapacks/Megashowdown DISC, PLATES AND NEW recipes 1.1.zip"
-hash = "f17cf79813bcd103ddbca2a35c2dbffb4c3fa2344cfe03a296140613952a3d11"
+file = "config/paxi/datapacks/Megashowdown RECIPES REVAMP.zip"
+hash = "a7b9f7e3ef0f50bd4473e62b14e7ff845ad8b0b795b2a00a48052d546778b4db"
 
 [[files]]
 file = "config/paxi/datapacks/PartingGems_1.0.zip"
@@ -3691,6 +3675,10 @@ hash = "52252741de59158e9ecfb82d58892cb9e6af2f83b03f15eb7c2ef0eb27837c6c"
 [[files]]
 file = "config/paxi/datapacks/ctovcobblemon-v1.0.1.zip"
 hash = "40c46b091d2e838b180020b1e8b7bb5847af6b4481439b17772cc25f8e3d0b82"
+
+[[files]]
+file = "config/paxi/datapacks/mega_loot.zip"
+hash = "cb4c7b82d7cf5b9591e5a8db966af3e59038ec2842667db21d6fba2f78118f09"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -5771,31 +5759,6 @@ hash = "1dffb7b72d41c7457849c09715e662ae3aebcef1988ce8f6fc060c46170b1a4a"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "e5fc842d500bcfc7b82c631150c26a011ee40588676fe85235dba3d009459d3f"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "769297fda272d093272cbd2b1040b82c7cc8ad8895ef6cc0210b3d5eb164c7de"
-metafile = true
-
-[[files]]
-file = "mods/emi-ores.pw.toml"
-hash = "ae65d1488be0f83b339ac6022115cd284dfc5d88bcfdf7a65fbfdc0dd9f1254b"
-metafile = true
-
-[[files]]
-file = "mods/emi-professions-emip.pw.toml"
-hash = "754913a9771c3c3a550773c59d7d8c04536585b17ddc8b045ad3af9a11080cf9"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "7aba843f9e1ceb85970b0f04fc9b22d2c645f3c8284ee376b6cec00a5f5bc4a3"
-metafile = true
-
-[[files]]
 file = "mods/emotecraft-forge.pw.toml"
 hash = "59592478f9c0e5c9e3308c6b1cf225a7b282cce8f0ade3141654f762a52f1410"
 metafile = true
@@ -7188,11 +7151,6 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "6b2549f31e237cf3277e718d9042f7b3ba6a6013398f00ff548b31020d90c283"
-metafile = true
-
-[[files]]
-file = "mods/tmrv.pw.toml"
-hash = "074263ea9ddf283bd95aea17813903971b6d52129ec2d07c8e70036dbb360c00"
 metafile = true
 
 [[files]]
