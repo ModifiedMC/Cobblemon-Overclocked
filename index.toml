@@ -5081,8 +5081,18 @@ hash = "20171249391f3c0212ddc6223a8bf452a64fe44e4e80a27a85d73ab465c51f3b"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "f6b0270e42cdd96ee23cdd3e79280f2d1a91a1b13184b77912c1550600a20c3a"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "eb8612ce21dd08ab5a673fcc33003837c4ee9aaf033aae48d979b739e5ca4fdd"
+metafile = true
+
+[[files]]
+file = "mods/apothic-amendments-enchanting.pw.toml"
+hash = "40a878507b94e07dcd868b6c8d218e25339e9e9c3bc282c0b99bcb71da65d099"
 metafile = true
 
 [[files]]
@@ -5371,6 +5381,11 @@ hash = "b8456c0b2edb931eb0d01fd9cdd59122cc97ad0e4973c1263da635eec1222290"
 metafile = true
 
 [[files]]
+file = "mods/cobbleloots.pw.toml"
+hash = "526958defd6d44e6b9bf4255d51d85095b2d2fd5b51243064e61762d76f75d15"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
 hash = "27fa81703bcc6c8ddb790cf9ad07115400d13a8248555be49d1635f19faebc9e"
 metafile = true
@@ -5388,6 +5403,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "c966b86252b4ffdb605944d8ad53c5d83470009ecb2511bddf2eab49e2a5854f"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-firework-capsules.pw.toml"
+hash = "558d6cdcd08b2ab658219ac34281a42e25fdf45660572683948930336e0bd188"
 metafile = true
 
 [[files]]
@@ -6191,6 +6211,11 @@ hash = "7e5022b803856cc7af03236ca623bb94d88bb04184584ee69e7d936c24bbf6ad"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "c344b0630eedfa7f8ed24e7cb916e49c231df456c40d20fc2b5fc0b675fb6517"
+metafile = true
+
+[[files]]
 file = "mods/jinxedlib.pw.toml"
 hash = "c12c6f610fa4f0e47a901537b85f840893a4139c491d26c1ae5e2958439ecac6"
 metafile = true
@@ -6218,6 +6243,16 @@ metafile = true
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
 hash = "2362e3026defbc83711b58d24717fca94580236de4ac9ff2ecc47569615391fb"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "fc938f58fda1614b0bd4c88546b4c37c660777600b7b63479f1022f90b16f407"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "59d7cbdc17f7c58ce946d62a8e56e5e3596d0458f6fdf44558a59542dfc0df54"
 metafile = true
 
 [[files]]
@@ -7007,7 +7042,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "737777b59e3e1993e8c41290b8d46d4287c1af843120c5e8ddad13c414b6dd5d"
+hash = "29d7ae46593c753cd9d3e1e6016c45630e067f25975805febd7cc5260b986549"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "5a83ad6554c856c43124aa90abedd61a2d874b51b93d8c72e314ea49939295ab"
 metafile = true
 
 [[files]]

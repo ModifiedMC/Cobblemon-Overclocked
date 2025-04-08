@@ -1,0 +1,13 @@
+name = "Apothic Amendments - Enchanting"
+filename = "apothic_amendments__enchanting-NF1.21.1-0.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cec5e2d26d0ad58ebe5c0f371e5ea08ffa189540"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6393559
+project-id = 1031489
