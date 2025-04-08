@@ -1,13 +1,13 @@
-name = "Longer Chat History [Forge/NeoForge/Fabric/Quilt]"
-filename = "LongerChatHistory-neoforge-1.6.jar"
+name = "Longer Chat History [Forge/NeoForge/Fabric]"
+filename = "LongerChatHistory-neoforge-1.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b2a88beeb3a47363e54ef20161a6c9bca80cab62"
+hash = "24a373d5310ccdb7a04e61dcce18ab67e1ec6852"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5852648
+file-id = 6399727
 project-id = 913234

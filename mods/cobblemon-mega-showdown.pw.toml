@@ -1,13 +1,13 @@
 name = "Cobblemon: Mega Showdown"
-filename = "Cobblemon_MegaShowdown-8.2.1-release-neoforge.jar"
+filename = "Cobblemon_MegaShowdown-8.2.3-release-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d04e2088307e948a2f853e9790a8258700e7546d"
+hash = "fb1476744da8d8611bd878a88f0f13e2c14f626f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6377563
+file-id = 6398881
 project-id = 1189523
