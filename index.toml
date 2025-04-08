@@ -1638,7 +1638,7 @@ hash = "e2a22c8f410a57c3b3b00509d36385c7cc3933a4c24e43926997bfd98362e686"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "c98e8255aba91b359239c5fa331fe325c209e84a4c4764c5842fedb40cef4bcd"
+hash = "9f165335847e4515c11abd194c283d72834f859a2110f81ec872118ae0dcac1d"
 
 [[files]]
 file = "config/better_respawn-server.toml"
