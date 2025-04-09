@@ -5369,11 +5369,6 @@ hash = "b8456c0b2edb931eb0d01fd9cdd59122cc97ad0e4973c1263da635eec1222290"
 metafile = true
 
 [[files]]
-file = "mods/cobbleloots.pw.toml"
-hash = "526958defd6d44e6b9bf4255d51d85095b2d2fd5b51243064e61762d76f75d15"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
 hash = "27fa81703bcc6c8ddb790cf9ad07115400d13a8248555be49d1635f19faebc9e"
 metafile = true
@@ -5931,11 +5926,6 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "cdc534008a10d6a07e9f049de2b0afcbc42fb404be24374c92c053ebcdb862eb"
 metafile = true
 
 [[files]]
@@ -7190,7 +7180,7 @@ metafile = true
 
 [[files]]
 file = "mods/ultimine-addition.pw.toml"
-hash = "c9038430379f8cff5450d3f25d4ce7b67be964a511528b76d7854ec6929192a8"
+hash = "97a7dd421c03e12b27731c0b436ff1bee1d11667584492cc6f13cecc598ed14b"
 metafile = true
 
 [[files]]

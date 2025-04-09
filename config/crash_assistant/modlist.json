@@ -725,10 +725,6 @@
     "modId": "fluxnetworks",
     "version": "8.0.0"
   },
-  "forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar": {
-    "modId": "fabric_api",
-    "version": "0.107.0+2.0.25+1.21.1"
-  },
   "formations-1.0.3-neoforge-mc1.21.jar": {
     "modId": "formations",
     "version": "1.0.3"
