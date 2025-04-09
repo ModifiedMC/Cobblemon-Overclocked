@@ -6818,20 +6818,12 @@ file = "mods/refined-storage-curios-integration.pw.toml"
 hash = "dd921ca691006e169455a925ed330319df5d19771863be0e9e80b5083d8f08d1"
 metafile = true
 
-[[files]]
-file = "mods/refined-storage-emi-integration.pw.toml"
-hash = "9d1a63a82efecfe15d459532dc8d41d59c4d0191036c60ee4a1a0731e3c1cf8d"
-metafile = true
 
 [[files]]
 file = "mods/refined-storage-jei-integration.pw.toml"
 hash = "4ef51a87a42bf93295c8af21e543d41b204a7b604a810a2329923937362d2e61"
 metafile = true
 
-[[files]]
-file = "mods/refined-storage-mekanism-integration.pw.toml"
-hash = "9632a364d45529d26699761ca717c04020e0a06b4311b5921be11a9aab8f355b"
-metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"

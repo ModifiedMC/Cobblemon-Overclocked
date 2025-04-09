@@ -1,0 +1,13 @@
+name = "Refined Storage - JEI Integration"
+filename = "refinedstorage-jei-integration-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9c7f27cd0a7d33eefd56edfad2a033898af9e3d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6359014
+project-id = 1230497
