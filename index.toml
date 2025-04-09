@@ -5565,7 +5565,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "3fc8268091714070cada5dc352a2a97537b055806d313d65d9bbccbe731cbe95"
+hash = "18933943c00ecb6f429328332af3369c653712c6f6ab4d77e33ea1fe4f5278bb"
 metafile = true
 
 [[files]]
@@ -6450,7 +6450,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "af6b190e42b601eb0e2ca6fd58209f0242ab8c403996f1814956a6699dcd4f86"
+hash = "176315847d74c7b2dd39471b09da612f7cb8293fe754fbcecee15e79bd2fcca0"
 metafile = true
 
 [[files]]
