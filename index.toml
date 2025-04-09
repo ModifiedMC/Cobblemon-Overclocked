@@ -2054,7 +2054,7 @@ hash = "3a429334ee23f897a7f9433e25af1246a735b289629d32cb0c730a9885a3c240"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "60eee229dd210128f9c602d4b0b34ecbb53681cb9dbcccf1179b53ef8d2ab649"
+hash = "94c9954316711782afa6521714aaf867fef324050372d862a0096bd153b5817f"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
