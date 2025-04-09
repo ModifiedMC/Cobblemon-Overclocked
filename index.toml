@@ -5971,11 +5971,6 @@ hash = "d84fe7a86bd0d784505739a107cad38ae7c06262697fe3c604a54fa49882abc8"
 metafile = true
 
 [[files]]
-file = "mods/ftb-promoter.pw.toml"
-hash = "75f7b5c3c3bf922c6dee0d9882d72668d112e1257a4320c3c7af3b33f6c2ce7d"
-metafile = true
-
-[[files]]
 file = "mods/ftb-quests-forge.pw.toml"
 hash = "44ce2eb4737334e21e771fbad567672129bfbd859df21a915ad91c0363625d62"
 metafile = true
