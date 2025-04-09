@@ -2054,7 +2054,7 @@ hash = "3a429334ee23f897a7f9433e25af1246a735b289629d32cb0c730a9885a3c240"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "94c9954316711782afa6521714aaf867fef324050372d862a0096bd153b5817f"
+hash = "a2afd292a484629d945eb287aaa329b9d3d44adbc01a4f6b5e9d1a7ba77c9387"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -2686,7 +2686,7 @@ hash = "8d1daf27ff4642a1391bc5d8818edb127123557032aed1fb5b95385bbee7b8d9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/catch_em_all.snbt"
-hash = "c2e73eb3409771e8bc337e2fd279075a5cb85a79c305ada6a533075a86258b83"
+hash = "ba2f0f366ef305823e909fa4dc55f713a71c29914a989f06a5b088be1406dc14"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/champions_league.snbt"
@@ -2842,7 +2842,7 @@ hash = "5c6661881b58d08139f476dc810796c5bd80324a388492942ce47404240870cc"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "1fa4a1edad34d418cad0e210096983a746a33a63313552130876a20456c2b53c"
+hash = "2202f4025cc21e5d2134dea0f7a413f4ac812dcc25f288312312c25f524247b9"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/018B7DD83BAE2B01.snbt"
@@ -3771,6 +3771,10 @@ hash = "b3458a87968614175fc965b0e99339d70dc6728308138bebdd970d2679f2c672"
 [[files]]
 file = "config/ponder-client.toml"
 hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
+
+[[files]]
+file = "config/powah.json5"
+hash = "aeaedba1a7b7732e561467f71b136e5cade50ae561ae217361271fe5efbf87b2"
 
 [[files]]
 file = "config/ppfluids-common.toml"
