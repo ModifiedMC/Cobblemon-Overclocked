@@ -3773,10 +3773,6 @@ file = "config/ponder-client.toml"
 hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
 
 [[files]]
-file = "config/powah.json5"
-hash = "aeaedba1a7b7732e561467f71b136e5cade50ae561ae217361271fe5efbf87b2"
-
-[[files]]
 file = "config/ppfluids-common.toml"
 hash = "30f3f9140a39f8da7561e650d5fcbe6d7df16ad881e65122db2f4623dc972601"
 
@@ -4959,10 +4955,6 @@ hash = "bb1fd070ecaa4fba7ab7c385d32b27d31fd03bd13aa0528e2f9f35c4b5e4b9d9"
 [[files]]
 file = "kubejs/data/mynethersdelight/recipe/poaching.json"
 hash = "dba19d522b06280a7629d50105de990da677f10ff770fb689bca8104d268c13f"
-
-[[files]]
-file = "kubejs/data/powah/kubejs/recipe_schema/energizing.json"
-hash = "1c5c333c0d98c1a7ee894b1e278da34a8cb05ae0d4d36b253ec2e71e6d6c4b23"
 
 [[files]]
 file = "kubejs/data/supplementaries/recipe/stasis.json"
@@ -6714,11 +6706,6 @@ hash = "c70abd2ba7167280fde4f542ca4c8353398f7ec1b15a2250a687be32853c81a0"
 metafile = true
 
 [[files]]
-file = "mods/powah-rearchitected.pw.toml"
-hash = "8a0fd4adfdd72ae16fe87c3ea6d1bd0e4ddb9ee36761048611ead1b4c4fd4371"
-metafile = true
-
-[[files]]
 file = "mods/pretty-pipes-fluids.pw.toml"
 hash = "fe3899cefdf3a96300e88fb8ea58a67a9a18bc97493bb82a840c622280566e47"
 metafile = true
@@ -7180,7 +7167,7 @@ metafile = true
 
 [[files]]
 file = "mods/ultimine-addition.pw.toml"
-hash = "97a7dd421c03e12b27731c0b436ff1bee1d11667584492cc6f13cecc598ed14b"
+hash = "967b5c7e92eca3c6670b1e582193f67ffff492e42e5f5f98dcfedeafe9a9fbdf"
 metafile = true
 
 [[files]]
