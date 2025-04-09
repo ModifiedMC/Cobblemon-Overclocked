@@ -1,0 +1,13 @@
+name = "Aether Addon: Emissivity"
+filename = "aether_emissivity-1.21.1-1.0.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65ebe070e37cb738e88dd1316b5b482c3d0bc9ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6392126
+project-id = 916028

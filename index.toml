@@ -5015,6 +5015,26 @@ hash = "7329db8d8b0fe08ac02a3b2ad816fa9f2081c5b2067f449c36c01b84ded7bf13"
 metafile = true
 
 [[files]]
+file = "mods/aether-emissivity.pw.toml"
+hash = "027e74806f0a3ac663d77948003b24ea6b3cd960e7dc5e2eb904614c642a3c1f"
+metafile = true
+
+[[files]]
+file = "mods/aether-protect-your-moa.pw.toml"
+hash = "97514a520bb2da549db2778ec5391fc82944a01333c1168433df4b46ae4e3c83"
+metafile = true
+
+[[files]]
+file = "mods/aether-treasure-reforging.pw.toml"
+hash = "7ca929b272bf0b2fc422aaa6c8222f1f8fa54d8bcbf39e84a7984e2c12cf5480"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "e6448befb831607b6f7522250c5f6f2bfd57c80b614467286465b248258c3939"
+metafile = true
+
+[[files]]
 file = "mods/aggroindicator.pw.toml"
 hash = "d780f2d5d5b6c149ab3d6577c3126c3f10dbd78edc45770b98cde03f1777a350"
 metafile = true
@@ -5576,7 +5596,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-better-fps.pw.toml"
-hash = "71ff5ab5ee9ba57aa807cffab7ad3bab89bf41cc98088913cf119e26fb08f25d"
+hash = "c6bc8e2dfb0a4a6eaee1cdce49ca8a2333bc5495edb97b6543e57fc6f85701b4"
 metafile = true
 
 [[files]]
@@ -6286,7 +6306,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "c2628878425f60e9a99b83338defa0fa616744db9532cf68f41a2cbf6eb50bce"
+hash = "86b352c83269615986c6f06b3d16b66a6067c931b7e82c74ca205fce34b66237"
 metafile = true
 
 [[files]]
@@ -6611,7 +6631,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "bda055269efa741e85837b749b22003814b57639ecbdf0c4782b2f6edeac1a4c"
+hash = "85b54496b5f2ea5c65ab49a58bf374d2e2ed2a163b811cdadfac017eded699b0"
 metafile = true
 
 [[files]]
@@ -6637,6 +6657,16 @@ metafile = true
 [[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "bc3e79ec7c82f0e4b752ba7f41709e1e87e25169cf96b7c38dafefeaf876a80f"
+metafile = true
+
+[[files]]
+file = "mods/oracle-index.pw.toml"
+hash = "26e71f91054666cf1cc469e1e9c29f8e73c81bfb277f4e3f50967e422400e8a2"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d70e7fa2d9d90600ddca5e80444140165e03da3040978c58c7cc5a7f133d075f"
 metafile = true
 
 [[files]]
@@ -6925,6 +6955,11 @@ hash = "64faee9ca0fb7655cf90fde3e5abc93f38f43faf4fb3c6dd328ca90ce764c247"
 metafile = true
 
 [[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "6328ca202b88bb097d03a263806104036aa20dcc2dd5e1a99ee0b20d007d1f2f"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "033181b976851d283e7fad1e85e56ea56dcbe4aa094ef13915129c452e478148"
 metafile = true
@@ -7026,12 +7061,12 @@ metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "bcc9f40db3622589ae22f7bf706c08554cd7aba8f78d7abae1aa3e4f9f7be62f"
+hash = "c717a543df79badff07c5953669012b07543f8f7faa4f488f64c41976f780262"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "7bf1c92b936f1a0a887cfadfeeade48e2e67ccdf082ecdbba9758ee650446581"
+hash = "97f0df4c55858f545b95ccaff7e919fccbc26910555ea0cc6087553bc1ae5d61"
 metafile = true
 
 [[files]]
