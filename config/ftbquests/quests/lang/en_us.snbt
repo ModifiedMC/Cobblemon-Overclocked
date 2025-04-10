@@ -2,6 +2,7 @@
 	chapter.0192F744035E2F6F.title: "&3Heals \\& Medicine"
 	chapter.01C9B1B19DDE72C6.chapter_subtitle: ["Choose your Starter"]
 	chapter.01C9B1B19DDE72C6.title: "&bGetting Started"
+	chapter.025908A4CF6D347D.title: "The Deeper Dark"
 	chapter.039A7B9F52FD3DC4.chapter_subtitle: ["Generation 7"]
 	chapter.039A7B9F52FD3DC4.title: "Alola Archives"
 	chapter.03E5E4CE51A11D79.chapter_subtitle: ["Generation 9"]
@@ -368,7 +369,7 @@
 		""
 		"[ \"To check your progress / see where to begin, you can check out the \", { \"text\": \"Champions league\", \"underlined\": true, \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4A9CD8DF4334CA09\" } }, \"   Quest chapter.\" ]"
 		""
-		"&eTIP:&r You may check the advancament tab (&dL&r) ingame for a hint / visual guide towards your next goal, or hit the button on the quest tab!"
+		"&eTIP:&r You may check the advancment tab (&dL&r) ingame for a hint / visual guide towards your next goal, or hit the button on the quest tab!"
 		""
 		""
 		"{@pagebreak}"
@@ -579,7 +580,6 @@
 	quest.26C3EDF25F66E4AE.quest_subtitle: "Catches and immediately heals the Pokémon, restoring HP and status conditions."
 	quest.26C3EDF25F66E4AE.title: "Heal Ball"
 	quest.270718A315DFB64B.quest_subtitle: "A ball highly effective when used in the first turn of battle."
-	quest.27537BC336589254.title: "Kanto Max Starters"
 	quest.27961DE632D73E81.quest_subtitle: "A basic Poké Ball with a 1× catch rate, crafted using yellow apricorns."
 	quest.27961DE632D73E81.title: "Citrine Ball"
 	quest.27D95FFB4E69AE38.quest_desc: ["Another one of Krisp's personal fave items! This cool band&6 boosts the damage from all physical moves&r. This is perfect for those who prefer the  bash-em-til they faint method!"]
@@ -1055,8 +1055,6 @@
 	quest.4D2D4C55BB22C6C6.quest_desc: ["Extends the reach of an Inventory Connector up to 15 blocks."]
 	quest.4D3834BC5BCBCE5B.title: "Metal Coat"
 	quest.4D765EDD774384BB.quest_desc: ["Boosts the holders&e' Electric-type moves,&r how shocking!"]
-	quest.4DC7BA8845CE07BB.quest_subtitle: "Reach max evo for every starter mon!"
-	quest.4DC7BA8845CE07BB.title: "Dedicated to the game"
 	quest.4DFC4CA748310BBC.quest_subtitle: "Boosts the power of &lGround-type&r moves by 20%."
 	quest.4E26EAF8AB40DA65.quest_desc: [
 		"&dPoké Rods can also be enchanted.&r The Lure enchantment affects which Pokémon spawn pools can be accessed, with different Pokémon having a different minimum and maximum lure level. Luck of the Sea increases the chance of a higher tier rarity bucket being chosen when reeling in a Pokémon. "
@@ -1354,6 +1352,7 @@
 	]
 	quest.635B3B481979D2F0.quest_subtitle: "Fish + Dino"
 	quest.635B3B481979D2F0.title: "Arctovish"
+	quest.63643A5D1283D557.quest_subtitle: "Normal-type moves are not super effective against any Pokémon, while Normal-type Pokémon are weak to Fighting-type moves."
 	quest.63643A5D1283D557.title: "Normal Types"
 	quest.6368437B278346AA.quest_desc: ["This sharp tooth boosts &6Clamperls' Sp. Atk Stat!&r"]
 	quest.636A34D9B8B4BECF.quest_desc: [
@@ -1398,6 +1397,7 @@
 		"Tumblestone can be found as loot inside of ruins structures. It can also be obtained by mining a &6tumblestone cluster&r&e, yielding&r 1 if not fully grown or &e4 if fully grown&r. "
 	]
 	quest.6649865E662E4BE5.title: "Tumblestones?"
+	quest.66789E7BBA30239C.quest_subtitle: "Dragon-type moves are super effective against Dragon-type Pokémon, while Dragon-type Pokémon are weak to Dragon-, Fairy-, and Ice-type moves."
 	quest.66789E7BBA30239C.title: "Dragon Types"
 	quest.66AEC4F462E0360F.quest_desc: ["An &bX Speed&r is a type of item that raises the target's speed stat by one stage when used in battle."]
 	quest.66DD4EBB58D0E22A.quest_desc: [
@@ -1643,6 +1643,7 @@
 		"\\& &6can be smelted down to &dblue dye."
 	]
 	quest.78D5CFA17901D051.quest_subtitle: "It has a static catch rate of 1×. "
+	quest.7918C871EF92F77F.quest_subtitle: " Fairy-type moves are super effective against Dark-, Dragon-, and Fighting-type Pokémon, while Fairy-type Pokémon are weak to Poison- and Steel-type moves."
 	quest.7918C871EF92F77F.title: "Fairy Types"
 	quest.793C21A78A522417.quest_subtitle: "Some rods have additional traits!"
 	quest.793C21A78A522417.title: "Tool Rods"
@@ -1815,6 +1816,7 @@
 	task.1E1E578DD8EE5FC8.title: "Any #create:casing"
 	task.1E3F14546A55CCCC.title: "Unknown type: ftbteams:create_or_join_team"
 	task.1E6B20592343D02F.title: "Structures"
+	task.1F513AB9F8DEF7FC.title: "Under Construction!"
 	task.1F64F01C6372A3FB.title: "Misty"
 	task.202E55490CD5350B.title: "Any #cobblemon:berries"
 	task.2149A9C3227F6130.title: "Any #cobblemon:type_gems"

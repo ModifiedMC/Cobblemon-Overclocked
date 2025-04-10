@@ -4,7 +4,10 @@
 	filename: "lightmans_currency"
 	group: "1448AD42248EBE02"
 	icon: {
-		id: "lightmanscurrency:coin_gold"
+		components: {
+			"ftbquests:icon": "modified:item/pokedollar"
+		}
+		id: "ftbquests:custom_icon"
 	}
 	id: "55606C3E0A76E6B8"
 	order_index: 0

@@ -46,10 +46,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "08620EC477D23BE2"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:charmander"
 				pokemon_type: ""
@@ -74,10 +78,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "7D9E4BE8AFDD2EA5"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:charmeleon"
 				pokemon_type: ""
@@ -102,10 +110,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "68072079FF9CBD1D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:charizard"
 				pokemon_type: ""
@@ -130,10 +142,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "02B10473BFE7BE00"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:squirtle"
 				pokemon_type: ""
@@ -158,10 +174,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "47CE8EA59558F376"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:wartortle"
 				pokemon_type: ""
@@ -186,10 +206,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4F11C6A7345027FC"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:blastoise"
 				pokemon_type: ""
@@ -214,10 +238,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "317C2209C1EDB58B"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:caterpie"
 				pokemon_type: ""
@@ -242,10 +270,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "0A14A0CE921CDAF9"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:metapod"
 				pokemon_type: ""
@@ -270,10 +302,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "667EBD1BC523839E"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:butterfree"
 				pokemon_type: ""
@@ -298,10 +334,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5D1BDDD45A8B9AC7"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:weedle"
 				pokemon_type: ""
@@ -326,10 +366,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "62B1A17A051567EB"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:kakuna"
 				pokemon_type: ""
@@ -354,10 +398,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4B52FA8E6E9BF299"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:beedrill"
 				pokemon_type: ""
@@ -382,10 +430,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "55680C57AFDD7806"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:pidgey"
 				pokemon_type: ""
@@ -410,10 +462,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "33A4AB49BBB0FB0D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:pidgeotto"
 				pokemon_type: ""
@@ -438,10 +494,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "7420FB14FF85737B"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:pidgeot"
 				pokemon_type: ""
@@ -466,10 +526,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "617308EF7E673995"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:raticate"
 				pokemon_type: ""
@@ -494,10 +558,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "2ED38E18D78F8C68"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:spearow"
 				pokemon_type: ""
@@ -522,10 +590,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5D914FE5AB3A7741"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:fearow"
 				pokemon_type: ""
@@ -550,10 +622,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "2F5A78A46819302A"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:ekans"
 				pokemon_type: ""
@@ -578,10 +654,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "64B08071BEC5FEE5"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:bulbasaur"
 				pokemon_type: ""
@@ -600,6 +680,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
@@ -610,6 +691,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "1FD1B3FD7217F000"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:ivysaur"
 				pokemon_type: ""
@@ -634,10 +718,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "49E53A502EBCBEFA"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:arbok"
 				pokemon_type: ""
@@ -662,10 +750,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "258C6355A4EDA332"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:pikachu"
 				pokemon_type: ""
@@ -690,10 +782,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "289F3A69967D12E8"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:raichu"
 				pokemon_type: ""
@@ -718,10 +814,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "3799C4F38FAED02F"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:sandshrew"
 				pokemon_type: ""
@@ -746,10 +846,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "79F9DA6110DF1B23"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:sandslash"
 				pokemon_type: ""
@@ -774,10 +878,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5811C59A9289EC8B"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:nidoranf"
 				pokemon_type: ""
@@ -802,10 +910,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5FEE85A1105DD567"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:nidorina"
 				pokemon_type: ""
@@ -830,10 +942,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "07E5B0CEB41C4AD4"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:nidoqueen"
 				pokemon_type: ""
@@ -858,10 +974,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "50080AAB4B3D59F5"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:nidoranm"
 				pokemon_type: ""
@@ -886,10 +1006,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1D3203B848EAF49D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:nidorino"
 				pokemon_type: ""
@@ -914,10 +1038,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3985D549C5FA682E"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:nidoking"
 				pokemon_type: ""
@@ -942,10 +1070,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "04932006BDDD9D4D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:clefairy"
 				pokemon_type: ""
@@ -970,10 +1102,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "2FC23AB007C4A837"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:clefable"
 				pokemon_type: ""
@@ -998,10 +1134,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "1FFDFD54ED02D27D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:vulpix"
 				pokemon_type: ""
@@ -1026,10 +1166,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "3B08414FBDAB84F4"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:rattata"
 				pokemon_type: ""
@@ -1054,10 +1198,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3BF4E30C5A89F4C4"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:jigglypuff"
 				pokemon_type: ""
@@ -1082,10 +1230,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "32AEC44613506C9E"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:wigglytuff"
 				pokemon_type: ""
@@ -1110,10 +1262,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1BC78AC171450000"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:zubat"
 				pokemon_type: ""
@@ -1138,10 +1294,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "38E50F8E14F316CD"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:bulbasaur"
 				pokemon_type: ""
@@ -1160,6 +1320,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
@@ -1170,6 +1331,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "73E0A0CAC5C1C189"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:ivysaur"
 				pokemon_type: ""
@@ -1194,10 +1358,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "4C43710938D848E4"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:rattata"
 				pokemon_type: ""
@@ -1222,10 +1390,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5A659D7907BD8BD2"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:venusaur"
 				pokemon_type: ""
@@ -1250,10 +1422,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "64CC9DACDDBDAC26"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:venusaur"
 				pokemon_type: ""
@@ -1278,10 +1454,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "46C8CA2E0D9FE87B"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:golbat"
 				pokemon_type: ""
@@ -1306,10 +1486,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "395399A6763E00B4"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:oddish"
 				pokemon_type: ""
@@ -1334,10 +1518,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1C978AA2BDA53292"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:gloom"
 				pokemon_type: ""
@@ -1362,10 +1550,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "35D3744EE75C7017"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:vileplume"
 				pokemon_type: ""
@@ -1390,10 +1582,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "221D983CC64AA973"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:paras"
 				pokemon_type: ""
@@ -1418,10 +1614,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "38A5C38A21C7E253"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:parasect"
 				pokemon_type: ""
@@ -1446,10 +1646,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "42647D26860DEC98"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:venonat"
 				pokemon_type: ""
@@ -1474,10 +1678,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "6C6F3B700D8E3147"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:venomoth"
 				pokemon_type: ""
@@ -1502,10 +1710,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "3EE445F02B48082A"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:diglett"
 				pokemon_type: ""
@@ -1530,10 +1742,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "5BCC4D1986F90166"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:dugtrio"
 				pokemon_type: ""
@@ -1558,10 +1774,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "1FB0C0B3E051D699"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:meowth"
 				pokemon_type: ""
@@ -1586,10 +1806,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "73D5DEDA207AE8C4"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:persian"
 				pokemon_type: ""
@@ -1614,10 +1838,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5031ECECABCE66BD"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:psyduck"
 				pokemon_type: ""
@@ -1642,10 +1870,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "269C55012CCEECF8"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:golduck"
 				pokemon_type: ""
@@ -1670,10 +1902,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1DEB87EE1BF27FA7"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:mankey"
 				pokemon_type: ""
@@ -1698,10 +1934,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5D9B7A4D51CF244D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:primeape"
 				pokemon_type: ""
@@ -1726,10 +1966,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "4EF29F4E4C57F38E"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:growlithe"
 				pokemon_type: ""
@@ -1754,10 +1998,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "43BAC99E7B634914"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:arcanine"
 				pokemon_type: ""
@@ -1782,10 +2030,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "46971902295AACCA"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:poliwag"
 				pokemon_type: ""
@@ -1804,10 +2056,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "24202B61F48B19C3"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:poliwhirl"
 				pokemon_type: ""
@@ -1826,10 +2082,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3ED26F0BF2348BCD"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:poliwrath"
 				pokemon_type: ""
@@ -1848,10 +2108,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1D607D1ECEEF0225"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:abra"
 				pokemon_type: ""
@@ -1870,10 +2134,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "51C1B1B3E8AA7C06"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:kadabra"
 				pokemon_type: ""
@@ -1892,10 +2160,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "65D961EF5BFE19ED"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:alakazam"
 				pokemon_type: ""
@@ -1914,10 +2186,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "7AD0C92B023FA9AB"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:machop"
 				pokemon_type: ""
@@ -1936,10 +2212,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "6BECF167B2047996"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:machoke"
 				pokemon_type: ""
@@ -1958,10 +2238,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "38521A8150245BEA"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:machamp"
 				pokemon_type: ""
@@ -1980,10 +2264,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "74D54B1F5CC607EC"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:bellsprout"
 				pokemon_type: ""
@@ -2002,10 +2290,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "49B4DF70AD9E06BB"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:weepinbell"
 				pokemon_type: ""
@@ -2024,10 +2316,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "50071A227A957783"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:victreebel"
 				pokemon_type: ""
@@ -2046,10 +2342,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4990DB78DEE273C5"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:tentacool"
 				pokemon_type: ""
@@ -2068,10 +2368,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "2811087AE73D743C"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:tentacruel"
 				pokemon_type: ""
@@ -2090,10 +2394,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "2E10EA1491F7A02D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:geodude"
 				pokemon_type: ""
@@ -2112,10 +2420,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "69A622B1AAD200C5"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:graveler"
 				pokemon_type: ""
@@ -2134,10 +2446,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "795C5187709F7D60"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:golem"
 				pokemon_type: ""
@@ -2156,10 +2472,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1EBED4B6B0BFFBE9"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:ponyta"
 				pokemon_type: ""
@@ -2178,10 +2498,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5A3D2474A80B7C4D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:rapidash"
 				pokemon_type: ""
@@ -2200,10 +2524,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "707121BFFBCEF908"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:slowpoke"
 				pokemon_type: ""
@@ -2222,10 +2550,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3807DD17518860F0"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:slowbro"
 				pokemon_type: ""
@@ -2244,10 +2576,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4C8D248F95992179"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:magnemite"
 				pokemon_type: ""
@@ -2266,10 +2602,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "056C15D9FD6843B0"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:magneton"
 				pokemon_type: ""
@@ -2288,10 +2628,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "210D37B22E051878"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:farfetchd"
 				pokemon_type: ""
@@ -2310,10 +2654,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "6158465756B2B83F"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:doduo"
 				pokemon_type: ""
@@ -2332,10 +2680,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4606B517AA7EAB1D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:electrode"
 				pokemon_type: ""
@@ -2354,10 +2706,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "19FF1EA03804705E"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:starmie"
 				pokemon_type: ""
@@ -2376,10 +2732,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "07165E4F1562EFA2"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:mrmime"
 				pokemon_type: ""
@@ -2398,10 +2758,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "05ED25B909213722"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:exeggcute"
 				pokemon_type: ""
@@ -2420,10 +2784,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3422A298FBE85B83"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:exeggutor"
 				pokemon_type: ""
@@ -2442,10 +2810,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "7691AC18113CD66D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:scyther"
 				pokemon_type: ""
@@ -2464,10 +2836,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3765795E6A0F3979"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:cubone"
 				pokemon_type: ""
@@ -2486,10 +2862,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "2F5688C735707ED2"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:dodrio"
 				pokemon_type: ""
@@ -2508,10 +2888,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5BB2323C5BF11A2B"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:seel"
 				pokemon_type: ""
@@ -2530,10 +2914,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5713A7FA07EA2E64"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:dewgong"
 				pokemon_type: ""
@@ -2552,10 +2940,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "62B1B8AC68D9BF8C"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:marowak"
 				pokemon_type: ""
@@ -2574,10 +2966,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "692DCD3F44B24319"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:hitmonlee"
 				pokemon_type: ""
@@ -2596,10 +2992,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1E4D56366731CC1F"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:grimer"
 				pokemon_type: ""
@@ -2618,10 +3018,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "39BE315EFC312D25"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:hitmonchan"
 				pokemon_type: ""
@@ -2640,10 +3044,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3B85E1B7BBD7DCCA"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:lickitung"
 				pokemon_type: ""
@@ -2662,10 +3070,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "57F8267519C6C0D6"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:muk"
 				pokemon_type: ""
@@ -2684,10 +3096,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "13F156853A1AE916"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:koffing"
 				pokemon_type: ""
@@ -2706,10 +3122,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "2FBC45203FE3EC94"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:weezing"
 				pokemon_type: ""
@@ -2728,10 +3148,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "2717F36B44620C5A"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:shellder"
 				pokemon_type: ""
@@ -2750,10 +3174,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "05977DC2A0E7259C"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:cloyster"
 				pokemon_type: ""
@@ -2772,10 +3200,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1592AE358DE8B337"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:rhyhorn"
 				pokemon_type: ""
@@ -2794,10 +3226,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5D965384F8895E0E"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:rhydon"
 				pokemon_type: ""
@@ -2816,10 +3252,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1B34972D07C2F919"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:gastly"
 				pokemon_type: ""
@@ -2838,10 +3278,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "2DE35A52A012D3DF"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:haunter"
 				pokemon_type: ""
@@ -2860,10 +3304,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "64AD2C92280035BB"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:chansey"
 				pokemon_type: ""
@@ -2882,10 +3330,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "0AA22167508B96E0"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:tangela"
 				pokemon_type: ""
@@ -2904,10 +3356,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "7CD19E257E81BAA1"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:gengar"
 				pokemon_type: ""
@@ -2926,10 +3382,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "2FC8A07327154AAC"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:onix"
 				pokemon_type: ""
@@ -2948,10 +3408,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "257B00A027DBC09D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:kangaskhan"
 				pokemon_type: ""
@@ -2970,10 +3434,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4215A3A3FDEBBFF6"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:horsea"
 				pokemon_type: ""
@@ -2992,10 +3460,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3FA771392356854D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:drowzee"
 				pokemon_type: ""
@@ -3014,10 +3486,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1A4D22E482DE750F"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:hypno"
 				pokemon_type: ""
@@ -3036,10 +3512,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "11B3D6DB221A6767"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:seadra"
 				pokemon_type: ""
@@ -3058,10 +3538,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4DADDE6F603B6D26"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:goldeen"
 				pokemon_type: ""
@@ -3080,10 +3564,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "20F97EEE9754A5C9"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:krabby"
 				pokemon_type: ""
@@ -3102,10 +3590,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "667C5EE4DFA03CEA"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:kingler"
 				pokemon_type: ""
@@ -3124,10 +3616,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "64661B5631A158D7"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:seaking"
 				pokemon_type: ""
@@ -3146,10 +3642,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "0A4EB0FD56B4B57B"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:voltorb"
 				pokemon_type: ""
@@ -3168,10 +3668,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "091749EC305748C4"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:staryu"
 				pokemon_type: ""
@@ -3196,10 +3700,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "0C11365735CEAED9"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:ninetales"
 				pokemon_type: ""
@@ -3218,10 +3726,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "56692C1288ED7B04"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:jynx"
 				pokemon_type: ""
@@ -3240,10 +3752,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "45F6ED8D508F65B4"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:electabuzz"
 				pokemon_type: ""
@@ -3262,10 +3778,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5B5939161D08169E"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:magmar"
 				pokemon_type: ""
@@ -3284,10 +3804,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "6C85D809A1E86F40"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:pinsir"
 				pokemon_type: ""
@@ -3306,10 +3830,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "596A3376F4449431"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:tauros"
 				pokemon_type: ""
@@ -3328,10 +3856,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "224219473341AF9C"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:magikarp"
 				pokemon_type: ""
@@ -3356,10 +3888,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "0CC30C70AE67C535"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:gyarados"
 				pokemon_type: ""
@@ -3378,10 +3914,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1BAE839BAD53574B"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:lapras"
 				pokemon_type: ""
@@ -3400,10 +3940,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "67C63B5EA004A24A"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:ditto"
 				pokemon_type: ""
@@ -3422,10 +3966,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "08BBAA80C26C4715"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:eevee"
 				pokemon_type: ""
@@ -3444,10 +3992,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "166DC0A0B4287C36"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:vaporeon"
 				pokemon_type: ""
@@ -3466,10 +4018,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "363CFAE8B3E12050"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:jolteon"
 				pokemon_type: ""
@@ -3488,10 +4044,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "60395E4155828515"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:flareon"
 				pokemon_type: ""
@@ -3510,10 +4070,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "7F0F462B4C33BB01"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:porygon"
 				pokemon_type: ""
@@ -3532,10 +4096,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "0507F369133E43BA"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:omanyte"
 				pokemon_type: ""
@@ -3554,10 +4122,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4D519138A731734C"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:omastar"
 				pokemon_type: ""
@@ -3576,10 +4148,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "6653C510EAAE5966"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:kabuto"
 				pokemon_type: ""
@@ -3604,10 +4180,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1D1E594231161DDC"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:kabutops"
 				pokemon_type: ""
@@ -3632,10 +4212,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "33D5CA90567B2957"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:aerodactyl"
 				pokemon_type: ""
@@ -3660,10 +4244,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5C7E07AE822E3DE4"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:snorlax"
 				pokemon_type: ""
@@ -3688,10 +4276,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "0F7A96FF2103F8B0"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:articuno"
 				pokemon_type: ""
@@ -3716,10 +4308,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "4662F6FEDB2698C8"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:zapdos"
 				pokemon_type: ""
@@ -3744,10 +4340,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "3004A47EFD87799B"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:moltres"
 				pokemon_type: ""
@@ -3772,10 +4372,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "788328DECD39996C"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:dratini"
 				pokemon_type: ""
@@ -3800,10 +4404,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "13043A8E666C4501"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:dragonair"
 				pokemon_type: ""
@@ -3828,10 +4436,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1E1F968432F6E647"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:dragonite"
 				pokemon_type: ""
@@ -3856,10 +4468,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "401E629F42AFC063"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:mewtwo"
 				pokemon_type: ""
@@ -3884,10 +4500,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "67D89A0A4A80EECB"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:mew"
 				pokemon_type: ""
@@ -3912,10 +4532,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "6FB34A923093F9C6"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:charmander"
 				pokemon_type: ""
@@ -3940,10 +4564,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "2D2EF474398E9DE1"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:charmeleon"
 				pokemon_type: ""
@@ -3968,10 +4596,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "37E0D9E6C98821E9"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:charizard"
 				pokemon_type: ""
@@ -3996,10 +4628,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "77D67DAB6E55F19D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:squirtle"
 				pokemon_type: ""
@@ -4024,10 +4660,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4DFC03385A77AA44"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:wartortle"
 				pokemon_type: ""
@@ -4052,10 +4692,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "7BA48A0DE812E354"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:blastoise"
 				pokemon_type: ""
@@ -4080,10 +4724,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "39E3368A112F0AF4"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:caterpie"
 				pokemon_type: ""
@@ -4108,10 +4756,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1D6AD2246CEA8B7A"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:metapod"
 				pokemon_type: ""
@@ -4136,10 +4788,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4BB8E141ADDDF92B"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:butterfree"
 				pokemon_type: ""
@@ -4164,10 +4820,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "42503642D1800C2B"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:weedle"
 				pokemon_type: ""
@@ -4192,10 +4852,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4F6CDB7F4EBD66D6"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:kakuna"
 				pokemon_type: ""
@@ -4220,10 +4884,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "33B4430B4945C293"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:beedrill"
 				pokemon_type: ""
@@ -4248,10 +4916,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "2BC010A3662BD3BA"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:pidgey"
 				pokemon_type: ""
@@ -4276,10 +4948,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "0BD04B5A29F165D6"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:pidgeotto"
 				pokemon_type: ""
@@ -4304,10 +4980,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "7305D0C2E9E0DBB4"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:pidgeot"
 				pokemon_type: ""
@@ -4332,10 +5012,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "489339CCA71C1C84"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:raticate"
 				pokemon_type: ""
@@ -4360,10 +5044,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "53A4B9ED8A42B616"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:spearow"
 				pokemon_type: ""
@@ -4388,10 +5076,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "47E194073E460280"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:zubat"
 				pokemon_type: ""
@@ -4410,6 +5102,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
@@ -4420,6 +5113,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "2E6E457B9183A6FB"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:poliwhirl"
 				pokemon_type: ""
@@ -4444,10 +5140,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "56BD1A88B4824ABB"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:fearow"
 				pokemon_type: ""
@@ -4472,10 +5172,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3D4464EAFABFBC0D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:ekans"
 				pokemon_type: ""
@@ -4500,10 +5204,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "40FF9D3CB069F1CA"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:arbok"
 				pokemon_type: ""
@@ -4528,10 +5236,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "13F009142D99383F"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:pikachu"
 				pokemon_type: ""
@@ -4556,10 +5268,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "31D279FAE8CC5484"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:raichu"
 				pokemon_type: ""
@@ -4584,10 +5300,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "2013DD53A1303306"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:sandshrew"
 				pokemon_type: ""
@@ -4612,10 +5332,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "788E3D2FBD728043"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:sandslash"
 				pokemon_type: ""
@@ -4640,10 +5364,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4374CE207EDB548D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:nidoranf"
 				pokemon_type: ""
@@ -4668,10 +5396,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "736E14A0026C24A0"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:nidorina"
 				pokemon_type: ""
@@ -4696,10 +5428,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "10F339DC2066322B"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:nidoqueen"
 				pokemon_type: ""
@@ -4724,10 +5460,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "30A39F44175C0AD1"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:nidoranm"
 				pokemon_type: ""
@@ -4752,10 +5492,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "24AB5BB88DCC358F"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:nidorino"
 				pokemon_type: ""
@@ -4780,10 +5524,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1C96B1B01B279866"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:nidoking"
 				pokemon_type: ""
@@ -4808,10 +5556,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "2435EB3D56B00A24"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:clefairy"
 				pokemon_type: ""
@@ -4836,10 +5588,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "59A40F4A561FBF35"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:clefable"
 				pokemon_type: ""
@@ -4864,10 +5620,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "310F2C6F1D168BD3"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:vulpix"
 				pokemon_type: ""
@@ -4892,10 +5652,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "2FD5D15E7277FD41"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:ninetales"
 				pokemon_type: ""
@@ -4920,10 +5684,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "2F03C298CC92D8F9"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:jigglypuff"
 				pokemon_type: ""
@@ -4948,10 +5716,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3567F4FCB29345DD"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:wigglytuff"
 				pokemon_type: ""
@@ -4976,10 +5748,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5674EE413043C2F6"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:golbat"
 				pokemon_type: ""
@@ -5004,10 +5780,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "01EC2F13B48E3BE7"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:oddish"
 				pokemon_type: ""
@@ -5032,10 +5812,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "19C83270E5847698"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:gloom"
 				pokemon_type: ""
@@ -5060,10 +5844,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "46E3C4B0BA2A818F"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:vileplume"
 				pokemon_type: ""
@@ -5088,10 +5876,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "6BBCD560CAC9CFF4"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:paras"
 				pokemon_type: ""
@@ -5116,10 +5908,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "13F2D44495D81272"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:parasect"
 				pokemon_type: ""
@@ -5144,10 +5940,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "2710DEC1F5ED457A"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:venonat"
 				pokemon_type: ""
@@ -5172,10 +5972,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "0FFB8EA4F1653FB2"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:venomoth"
 				pokemon_type: ""
@@ -5200,10 +6004,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "745C0538984B4FA7"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:diglett"
 				pokemon_type: ""
@@ -5228,10 +6036,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "449A347B129F62AA"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:dugtrio"
 				pokemon_type: ""
@@ -5256,10 +6068,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "227F05B86A346789"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:meowth"
 				pokemon_type: ""
@@ -5284,10 +6100,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "56BD65B4E6BC7F8C"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:persian"
 				pokemon_type: ""
@@ -5312,10 +6132,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "19FCB7125A783454"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:psyduck"
 				pokemon_type: ""
@@ -5340,10 +6164,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "6C41AD41F2780D10"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:golduck"
 				pokemon_type: ""
@@ -5368,10 +6196,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "66DD76D9425A7BA6"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:mankey"
 				pokemon_type: ""
@@ -5396,10 +6228,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4E2FAD09C7C57B57"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:primeape"
 				pokemon_type: ""
@@ -5424,10 +6260,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "4E277C97D78F95A3"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:growlithe"
 				pokemon_type: ""
@@ -5452,10 +6292,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "660DBC2C63FE4D56"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:arcanine"
 				pokemon_type: ""
@@ -5480,10 +6324,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3C284426388A7FDF"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:poliwag"
 				pokemon_type: ""
@@ -5502,10 +6350,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3C58749E74199674"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:magnemite"
 				pokemon_type: ""
@@ -5524,10 +6376,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3113E0B1C937612B"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:electrode"
 				pokemon_type: ""
@@ -5546,10 +6402,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "462962ADC6ACC80F"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:starmie"
 				pokemon_type: ""
@@ -5574,10 +6434,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "0AEF5C345EEED97F"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:kabutops"
 				pokemon_type: ""
@@ -5602,10 +6466,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "73A9E4A5A830AD18"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:rattata"
 				pokemon_type: ""
@@ -5630,10 +6498,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "0CEA7F072652D8EF"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:rattata"
 				pokemon_type: ""
@@ -5658,10 +6530,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "59997B90AA7C4F6E"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:raticate"
 				pokemon_type: ""
@@ -5686,10 +6562,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "33EAAF9F07961786"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:raticate"
 				pokemon_type: ""
@@ -5714,10 +6594,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "363F28C399812181"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:raichu"
 				pokemon_type: ""
@@ -5742,10 +6626,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "49F69346EE76CABA"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:raichu"
 				pokemon_type: ""
@@ -5770,10 +6658,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "3C85C42AF9DA646D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:sandshrew"
 				pokemon_type: ""
@@ -5798,10 +6690,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "2B5691EAE77DBAC6"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:sandshrew"
 				pokemon_type: ""
@@ -5826,10 +6722,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "2D2BA26EBA905D59"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:sandslash"
 				pokemon_type: ""
@@ -5854,10 +6754,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "47318A4BBBE22D35"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:sandslash"
 				pokemon_type: ""
@@ -5876,6 +6780,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
@@ -5886,6 +6791,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "3A909E0A7C014DCB"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:poliwrath"
 				pokemon_type: ""
@@ -5910,10 +6818,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "1D747A2B262CBF46"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:vulpix"
 				pokemon_type: ""
@@ -5938,10 +6850,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "76E4FBA007A52817"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:ninetales"
 				pokemon_type: ""
@@ -5966,10 +6882,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "5717BD8B82785B0C"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:vulpix"
 				pokemon_type: ""
@@ -5994,10 +6914,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "7518A616536BB9AE"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:ninetales"
 				pokemon_type: ""
@@ -6016,6 +6940,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
@@ -6026,6 +6951,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "29E53D5B17221065"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:abra"
 				pokemon_type: ""
@@ -6044,6 +6972,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
@@ -6054,6 +6983,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "29CD7D052A1040A5"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:kadabra"
 				pokemon_type: ""
@@ -6078,10 +7010,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5D5F640820E9CB40"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:alakazam"
 				pokemon_type: ""
@@ -6100,6 +7036,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
@@ -6110,6 +7047,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "1B68316FBF0FC2A7"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:machop"
 				pokemon_type: ""
@@ -6128,6 +7068,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
@@ -6138,6 +7079,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "597772973451FB57"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:machoke"
 				pokemon_type: ""
@@ -6156,6 +7100,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
@@ -6166,6 +7111,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "39135406A1E5C47E"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:machamp"
 				pokemon_type: ""
@@ -6184,6 +7132,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
@@ -6194,6 +7143,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "09030AD96A8D6C21"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:bellsprout"
 				pokemon_type: ""
@@ -6212,6 +7164,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
@@ -6222,6 +7175,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "27D70831A52BA5F1"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:weepinbell"
 				pokemon_type: ""
@@ -6240,6 +7196,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
@@ -6250,6 +7207,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "35D6602DF79A6D89"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:victreebel"
 				pokemon_type: ""
@@ -6268,10 +7228,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "12C458647AA809AE"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:tentacool"
 				pokemon_type: ""
@@ -6290,10 +7254,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1884C3AA20510358"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:tentacruel"
 				pokemon_type: ""
@@ -6312,10 +7280,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1AABD18646B32D98"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:geodude"
 				pokemon_type: ""
@@ -6334,10 +7306,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3E6D111611E742BD"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:graveler"
 				pokemon_type: ""
@@ -6356,10 +7332,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "7FB2468A9D440579"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:golem"
 				pokemon_type: ""
@@ -6378,10 +7358,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1FB6ACDF3392A349"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:ponyta"
 				pokemon_type: ""
@@ -6400,10 +7384,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "370DF9E6C53B77E6"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:rapidash"
 				pokemon_type: ""
@@ -6422,10 +7410,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5634600783164C57"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:slowpoke"
 				pokemon_type: ""
@@ -6444,10 +7436,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "22E2D4AB4A2A83E2"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:slowbro"
 				pokemon_type: ""
@@ -6466,10 +7462,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "333A196D0110F6CA"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:magneton"
 				pokemon_type: ""
@@ -6488,10 +7488,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "42FE1E008D1C625B"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:exeggcute"
 				pokemon_type: ""
@@ -6510,10 +7514,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "11DF3D77056B68A6"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:mrmime"
 				pokemon_type: ""
@@ -6538,10 +7546,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "667E5D4DAF0CA855"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:aerodactyl"
 				pokemon_type: ""
@@ -6566,10 +7578,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "24FC395040938A62"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:snorlax"
 				pokemon_type: ""
@@ -6594,10 +7610,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "27FC4CA23FFE3519"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:articuno"
 				pokemon_type: ""
@@ -6622,10 +7642,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "54EBE32B2E89659D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:zapdos"
 				pokemon_type: ""
@@ -6650,10 +7674,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "normal"
 				gender: ""
 				id: "3B2E2A50372C8A58"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:moltres"
 				pokemon_type: ""
@@ -6678,10 +7706,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "6B2CAAB613FA6581"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:dratini"
 				pokemon_type: ""
@@ -6706,10 +7738,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "7A8A19A6F5F878FA"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:dragonair"
 				pokemon_type: ""
@@ -6734,10 +7770,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "36BDC3932C7906CC"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:dragonite"
 				pokemon_type: ""
@@ -6762,10 +7802,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "49A5AEF571558C2C"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:mewtwo"
 				pokemon_type: ""
@@ -6790,10 +7834,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "6902E623F0C6EC06"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:mew"
 				pokemon_type: ""
@@ -6812,10 +7860,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "11BD8D75ED0E6DC2"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:farfetchd"
 				pokemon_type: ""
@@ -6834,10 +7886,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "50901973082FC10E"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:exeggutor"
 				pokemon_type: ""
@@ -6856,10 +7912,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1EC92DCD91066429"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:scyther"
 				pokemon_type: ""
@@ -6878,10 +7938,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "0E87D34879D04DDD"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:voltorb"
 				pokemon_type: ""
@@ -6900,10 +7964,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1720E9F9058A524F"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:staryu"
 				pokemon_type: ""
@@ -6922,10 +7990,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4C7C7872D0270195"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:kabuto"
 				pokemon_type: ""
@@ -6944,10 +8016,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5800B234F4BD1FED"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:omastar"
 				pokemon_type: ""
@@ -6966,10 +8042,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "559BBAADFAAB4135"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:omanyte"
 				pokemon_type: ""
@@ -6988,10 +8068,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "07B08A23814A1609"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:porygon"
 				pokemon_type: ""
@@ -7010,10 +8094,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "7A0D4328A33209F0"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:flareon"
 				pokemon_type: ""
@@ -7032,10 +8120,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3DF24F99F9F9C46D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:jolteon"
 				pokemon_type: ""
@@ -7054,10 +8146,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1C2A6C906D81BBB1"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:vaporeon"
 				pokemon_type: ""
@@ -7076,10 +8172,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "7678B481E192D475"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:eevee"
 				pokemon_type: ""
@@ -7098,10 +8198,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4186551F131E916B"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:ditto"
 				pokemon_type: ""
@@ -7120,10 +8224,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5856025404500386"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:lapras"
 				pokemon_type: ""
@@ -7148,10 +8256,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "397DBB2DD2A3DAB7"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:gyarados"
 				pokemon_type: ""
@@ -7170,10 +8282,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1521DB4ABDFC5DD0"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:magikarp"
 				pokemon_type: ""
@@ -7192,10 +8308,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "7E08ADF38226A42C"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:tauros"
 				pokemon_type: ""
@@ -7214,10 +8334,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "27FE63D1EBA835C4"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:pinsir"
 				pokemon_type: ""
@@ -7236,10 +8360,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "46A339C9D402853A"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:magmar"
 				pokemon_type: ""
@@ -7258,10 +8386,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5DB2E543749BE56A"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:electabuzz"
 				pokemon_type: ""
@@ -7280,10 +8412,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "719F769DED5542B6"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:jynx"
 				pokemon_type: ""
@@ -7302,10 +8438,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4B8626EECDAC098A"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:cubone"
 				pokemon_type: ""
@@ -7324,10 +8464,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "0F1AD162F30691E6"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:doduo"
 				pokemon_type: ""
@@ -7346,10 +8490,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "6654AF3B3C0D6967"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:dodrio"
 				pokemon_type: ""
@@ -7368,10 +8516,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "41434817EAE368BF"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:seel"
 				pokemon_type: ""
@@ -7390,10 +8542,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "0B9943FE4558FF53"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:dewgong"
 				pokemon_type: ""
@@ -7412,10 +8568,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "739DF1A3425013F8"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:grimer"
 				pokemon_type: ""
@@ -7434,10 +8594,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3113183E8E3B4958"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:muk"
 				pokemon_type: ""
@@ -7456,10 +8620,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "62B8E20773390A24"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:shellder"
 				pokemon_type: ""
@@ -7478,10 +8646,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1886698EC0B1B0DE"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:cloyster"
 				pokemon_type: ""
@@ -7500,10 +8672,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "0E665755C0B3EC2C"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:gastly"
 				pokemon_type: ""
@@ -7522,10 +8698,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4B0A00DB5161672F"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:haunter"
 				pokemon_type: ""
@@ -7544,10 +8724,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1A483202F7C0E73B"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:gengar"
 				pokemon_type: ""
@@ -7566,10 +8750,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4D590C72BD36A127"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:onix"
 				pokemon_type: ""
@@ -7588,10 +8776,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "63D002CEDF4CD7E0"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:drowzee"
 				pokemon_type: ""
@@ -7610,10 +8802,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "0D331774E21E0A46"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:marowak"
 				pokemon_type: ""
@@ -7632,10 +8828,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "3A19B0369B2FDF47"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:hitmonlee"
 				pokemon_type: ""
@@ -7654,10 +8854,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "52688844ABCCF394"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:hitmonchan"
 				pokemon_type: ""
@@ -7676,10 +8880,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "15714B0F2C8342F0"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:lickitung"
 				pokemon_type: ""
@@ -7698,10 +8906,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "6DC00B7F88AA9BD7"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:koffing"
 				pokemon_type: ""
@@ -7720,10 +8932,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "15DA392A0B3C0A51"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:weezing"
 				pokemon_type: ""
@@ -7742,10 +8958,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "715B23484C2247D7"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:rhyhorn"
 				pokemon_type: ""
@@ -7764,10 +8984,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "15F9964F558CBCEA"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:rhydon"
 				pokemon_type: ""
@@ -7786,10 +9010,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "36FCEBD6467B8E5D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:chansey"
 				pokemon_type: ""
@@ -7808,10 +9036,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "63CD499F173978A2"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:tangela"
 				pokemon_type: ""
@@ -7830,10 +9062,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "1DC762FC624DC31B"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:kangaskhan"
 				pokemon_type: ""
@@ -7852,10 +9088,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "23F3B16AC4C33C65"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:horsea"
 				pokemon_type: ""
@@ -7874,10 +9114,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "34292B3B29D2D07A"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:seadra"
 				pokemon_type: ""
@@ -7896,10 +9140,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "5A8BE198FBF60683"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:goldeen"
 				pokemon_type: ""
@@ -7918,10 +9166,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4C2DC7A898BC8AC1"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:seaking"
 				pokemon_type: ""
@@ -7940,10 +9192,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "4D63F2414974FE31"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:hypno"
 				pokemon_type: ""
@@ -7962,10 +9218,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "45EAF85D2F59DD05"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:krabby"
 				pokemon_type: ""
@@ -7984,10 +9244,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: ""
 				gender: ""
 				id: "788EDD7DFBF5CA8A"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:kingler"
 				pokemon_type: ""
@@ -8012,10 +9276,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "4A9B062023EED33F"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:diglett"
 				pokemon_type: ""
@@ -8040,10 +9308,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "54DB9AFA2341797D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:diglett"
 				pokemon_type: ""
@@ -8068,10 +9340,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "3AA44828E6199C9A"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:dugtrio"
 				pokemon_type: ""
@@ -8096,10 +9372,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "7D937F04D29DFA2D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:dugtrio"
 				pokemon_type: ""
@@ -8124,10 +9404,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "6655AC0225D79DCF"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:meowth"
 				pokemon_type: ""
@@ -8152,10 +9436,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "247498A807AAFA07"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:meowth"
 				pokemon_type: ""
@@ -8180,10 +9468,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "0CA4AFB020C394A9"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:persian"
 				pokemon_type: ""
@@ -8208,10 +9500,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "alolan"
 				gender: ""
 				id: "1D221E12422D7693"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:persian"
 				pokemon_type: ""
@@ -8236,10 +9532,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "hisuian"
 				gender: ""
 				id: "62ED38103A6ECF93"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:growlithe"
 				pokemon_type: ""
@@ -8264,10 +9564,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "hisuian"
 				gender: ""
 				id: "56BB9FB79D34BF4C"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:arcanine"
 				pokemon_type: ""
@@ -8292,10 +9596,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "hisuian"
 				gender: ""
 				id: "620BC0BD65890D4D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:growlithe"
 				pokemon_type: ""
@@ -8320,10 +9628,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "hisuian"
 				gender: ""
 				id: "7E92E586498F12C2"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:arcanine"
 				pokemon_type: ""
@@ -8348,10 +9660,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
 				id: "3966EC363262895D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:articuno"
 				pokemon_type: ""
@@ -8376,10 +9692,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
 				id: "29BC5C2C34DEAB91"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:articuno"
 				pokemon_type: ""
@@ -8398,6 +9718,7 @@
 				action: "catch,evolve,obtain"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
@@ -8408,6 +9729,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "509C24B6811A02F5"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:zapdos"
 				pokemon_type: ""
@@ -8432,10 +9756,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
 				id: "67BF20AED6472FA1"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:zapdos"
 				pokemon_type: ""
@@ -8460,10 +9788,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
 				id: "55BE794557384653"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:moltres"
 				pokemon_type: ""
@@ -8488,10 +9820,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
 				id: "2079C4DD93C8EB7D"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:moltres"
 				pokemon_type: ""
@@ -8516,10 +9852,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
 				id: "740CE65EB1B67E21"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:meowth"
 				pokemon_type: ""
@@ -8544,10 +9884,14 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
 				id: "2524256FB8531DD2"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:meowth"
 				pokemon_type: ""
@@ -8566,6 +9910,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
@@ -8576,6 +9921,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "707B5FB754CBD0B4"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:ponyta"
 				pokemon_type: ""
@@ -8594,6 +9942,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
@@ -8604,6 +9953,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "397C8F60A6FA5896"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:ponyta"
 				pokemon_type: ""
@@ -8622,6 +9974,7 @@
 				action: "catch,evolve,obtain"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
@@ -8632,6 +9985,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "61740466C4514A8C"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:ponyta"
 				pokemon_type: ""
@@ -8650,6 +10006,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
@@ -8660,6 +10017,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "39375E6CDC08B893"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:rapidash"
 				pokemon_type: ""
@@ -8678,6 +10038,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
@@ -8688,6 +10049,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "3491B5A5BDB8B8AA"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:slowpoke"
 				pokemon_type: ""
@@ -8706,6 +10070,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
@@ -8716,6 +10081,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "0AD235FFF882E530"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:slowpoke"
 				pokemon_type: ""
@@ -8734,6 +10102,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
@@ -8744,6 +10113,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "64566B95BCB9BC49"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:slowbro"
 				pokemon_type: ""
@@ -8762,6 +10134,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
@@ -8772,6 +10145,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "7A5705539BBF3F30"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:slowbro"
 				pokemon_type: ""
@@ -8790,6 +10166,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
@@ -8800,6 +10177,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "6DAA8E9C438A6434"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:slowking"
 				pokemon_type: ""
@@ -8824,6 +10204,7 @@
 				action: "catch,obtain,evolve"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
@@ -8834,6 +10215,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "7EEBCD8653F11829"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:slowking"
 				pokemon_type: ""
@@ -8852,6 +10236,7 @@
 				action: "catch,evolve,obtain"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
@@ -8862,6 +10247,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "0BDB37A4C518A890"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:farfetchd"
 				pokemon_type: ""
@@ -8886,6 +10274,7 @@
 				action: "catch,evolve,obtain"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
@@ -8896,6 +10285,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "0DCCD2E0424C7B1C"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:farfetchd"
 				pokemon_type: ""
@@ -8914,6 +10306,7 @@
 				action: "catch,evolve,obtain"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
@@ -8924,6 +10317,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "0F4E0923E1FCC4CE"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:mrmime"
 				pokemon_type: ""
@@ -8942,6 +10338,7 @@
 				action: "catch,evolve,obtain"
 				amount: 1L
 				biome: ""
+				dex_progress: "seen"
 				dimension: ""
 				form: "galarian"
 				gender: ""
@@ -8952,6 +10349,9 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "07E1440A4494FEFD"
+				max_level: 0
+				min_level: 0
+				natures: ""
 				poke_ball_used: ""
 				pokemon: "cobblemon:mrmime"
 				pokemon_type: ""

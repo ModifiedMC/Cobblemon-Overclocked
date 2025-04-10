@@ -243,7 +243,7 @@
 				type: "item"
 			}]
 			tasks: [{
-				count: 20L
+				count: 16L
 				id: "6A4527930752A30D"
 				item: { count: 20, id: "modified:pokedollar" }
 				type: "item"
@@ -479,7 +479,7 @@
 				item: { count: 40, id: "modified:pokedollar" }
 				type: "item"
 			}]
-			x: -3.5d
+			x: -3.0d
 			y: 3.0d
 		}
 		{
@@ -1015,6 +1015,28 @@
 			}]
 			x: -5.5d
 			y: 0.0d
+		}
+		{
+			icon: {
+				id: "rctmod:trainer_card"
+			}
+			id: "3AA6B39F2D9AD982"
+			rewards: [{
+				id: "1DDB6C161B2E30E1"
+				item: {
+					count: 1
+					id: "rctmod:trainer_card"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 25L
+				id: "4DBEB3E6D50E507F"
+				item: { count: 1, id: "modified:pokedollar" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.0d
 		}
 	]
 }

@@ -13,115 +13,54 @@
 	id: "14700AA514981A98"
 	images: [
 		{
-			height: 3.0d
-			hover: ["Dex section is a WIP!"]
-			image: "sophisticatedbackpacks:item/empty_pickaxe_slot"
-			order: 1
-			rotation: 0.0d
-			width: 3.0d
-			x: -6.0d
-			y: -9.0d
-		}
-		{
-			height: 2.0d
+			height: 4.0d
 			image: "cobblemon:textures/gui/pokedex/caught_icon_small.png"
 			rotation: 0.0d
-			width: 2.0d
+			width: 4.0d
 			x: -5.5d
-			y: -8.5d
+			y: -9.5d
 		}
 		{
-			dev: true
 			height: 1.0d
 			image: "refinedstorage:textures/gui/sprites/cancel.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: -13.5d
-			y: -20.0d
+			x: -1.5d
+			y: -21.0d
 		}
 		{
-			dev: true
-			height: 1.0d
-			image: "refinedstorage:textures/gui/sprites/cancel.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -12.5d
-			y: -19.0d
-		}
-		{
-			dev: true
-			height: 1.0d
-			image: "refinedstorage:textures/gui/sprites/cancel.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -12.5d
-			y: -17.0d
-		}
-		{
-			dev: true
-			height: 1.0d
-			image: "refinedstorage:textures/gui/sprites/cancel.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -11.5d
-			y: -16.0d
-		}
-		{
-			dev: true
-			height: 1.0d
-			image: "refinedstorage:textures/gui/sprites/cancel.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -8.5d
-			y: -15.0d
-		}
-		{
-			dev: true
-			height: 1.0d
-			image: "refinedstorage:textures/gui/sprites/cancel.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.5d
-			y: -16.0d
-		}
-		{
-			dev: true
-			height: 1.0d
-			image: "refinedstorage:textures/gui/sprites/cancel.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -4.5d
-			y: -15.0d
-		}
-		{
-			dev: true
 			height: 1.0d
 			image: "refinedstorage:textures/gui/sprites/cancel.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: -3.5d
-			y: -15.0d
+			y: -21.0d
 		}
 		{
-			dev: true
 			height: 1.0d
 			image: "refinedstorage:textures/gui/sprites/cancel.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: -2.5d
-			y: -15.0d
+			y: -21.0d
 		}
 		{
-			dev: true
 			height: 1.0d
 			image: "refinedstorage:textures/gui/sprites/cancel.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: -1.5d
-			y: -15.0d
+			y: -20.0d
 		}
 		{
-			dev: true
+			height: 1.0d
+			image: "refinedstorage:textures/gui/sprites/cancel.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -19.0d
+		}
+		{
 			height: 1.0d
 			image: "refinedstorage:textures/gui/sprites/cancel.png"
 			rotation: 0.0d
@@ -130,7 +69,6 @@
 			y: -17.0d
 		}
 		{
-			dev: true
 			height: 1.0d
 			image: "refinedstorage:textures/gui/sprites/cancel.png"
 			rotation: 0.0d
@@ -139,58 +77,92 @@
 			y: -18.0d
 		}
 		{
-			dev: true
 			height: 1.0d
 			image: "refinedstorage:textures/gui/sprites/cancel.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: -1.5d
-			y: -19.0d
+			y: -15.0d
 		}
 		{
-			dev: true
-			height: 1.0d
-			image: "refinedstorage:textures/gui/sprites/cancel.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.5d
-			y: -20.0d
-		}
-		{
-			dev: true
-			height: 1.0d
-			image: "refinedstorage:textures/gui/sprites/cancel.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.5d
-			y: -21.0d
-		}
-		{
-			dev: true
 			height: 1.0d
 			image: "refinedstorage:textures/gui/sprites/cancel.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: -2.5d
-			y: -21.0d
+			y: -15.0d
 		}
 		{
-			dev: true
 			height: 1.0d
 			image: "refinedstorage:textures/gui/sprites/cancel.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: -3.5d
-			y: -21.0d
+			y: -15.0d
 		}
 		{
-			dev: true
+			height: 1.0d
+			image: "refinedstorage:textures/gui/sprites/cancel.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -15.0d
+		}
+		{
 			height: 1.0d
 			image: "refinedstorage:textures/gui/sprites/cancel.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: -5.5d
 			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "refinedstorage:textures/gui/sprites/cancel.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -16.0d
+		}
+		{
+			height: 1.0d
+			image: "refinedstorage:textures/gui/sprites/cancel.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -15.0d
+		}
+		{
+			height: 1.0d
+			image: "refinedstorage:textures/gui/sprites/cancel.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -16.0d
+		}
+		{
+			height: 1.0d
+			image: "refinedstorage:textures/gui/sprites/cancel.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -17.0d
+		}
+		{
+			height: 1.0d
+			image: "refinedstorage:textures/gui/sprites/cancel.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -19.0d
+		}
+		{
+			height: 1.0d
+			image: "refinedstorage:textures/gui/sprites/cancel.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -20.0d
 		}
 	]
 	order_index: 0
@@ -578,8 +550,8 @@
 			id: "20420F2BF84AC83B"
 			rewards: [
 				{
-					count: 30
-					id: "608723E075E8A5BE"
+					count: 60
+					id: "155271DDDAD48EC6"
 					item: {
 						count: 1
 						id: "modified:pokedollar"
@@ -587,8 +559,8 @@
 					type: "item"
 				}
 				{
-					count: 9
-					id: "5CE2EE50A45111D9"
+					count: 3
+					id: "1A01E53668EACBD0"
 					item: {
 						count: 1
 						id: "ars_nouveau:greater_experience_gem"
@@ -661,15 +633,15 @@
 					type: "cobblemon_tasks:cobblemon_task"
 				}
 			]
-			x: -4.0d
-			y: -1.5d
+			x: -2.0d
+			y: -11.0d
 		}
 		{
 			id: "695F04B5ECF7A17F"
 			rewards: [
 				{
-					count: 30
-					id: "1D075BC8681FF23F"
+					count: 60
+					id: "4A151CAD1AA8B6AC"
 					item: {
 						count: 1
 						id: "modified:pokedollar"
@@ -677,8 +649,8 @@
 					type: "item"
 				}
 				{
-					count: 9
-					id: "395F4AA756ECBF56"
+					count: 3
+					id: "4CA29CD3E7CA21F6"
 					item: {
 						count: 1
 						id: "ars_nouveau:greater_experience_gem"
@@ -751,15 +723,15 @@
 					type: "cobblemon_tasks:cobblemon_task"
 				}
 			]
-			x: -3.0d
-			y: -1.5d
+			x: -1.0d
+			y: -11.0d
 		}
 		{
 			id: "6377483B78DB08A7"
 			rewards: [
 				{
-					count: 30
-					id: "350E12C6D786FF53"
+					count: 60
+					id: "0609E90CF08594C9"
 					item: {
 						count: 1
 						id: "modified:pokedollar"
@@ -767,8 +739,8 @@
 					type: "item"
 				}
 				{
-					count: 9
-					id: "1C5E71C264470309"
+					count: 3
+					id: "06941D29A18B1FED"
 					item: {
 						count: 1
 						id: "ars_nouveau:greater_experience_gem"
@@ -841,15 +813,15 @@
 					type: "cobblemon_tasks:cobblemon_task"
 				}
 			]
-			x: -2.0d
-			y: -1.5d
+			x: 0.0d
+			y: -11.0d
 		}
 		{
 			id: "0AF60CF5659323EC"
 			rewards: [
 				{
-					count: 30
-					id: "7F56259D802EAE3E"
+					count: 60
+					id: "70F43C1C21F90B5E"
 					item: {
 						count: 1
 						id: "modified:pokedollar"
@@ -857,8 +829,8 @@
 					type: "item"
 				}
 				{
-					count: 9
-					id: "044E2857978AF138"
+					count: 3
+					id: "7915EC9112EBA3C2"
 					item: {
 						count: 1
 						id: "ars_nouveau:greater_experience_gem"
@@ -931,15 +903,15 @@
 					type: "cobblemon_tasks:cobblemon_task"
 				}
 			]
-			x: -1.0d
-			y: -1.5d
+			x: 1.0d
+			y: -11.0d
 		}
 		{
 			id: "340FDE37EB454C63"
 			rewards: [
 				{
-					count: 30
-					id: "7E0953F601557FC5"
+					count: 60
+					id: "670C69CA8CD8EE43"
 					item: {
 						count: 1
 						id: "modified:pokedollar"
@@ -947,8 +919,8 @@
 					type: "item"
 				}
 				{
-					count: 9
-					id: "67F2A95290E515A5"
+					count: 3
+					id: "4CE99923113204E4"
 					item: {
 						count: 1
 						id: "ars_nouveau:greater_experience_gem"
@@ -1021,15 +993,15 @@
 					type: "cobblemon_tasks:cobblemon_task"
 				}
 			]
-			x: 0.0d
-			y: -1.5d
+			x: 2.0d
+			y: -11.0d
 		}
 		{
 			id: "75680C5F6FC53540"
 			rewards: [
 				{
-					count: 30
-					id: "173F991CCA0D469A"
+					count: 60
+					id: "36564FC10F27893E"
 					item: {
 						count: 1
 						id: "modified:pokedollar"
@@ -1037,8 +1009,8 @@
 					type: "item"
 				}
 				{
-					count: 9
-					id: "2DF9EA15DB763BF6"
+					count: 3
+					id: "65E7BBF1FFCE7DAD"
 					item: {
 						count: 1
 						id: "ars_nouveau:greater_experience_gem"
@@ -1111,15 +1083,15 @@
 					type: "cobblemon_tasks:cobblemon_task"
 				}
 			]
-			x: 1.0d
-			y: -1.5d
+			x: 3.0d
+			y: -11.0d
 		}
 		{
 			id: "16EAD2F5D4CA9B93"
 			rewards: [
 				{
-					count: 30
-					id: "198A43158AF14969"
+					count: 60
+					id: "3D2CA475203C2969"
 					item: {
 						count: 1
 						id: "modified:pokedollar"
@@ -1127,8 +1099,8 @@
 					type: "item"
 				}
 				{
-					count: 9
-					id: "11AD771414843B32"
+					count: 3
+					id: "3175B28B8F62A35F"
 					item: {
 						count: 1
 						id: "ars_nouveau:greater_experience_gem"
@@ -1201,15 +1173,15 @@
 					type: "cobblemon_tasks:cobblemon_task"
 				}
 			]
-			x: 2.0d
-			y: -1.5d
+			x: 4.0d
+			y: -11.0d
 		}
 		{
 			id: "5F4CD36297C94EC0"
 			rewards: [
 				{
-					count: 30
-					id: "53B8CC6026A6AA69"
+					count: 60
+					id: "6910897D1F15EF25"
 					item: {
 						count: 1
 						id: "modified:pokedollar"
@@ -1217,8 +1189,8 @@
 					type: "item"
 				}
 				{
-					count: 9
-					id: "238E71197E90A928"
+					count: 3
+					id: "79FC3A70E70D2214"
 					item: {
 						count: 1
 						id: "ars_nouveau:greater_experience_gem"
@@ -1291,15 +1263,15 @@
 					type: "cobblemon_tasks:cobblemon_task"
 				}
 			]
-			x: 3.0d
-			y: -1.5d
+			x: 5.0d
+			y: -11.0d
 		}
 		{
 			id: "628A9A9BEEFEEDDD"
 			rewards: [
 				{
-					count: 30
-					id: "72C647532B660BB0"
+					count: 60
+					id: "2A66B294FA0F93BE"
 					item: {
 						count: 1
 						id: "modified:pokedollar"
@@ -1307,8 +1279,8 @@
 					type: "item"
 				}
 				{
-					count: 9
-					id: "0A2ACAB30608A171"
+					count: 3
+					id: "2AAB78130AF65D7C"
 					item: {
 						count: 1
 						id: "ars_nouveau:greater_experience_gem"
@@ -1381,8 +1353,8 @@
 					type: "cobblemon_tasks:cobblemon_task"
 				}
 			]
-			x: 4.0d
-			y: -1.5d
+			x: 6.0d
+			y: -11.0d
 		}
 		{
 			id: "3AE865E6E10F8D30"
@@ -1417,7 +1389,7 @@
 				type: "cobblemon_tasks:cobblemon_task"
 			}]
 			x: 2.0d
-			y: 2.5d
+			y: -4.5d
 		}
 		{
 			id: "521B16AB29CEFA94"
@@ -1452,7 +1424,7 @@
 				type: "cobblemon_tasks:cobblemon_task"
 			}]
 			x: -1.5d
-			y: 1.5d
+			y: -5.5d
 		}
 		{
 			id: "6EACC905A9981091"
@@ -1657,7 +1629,7 @@
 				}
 			]
 			x: 0.5d
-			y: 0.5d
+			y: -6.5d
 		}
 		{
 			id: "62D38F2B77A14277"
@@ -1692,7 +1664,7 @@
 				type: "cobblemon_tasks:cobblemon_task"
 			}]
 			x: -0.5d
-			y: 1.5d
+			y: -5.5d
 		}
 		{
 			id: "07B38F77EBEB23F2"
@@ -1727,7 +1699,7 @@
 				type: "cobblemon_tasks:cobblemon_task"
 			}]
 			x: 0.5d
-			y: 1.5d
+			y: -5.5d
 		}
 		{
 			id: "3E8C13BCEA765717"
@@ -1762,7 +1734,7 @@
 				type: "cobblemon_tasks:cobblemon_task"
 			}]
 			x: 1.5d
-			y: 1.5d
+			y: -5.5d
 		}
 		{
 			id: "2C9E452A81C06CE2"
@@ -1797,7 +1769,7 @@
 				type: "cobblemon_tasks:cobblemon_task"
 			}]
 			x: 2.5d
-			y: 1.5d
+			y: -5.5d
 		}
 		{
 			id: "780425BF9E42DA54"
@@ -1832,7 +1804,7 @@
 				type: "cobblemon_tasks:cobblemon_task"
 			}]
 			x: -1.0d
-			y: 2.5d
+			y: -4.5d
 		}
 		{
 			id: "02D8027A9C9DFE42"
@@ -1867,7 +1839,7 @@
 				type: "cobblemon_tasks:cobblemon_task"
 			}]
 			x: 0.0d
-			y: 2.5d
+			y: -4.5d
 		}
 		{
 			id: "3895509BB0FFE7BA"
@@ -1902,7 +1874,7 @@
 				type: "cobblemon_tasks:cobblemon_task"
 			}]
 			x: 1.0d
-			y: 2.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["70E7D208D1221DC0"]
@@ -2283,8 +2255,8 @@
 				id: "7AFBEC0C6E882060"
 				type: "checkmark"
 			}]
-			x: -5.5d
-			y: -1.5d
+			x: 2.5d
+			y: -9.5d
 		}
 		{
 			id: "12C6F2F0696BF6DF"
@@ -2318,10 +2290,13 @@
 				type: "cobblemon_tasks:cobblemon_task"
 			}]
 			x: -5.5d
-			y: 0.0d
+			y: -9.5d
 		}
 		{
 			can_repeat: true
+			icon: {
+				id: "cobgyms:legendary_cache_shiny"
+			}
 			id: "6C458CF5ABF7AFB5"
 			rewards: [
 				{
@@ -2349,6 +2324,7 @@
 				}
 			]
 			shape: "gear"
+			size: 1.5d
 			tasks: [{
 				action: "catch"
 				amount: 1L
@@ -2370,8 +2346,8 @@
 				time_min: 0L
 				type: "cobblemon_tasks:cobblemon_task"
 			}]
-			x: -2.5d
-			y: 0.0d
+			x: -2.0d
+			y: -7.5d
 		}
 		{
 			id: "79490B7380D0CD9F"
@@ -2471,92 +2447,11 @@
 			y: -5.0d
 		}
 		{
-			id: "4DC7BA8845CE07BB"
-			shape: "octagon"
-			tasks: [{
-				id: "33B01A236CD85DC2"
-				type: "custom"
-			}]
-			x: -5.5d
-			y: -2.5d
-		}
-		{
-			id: "27537BC336589254"
-			invisible: true
-			tasks: [
-				{
-					action: "evolve"
-					amount: 1L
-					biome: ""
-					dex_progress: "seen"
-					dimension: ""
-					form: ""
-					gender: ""
-					id: "22D62CD1A862856D"
-					max_level: 0
-					min_level: 0
-					natures: ""
-					poke_ball_used: ""
-					pokemon: "cobblemon:charmander"
-					pokemon_type: ""
-					region: ""
-					shiny: false
-					time_max: 24000L
-					time_min: 0L
-					type: "cobblemon_tasks:cobblemon_task"
-				}
-				{
-					action: "evolve"
-					amount: 1L
-					biome: ""
-					dex_progress: "seen"
-					dimension: ""
-					form: ""
-					gender: ""
-					id: "706C414AD082EA21"
-					max_level: 0
-					min_level: 0
-					natures: ""
-					poke_ball_used: ""
-					pokemon: "cobblemon:charmeleon"
-					pokemon_type: ""
-					region: ""
-					shiny: false
-					time_max: 24000L
-					time_min: 0L
-					type: "cobblemon_tasks:cobblemon_task"
-				}
-				{
-					action: "level_up_to"
-					amount: 1L
-					biome: ""
-					dex_progress: "seen"
-					dimension: ""
-					form: ""
-					gender: ""
-					id: "2625F192FCFE72F0"
-					max_level: 0
-					min_level: 0
-					natures: ""
-					poke_ball_used: ""
-					pokemon: "cobblemon:charizard"
-					pokemon_type: ""
-					region: ""
-					shiny: false
-					time_max: 24000L
-					time_min: 0L
-					type: "cobblemon_tasks:cobblemon_task"
-				}
-			]
-			x: -4.0d
-			y: -2.5d
-		}
-		{
 			id: "3C78A25B14F6AD2B"
 			rewards: [
 				{
-					count: 30
-					id: "7ED1C455A6603E22"
+					count: 60
+					id: "71AC7C1EB772801A"
 					item: {
 						count: 1
 						id: "modified:pokedollar"
@@ -2564,8 +2459,8 @@
 					type: "item"
 				}
 				{
-					count: 9
-					id: "634E740772C332B4"
+					count: 3
+					id: "2D78CBE3B6E42599"
 					item: {
 						count: 1
 						id: "ars_nouveau:greater_experience_gem"
@@ -2638,8 +2533,8 @@
 					type: "cobblemon_tasks:cobblemon_task"
 				}
 			]
-			x: 5.0d
-			y: -1.5d
+			x: 7.0d
+			y: -11.0d
 		}
 		{
 			icon: {
@@ -2676,8 +2571,8 @@
 				time_min: 0L
 				type: "cobblemon_tasks:cobblemon_task"
 			}]
-			x: 4.5d
-			y: 0.0d
+			x: 2.5d
+			y: -7.5d
 		}
 		{
 			id: "0D1CFAEC3FCC6722"
@@ -2737,8 +2632,8 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:fossils)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -12.0d
-			y: 0.0d
+			x: -5.25d
+			y: -4.5d
 		}
 		{
 			icon: {
@@ -2783,8 +2678,8 @@
 				time_min: 0L
 				type: "cobblemon_tasks:cobblemon_task"
 			}]
-			x: -6.5d
-			y: 0.0d
+			x: -8.0d
+			y: -9.5d
 		}
 		{
 			id: "4B9CE98B95BB9182"
@@ -2802,8 +2697,8 @@
 				item: { count: 1, id: "cobblemon:pc" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: 0.0d
+			x: -3.0d
+			y: -9.5d
 		}
 		{
 			id: "31726B2C1F66926F"
@@ -2829,8 +2724,8 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblenav:pokenav)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -7.5d
-			y: 2.5d
+			x: -10.0d
+			y: -11.0d
 		}
 		{
 			id: "28AD192BEF29F05B"
@@ -2848,8 +2743,8 @@
 				item: { count: 1, id: "cobblenav:pokefinder_item_green" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 2.5d
+			x: -8.0d
+			y: -11.0d
 		}
 		{
 			icon: {
@@ -2871,8 +2766,8 @@
 				id: "3E5EBA1EFF801DAC"
 				type: "checkmark"
 			}]
-			x: -9.5d
-			y: 0.0d
+			x: -6.0d
+			y: -8.5d
 		}
 		{
 			id: "7B4E44A914D7CFF8"
@@ -2890,8 +2785,8 @@
 				item: { count: 1, id: "cobblenav:pokenav_item_old" }
 				type: "item"
 			}]
-			x: -7.0d
-			y: 1.5d
+			x: -9.0d
+			y: -11.0d
 		}
 		{
 			id: "56021F3547B6A2E0"
@@ -2909,8 +2804,8 @@
 				item: { count: 1, id: "cobblenav:pokenav_item_gholdengo" }
 				type: "item"
 			}]
-			x: -8.0d
-			y: 1.5d
+			x: -11.0d
+			y: -11.0d
 		}
 		{
 			icon: {
@@ -2929,12 +2824,11 @@
 				id: "417B7AC6E24A118D"
 				type: "checkmark"
 			}]
-			x: -8.5d
-			y: 0.0d
+			x: -5.0d
+			y: -8.5d
 		}
 		{
 			id: "16290D18E9D67988"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -3194,7 +3088,6 @@
 		}
 		{
 			id: "5919CAA1EC57AA34"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -3280,7 +3173,6 @@
 				id: "cobblemon:pokemon_model"
 			}
 			id: "52911056CA80626D"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -3876,7 +3768,6 @@
 		}
 		{
 			id: "5BBD9C1F4C8238AB"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -4052,7 +3943,6 @@
 		}
 		{
 			id: "44112E71C2FD9C25"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -4102,7 +3992,6 @@
 		}
 		{
 			id: "7FA641CA161D2163"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -4204,7 +4093,6 @@
 		}
 		{
 			id: "2D6288823D3173E9"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -4422,7 +4310,6 @@
 		}
 		{
 			id: "58A96D504F6D0BDB"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -4682,7 +4569,6 @@
 		}
 		{
 			id: "7A950C6D89028DC2"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -4870,7 +4756,6 @@
 		}
 		{
 			id: "7D6163F60A4BC973"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -5235,7 +5120,6 @@
 		}
 		{
 			id: "72C5F9B40FD1E804"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -5306,7 +5190,6 @@
 		}
 		{
 			id: "22DD18B39E62B05B"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -5461,7 +5344,6 @@
 		}
 		{
 			id: "0D967633A7095ED0"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -5553,7 +5435,6 @@
 		}
 		{
 			id: "5225AD878439028B"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -5759,7 +5640,6 @@
 		}
 		{
 			id: "3808B72C1784E21C"
-			invisible: true
 			tasks: [{
 				action: "catch,evolve,obtain"
 				amount: 1L
@@ -5786,7 +5666,6 @@
 		}
 		{
 			id: "19EEE8020C78BDA4"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -5878,7 +5757,6 @@
 		}
 		{
 			id: "123FB8D6351AAF1F"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -5991,7 +5869,6 @@
 		}
 		{
 			id: "0F7711FA244163F7"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -6083,7 +5960,6 @@
 		}
 		{
 			id: "7BE4ACF868906E2B"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -6154,7 +6030,6 @@
 		}
 		{
 			id: "2669FA867691A5E3"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -6246,7 +6121,6 @@
 		}
 		{
 			id: "7329A4B4989D5EC7"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -6392,7 +6266,6 @@
 		}
 		{
 			id: "196ECFC06EC71B90"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -6757,7 +6630,6 @@
 		}
 		{
 			id: "5B1F60891CBEDA8C"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -7248,7 +7120,6 @@
 		}
 		{
 			id: "45316703D40D3AD3"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -7592,7 +7463,6 @@
 		}
 		{
 			id: "437E9D159405D8FE"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -7705,7 +7575,6 @@
 		}
 		{
 			id: "5C7B1DE08F0AD6DC"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -7881,7 +7750,6 @@
 		}
 		{
 			id: "0A7096D8080ABDF6"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -8099,7 +7967,6 @@
 		}
 		{
 			id: "3118656733D3354C"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -8691,15 +8558,9 @@
 			y: -22.5d
 		}
 		{
-			id: "5472E268A80038FD"
-			tasks: [{
-				id: "6978CDF80A35B992"
-				type: "checkmark"
-			}]
-			x: -4.5d
-			y: -10.0d
-		}
-		{
+			icon: {
+				id: "mega_showdown:mega_meteorid_block"
+			}
 			id: "781EBCD4D8F1368B"
 			rewards: [{
 				count: 25
@@ -8712,14 +8573,14 @@
 			}]
 			tasks: [{
 				icon: {
-					id: "mega_showdown:mega_meteorid_block_item"
+					id: "mega_showdown:mega_meteorid_block"
 				}
 				id: "0636C1DBC2A78148"
 				structure: "#mega_showdown:megaroid"
 				type: "structure"
 			}]
-			x: -17.0d
-			y: 2.5d
+			x: -4.5d
+			y: -2.5d
 		}
 		{
 			id: "4F7CC8115E47BED6"
@@ -8747,8 +8608,8 @@
 				item: { count: 1, id: "mega_showdown:keystone" }
 				type: "item"
 			}]
-			x: -14.0d
-			y: 2.5d
+			x: -2.5d
+			y: -2.5d
 		}
 		{
 			id: "5EF4CF4F7BDD5693"
@@ -8768,12 +8629,11 @@
 				structure: "mega_showdown:mega_site"
 				type: "structure"
 			}]
-			x: -15.5d
-			y: 2.5d
+			x: -3.5d
+			y: -2.5d
 		}
 		{
 			id: "4ECBFA9E68E42205"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -9033,7 +8893,6 @@
 		}
 		{
 			id: "1A3C3DB2CE713DBE"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -9272,7 +9131,6 @@
 		}
 		{
 			id: "1AEA184928A2C542"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -9742,7 +9600,6 @@
 		}
 		{
 			id: "169403A7ABE23E19"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -9813,7 +9670,6 @@
 		}
 		{
 			id: "49F7EF94A99C2A1A"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -10115,7 +9971,6 @@
 		}
 		{
 			id: "597A776A12EBDDAD"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -10249,7 +10104,6 @@
 		}
 		{
 			id: "002F2C7B5F5C8C5E"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -10446,7 +10300,6 @@
 		}
 		{
 			id: "341E58FCC41D30F1"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -10601,7 +10454,6 @@
 		}
 		{
 			id: "287253B6B153FAAD"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -10777,7 +10629,6 @@
 		}
 		{
 			id: "4741D14B8ADAE9C8"
-			invisible: true
 			tasks: [{
 				action: "catch,evolve,obtain"
 				amount: 1L
@@ -10804,7 +10655,6 @@
 		}
 		{
 			id: "1C54C9B630849865"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -11019,7 +10869,6 @@
 		}
 		{
 			id: "4C45C634BEC11BA9"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -11153,7 +11002,6 @@
 		}
 		{
 			id: "75F2CDC3CDF45FFE"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -11287,7 +11135,6 @@
 		}
 		{
 			id: "33F157320E01CC7B"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -11547,7 +11394,6 @@
 		}
 		{
 			id: "47CD11A9FFEFE03E"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -11765,7 +11611,6 @@
 		}
 		{
 			id: "632529381365FB46"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -11857,7 +11702,6 @@
 		}
 		{
 			id: "60570E75C416BB57"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -12075,7 +11919,6 @@
 		}
 		{
 			id: "4B782091B3732253"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -12251,7 +12094,6 @@
 		}
 		{
 			id: "074C9C0469DFD312"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -12553,7 +12395,6 @@
 		}
 		{
 			id: "1BBDE7080AD2E4A2"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -12750,7 +12591,6 @@
 		}
 		{
 			id: "2A006D5314E1449A"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -12905,7 +12745,6 @@
 		}
 		{
 			id: "76D7F0FEBB08B9E2"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -12997,7 +12836,6 @@
 		}
 		{
 			id: "6D0D1AA9E5100F98"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -13215,7 +13053,6 @@
 		}
 		{
 			id: "0E586F3C352EFFAA"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -13391,7 +13228,6 @@
 		}
 		{
 			id: "03709B2533ACD75A"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -13504,7 +13340,6 @@
 		}
 		{
 			id: "236AC5BC65C01A4C"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -13638,7 +13473,6 @@
 		}
 		{
 			id: "481D36A0E4BE03E3"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -13982,7 +13816,6 @@
 		}
 		{
 			id: "6B05FA7513976F58"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -14137,7 +13970,6 @@
 		}
 		{
 			id: "43F4F30C84BBA193"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -14250,7 +14082,6 @@
 		}
 		{
 			id: "1B020504EB55F7D3"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -14300,7 +14131,6 @@
 		}
 		{
 			id: "650E252CE49DCB91"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -14371,7 +14201,6 @@
 		}
 		{
 			id: "2B0E8C06D78723E7"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -14505,7 +14334,6 @@
 		}
 		{
 			id: "0EFF4E7F7D096A23"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -14723,7 +14551,6 @@
 		}
 		{
 			id: "384A99EC058C63ED"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -14794,7 +14621,6 @@
 		}
 		{
 			id: "480CF727BF487260"
-			invisible: true
 			tasks: [{
 				action: "catch,evolve,obtain"
 				amount: 1L
@@ -14821,7 +14647,6 @@
 		}
 		{
 			id: "0A12C5EA5C3F211E"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -14997,7 +14822,6 @@
 		}
 		{
 			id: "2C6A0968B1041F07"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -15068,7 +14892,6 @@
 		}
 		{
 			id: "12E69501F970C8D9"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -15160,7 +14983,6 @@
 		}
 		{
 			id: "73090BBC8A6D442F"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -15504,7 +15326,6 @@
 		}
 		{
 			id: "55F6239981D4B159"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -15596,7 +15417,6 @@
 		}
 		{
 			id: "61F7AAFB73A1FCA1"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -15667,7 +15487,6 @@
 		}
 		{
 			id: "2BC5F581E33DF457"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -15990,7 +15809,6 @@
 		}
 		{
 			id: "2635646DA4564163"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -16376,7 +16194,6 @@
 		}
 		{
 			id: "69F52A7752C19CF5"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -16699,7 +16516,6 @@
 		}
 		{
 			id: "2502CB87FF0EF942"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -16812,7 +16628,6 @@
 		}
 		{
 			id: "755BB86D714FE220"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -16904,7 +16719,6 @@
 		}
 		{
 			id: "4915825B660CD27C"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -17017,7 +16831,6 @@
 		}
 		{
 			id: "250CC2FE0F7DCC42"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -17109,7 +16922,6 @@
 		}
 		{
 			id: "19875DEB01335381"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -17264,7 +17076,6 @@
 		}
 		{
 			id: "670CC6EDF705A428"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -17398,7 +17209,6 @@
 		}
 		{
 			id: "3EB4914309D5073F"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -17469,7 +17279,6 @@
 		}
 		{
 			id: "7B52DCB755A1B95F"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -17519,7 +17328,6 @@
 		}
 		{
 			id: "4925855DA6F1A770"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -17695,7 +17503,6 @@
 		}
 		{
 			id: "56A7DE6305A0BA8F"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -17850,7 +17657,6 @@
 		}
 		{
 			id: "03047E4EF553D104"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -17900,7 +17706,6 @@
 		}
 		{
 			id: "63590EB8D1818AD4"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -17992,7 +17797,6 @@
 		}
 		{
 			id: "04937A8B54AF68DA"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -18042,7 +17846,6 @@
 		}
 		{
 			id: "3736A76E201484E0"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -18092,7 +17895,6 @@
 		}
 		{
 			id: "6F0128C5F6A8E758"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -18226,7 +18028,6 @@
 		}
 		{
 			id: "655BB4FDE629E70F"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -18297,7 +18098,6 @@
 		}
 		{
 			id: "1D7580CC8F055FFA"
-			invisible: true
 			tasks: [{
 				action: "catch,evolve,obtain"
 				amount: 1L
@@ -18324,7 +18124,6 @@
 		}
 		{
 			id: "17D53BAD3E9C1D90"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -18437,7 +18236,6 @@
 		}
 		{
 			id: "32BC132722BAD647"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -18529,7 +18327,6 @@
 		}
 		{
 			id: "5CD55745E0E12FC6"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -18579,7 +18376,6 @@
 		}
 		{
 			id: "7F401B66471E4CAD"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -18650,7 +18446,6 @@
 		}
 		{
 			id: "17052794146772C7"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -18742,7 +18537,6 @@
 		}
 		{
 			id: "065739A79D4F6B3D"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -18855,7 +18649,6 @@
 		}
 		{
 			id: "778833161119F423"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -18968,7 +18761,6 @@
 		}
 		{
 			id: "5C92ADF3912FAD50"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -19060,7 +18852,6 @@
 		}
 		{
 			id: "2550749BBA4B4309"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -19215,7 +19006,6 @@
 		}
 		{
 			id: "28A7EBC0C4495B9C"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -19370,7 +19160,6 @@
 		}
 		{
 			id: "2B6D75828A32A57B"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -19441,7 +19230,6 @@
 		}
 		{
 			id: "37185708AFCB4964"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -19575,7 +19363,6 @@
 		}
 		{
 			id: "14AA7C7E5C0CF81B"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -19856,7 +19643,6 @@
 		}
 		{
 			id: "0481F95AED479F59"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -19906,7 +19692,6 @@
 		}
 		{
 			id: "0FC3930BA4C26F9F"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -19998,7 +19783,6 @@
 		}
 		{
 			id: "226479326EE3F703"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -20048,7 +19832,6 @@
 		}
 		{
 			id: "79EB2FB0E4B1F04F"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -20140,7 +19923,6 @@
 		}
 		{
 			id: "7549E73A52152A1C"
-			invisible: true
 			tasks: [{
 				action: "catch,evolve,obtain"
 				amount: 1L
@@ -20167,7 +19949,6 @@
 		}
 		{
 			id: "276614F1CAEEF005"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -20217,7 +19998,6 @@
 		}
 		{
 			id: "56C2FC76392861EE"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -20309,7 +20089,6 @@
 		}
 		{
 			id: "2AFC1D3F11B9A665"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -20359,7 +20138,6 @@
 		}
 		{
 			id: "785605C8B362D159"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -20493,7 +20271,6 @@
 		}
 		{
 			id: "38D4520EAE00F888"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -20606,7 +20383,6 @@
 		}
 		{
 			id: "60CDAE3198AA2FD1"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -20698,7 +20474,6 @@
 		}
 		{
 			id: "3B54337A8D3B90FA"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -20748,7 +20523,6 @@
 		}
 		{
 			id: "39FE63B9E30BE9AE"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -20861,7 +20635,6 @@
 		}
 		{
 			id: "2A0043D2C4B8156A"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -21016,7 +20789,6 @@
 		}
 		{
 			id: "26F30FB28DB73909"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -21192,7 +20964,6 @@
 		}
 		{
 			id: "7EF6538CCFA86CE3"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -21263,7 +21034,6 @@
 		}
 		{
 			id: "60539FC8C0C1B4C0"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -21418,7 +21188,6 @@
 		}
 		{
 			id: "78285033AABF5CC2"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -21489,7 +21258,6 @@
 		}
 		{
 			id: "0ECF89119F491AC0"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -21560,7 +21328,6 @@
 		}
 		{
 			id: "2E92DF9C20E1283C"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -21610,7 +21377,6 @@
 		}
 		{
 			id: "61AAC173D24A2D74"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -21681,7 +21447,6 @@
 		}
 		{
 			id: "110258C1922A8DEB"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -21773,7 +21538,6 @@
 		}
 		{
 			id: "44F6672482C9B339"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -21909,7 +21673,7 @@
 				gender: ""
 				icon: {
 					components: {
-						"ftbquests:icon": "mekanism:item/ingot_steel"
+						"ftbquests:icon": "cobblemon:item/type_gem/steel_gem"
 					}
 					id: "ftbquests:custom_icon"
 				}
@@ -21964,7 +21728,6 @@
 		}
 		{
 			id: "30C7BF6B8B82A86D"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -22077,7 +21840,6 @@
 		}
 		{
 			id: "69CB779BD0D57B79"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -22127,7 +21889,6 @@
 		}
 		{
 			id: "52C75F8BEFF94D3B"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -22219,7 +21980,6 @@
 		}
 		{
 			id: "0A705FBDF4BED170"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -22374,7 +22134,6 @@
 		}
 		{
 			id: "123AFF6EE30CB687"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -22424,7 +22183,6 @@
 		}
 		{
 			id: "2DEC3C3DDE9679AD"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -22474,7 +22232,6 @@
 		}
 		{
 			id: "7256625DEA3DF4FF"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -22755,7 +22512,6 @@
 		}
 		{
 			id: "433D45B5077ABAB3"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -22826,7 +22582,6 @@
 		}
 		{
 			id: "2EAB275BBAA46C3F"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -22876,7 +22631,6 @@
 		}
 		{
 			id: "6265FD29EAC0B159"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -22968,7 +22722,6 @@
 		}
 		{
 			id: "28D879AA679D2C8E"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -23018,7 +22771,6 @@
 		}
 		{
 			id: "00C07F48A8B0D6B8"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -23110,7 +22862,6 @@
 		}
 		{
 			id: "7C61119198FB8B4F"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -23202,7 +22953,6 @@
 		}
 		{
 			id: "7BD6E4825155780E"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -23336,7 +23086,6 @@
 		}
 		{
 			id: "37903AB013169316"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -23386,7 +23135,6 @@
 		}
 		{
 			id: "54193A7FBAC08623"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -24150,7 +23898,6 @@
 		}
 		{
 			id: "37139A8E2EA9C97C"
-			invisible: true
 			tasks: [{
 				action: "catch,evolve,obtain"
 				amount: 1L
@@ -26129,7 +25876,6 @@
 		}
 		{
 			id: "5C6ABFC209F01184"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
@@ -26242,7 +25988,6 @@
 		}
 		{
 			id: "6ADA1C14E7C4FA93"
-			invisible: true
 			tasks: [
 				{
 					action: "catch,evolve,obtain"
