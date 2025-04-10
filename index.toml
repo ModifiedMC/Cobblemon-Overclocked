@@ -2518,11 +2518,19 @@ hash = "a08b8d317e3a6ee3c44b74d3cf1ff9bea5cce2fa89be48f89403e2e6d14c8bf5"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "a83e520716f7d5fa43025d5991acd6e2160fc43ba604bd4c258b9f5c0812830f"
+hash = "dfb14bbd305ae926f19ed75a075051b2110453cc3b6fda321922138d6177a809"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
 hash = "a93b0f2e4acc94705cdc2b55202d7af64b30e30ede4147a5a5ce2daaf346eb1e"
+
+[[files]]
+file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+hash = "ea47017b55fb70a7d1ab0c7da4f036970be053fe8913d1151fe68dc2cecacf47"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "d86c38bc9eaeef7bc1f6ea0e8bf7365b593ea6cc7996e43a52cf7760b00f7b21"
 
 [[files]]
 file = "config/fancymenu/customization/welcomescreen_welcome_layout.txt"
@@ -2538,7 +2546,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "324649f4bf8f57a9f165a612ba956e53d8307814184f9a800a3fa007c898bef1"
+hash = "ee361146b30fb53d9ec9eb8af8841254675347e0466690b548e2d947805861ba"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -2686,11 +2694,11 @@ hash = "8d1daf27ff4642a1391bc5d8818edb127123557032aed1fb5b95385bbee7b8d9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/catch_em_all.snbt"
-hash = "ba2f0f366ef305823e909fa4dc55f713a71c29914a989f06a5b088be1406dc14"
+hash = "d78849b049793ae7ad022ab581a9327bf2405949e7abab83d60c97ee575848a7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/champions_league.snbt"
-hash = "b54965d4922f2774097aca554fde11e86d6656b40dac3b4185cb84cfc8b9d2cb"
+hash = "bc0d6a73d9e770179fb16aeaf60d7f3c8caad9b998a000156b18af6c6e557028"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/completionist.snbt"
@@ -2718,7 +2726,7 @@ hash = "b8b2297bd97068ece58ca1798c1a7a1942ffb4f1ce12fd04ccdb02c133343630"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/generation_1.snbt"
-hash = "04ea201b98b34314b603c7fcd7cb53619aa48781fc078d54fe82056706f87e5b"
+hash = "78179190e4010ddf6e243af674973552146e53fe8cfc253d42093dd74ed155a3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/getting_started.snbt"
@@ -2738,7 +2746,7 @@ hash = "2b351561e563d9fa75e2191fd8e6591b11348b721e9743b7d85540a026369f31"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/lightmans_currency.snbt"
-hash = "99a04f1b3e4b2f162d74b278a5a2a340209da716fb11ba4739ddd075142208a9"
+hash = "f20793149ba81765ecfb30b0de584a6da7e138cb3d30c763d8b1047dfb87ca74"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/medicine.snbt"
@@ -2750,7 +2758,7 @@ hash = "6b9b23c90249686fc1ed69d806f5a94243b2a81903ad705aa3fe8f04f061e718"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/modified_exchange.snbt"
-hash = "090174e2cb6b0fd2e352d1fc5d0785b57be451dc004cdedefc2f0052ffceb53d"
+hash = "1235936874d8bfc14077a83de22acd9ab34eb51682ab958f9bfa0e375cbcf1d3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/more_then_meets_the_ball.snbt"
@@ -2790,15 +2798,19 @@ hash = "3e230a56283cdf85d8c89f6d3aacd4ba202c9707a0c9692bec0f60a98b46cdfa"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_aether.snbt"
-hash = "9196672041f525ee330230d60b5d9c07b41cce9f19abc6e7c7e767377bd10ceb"
+hash = "08762468c5dd03ce7ca4a52ddeee89135c190eb0e673d42b4fcaa8841d404b1d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_alolan_archives.snbt"
 hash = "b00a6607faa84dfcc83800c7277cb348bf390302773143116e6f176612e43bdb"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/the_deeper_dark.snbt"
+hash = "da3ecc1047e038c2db06d937201a5ab1c778b569c8e95bf8cd8297431cef766d"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/the_end.snbt"
-hash = "8804708077a6fc12c4261f96766a4e5f822a1dd60a3c4f11ac3abb59e3a8daf2"
+hash = "3db43a3f9df349d476f6f95a5503c0fbb865329b06f7ef130bb39ab8033603a1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_galarian_expedition.snbt"
@@ -2814,7 +2826,7 @@ hash = "f156758b0cf86f0a12222210bdc16c1eb918e11c06095cb677e82855a9870661"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_nether.snbt"
-hash = "9e3abb6fbf8383c13dcabd520d042d9c435b29c679f9270271beb7374bc12fdf"
+hash = "16a7c55110b4da6cbbea661c63bdf2c983691e20783e9c7cba90eccdb6e5c634"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_overworld.snbt"
@@ -2842,7 +2854,7 @@ hash = "5c6661881b58d08139f476dc810796c5bd80324a388492942ce47404240870cc"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "2202f4025cc21e5d2134dea0f7a413f4ac812dcc25f288312312c25f524247b9"
+hash = "816e3e8d279b74fff8bb30bde464f93e01bde38b3046736d95d17c8bab4bb0e4"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/018B7DD83BAE2B01.snbt"
@@ -4661,12 +4673,56 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
+file = "kubejs/assets/modified/ftbquests/backgrounds/bg_crag.png"
+hash = "589fdc25721525586415d79192316498955ab8bad64578e6103e1bd862ec2f9a"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/backgrounds/bg_nostalgic.png"
+hash = "85ae626a255ad299f6cf17ced1401f93de957e1851188bbe7974a18af895977e"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/backgrounds/bg_pokeball.png"
+hash = "886a3d04bd9635e02e2b93e3ed310494c522d57e74acb8df9f3b70452f294dac"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/backgrounds/bg_sky.png"
+hash = "aacda196c34a4ac2e12a340b9b77b1562a65af534d7a49fd5ff3fc62242c0e16"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/backgrounds/bg_space.png"
+hash = "b9f1c5cd727f3ef7e80979cbbd9819ee9818aa505605b9d319c9e3e4efa50ebc"
+
+[[files]]
 file = "kubejs/assets/modified/ftbquests/backgrounds/modified_dragonite.png"
 hash = "01ad9fb171787f4ff8673959f171af16bb873ba178488acd9056dd9bff98cb85"
 
 [[files]]
+file = "kubejs/assets/modified/ftbquests/backgrounds/pc_box_1.png"
+hash = "bcff9835a51929312b7ca665389c7d47ebf4ce89056f3a0d531067759a040219"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/backgrounds/pc_box_2.png"
+hash = "13f0d94d104755ffd6497531b43acdeec31c590e3f4220c972be8e63adf549c6"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/backgrounds/pc_box_3.png"
+hash = "e76d69e5124fd174fec6cbda85c08868995c3d70416663bd7d9cb9be930a0ec6"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/backgrounds/pc_box_4.png"
+hash = "a7c538419f064fe33b4b7a1dd0a58c84eb250f96410805b3ef6dfdbd35e45368"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/backgrounds/pc_box_5.png"
+hash = "79bf26d6f3be97f73d5954818d086437ee349c23a22c36fbf61ff430e1d095e1"
+
+[[files]]
 file = "kubejs/assets/modified/ftbquests/backgrounds/poke-centre.png"
 hash = "fe76dab4b446ea8cbe08eaddf1770c863523f8c4377e275e846b2413f27ac2e8"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/logos/gotta_catch_em_all.png"
+hash = "b4e3d73c690e1937a663857414b6aa32f3db70f2710b27cda4ce0f4bd756a265"
 
 [[files]]
 file = "kubejs/assets/modified/ftbquests/logos/modified-m-logo.mcmeta"
@@ -4691,6 +4747,442 @@ hash = "62846ed6eb5c4840f259790c90f79d17bc664c02269d346c51add81ab62ce2f8"
 [[files]]
 file = "kubejs/assets/modified/ftbquests/logos/modified-mew.png"
 hash = "7ca9a72fc6eb67bf8c2ac6f3a053ef5bf391c11f51fbb03ca915ac2dad1930bb"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/misc_icon/physical_icon.png"
+hash = "70b20490cef96b7e13bafbd00f62c919868da23849188ec7ad772f508b2325c9"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/misc_icon/pokedollar_character.png"
+hash = "f69cb938c5c4148b99e7d439320adf4e1bf2eff89d4d32b66788b725ae5ab183"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/misc_icon/special_icon.png"
+hash = "aee7dbb4cb96c259050e060972b9497c1a78ecc5e9fb5faaf71486dce1d5d3da"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/misc_icon/status_icon.png"
+hash = "68ca77a32db4b101db4a851c1f0038e9001fbb9e9345aa5fd03315b44b12db24"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/gengar_face.png"
+hash = "4c195c168ff67025298aee97b2025eb3865b6b3ec870241a8b914abb92cb3b69"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/mew_coin.png"
+hash = "cc0363c633e23235c67671079d48e34fe2f062d174c4dfc48917eb4645e4b92a"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/mew_face.png"
+hash = "63a5a841eed76c78ebbbe319e67844bc1b2aec8d315d310ac0c4e9e94dd4b6cd"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/mewtwo_face.png"
+hash = "8f7ed2a561a1a3f9011ce083bbcfc5736b5ed05b3231ac877aa04071c3ec489d"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/pichu_face.png"
+hash = "5406a127734210a01d6977a7a11ba254d9dcdace6e3ae4778800084f5e6c253a"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/pika_face.png"
+hash = "f810b5ebdbe841a44112343379c1331fc7ebf3296ef2a384b7e5cfd8de546900"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/snorlax_face.png"
+hash = "bc4b1eac4fa49c82e06539f16fd53f710572b1787960d0567e07f67e396d6598"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unknown_g.png"
+hash = "5ddd0e7176df638cb9dc824da467e56853da4ada53c74e07f8b2732254b9ea19"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_a.png"
+hash = "227640bda410eba47839a68e230521dda3db72a36204d05444ae8bff9f5ea83f"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_b.png"
+hash = "4ef7da4a83c738142e1a378a97f852f3e9357acfd70d825cc52ce1b5e423449f"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_c.png"
+hash = "28ce06cf80447d9dd77ba95ab8bc987901fe73d918f39cf4b96822ebe88e47b0"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_d.png"
+hash = "44a7fa0b9f0d7d3f33e17583cea88dfdccd09638f6e8debcba807b14dd94d487"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_e.png"
+hash = "c3d2b0974fb4541342418530974e3ba7f1ec03845f93d4065be7010809c29fc7"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_f.png"
+hash = "1c7dde038a4532ef11b8697d07e66f149e8e74efadbb2000ec13f35308bbcd55"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_g.png"
+hash = "5ddd0e7176df638cb9dc824da467e56853da4ada53c74e07f8b2732254b9ea19"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_h.png"
+hash = "3b5bfe758285e909d504d1c2cab20ef4dcaf299b6088334da5cf6eaf1f1ff21f"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_i.png"
+hash = "144953bc1d594a04486ae341cc304011f115aa3ffa9e9fb92557fa0f92275475"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_j.png"
+hash = "13fce0692899d25b575c8a30567e5aae6663288d2b9c90ef211819c42f6fecf6"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_k.png"
+hash = "6620281cfc59d49d77268a8967ff11c8bf9a02396b92e9904d641cd895f7b475"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_l.png"
+hash = "2bb23c532f2b6a8a3d30b90f1b2211de98a32171936f6e4f0c64617416204af8"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_m.png"
+hash = "923d3dd01f3ba5cc881a99aaaaa318d57247511f638650c693c07f34a7362cd7"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_n.png"
+hash = "2633d52f2d23d144890e4ca2855b4686ee9cc016a3970eaca1e75746614431f8"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_o.png"
+hash = "fff192abfe4d08e0260f9132c59a614112e6f63590862f5a1ae019b4aea31e64"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_p.png"
+hash = "e50d4ccb5f1df1bd574cfebf1718c5cb77d71d9e054eb0bf07a6c3ba148a93a5"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_q.png"
+hash = "7e0c28cc328a7e362695a2f7970ae6fcdcae226bd23a69ef5c9ee9cf6491ed3d"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_r.png"
+hash = "6db64cc60b86ffbe363b1d3cc5427f11bd5cfbba76245c473e48d2aeb0152b7d"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_s.png"
+hash = "adc87c4512a0b0148dfa8f6f1bc09a923498b029de7eec5baea71d0d6b97cc04"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_t.png"
+hash = "26b5bf961894adc8a504fd3cbf2dd232f1ab32872c29233ad42bcb9331266fd6"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_u.png"
+hash = "f163f3f8c1b75dae5a6757683cfd73388efc2d64dd8e0a62683419d6c59ed712"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_v.png"
+hash = "8bbb77977d9fff5e11d5df29430e0626ded32bf9873d13a446f6f621a8d5c7d6"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_w.png"
+hash = "9cb16cec3b0a1a1f6167d1abf8d80cfffebb4c8d601cb89239804141701099b6"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_x.png"
+hash = "1b26ad3b1aa9b445b371ed14730d918eba3fa8f2f7855c661eb1282bb0f15800"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_y.png"
+hash = "7b2446cc5414bd591e1ea3345536433685709056d80a413bd142a5def436b8fb"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_z.png"
+hash = "c5ca71cba3d76f0b907146fb51eaa01df5f2029e93675ec951625f989a43c5fa"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_z_excla.png"
+hash = "eacfbc64f9d39ab8dc494630d5d363e849668e02dab095678fcd6e401712aec2"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/mon_icon/unown_z_ques.png"
+hash = "ee89e2558abf454f5bbc6c7fd8f4ea0dae099c758aa3cd7cf36b46e54971eb5d"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/agatha.png"
+hash = "9dddc4a0c5f0e54e8c486ee9e38bc0df4d4df4f77d5ed17074844c3e9f43bb31"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/barry.png"
+hash = "1acbf0dc42617f44afa76e9c8e52ead238c48c9b714017075e46428ad4054b46"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/blackbelt.png"
+hash = "5674b5f2b1a9dbadd8fb4e75cd896287b832a2c0b42c63ced2cb8f0a615eeff0"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/blaine.png"
+hash = "abf4bddba12b0ae98e147764693559b6522b7594fab2a25e4d682aa320b50c37"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/blue.png"
+hash = "796ff5c0f55b53a86f765f43855660bda90e89b6efb7f319a42f642574ead5df"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/blue_2.png"
+hash = "607bd6272e11bcfa39eae9161219095f13f0251f8af7110e8f70bada0af894fc"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/blue_3.png"
+hash = "7de7d07a3fad644d7c8e261ff052deb13e28d105bf5d8b194edd3a4102277a6e"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/brendan.png"
+hash = "d1a6cf2f3c05d13286e4bad344eab1fa3e7bc1c15decd5434e088cdff6a04dd9"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/brock.png"
+hash = "2e363ae9547be55ef806e1c0d2fc7be3ebc6e58a6fee333cade4433a3c94d18a"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/bruno.png"
+hash = "cd8cc2bcdf38d07bb26be7e979796b40f9226db4774c79eee87606d96872b5c6"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/bugcatcher.png"
+hash = "2ad8408d13329c60668e3e2238c62efcc4b925600b783c971930edbe8ccbdc6d"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/bugmaniac.png"
+hash = "d9b7245c2e94018c11aa9ead6582411b4175ccc11f816c1fe0ee08558258203f"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/clair.png"
+hash = "fdb61b784ff69d1d30e29d1566d23b6cd2de5a619eea25d0fcbca389261a63ae"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/collector.png"
+hash = "4a0d7a83c76503e584120f068bed91c8f14db02df40af9cd6fbfe73870f25aa3"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/cynthia.png"
+hash = "a1d1c7974e93b9308efd5796aa22685e220ec0e68c2fbfddc5af3ea1e61f0932"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/engineer.png"
+hash = "cc2cd469b078da1c9cf178f744bd42b44d0ec0bdcd580bb8703b70fc9ec165f6"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/erika.png"
+hash = "02972b89e7993907629b750953e5a07bf74859a40bd021f87e448188dbb48885"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/fisher.png"
+hash = "60da4f15d5c23b3f723f103ecdc2c87528068461d2bea8ae28ce00f3b9bb2965"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/gardenia.png"
+hash = "2bb1b42ea42df0be447bbe67ac73c86e2ca03bc3582b8b44fc05b4168868c44b"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/gentleman.png"
+hash = "f73788505795c99d71cde554e77b28019163fec124ecad3f857d2b92714ac813"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/giovanni.png"
+hash = "610490bc0e051cd77b816c47c64a3df6ce9a26ae6b75ae07a2f43e6ec8e3a734"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/hiker.png"
+hash = "2beef8a33e0762a2dd172f15ddf47e185452570fcc1c1a98f06d803c4289b417"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/juggler.png"
+hash = "c047f3a48b14aabbf1a1eadab285692093c281ff8cd236d7a30eedeae7707ca6"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/koga.png"
+hash = "ba7ac891498fe2437e5dbf676b14c55ac1793d06c58be2aba0b78c04cad2d3d2"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/lady.png"
+hash = "142bac204139e408989c6e2ea4b1d9f82639aec370ee08a953738ee4c16971f9"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/lance.png"
+hash = "4f3e42d9a3bec0d136dba92b28c21a4db64f8040ed4b80977ec6db376f12d0d1"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/lass.png"
+hash = "f5cca0b64a29738c6673ffbd4cfea7f5950dcd8ae2a3872b20accff9edbb58da"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/leaf.png"
+hash = "c74d2dc8b38985e7b49ed6625bb0583fc55020e317f0a430e13752e82126d211"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/lorelei.png"
+hash = "e019a1a49ecec733e64c3419413c1a4e8f97bfebc111fdd2c25eaf7e3ec8f3aa"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/lt_surge.png"
+hash = "013a3f74e8910094304dd12299ff2fa759bf116fecde8304860d7d6ce79dd494"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/lucian.png"
+hash = "313b556f1244ae60c8805362c4ba47fca391ebdfe4494453ef79289ad6c5a4ac"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/may.png"
+hash = "90f6eac48b6a0b287e615d2d754804c3ff1484a1114a9656c59ef40661a5675c"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/misty.png"
+hash = "4a6ccfb627010e639f93c10fb2001b705665d40d2f68caf577dff42883092718"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/palmer.png"
+hash = "bb3cb2d1f6569ceb4b607a672bd8244fafc90bbb63196c33e558295653229b53"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/prof_birch.png"
+hash = "c786ed42a81ba711a46a67dbd7270b8b022cf2ffbf75780c5b444acd353a7cd3"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/prof_modified.png"
+hash = "6a0170fdadef0583c2654fb3dac73c6c48aae687fe793119f1fbf03813b833c5"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/prof_oak.png"
+hash = "6fe0325c30956e7f7a9b0f26d3b527f74f9ba96859100bc0899e2338ef2c6854"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/psy.png"
+hash = "88ff6cea59c81913bf01b10dcd20a5b56ce4e153af6b64f827c4634a2bd59c48"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/red.png"
+hash = "cbc202959959bd7cbc91e7cbe4e9e71ee9ad739762a84cd481170c37b2bd5cf2"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/red_back.png"
+hash = "ac4e5a30084347c93eb7c55db9c2c7f4145276d2a97a359ed75f13c228f6a484"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/red_portrait.png"
+hash = "f8887e94a2b9aa98a6308c1bcb1bfb579cd92a38c064fe9d19907b44ce5cddd7"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/rocket_archer.png"
+hash = "be5f5b439a63aebcc6bc3fdbe05225c0fb048d6e0cf8e056de7188e906c7f21e"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/rocket_ari.png"
+hash = "ab423640ba57cfc3ba79d919c1f7b6face7f2a1fe2781b0f4106193597193d1b"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/rocket_petrel.png"
+hash = "79ad335bbbcae3f938b5515e6c8c240a61accf10560b3bd498414c4b46498a5d"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/rocket_proton.png"
+hash = "b6a7d9801c7b12f0f4a03e814102bf4c3274f6c27ecc0e551295d0f3470a57fa"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/sabrina.png"
+hash = "c7ce593de7764679d6f0f70b1cdc9dff52c45ebb8d2dfec94ad9c191ffc3de82"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/sailor.png"
+hash = "d38b98ea9d75a17979ef5a494300369f39dee3bbb449cbb2702659c25abf8aa0"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/school_kid_f.png"
+hash = "851185cdaa4dd339af18659f704cb079599d5d3bb6a01e87b16ccbb61af072f9"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/school_kid_m.png"
+hash = "93a56527576128466232379a1abd571682a37b36bde50113b1efb90e616b9996"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/swimmer.png"
+hash = "ea8cd047743bbd13f702dedbc6d3c721ade220d91913a2fc50396c1019a63ccd"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/swimmer_2.png"
+hash = "547952748beadab9afc69e465a489c874ff0f539ff74027a19187081299e770c"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/tuber_f.png"
+hash = "802ba5598fc3ea31367312d4043ad8329cb6f8b6a8f4b836f8b48c4216a7bb5c"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/trainers/tuber_m.png"
+hash = "a763cd827023b13f67273625fab6ea63194ce76b90d7a2fbd20b9ddacd31ab9c"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/type_icons/bug_icon.png"
+hash = "637cc45541315ab5f25b04b5fa9fd95b0b5d5c821feda2538057bf0a542a8a1a"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/type_icons/dark_icon.png"
+hash = "3a15d8ddfc9d1735eae4b2a64f6bad2ffdfea5324d02df3cb253881ae8128e5b"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/type_icons/dragon_icon.png"
+hash = "e950ae09e8db0b8e81c3cc92d5e07457e16deac607888dfb11a20f05733ff92d"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/type_icons/electric_icon.png"
+hash = "23fddfc3b4670c0688d0c4c4162d766e15dc857af50410622d907b42b1b2836a"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/type_icons/fairy_icon.png"
+hash = "7e11b1e54d38bf74909a1eebdba7edd7c2cdb7a8cfe6d50a65ba6b7f8d45a17f"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/type_icons/fighting_icon.png"
+hash = "339e40077db5b41ec5f0e5fa62e7385506682741a1d4759cd5d31195f822a2d0"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/type_icons/fire_icon.png"
+hash = "7ed11e1855dd2730a90d20363a94ec4b565d090a78db0caf66777250102c330b"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/type_icons/flying_icon.png"
+hash = "1c1d52479b1dff6636e20a902d3bc494d827bd057c70af43d0c18427f3007e7e"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/type_icons/ghost_icon.png"
+hash = "dadbeaaaf6d1186b572f2b8af9dabe0e95ba07da48b1c76c8cfaaa25eae022bf"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/type_icons/grass_icon.png"
+hash = "0464a5afc0f95a4c2e1bc28004bae2dc3350c9410aa8b3320f1d1df8c27371ed"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/type_icons/ground_icon.png"
+hash = "a8c54173b34f319bd3ba65b2d1465bd96177e000037f1ba7213879d28143b664"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/type_icons/ice_icon.png"
+hash = "6737a3077170209fcc6fa3f5ba198368b22f3d2b01979e7cde8e374e52a22410"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/type_icons/normal_icon.png"
+hash = "6db5fd3cbf4f4101f0136cd9e0aa847e92eefa1ee5d261c4bda3926204e78d24"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/type_icons/poison_icon.png"
+hash = "f4ca0d295f7fc7abf4a62cee4e8fdb6e3554ecd24737307ed95366124298352e"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/type_icons/psychic_icon.png"
+hash = "dd6aca36dfcf6b3fa050af82e299988758784b2fe3231547e5fe659ecbf94792"
+
+[[files]]
+file = "kubejs/assets/modified/ftbquests/type_icons/water_icon.png"
+hash = "015db12cf15f19bc7f7922963e8525e50947c2dc2b4a9a833159a755d41035c7"
 
 [[files]]
 file = "kubejs/assets/modified/lang/en_us.json"
