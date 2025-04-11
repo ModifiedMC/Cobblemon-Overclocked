@@ -7,6 +7,14 @@
 		id: "cobblemon:green_mint_leaf"
 	}
 	id: "6F4DBE0D0EEB95D3"
+	images: [{
+		height: 20.0d
+		image: "modified:textures/ftbquests/backgrounds/pc_box_3.png"
+		rotation: 0.0d
+		width: 20.0d
+		x: 3.0d
+		y: -4.0d
+	}]
 	order_index: 2
 	quest_links: [ ]
 	quests: [
@@ -290,14 +298,14 @@
 				}
 				type: "item"
 			}]
-			size: 3.0d
+			size: 2.5d
 			tasks: [{
 				id: "5868D4B0472E315B"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:plants)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: -4.5d
+			x: -3.75d
+			y: -7.5d
 		}
 		{
 			id: "44DEDD13A522DC22"

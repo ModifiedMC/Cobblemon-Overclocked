@@ -5638,7 +5638,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "7f1be18c4e9ca51fcc9e46046d3661fdc5b38edced758f740dfe59c128660798"
+hash = "fe73ccdcb15c65a81f5984bdbe2e414e46a20036ab018430b8c727b88c4f4d99"
 metafile = true
 
 [[files]]
@@ -5763,7 +5763,7 @@ metafile = true
 
 [[files]]
 file = "mods/byzantine-styles-pack-for-minecolonies.pw.toml"
-hash = "22ad6c47b0a22e283899017d895aa1a90c5c797df559d7ba180e9bd109e7deb9"
+hash = "3c9f2423bdf7dcfdcc34dcb4a005b91daad32d65e95305875fe80286b45e1f02"
 metafile = true
 
 [[files]]
@@ -5893,7 +5893,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
-hash = "c966b86252b4ffdb605944d8ad53c5d83470009ecb2511bddf2eab49e2a5854f"
+hash = "0df2f73dc9e14923f7570acc6dc78a499e3573fa3eb3d228a514a89594489649"
 metafile = true
 
 [[files]]
@@ -5923,7 +5923,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "5b135ff34e0cdab4d625f7ae0d14e3b2c38193329af60eca286013cd352006e8"
+hash = "c81035f6d648b2bb431a1f80f4e5b05d82b204429fd1a5ff23a3b6364dfafc85"
 metafile = true
 
 [[files]]
@@ -6073,7 +6073,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "18933943c00ecb6f429328332af3369c653712c6f6ab4d77e33ea1fe4f5278bb"
+hash = "9f19da4198d6ff980f0d35f42ff535c12b3d6de877eb0f262c53cfe12bb22faa"
 metafile = true
 
 [[files]]
@@ -6138,7 +6138,7 @@ metafile = true
 
 [[files]]
 file = "mods/crystalix.pw.toml"
-hash = "7648b024760477a950c82456b08bb7d38d2d7da313c81c14c2061c04a2feb712"
+hash = "b423160d76dd4ba38b171d79a46dd9cd1c96cde4c808eff931ca03424ce4675c"
 metafile = true
 
 [[files]]
@@ -6533,7 +6533,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "7039f33e50b225586ffcad7b585b864ba5b641cfdb6fdaa5836b71609a3b170d"
+hash = "7c66defddbd128f245433e61c5bf4350be7debcf21b216f36cfe81a9017b3d24"
 metafile = true
 
 [[files]]
@@ -6618,7 +6618,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks-refoxed.pw.toml"
-hash = "a4a490d9f0753b52b6dfb8d9d21e89dc773b958a662c4bf17dce70881668519f"
+hash = "1d3b922c0d1a43fa497faf27827bfa9f9f3841dfba51d8684435d58c1141fe93"
 metafile = true
 
 [[files]]
@@ -6768,7 +6768,7 @@ metafile = true
 
 [[files]]
 file = "mods/lc-tech.pw.toml"
-hash = "03415188db1d9ad4bf86a06c6cbf0cc0aca4194474bec3d117e267c932d34a41"
+hash = "87428cfd5f61f19218d983afa3a5a1915a9e394244ad73ecca42cf338bb07eae"
 metafile = true
 
 [[files]]
@@ -6798,7 +6798,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "86b352c83269615986c6f06b3d16b66a6067c931b7e82c74ca205fce34b66237"
+hash = "b1fcb4cdffaae70e362440d47d76b68c70b58a88658ad564f5c5d3cad158191d"
 metafile = true
 
 [[files]]
@@ -7497,13 +7497,18 @@ hash = "5451c741d85dd5d577c60aaa9b5b42fbfe7037d3c728330dbafb8b704dfcd60d"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "322abe84851655eeb7c53660d3b8c506b23dbff8cd18dfad152201dc5787e47a"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "da6f7cec9960fa11b30bb0e1e36ba949f66347e0f7ca3eaa6c641b82f9026a8b"
+hash = "ab18c59d4debbd95352013f95378f010484acb019a70478e7a08609efe9f68ec"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "29d7ae46593c753cd9d3e1e6016c45630e067f25975805febd7cc5260b986549"
+hash = "131110973a13a0db251f3f41fddbf7f6ce7a28c5bc9e1772a0073d54149b659e"
 metafile = true
 
 [[files]]
@@ -7518,7 +7523,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "26ebfd20f13bc6019c4dbfff7d6f6555653659ec244e56492708b7bd80918220"
+hash = "62134ea6bd06386800c5f5d1772653c902675b3408d5b0c8c06b3dcb79c11cbf"
 metafile = true
 
 [[files]]

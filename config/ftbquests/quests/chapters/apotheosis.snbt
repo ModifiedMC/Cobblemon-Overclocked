@@ -10,6 +10,14 @@
 		id: "ftbquests:custom_icon"
 	}
 	id: "6563195A5DACD161"
+	images: [{
+		height: 6.0d
+		image: "relics:textures/abilities/missing.png"
+		rotation: 0.0d
+		width: 6.0d
+		x: 0.0d
+		y: 1.0d
+	}]
 	order_index: 2
 	quest_links: [ ]
 	quests: [{
@@ -29,7 +37,7 @@
 			id: "52A575BE1A56A5C5"
 			type: "checkmark"
 		}]
-		x: 0.0d
+		x: -1.0d
 		y: 1.0d
 	}]
 }

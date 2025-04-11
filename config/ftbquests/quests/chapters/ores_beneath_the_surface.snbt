@@ -7,6 +7,14 @@
 		id: "allthemodium:unobtainium_ore"
 	}
 	id: "445E0A012CE83970"
+	images: [{
+		height: 3.0d
+		image: "relics:textures/abilities/missing.png"
+		rotation: 0.0d
+		width: 3.0d
+		x: 5.5d
+		y: 0.0d
+	}]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -21,6 +29,25 @@
 		}
 		{
 			id: "4B40BEBAF65F7A8F"
+			rewards: [
+				{
+					id: "7FA05C81444B6C40"
+					item: {
+						count: 1
+						id: "allthemodium:teleport_pad"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "67AA7842C33A6BF6"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "709F0B4464F39D96"
 				item: { count: 1, id: "allthemodium:teleport_pad" }
@@ -31,6 +58,15 @@
 		}
 		{
 			id: "31270876DE747651"
+			rewards: [{
+				count: 3
+				id: "70FD517A5DFF7866"
+				item: {
+					count: 1
+					id: "allthemodium:allthemodium_ingot"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7AD0D767DB3C2045"
 				item: { count: 1, id: "allthemodium:allthemodium_ore" }
@@ -41,6 +77,15 @@
 		}
 		{
 			id: "4E73E84B766893C1"
+			rewards: [{
+				count: 3
+				id: "15B5C9DA1FC5677F"
+				item: {
+					count: 1
+					id: "allthemodium:vibranium_ingot"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "255F6411E9E9B515"
 				item: { count: 1, id: "allthemodium:vibranium_ore" }
@@ -51,6 +96,15 @@
 		}
 		{
 			id: "7FED8C5B8B3F0DA7"
+			rewards: [{
+				count: 3
+				id: "0679F78A3B665F2D"
+				item: {
+					count: 1
+					id: "allthemodium:unobtainium_ingot"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "54AB333D90768E88"
 				item: { count: 1, id: "allthemodium:unobtainium_ore" }

@@ -18,14 +18,23 @@
 			rotation: 0.0d
 			width: 3.0d
 			x: -4.5d
-			y: -1.5d
+			y: -2.5d
 		}
 		{
 			height: 3.0d
 			image: "cobbreeding:item/default_pokemon_egg"
 			rotation: 0.0d
 			width: 3.0d
-			x: 0.5d
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			height: 12.0d
+			image: "modified:textures/ftbquests/backgrounds/pc_box_4.png"
+			order: -1
+			rotation: 0.0d
+			width: 12.0d
+			x: -1.5d
 			y: -1.5d
 		}
 	]
@@ -41,8 +50,8 @@
 				id: "0AD3941FE8028987"
 				type: "checkmark"
 			}]
-			x: -3.0d
-			y: 0.5d
+			x: -2.0d
+			y: -0.5d
 		}
 		{
 			id: "02FD79EADB51EBC0"
@@ -77,8 +86,8 @@
 					type: "item"
 				}
 			]
-			x: -6.0d
-			y: 0.5d
+			x: -5.0d
+			y: -0.5d
 		}
 		{
 			id: "56D889B6AF3BF89A"
@@ -103,8 +112,8 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:berries)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 0.5d
+			x: -4.0d
+			y: -0.5d
 		}
 		{
 			icon: {
@@ -115,8 +124,8 @@
 				id: "66CEB846C28BF8CB"
 				type: "checkmark"
 			}]
-			x: -4.0d
-			y: 0.5d
+			x: -3.0d
+			y: -0.5d
 		}
 		{
 			id: "298BEFED52443273"
@@ -153,8 +162,8 @@
 				item: { count: 1, id: "cobblemon:pasture" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: 0.5d
+			x: 1.0d
+			y: 0.0d
 		}
 		{
 			icon: {
@@ -165,8 +174,8 @@
 				id: "0A22F21D4514AC08"
 				type: "checkmark"
 			}]
-			x: 0.0d
-			y: 1.5d
+			x: 0.5d
+			y: 1.0d
 		}
 		{
 			icon: {
@@ -177,8 +186,8 @@
 				id: "18C3A3D257515DC9"
 				type: "checkmark"
 			}]
-			x: 1.0d
-			y: 1.5d
+			x: 1.5d
+			y: 1.0d
 		}
 		{
 			icon: {
@@ -205,8 +214,8 @@
 					type: "item"
 				}
 			]
-			x: -1.0d
-			y: 1.5d
+			x: -0.5d
+			y: 1.0d
 		}
 		{
 			icon: {
@@ -217,10 +226,16 @@
 				id: "1818972F56B9C67A"
 				type: "checkmark"
 			}]
-			x: 2.0d
-			y: 1.5d
+			x: 2.5d
+			y: 1.0d
 		}
 		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/particle/request/icon_team.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "2070339C4B12CEC3"
 			rewards: [{
 				id: "00A20346E9BCD66A"
@@ -234,8 +249,8 @@
 				id: "6441B7B9DF767AFC"
 				type: "checkmark"
 			}]
-			x: -2.0d
-			y: -1.5d
+			x: -1.5d
+			y: -2.0d
 		}
 	]
 }

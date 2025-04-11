@@ -1038,5 +1038,27 @@
 			x: -4.0d
 			y: 3.0d
 		}
+		{
+			icon: {
+				id: "ultimine_addition:mining_skill_card_empty"
+			}
+			id: "066ED74217A194D5"
+			rewards: [{
+				id: "61670623E56C4746"
+				item: {
+					count: 1
+					id: "ultimine_addition:mining_skill_card_empty"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 25L
+				id: "1C397116B45FD84B"
+				item: { count: 25, id: "modified:pokedollar" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
 	]
 }

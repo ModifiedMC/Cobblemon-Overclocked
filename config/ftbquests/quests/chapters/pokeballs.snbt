@@ -1152,6 +1152,25 @@
 		{
 			dependencies: ["6649865E662E4BE5"]
 			id: "78D5CFA17901D051"
+			rewards: [
+				{
+					count: 3
+					id: "218EFF508A411CD5"
+					item: {
+						count: 1
+						id: "cobblemon:ancient_poke_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "59834C2A39A32032"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				consume_items: true
 				id: "0C487E585D82C270"
@@ -1164,6 +1183,25 @@
 		{
 			dependencies: ["6649865E662E4BE5"]
 			id: "62CB3AA9C45C0D46"
+			rewards: [
+				{
+					count: 3
+					id: "039BA6118531A310"
+					item: {
+						count: 1
+						id: "cobblemon:ancient_citrine_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "19E155CB56ADFD01"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				consume_items: true
 				id: "65C841A9D6D4085A"
@@ -1176,6 +1214,25 @@
 		{
 			dependencies: ["6649865E662E4BE5"]
 			id: "51F4D610F76AE7A8"
+			rewards: [
+				{
+					count: 3
+					id: "6ECFEBF84BCC85B6"
+					item: {
+						count: 1
+						id: "cobblemon:ancient_verdant_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "1415EB6776FB35DE"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				consume_items: true
 				id: "71A9476E7EE917FB"
@@ -1188,6 +1245,25 @@
 		{
 			dependencies: ["6649865E662E4BE5"]
 			id: "5F3DB370AC772E48"
+			rewards: [
+				{
+					count: 3
+					id: "1AD4772F52DBF9C4"
+					item: {
+						count: 1
+						id: "cobblemon:ancient_azure_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "673D4BA573AFBF3C"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				consume_items: true
 				id: "20FAF2B2494CEBA3"
@@ -1200,6 +1276,25 @@
 		{
 			dependencies: ["6649865E662E4BE5"]
 			id: "00AB6F755789A4B2"
+			rewards: [
+				{
+					count: 3
+					id: "5B0A9CE5ECB0F87C"
+					item: {
+						count: 1
+						id: "cobblemon:ancient_slate_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "63D4923CE15FA8F5"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				consume_items: true
 				id: "4116353F74ED740C"
@@ -1212,6 +1307,25 @@
 		{
 			dependencies: ["6649865E662E4BE5"]
 			id: "33624B86B7BED96A"
+			rewards: [
+				{
+					count: 3
+					id: "597C9F39F7EA5ACD"
+					item: {
+						count: 1
+						id: "cobblemon:ancient_ivory_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "351A1459A3549DAE"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				consume_items: true
 				id: "67CDC1DD12FB8CEE"
@@ -1224,6 +1338,25 @@
 		{
 			dependencies: ["6649865E662E4BE5"]
 			id: "2DBE60CB1ADBC795"
+			rewards: [
+				{
+					count: 3
+					id: "510B916EC8CEB4D1"
+					item: {
+						count: 1
+						id: "cobblemon:ancient_roseate_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "2A013959A796CEFE"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				consume_items: true
 				id: "794C611D0C031DA8"
@@ -1236,6 +1369,25 @@
 		{
 			dependencies: ["6649865E662E4BE5"]
 			id: "48AC93A701381753"
+			rewards: [
+				{
+					count: 3
+					id: "5AD13EC96EC63256"
+					item: {
+						count: 1
+						id: "cobblemon:ancient_ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "2BB53D2B0783628B"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				consume_items: true
 				id: "34ED3D645F674864"
@@ -1248,6 +1400,25 @@
 		{
 			dependencies: ["6649865E662E4BE5"]
 			id: "0F80228AAED087BC"
+			rewards: [
+				{
+					count: 3
+					id: "6AC696278113C868"
+					item: {
+						count: 1
+						id: "cobblemon:ancient_great_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "4564AF9EC06FDC1D"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				consume_items: true
 				id: "0ED22841A2DFAE39"

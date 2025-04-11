@@ -1,0 +1,24 @@
+{
+	id: "082C1C581D64F03A"
+	loot_size: 1
+	order_index: 30
+	rewards: [
+		{ id: "16BC986BF7602F46", item: { count: 1, id: "sophisticatedbackpacks:backpack" } }
+		{ id: "444E7C9B752F9B89", item: { components: { "sophisticatedcore:accent_color": -393218, "sophisticatedcore:main_color": -393218 }, count: 1, id: "sophisticatedbackpacks:backpack" } }
+		{ id: "47576CFCF62B64A4", item: { components: { "sophisticatedcore:accent_color": -425955, "sophisticatedcore:main_color": -425955 }, count: 1, id: "sophisticatedbackpacks:backpack" } }
+		{ id: "37BA45E477594C3C", item: { components: { "sophisticatedcore:accent_color": -3715395, "sophisticatedcore:main_color": -3715395 }, count: 1, id: "sophisticatedbackpacks:backpack" } }
+		{ id: "3BDCD8D395495DEA", item: { components: { "sophisticatedcore:accent_color": -12930086, "sophisticatedcore:main_color": -12930086 }, count: 1, id: "sophisticatedbackpacks:backpack" } }
+		{ id: "74F9562F3C60C319", item: { components: { "sophisticatedcore:accent_color": -75715, "sophisticatedcore:main_color": -75715 }, count: 1, id: "sophisticatedbackpacks:backpack" } }
+		{ id: "07B2D60D7F7A6F6A", item: { components: { "sophisticatedcore:accent_color": -8337633, "sophisticatedcore:main_color": -8337633 }, count: 1, id: "sophisticatedbackpacks:backpack" } }
+		{ id: "3823411707E62E07", item: { components: { "sophisticatedcore:accent_color": -10585066, "sophisticatedcore:main_color": -10585066 }, count: 1, id: "sophisticatedbackpacks:backpack" } }
+		{ id: "202A59CB2D4119BC", item: { components: { "sophisticatedcore:accent_color": -15295332, "sophisticatedcore:main_color": -15295332 }, count: 1, id: "sophisticatedbackpacks:backpack" } }
+		{ id: "008E52C709BA44C2", item: { components: { "sophisticatedcore:accent_color": -12827478, "sophisticatedcore:main_color": -12827478 }, count: 1, id: "sophisticatedbackpacks:backpack" } }
+		{ id: "416AE874BEFD7C03", item: { components: { "sophisticatedcore:accent_color": -7785800, "sophisticatedcore:main_color": -7785800 }, count: 1, id: "sophisticatedbackpacks:backpack" } }
+		{ id: "224B2630B4FF0BF2", item: { components: { "sophisticatedcore:accent_color": -816214, "sophisticatedcore:main_color": -816214 }, count: 1, id: "sophisticatedbackpacks:backpack" } }
+		{ id: "4B921606319E8063", item: { components: { "sophisticatedcore:accent_color": -5231066, "sophisticatedcore:main_color": -5231066 }, count: 1, id: "sophisticatedbackpacks:backpack" } }
+		{ id: "36D12DC019F98BD0", item: { components: { "sophisticatedcore:accent_color": -14869215, "sophisticatedcore:main_color": -14869215 }, count: 1, id: "sophisticatedbackpacks:backpack" } }
+		{ id: "5C01DD2657E2DF2F", item: { components: { "sophisticatedcore:accent_color": -6447721, "sophisticatedcore:main_color": -6447721 }, count: 1, id: "sophisticatedbackpacks:backpack" } }
+		{ id: "27FE8BEAB65A41C2", item: { components: { "sophisticatedcore:accent_color": -12103854, "sophisticatedcore:main_color": -12103854 }, count: 1, id: "sophisticatedbackpacks:backpack" } }
+		{ id: "67267D1C8F300AAA", item: { components: { "sophisticatedcore:accent_color": -13881243, "sophisticatedcore:main_color": -3087822 }, count: 1, id: "sophisticatedbackpacks:backpack" } }
+	]
+}

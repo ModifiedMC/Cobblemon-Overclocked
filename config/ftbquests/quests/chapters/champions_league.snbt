@@ -19,7 +19,7 @@
 			rotation: 0.0d
 			width: 3.0d
 			x: 7.5d
-			y: -4.0d
+			y: -3.0d
 		}
 		{
 			height: 3.0d
@@ -27,7 +27,7 @@
 			rotation: 0.0d
 			width: 3.0d
 			x: 7.5d
-			y: -0.5d
+			y: 0.5d
 		}
 		{
 			height: 3.0d
@@ -59,8 +59,33 @@
 			image: "minecraft:item/empty_slot_pickaxe"
 			rotation: 0.0d
 			width: 4.0d
-			x: 11.0d
-			y: 4.0d
+			x: 13.0d
+			y: 4.5d
+		}
+		{
+			height: 5.0d
+			image: "cobblemon:textures/particle/request/icon_challenge.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 7.5d
+			y: 4.5d
+		}
+		{
+			height: 33.0d
+			image: "modified:textures/ftbquests/backgrounds/bg_nostalgic.png"
+			order: -1
+			rotation: 0.0d
+			width: 33.0d
+			x: 8.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:textures/abilities/missing.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: 4.5d
 		}
 	]
 	order_index: 1
@@ -100,7 +125,7 @@
 				type: "item"
 			}]
 			x: 7.5d
-			y: -4.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["4A9CD8DF4334CA09"]
@@ -137,10 +162,16 @@
 				type: "item"
 			}]
 			x: 7.5d
-			y: -0.5d
+			y: 0.5d
 		}
 		{
 			hide_dependent_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/red.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "4A9CD8DF4334CA09"
 			rewards: [
 				{
@@ -160,6 +191,7 @@
 					type: "item"
 				}
 			]
+			size: 2.5d
 			tasks: [{
 				id: "34777A2453DAE448"
 				type: "checkmark"
@@ -169,6 +201,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/brock.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "68CBF7464655509E"
 			tasks: [{
 				id: "46E2B33378274EFD"
@@ -180,6 +218,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/misty.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "48866AD1EEF52D49"
 			tasks: [{
 				id: "31EDDB8E80D7DD3C"
@@ -191,6 +235,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/rocket_archer.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "73BA9B5BD210B6F2"
 			tasks: [{
 				id: "2220F9FBE197211F"
@@ -202,6 +252,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/blue.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "55544A30100D89BD"
 			tasks: [{
 				id: "7E009F62BF17910E"
@@ -213,6 +269,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/brendan.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "2541EB890D364B99"
 			tasks: [{
 				id: "7DFD70FF69D75226"
@@ -224,6 +286,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/lt_surge.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "17EE02A867A34A4C"
 			tasks: [{
 				id: "1EBEF5D77E6BDD94"
@@ -235,6 +303,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/erika.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "2EB779BBD6F1BECF"
 			tasks: [{
 				id: "0AF59D2632204C83"
@@ -246,6 +320,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/giovanni.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "35DF00F1E81A6B18"
 			tasks: [{
 				id: "6A587FFED14AB1AD"
@@ -257,6 +337,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/blue_2.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "2AC137852DA4C38E"
 			tasks: [{
 				id: "467388DA03AE30BE"
@@ -268,6 +354,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/rocket_ari.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "773DD3685CEC3C45"
 			tasks: [{
 				id: "5FAB34ACD3D7671A"
@@ -279,6 +371,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/giovanni.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "4589A549DA946A35"
 			tasks: [{
 				id: "3C4D4A2E2621C302"
@@ -290,6 +388,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/sabrina.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "301F1696722B5175"
 			tasks: [{
 				id: "7DCA60CBCE18298B"
@@ -301,6 +405,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/brendan.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "703DF3EB9543851F"
 			tasks: [{
 				id: "2AFB42A829BC18E4"
@@ -312,6 +422,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/koga.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "5271B269DAFB24B0"
 			tasks: [{
 				id: "3ECF311B843237E7"
@@ -323,6 +439,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/may.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "32B00B671E8CFC02"
 			tasks: [{
 				id: "22CF8334144392AB"
@@ -334,6 +456,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/blaine.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "3F83AD208596996B"
 			tasks: [{
 				id: "5CBFA167DE1BC935"
@@ -345,6 +473,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/rocket_archer.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "7B7E824D7BD29739"
 			tasks: [{
 				id: "791A8E424AD14C5F"
@@ -356,6 +490,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/rocket_ari.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "6CDA73F7FC7AD616"
 			tasks: [{
 				id: "51B2F3D6961E3FED"
@@ -367,6 +507,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/giovanni.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "1B93842B9AD3B422"
 			tasks: [{
 				id: "05036B6774CE9938"
@@ -378,6 +524,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/clair.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "30C269E0695A704D"
 			tasks: [{
 				id: "023167F2627AE650"
@@ -389,6 +541,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/blue_2.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "173D2B8A8694F17A"
 			tasks: [{
 				id: "2114BD8B39157E3B"
@@ -400,6 +558,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/brendan.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "7EBAF1D56B1151D8"
 			tasks: [{
 				id: "672A7DEB8330F54D"
@@ -411,6 +575,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/agatha.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "360505F6E85575B3"
 			tasks: [{
 				id: "1DF4A4FD9ABC57E8"
@@ -422,6 +592,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/bruno.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "23AF41B039B8C705"
 			tasks: [{
 				id: "46792D2A27A143BE"
@@ -433,6 +609,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/lance.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "58A05E9960629A37"
 			tasks: [{
 				id: "5305657E9672FBEB"
@@ -444,6 +626,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/lorelei.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "649732FA0F7D0AE0"
 			tasks: [{
 				id: "1206EF5BA5EB24C7"
@@ -455,6 +643,12 @@
 		}
 		{
 			dependencies: ["07863C1899A78E38"]
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/blue_3.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "738CA63FC60EECEB"
 			tasks: [{
 				id: "4E22C544E910BBD8"
@@ -465,6 +659,12 @@
 			y: 7.5d
 		}
 		{
+			icon: {
+				components: {
+					"ftbquests:icon": "modified:textures/ftbquests/trainers/red_portrait.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "547BE386115881FE"
 			rewards: [
 				{
@@ -492,13 +692,19 @@
 			y: 1.0d
 		}
 		{
+			icon: {
+				components: {
+					"ftbquests:icon": "simplyswords:item/empowered_remnant"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "53B63856D2DA0DDE"
 			shape: "gear"
 			tasks: [{
 				id: "1AF22FC4F50844C3"
 				type: "custom"
 			}]
-			x: 12.0d
+			x: 13.0d
 			y: 1.0d
 		}
 		{
@@ -517,7 +723,7 @@
 				type: "checkmark"
 			}]
 			x: 7.5d
-			y: 4.5d
+			y: 4.0d
 		}
 		{
 			id: "1A282189711E1EC0"
@@ -542,7 +748,7 @@
 				id: "1F513AB9F8DEF7FC"
 				type: "checkmark"
 			}]
-			x: 12.5d
+			x: 13.0d
 			y: 2.5d
 		}
 	]

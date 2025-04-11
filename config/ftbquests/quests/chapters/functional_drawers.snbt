@@ -12,223 +12,653 @@
 	quests: [
 		{
 			id: "359A7AB198BD451E"
+			rewards: [
+				{
+					id: "628465742DDA36B8"
+					item: {
+						count: 1
+						id: "functionalstorage:framed_4"
+					}
+					type: "item"
+				}
+				{
+					id: "6E6EC7B8FA02EEF3"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7058FB73F98E6CB0"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(functionalstorage:drawer)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 0.0d
+			x: 6.5d
+			y: 5.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "1CFD03710282FE1B"
+			rewards: [
+				{
+					id: "7D8B3EBA833A2EDB"
+					item: {
+						components: {
+							"functionalstorage:direction": "north"
+						}
+						count: 1
+						id: "functionalstorage:puller_upgrade"
+					}
+					type: "item"
+				}
+				{
+					id: "2298AC13F841A26D"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4C8FDF31B2301FEF"
 				item: { components: { "functionalstorage:direction": "north" }, count: 1, id: "functionalstorage:puller_upgrade" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 1.0d
+			x: 4.5d
+			y: 5.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "40AC8EA214D4D6D8"
+			rewards: [
+				{
+					id: "77A1922BC4E25615"
+					item: {
+						components: {
+							"functionalstorage:direction": "north"
+						}
+						count: 1
+						id: "functionalstorage:pusher_upgrade"
+					}
+					type: "item"
+				}
+				{
+					id: "1271AD54C27B1759"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "614E903A1E257496"
 				item: { components: { "functionalstorage:direction": "north" }, count: 1, id: "functionalstorage:pusher_upgrade" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 1.0d
+			x: 3.5d
+			y: 5.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "49F7940F137A640A"
+			rewards: [
+				{
+					id: "42498010BCFD181F"
+					item: {
+						components: {
+							"functionalstorage:direction": "north"
+						}
+						count: 1
+						id: "functionalstorage:collector_upgrade"
+					}
+					type: "item"
+				}
+				{
+					id: "5EF3855DB774D940"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7C8C34D2FB407287"
 				item: { components: { "functionalstorage:direction": "north" }, count: 1, id: "functionalstorage:collector_upgrade" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 1.0d
+			x: 4.5d
+			y: 6.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "318DC5873E36D4D7"
+			rewards: [
+				{
+					id: "119C80D148972E3B"
+					item: {
+						count: 1
+						id: "functionalstorage:armory_cabinet"
+					}
+					type: "item"
+				}
+				{
+					id: "25C663561A5871D0"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "57DDE32F4F0AE961"
 				item: { count: 1, id: "functionalstorage:armory_cabinet" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: -1.0d
+			x: 5.5d
+			y: 2.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "450672C81A13918E"
+			rewards: [
+				{
+					count: 3
+					id: "6CC8D55D924A1D4E"
+					item: {
+						count: 1
+						id: "functionalstorage:copper_upgrade"
+					}
+					type: "item"
+				}
+				{
+					id: "0A9985D4ED765A2B"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "72E8BF05A5890613"
 				item: { count: 1, id: "functionalstorage:copper_upgrade" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 1.0d
+			x: 9.5d
+			y: 5.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "24D5996353F8F0E4"
+			rewards: [
+				{
+					id: "6A637E155C9A3BC1"
+					item: {
+						count: 1
+						id: "functionalstorage:linking_tool"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5F41EE13339ECB68"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "767AAB8450CADFA8"
 				item: { count: 1, id: "functionalstorage:linking_tool" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 1.0d
+			x: 6.0d
+			y: 4.0d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "5ACA8429876E8453"
+			rewards: [
+				{
+					id: "3BD080529DC56C41"
+					item: {
+						count: 1
+						id: "functionalstorage:configuration_tool"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6DC1E502DE4460B3"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2AA77A2DA1E1C1D7"
 				item: { count: 1, id: "functionalstorage:configuration_tool" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: 1.0d
+			x: 7.0d
+			y: 4.0d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "32E15B51B6684979"
+			rewards: [
+				{
+					id: "1E432C75869BCD1B"
+					item: {
+						count: 1
+						id: "functionalstorage:void_upgrade"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1211BF3E6E95F318"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "38B6C7FDC52F82FC"
 				item: { count: 1, id: "functionalstorage:void_upgrade" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 2.0d
+			x: 1.5d
+			y: 6.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "5B495D59747F4CAA"
+			rewards: [
+				{
+					id: "6DAE9CF75A6CCE44"
+					item: {
+						count: 1
+						id: "functionalstorage:ender_drawer"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3E4B37BADD74FA98"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7D6BD16142D9A66C"
 				item: { count: 1, id: "functionalstorage:ender_drawer" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 0.0d
+			x: 6.5d
+			y: 1.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "143C7B77327CED4E"
+			rewards: [
+				{
+					id: "067A1BB746580467"
+					item: {
+						components: {
+							"functionalstorage:slot": 0
+						}
+						count: 1
+						id: "functionalstorage:redstone_upgrade"
+					}
+					type: "item"
+				}
+				{
+					id: "62814BF647AA8E55"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2045FBDF695FB52B"
 				item: { components: { "functionalstorage:slot": 0 }, count: 1, id: "functionalstorage:redstone_upgrade" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 2.0d
+			x: 3.5d
+			y: 6.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "6F2B7C0B7E53E6B4"
+			rewards: [
+				{
+					id: "26A6B02578F52A7D"
+					item: {
+						count: 1
+						id: "functionalstorage:framed_fluid_1"
+					}
+					type: "item"
+				}
+				{
+					id: "36DDC3093C1D4D93"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
-				id: "7EF3A84904D77ADB"
+				id: "757E0E68C3274352"
 				item: { count: 1, id: "functionalstorage:fluid_1" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 0.0d
+			x: 8.5d
+			y: 2.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "63C1C9DFC081954B"
+			rewards: [
+				{
+					id: "666D9DAA1CD0A174"
+					item: {
+						count: 1
+						id: "functionalstorage:storage_controller"
+					}
+					type: "item"
+				}
+				{
+					id: "78BFF983F726451F"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "073506141ED8049E"
 				item: { count: 1, id: "functionalstorage:storage_controller" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: -1.0d
+			x: 7.5d
+			y: 2.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "1E3648DE542D2E76"
+			rewards: [{
+				id: "5E2A5F0169FBDFA2"
+				item: {
+					count: 1
+					id: "ars_nouveau:greater_experience_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1925F9633E09E803"
 				item: { count: 1, id: "functionalstorage:controller_extension" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: -1.0d
+			x: 6.5d
+			y: 2.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "33BBC29E4D02F392"
+			rewards: [
+				{
+					id: "6F24626F2B3546E0"
+					item: {
+						count: 1
+						id: "functionalstorage:compacting_drawer"
+					}
+					type: "item"
+				}
+				{
+					id: "2096D237970184EB"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "738301DDD738486D"
 				item: { count: 1, id: "functionalstorage:compacting_drawer" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: -1.0d
+			x: 4.5d
+			y: 2.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "52FCDD7A65DCAEBD"
+			rewards: [
+				{
+					count: 2
+					id: "2002CE75616BD02C"
+					item: {
+						count: 1
+						id: "functionalstorage:gold_upgrade"
+					}
+					type: "item"
+				}
+				{
+					id: "1C511D6C6FF1FEC5"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "57ED12B45504CF78"
 				item: { count: 1, id: "functionalstorage:gold_upgrade" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 1.0d
+			x: 10.5d
+			y: 5.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "01E8FF0CA5760DFF"
+			rewards: [
+				{
+					count: 2
+					id: "5E56A2A58EE80BC7"
+					item: {
+						count: 1
+						id: "functionalstorage:diamond_upgrade"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "72930BFA4A97FC48"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1143B1DDA47FF88E"
 				item: { count: 1, id: "functionalstorage:diamond_upgrade" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 1.0d
+			x: 11.5d
+			y: 5.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "526F1A2E10260498"
+			rewards: [
+				{
+					id: "44DEDB63F64C2276"
+					item: {
+						count: 1
+						id: "functionalstorage:netherite_upgrade"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4506BAC1C9454C18"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4680B6B59D4E053D"
 				item: { count: 1, id: "functionalstorage:netherite_upgrade" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 1.0d
+			x: 12.5d
+			y: 5.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "63E60D6E4771E1DD"
+			rewards: [
+				{
+					count: 3
+					id: "2AE9F70CFCF43F45"
+					item: {
+						count: 1
+						id: "functionalstorage:iron_downgrade"
+					}
+					type: "item"
+				}
+				{
+					id: "1C2E193A448F3B63"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5C589CBF8090CAB8"
 				item: { count: 1, id: "functionalstorage:iron_downgrade" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 1.0d
+			x: 8.5d
+			y: 5.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "70CBA6E82F90274C"
+			rewards: [
+				{
+					id: "5F7A251D84D0381F"
+					item: {
+						count: 1
+						id: "functionalstorage:dripping_upgrade"
+					}
+					type: "item"
+				}
+				{
+					id: "0C2110B4363E4DCE"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0D8585BEF7AF2949"
 				item: { count: 1, id: "functionalstorage:dripping_upgrade" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 2.0d
+			x: 1.5d
+			y: 5.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "60B4DC06F47151B1"
+			rewards: [
+				{
+					id: "38EED44A4873D175"
+					item: {
+						count: 1
+						id: "functionalstorage:water_generator_upgrade"
+					}
+					type: "item"
+				}
+				{
+					id: "1864AD4F1975B10D"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3EE75CA5063F03DA"
 				item: { count: 1, id: "functionalstorage:water_generator_upgrade" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 3.0d
+			x: 2.5d
+			y: 5.5d
 		}
 		{
+			dependencies: ["359A7AB198BD451E"]
 			id: "7F16EAAE472DA338"
+			rewards: [
+				{
+					id: "7F252DB2AF53EA33"
+					item: {
+						count: 1
+						id: "functionalstorage:obsidian_upgrade"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "20C2FB1FFDED6FF8"
+					item: {
+						count: 1
+						id: "ars_nouveau:greater_experience_gem"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "30F3EF5ECC5D1C7C"
 				item: { count: 1, id: "functionalstorage:obsidian_upgrade" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 3.0d
+			x: 2.5d
+			y: 6.5d
 		}
 	]
 }

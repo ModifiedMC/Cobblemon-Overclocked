@@ -3,10 +3,6 @@
 	chapter.01C9B1B19DDE72C6.chapter_subtitle: ["Choose your Starter"]
 	chapter.01C9B1B19DDE72C6.title: "&bGetting Started"
 	chapter.025908A4CF6D347D.title: "The Deeper Dark"
-	chapter.039A7B9F52FD3DC4.chapter_subtitle: ["Generation 7"]
-	chapter.039A7B9F52FD3DC4.title: "Alola Archives"
-	chapter.03E5E4CE51A11D79.chapter_subtitle: ["Generation 9"]
-	chapter.03E5E4CE51A11D79.title: "Paldea Archives"
 	chapter.06E8CAAA161E4A46.title: "&8Completionist Trophies"
 	chapter.09641ECBFCBE6A2E.title: "&3Battle Items"
 	chapter.0D50D729CD170633.title: "&3Sophisticated Storage"
@@ -17,27 +13,15 @@
 	chapter.18CDA60FF118F821.title: "&3Pokeballs"
 	chapter.1EBE16D7B09460C9.title: "&3Breeding \\& Fishing"
 	chapter.22990AB8317455FB.title: "&8Alchemy"
-	chapter.24D8C8FDA5958F99.chapter_subtitle: ["Generation 3"]
-	chapter.24D8C8FDA5958F99.title: "Hoenn Archives"
-	chapter.263A131F6695A4D0.chapter_subtitle: ["Generation 1"]
-	chapter.263A131F6695A4D0.title: "&8Kanto Archives"
 	chapter.2A90B52C59569CA9.title: "Money, Shops \\& more!"
 	chapter.30B9525A12EFB0F4.title: "&3Basic Storage"
 	chapter.33E63977963CD33D.title: "&3Silent Gear"
 	chapter.35BA9BDD51EA2E41.title: "The End"
 	chapter.3A540E4A05F9C254.title: "&3Apoth. Enchanting"
-	chapter.3BF9C34877258B29.chapter_subtitle: ["Generation 4"]
-	chapter.3BF9C34877258B29.title: "Sinnoh Archives"
-	chapter.3EF2B990B9AB1B92.chapter_subtitle: ["Generation 2"]
-	chapter.3EF2B990B9AB1B92.title: "Johto Archives"
 	chapter.445E0A012CE83970.title: "&3The Ores Below"
 	chapter.44AA793570165146.title: "&eChampions League"
 	chapter.48AD9200F46301BE.title: "&6Mob Hunter"
-	chapter.4A7AE2D488557730.chapter_subtitle: ["Generation 5"]
-	chapter.4A7AE2D488557730.title: "Unova Archives"
 	chapter.4AF3C71FC353146E.title: "&8Food \\& Farming"
-	chapter.5457FD0169349AB7.chapter_subtitle: ["Generation 8"]
-	chapter.5457FD0169349AB7.title: "Galar Archives"
 	chapter.550C0D9C4C04DC2F.chapter_subtitle: ["Unlock Ultimine!"]
 	chapter.550C0D9C4C04DC2F.title: "&3Basic Tools"
 	chapter.55606C3E0A76E6B8.title: "&3Lightmans &eCurrency"
@@ -49,19 +33,16 @@
 	chapter.631B686C29D50776.title: "Extreme Reactors"
 	chapter.6563195A5DACD161.title: "Apotheosis"
 	chapter.6611A7A15D7B3DBA.title: "Immersive Engineering"
-	chapter.69B4682DD5E91CB9.title: "Functional Drawers"
+	chapter.69B4682DD5E91CB9.title: "&3Functional Drawers"
 	chapter.6F4DBE0D0EEB95D3.title: "&3The Verdant Path"
 	chapter.6FF1B4C183FA8BB8.title: "Medicine"
 	chapter.764061E3D343EC1B.title: "&6Block Collector"
 	chapter.76D0719B466A15BF.title: "&3Create!"
-	chapter.78058C1A26993D9C.chapter_subtitle: ["Generation 6"]
-	chapter.78058C1A26993D9C.title: "Kalos Archives"
 	chapter.78A60EFB261A9143.title: "&3QOL Improvements"
 	chapter.7BA18A907647AD57.title: "The Nether"
 	chapter.7BE632CBCC81A9CB.title: "&3Armour \\& Trims"
 	chapter_group.1448AD42248EBE02.title: "&d&lMultiplayer focused"
 	chapter_group.1F4AE109ED6749AD.title: "&d&lThe World of Cobblemon&d!"
-	chapter_group.249E531D4C1B723E.title: "&d&lThe Pokédex Archives"
 	chapter_group.24CDF24BE292524D.title: "&d&lMastery Challenges"
 	chapter_group.29492D17252C54A8.title: "&d&lArcane Studies"
 	chapter_group.3C2F0E57BE919025.title: "&d&lDimensions \\& Discovery"
@@ -80,6 +61,7 @@
 	]
 	quest.006AF107DE0373E2.title: "White Herb"
 	quest.00AB6F755789A4B2.quest_subtitle: "It has a static catch rate of 1×. "
+	quest.00C07F48A8B0D6B8.title: "Galar Flying Types"
 	quest.01E621F5343075C2.quest_desc: [
 		"There are four different Mining Skill Card types: Pickaxe, Axe, Shovel, and Hoe."
 		""
@@ -101,7 +83,9 @@
 	]
 	quest.02FD79EADB51EBC0.quest_subtitle: "Pokerods"
 	quest.02FD79EADB51EBC0.title: "Fish up those mon!"
+	quest.03047E4EF553D104.title: "Galar Poison Types"
 	quest.03404E368E79D464.title: "Sport Ball"
+	quest.03709B2533ACD75A.title: "Galar Fire Types"
 	quest.03725F3267646B44.title: "Electric Types"
 	quest.03A4B6CFE315AA46.title: "Defense Based "
 	quest.03A73528FCD209B3.quest_subtitle: "Water wheels"
@@ -124,6 +108,8 @@
 		""
 		"Check out the wiki for more information regarding the different values for each kind of &6OM&r"
 	]
+	quest.0481F95AED479F59.title: "Kalos Psychic Types"
+	quest.04937A8B54AF68DA.title: "Kalos Poison Types"
 	quest.04A988D1ACFC134B.title: "Galarica Wreath"
 	quest.04BE10B3DADDAAC5.quest_desc: ["Check back later for updates, Quests for this chapter are being still being worked on!"]
 	quest.04BE10B3DADDAAC5.title: "Quests coming soon!"
@@ -141,9 +127,12 @@
 		"&6Complete all of them to go to the next tier.&r"
 	]
 	quest.05DF0D01D6A1BE7D.title: "Using the Skills Record pt.2"
+	quest.065739A79D4F6B3D.title: "Hoenn Ice Types"
+	quest.066ED74217A194D5.quest_desc: ["Mining Skill Card - Used to progress with Ultimine!"]
 	quest.072AD0FD23E0C283.quest_desc: ["This tome can be used to remove the enchantments from an item, though the process is lossy unless using a Tome of Extraction.  The basic Tome of Scrapping will only pull half of the enchantments, and destroy the item.  The Tome of Superior Scrapping will pull all the enchantments, but still destroys the item. In contrast, the Tome of Extraction will retrieve all the enchantments and leave the original item intact."]
 	quest.0740DE864E0C3E0A.quest_subtitle: "Hold z to zoom!"
 	quest.0740DE864E0C3E0A.title: "Spyglass Improvements!"
+	quest.074C9C0469DFD312.title: "Unova Grass Types"
 	quest.074F38C83BA62F75.title: "Getting Started: Poké Ball"
 	quest.0765266C08DB9261.quest_desc: ["This held item is &5one of the best&r in my humble opinion &5(KrispTheKat)&r as it &6will protect your Pokemon from additional effects from an opponents moves&r. This will nullify &6any moves that could have an additional effect like poison&r. &dIt can be crafted with 5 black wool, a phantom membrane, and a golden carrot! &r"]
 	quest.07863C1899A78E38.quest_desc: [
@@ -171,6 +160,7 @@
 	quest.09DA8C18724AE7EB.quest_desc: ["One utility provided by Apotheosis are Tomes. These act similar to a book when being enchanted, but can only receive enchantments for a certain type of item.  There are nine tomes in total, one each for helmets, chestplates, leggings, boots, swords, bows, pickaxes, fishing poles, and a final tome that accepts enchantments which do not fit on any of the others."]
 	quest.0A02FD6DD9B44D49.quest_desc: ["Click the check the send a link to chat that will contain a chart of where you stand in your current series progression"]
 	quest.0A02FD6DD9B44D49.quest_subtitle: "Forgot where you left off?"
+	quest.0A12C5EA5C3F211E.title: "Kalos Fairy Types"
 	quest.0A13345122B89DC9.quest_desc: [
 		"Evolution stones are items that can be used to evolve certain Pokémon."
 		""
@@ -186,6 +176,11 @@
 	quest.0CB255F5CD6E31CD.title: "Blane"
 	quest.0D1CFAEC3FCC6722.quest_desc: ["&dStructures to find a Sail Fossil: &r Eroded Pillar, Frozen Pond, Frozen Spike, Powdered Deposit, Spruce Tree "]
 	quest.0D1CFAEC3FCC6722.quest_subtitle: "Amaura"
+	quest.0D2089FFDE00676B.quest_desc: [
+		"&n&lWARNING:&r "
+		""
+		"&lDO NOT SUBMIT A BAG IF YOU HAVE STUFF INSIDE, IT WILL BE LOST!&r"
+	]
 	quest.0D65451D939903B7.title: "Upgrade"
 	quest.0D967633A7095ED0.title: "Galar Bug Types"
 	quest.0DDEA9AEA517107F.quest_desc: [
@@ -195,6 +190,7 @@
 	]
 	quest.0DDEA9AEA517107F.quest_subtitle: "Feebas -> Milotic"
 	quest.0E46543D9D98E126.quest_desc: ["An &dAbility Shield&r is a held item that prevents the holder's ability from being changed or suppressed by any effect."]
+	quest.0E586F3C352EFFAA.title: "Galar Grass Types"
 	quest.0E8AB6B6CB82EBF0.title: "Great Ball"
 	quest.0E9284D03A1C0923.title: "Whitney"
 	quest.0EB5F345BC757EDC.quest_desc: [
@@ -211,7 +207,9 @@
 	quest.0EB5F345BC757EDC.quest_subtitle: "Grass,Poison"
 	quest.0EB5F345BC757EDC.title: "0002 Ivysaur"
 	quest.0EBB3AF2C745B067.quest_desc: ["Packing tape allows you to pickup the chest or barrel without spilling it's contents."]
+	quest.0ECF89119F491AC0.title: "Alola Fighting Types"
 	quest.0EFD2B37B83A4723.title: "Healing Catcher: Heal Ball"
+	quest.0EFF4E7F7D096A23.title: "Alola Normal Types"
 	quest.0F0306978AC3001A.quest_desc: [
 		"&dFTBChunks &rallows you to claim chunks to protect your builds and belongings. Claimed chunks prevent other players or mobs from damaging your area. You can also load chunks to keep"
 		"machines and farms running even when you’re not around* &7(Depends on server configuration)&r"
@@ -231,6 +229,7 @@
 	quest.0F6A09571E346E00.title: "Not what you were looking for?"
 	quest.0F7711FA244163F7.title: "Alola Ghost Types"
 	quest.0F80228AAED087BC.quest_subtitle: "It has a static catch rate of 1.5×. "
+	quest.0FC3930BA4C26F9F.title: "Galar Psychic Types"
 	quest.0FC9368708CB4703.quest_desc: [
 		"Gloom ➜ Vileplume"
 		"Weepinbell ➜ Victreebel"
@@ -249,6 +248,7 @@
 	]
 	quest.10A508B7C1009526.title: "1x &6PokeDollar"
 	quest.10DA0B9D0AF20440.title: "Citrine Ball"
+	quest.110258C1922A8DEB.title: "Galar Fighting Types"
 	quest.111B6B1C0FD79BFB.title: "Water Expert: Dive Ball"
 	quest.111C604023D503FE.quest_desc: ["All of these held items are used to boost a specific type of move!"]
 	quest.111C604023D503FE.quest_subtitle: "Power up those moves!"
@@ -287,6 +287,7 @@
 	quest.11CA74A02F4C5C83.quest_subtitle: "Unlock that ~ key!"
 	quest.11CA74A02F4C5C83.title: "Ultimine!"
 	quest.122538ED9CC3B27C.quest_subtitle: "Boosts the power of &lFighting-type&r moves by 20%."
+	quest.123AFF6EE30CB687.title: "Sinnoh Steel Types"
 	quest.123FB8D6351AAF1F.title: "Sinnoh Ghost Types"
 	quest.1278EEF642B2C82E.quest_desc: ["There will be completionist trophies for finishing chapters of this quest book \\& for completing all progress of certain mods. "]
 	quest.1278EEF642B2C82E.quest_subtitle: "Check back later for updates, Quests for this chapter are being still being worked on!"
@@ -300,6 +301,7 @@
 	quest.12B1103C319AB062.title: "Choice Scarf"
 	quest.12D76E217F409A72.quest_desc: ["A &7Metal Coat&r is an evolution item&r that is used to evolve &6Scyther&r and &eOnix&r into &6Scizor&r and &eSteelix&r respectively, &dwhen held while trading&r or using a &dlink cable&r. This consumes the Metal Coat."]
 	quest.12D76E217F409A72.quest_subtitle: "Used for Scyther \\& Onix"
+	quest.12E69501F970C8D9.title: "Kalos Normal Types"
 	quest.1316410C45AE5BDB.quest_desc: [
 		"A &eGalarica Wreath&r is an evolution item that is used to evolve &dGalarian Slowpoke&r into &dGalarian Slowking&r. Using it consumes the Galarica Wreath. "
 		""
@@ -320,6 +322,7 @@
 		"Can be crafted."
 	]
 	quest.14493F864DD8ACEE.quest_subtitle: "Ursaring -> Ursaluna"
+	quest.14AA7C7E5C0CF81B.title: "Unova Psychic Types"
 	quest.14BDB596CAB82499.quest_subtitle: "A sleek commemorative Poké Ball with the same catch rate as a standard Poké Ball."
 	quest.14BDB596CAB82499.title: "Premier Ball"
 	quest.14FD6212B109BE0B.title: "Braised Vivichoke"
@@ -348,6 +351,7 @@
 	quest.162894ECEF081A38.title: "Mental Herb"
 	quest.16290D18E9D67988.quest_desc: [""]
 	quest.16290D18E9D67988.title: "Kanto Bug Types"
+	quest.169403A7ABE23E19.title: "Paldea Dark Types"
 	quest.16BD408A5CAF433B.quest_desc: [
 		"Optional way to get Ultimine Ability temporarily:"
 		""
@@ -360,6 +364,7 @@
 	quest.16BD408A5CAF433B.quest_subtitle: "Mine-Go Juice"
 	quest.16BD408A5CAF433B.title: "Temporary Ultimine!"
 	quest.16EAD2F5D4CA9B93.title: "Alola Region Starters"
+	quest.17052794146772C7.title: "Johto Ice Types"
 	quest.17299D0188D8AF68.title: "Fairy Feather"
 	quest.173D2B8A8694F17A.quest_subtitle: "Used to spawn Rival Terry (again)"
 	quest.1750BF5DABF5B181.quest_desc: ["&6For now click here to obtain items to evolve applin.&r"]
@@ -406,6 +411,7 @@
 	quest.1958B07C212A340C.quest_subtitle: "Grass is one of the three basic elemental types along with Fire and Water, which constitute the three starter Pokémon"
 	quest.1958B07C212A340C.title: "Grass Types"
 	quest.196ECFC06EC71B90.title: "Johto Water Types"
+	quest.19875DEB01335381.title: "Sinnoh Electric Types"
 	quest.199BCCAAE2200C63.quest_desc: ["An &dElixir&r is a type of medicine that restores 10 PP to all of a Pokémon's moves when used."]
 	quest.19E71654ABF758E4.title: "Night Master: Dusk Ball"
 	quest.19ECC4517177EAC0.quest_desc: [
@@ -429,11 +435,13 @@
 		"[ \"Also an \", { \"text\": \"Evo Item\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"555F5354AAA471D1\" } }, \".\" ]"
 	]
 	quest.1AEA184928A2C542.title: "Kanto Normal Types"
+	quest.1B020504EB55F7D3.title: "Galar Fairy Types"
 	quest.1B90D3E433D7B7DC.title: "Natural Items"
 	quest.1B93842B9AD3B422.quest_subtitle: "Used to spawn Giovanni for the last time!"
 	quest.1BB661DB2BCFE858.quest_desc: ["Using the &dBlueprint Package&r will place several &6blueprints&r into your inventory, so you may want to wait until you have picked a spot to set up. By default, this only gives a few basic blueprints. You will need to craft or find blueprints or templates for other items."]
 	quest.1BB661DB2BCFE858.quest_subtitle: "Click the check to recieve a blueprint package!"
 	quest.1BB661DB2BCFE858.title: "Getting started..."
+	quest.1BBDE7080AD2E4A2.title: "Kalos Grass Types"
 	quest.1BC76858BDC41C2B.quest_desc: ["To craft new glyphs, use a spell book on the table to open the codex. Each glyph requires a set of items and experience points to unlock. Select a glyph by clicking on it in the menu, and hit select. Throw the items onto the table as rendered above, and the table will scribe a new glyph. The table will also pull items from nearby inventories. Using the dominion wand on the table will disable auto-pull."]
 	quest.1C54C9B630849865.title: "Johto Grass Types"
 	quest.1CAAF31DEB3DB642.quest_desc: ["Everyones favorite dice. This item &6gurantees that the users multi-strike moves will hit at least 4 times&r. It also provides a &dchance for the move to hit up to 8 times instead of the normal 5.&r"]
@@ -524,6 +532,7 @@
 	quest.20DE88BBFB1C1DF9.title: "Azure Ball"
 	quest.214CF0BDFE336E17.title: "Protector"
 	quest.21A1C83979A34B34.quest_desc: ["This upgrade will take a lot, two bosses and defending a raid isn't a challenge for you, is it? Alowing you to cast tier 3 glyphs, it's worth it."]
+	quest.226479326EE3F703.title: "Paldea Psychic Types"
 	quest.2272AA0870D1C4FC.quest_desc: ["A Sandy Mulch makes the Berry Tree act like it's in an Arid biome for an infinite duration. "]
 	quest.227F62798FB014FB.quest_desc: ["Check back later for updates, Quests for this chapter are being still being worked on!"]
 	quest.227F62798FB014FB.quest_subtitle: "Work in Progress"
@@ -533,6 +542,7 @@
 	quest.2366DA4610BDF5F7.quest_desc: ["This chapter is primarily about how you can use &6natural resources&r to your advantage!"]
 	quest.2366DA4610BDF5F7.quest_subtitle: "Apricorns, Berries, \\& Mints, Oh My!!"
 	quest.2366DA4610BDF5F7.title: "Green Thumb"
+	quest.236AC5BC65C01A4C.title: "Paldea Fire Types"
 	quest.2376948E99BFD608.quest_subtitle: "A basic Poké Ball with a 1× catch rate, crafted using green apricorns."
 	quest.2376948E99BFD608.title: "Verdant Ball"
 	quest.23AF41B039B8C705.quest_subtitle: "Used to spawn Elite Four: Bruno"
@@ -558,6 +568,7 @@
 	quest.250CC2FE0F7DCC42.title: "Hoenn Electric Types"
 	quest.25223EF4991A1FD8.title: "Dragon Scale"
 	quest.2541EB890D364B99.quest_subtitle: "Used to spawn Trainer Brendan"
+	quest.2550749BBA4B4309.title: "Hoenn Rock Types"
 	quest.256BE43416AD50B3.quest_desc: [
 		"Once you've progressed through all the levels for each card you will unlock the &6mastery&r."
 		""
@@ -579,7 +590,9 @@
 	quest.26BB07D3244B69B6.quest_desc: ["This rock allows the holder to have &6a chance at inflicting a flinch&r on your opponents Pokemon when &6you use a physical attack&r. &bThis item also evolves Poliwhirl into Politoed and Slowpoke into Slowking.&r"]
 	quest.26C3EDF25F66E4AE.quest_subtitle: "Catches and immediately heals the Pokémon, restoring HP and status conditions."
 	quest.26C3EDF25F66E4AE.title: "Heal Ball"
+	quest.26F30FB28DB73909.title: "Unova Ground Types"
 	quest.270718A315DFB64B.quest_subtitle: "A ball highly effective when used in the first turn of battle."
+	quest.276614F1CAEEF005.title: "Paldea Ice Types"
 	quest.27961DE632D73E81.quest_subtitle: "A basic Poké Ball with a 1× catch rate, crafted using yellow apricorns."
 	quest.27961DE632D73E81.title: "Citrine Ball"
 	quest.27D95FFB4E69AE38.quest_desc: ["Another one of Krisp's personal fave items! This cool band&6 boosts the damage from all physical moves&r. This is perfect for those who prefer the  bash-em-til they faint method!"]
@@ -598,6 +611,7 @@
 	quest.28AC60E955D28E6A.title: "Catch Your First Cobblemon!"
 	quest.28AD192BEF29F05B.quest_desc: ["Adds a minimap / hud to show nearby mons to help you better track them down!"]
 	quest.28AD192BEF29F05B.quest_subtitle: "Also available in a variety of colours!"
+	quest.28D879AA679D2C8E.title: "Kalos Dark Types"
 	quest.2906B6F832D31269.quest_desc: ["This herb allows the holder to &4immediately use a move that would normally require a turn to charge up&r.&5 It is consumed after use.&r"]
 	quest.2909DDD83D869BD0.title: "Prism Scale"
 	quest.292493888A4A60B9.title: "King's Rock"
@@ -621,18 +635,25 @@
 	]
 	quest.298BEFED52443273.title: "Breeding Mons"
 	quest.29FE9E953B265348.title: "Fairy Feather"
+	quest.2A0043D2C4B8156A.title: "Unova Fighting Types"
+	quest.2A006D5314E1449A.title: "Kalos Fire Types"
 	quest.2A1370BC2CF53FBC.quest_desc: ["This energizing battery boosts the &eholders attack by 1 stage when hit by a damaging Electric-Type move.&r"]
 	quest.2A181ABDCE118CF3.title: "Friend Ball"
 	quest.2AC137852DA4C38E.quest_subtitle: "Used to spawn Rival Terry (again)"
 	quest.2AEFD3732FD3A2EB.quest_desc: ["This adorable feather boosts the power of &dthe holders Fairy-Type moves by 20%.&r"]
+	quest.2AFC1D3F11B9A665.title: "Kalos Ice Types"
 	quest.2B0D4EC981D4715D.quest_subtitle: "Boosts the power of &lWater-type&r moves by 20%."
+	quest.2B0E8C06D78723E7.title: "Galar Normal Types"
+	quest.2B6D75828A32A57B.title: "Sinnoh Psychic Types"
 	quest.2B869F678F3F902F.quest_subtitle: "A ball designed to make captured Pokémon immediately more friendly toward the trainer."
 	quest.2B869F678F3F902F.title: "Friend Ball"
 	quest.2B8F940EC3BF74C3.title: "Miracle Seed"
 	quest.2B96CF5A7F373178.quest_subtitle: "does not throw as far"
 	quest.2BC323F95005BCE2.quest_desc: ["This item boosts the&5 holders accuracy by 20%.&r"]
+	quest.2BC5F581E33DF457.title: "Sinnoh Normal Types"
 	quest.2C1D9F06ED3A144B.quest_subtitle: "Can hold up to 30 levels of exp!"
 	quest.2C2F85051706E97E.title: "Eviolite"
+	quest.2C6A0968B1041F07.title: "Kalos Dragon Types"
 	quest.2CA10E0B91910A75.title: "Speedy Catcher: Quick Ball"
 	quest.2CEBB86F1F75570C.title: "Metal Coat"
 	quest.2D34AC3506CB3B61.quest_subtitle: "Gains about 0.3× catch rate per turn passed in battle, up to a maximum catch rate of 4×."
@@ -641,6 +662,7 @@
 	quest.2DBE60CB1ADBC795.quest_subtitle: "It has a static catch rate of 1×. "
 	quest.2DE9E89357AB7D99.quest_desc: ["This band grants extra &5Special Attack EVs&r when held by the pokemon that participted in battle."]
 	quest.2DE9E89357AB7D99.quest_subtitle: "+ Sp. Attack EVs"
+	quest.2DEC3C3DDE9679AD.title: "Sinnoh Dark Types"
 	quest.2DF2115ED2E13890.quest_desc: ["&6This strange crystal is very useful if your Pokemon still has an evolution available to it&r. It will&6&5 boost your Pokemons Sp. Def and Defense by 50%&r&r ! This can make even first and second stage evolutions much stronger in battle."]
 	quest.2E3C63F2D30A475A.quest_subtitle: "+ Attack / -Sp. Defense"
 	quest.2E4AFEB3B97245C5.quest_desc: [
@@ -653,8 +675,10 @@
 	quest.2E4AFEB3B97245C5.quest_subtitle: "Chase that HA!"
 	quest.2E54CF3858793E28.title: "Team Clarissa"
 	quest.2E81D04818571704.title: "Ultra Ball"
+	quest.2E92DF9C20E1283C.title: "Alola Ground Types"
 	quest.2E97F28D2504C31B.title: "Choice Scarf"
 	quest.2E9B7413004856C4.title: "Ice Types"
+	quest.2EAB275BBAA46C3F.title: "Kalos Flying Types"
 	quest.2EB779BBD6F1BECF.quest_subtitle: "Used to spawn Gym Leader Erika!"
 	quest.2EE72A02330B60BD.quest_subtitle: "The standard Poké Ball with a 1× catch rate."
 	quest.2EE72A02330B60BD.title: "Poké Ball"
@@ -664,6 +688,7 @@
 	quest.30419A82959384E7.title: "Seedlings"
 	quest.30C269E0695A704D.quest_subtitle: "Used to spawn Gym Leader Clair"
 	quest.30C658B66F1BF29E.quest_subtitle: "Boosts the power of &lGrass-type&r moves by 20%."
+	quest.30C7BF6B8B82A86D.title: "Johto Dark Types"
 	quest.30E3DB4CBBF7F548.quest_desc: ["This item increases the duration of the &6holders terrain moves to 8 turns.&r"]
 	quest.3118656733D3354C.title: "Paldea Water Types"
 	quest.31270876DE747651.quest_desc: [
@@ -689,6 +714,7 @@
 		"[ \"Can be crafted - Also used to make the \", { \"text\": \"Assault Vest\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6E40C69BE97CD161\" } } ]"
 	]
 	quest.32BA8274ED8ACCA6.quest_subtitle: "Rhydon -> Rhyperior"
+	quest.32BC132722BAD647.title: "Johto Rock Types"
 	quest.32FA699461CA0438.quest_desc: ["This curious orb &4burns the holder at the end of the turn.&r"]
 	quest.331537B9A19728C6.quest_desc: [
 		"&dUsed to craft:"
@@ -733,6 +759,8 @@
 	quest.3693E0613199AF16.title: "Fast Ball"
 	quest.36CDE637FCDBBC8B.quest_desc: ["This band grants extra &bSpeed EVs&r to the Pokemon holding it that participated in battling,"]
 	quest.36CDE637FCDBBC8B.quest_subtitle: "+ Speed EVs"
+	quest.37139A8E2EA9C97C.title: "Sinnoh Fairy Types"
+	quest.37185708AFCB4964.title: "Sinnoh Rock Types"
 	quest.3724A409E62C8AC0.quest_desc: ["These dazzling glasses will &5boost your Pokemons SP. Atk,&r but only allow the&6 use of one move.&r This can be useful in battle to get out some heavy-hitting Sp. Atk moves."]
 	quest.372955E458EB53EA.quest_desc: [
 		"An &eAuspicious Armor&r is an evolution item that is used to evolve &dCharcadet&r into &dArmarouge&r. Right-clicking a Charcadet whilst holding the Auspicious Armor will consume the armor and allow Charcadet to evolve into Armarogue. It is a counterpart to &6Malicious Armor&r. "
@@ -742,14 +770,19 @@
 		"&dBastion remnant&r chests may contain Auspicious Armor. "
 	]
 	quest.372955E458EB53EA.quest_subtitle: "Charcadet -> Armarouge"
+	quest.3736A76E201484E0.title: "Unova Poison Types"
 	quest.3743811366CC7850.quest_desc: ["This once perfect spoon boosts the holders &dPsychic-Type moves.&r"]
+	quest.37903AB013169316.title: "Paldea Steel Types"
 	quest.3808B72C1784E21C.title: "Johto Ghost Types"
+	quest.384A99EC058C63ED.title: "Alola Dragon Types"
 	quest.385DCF0C7BEB5366.title: "Poké Ball Crafting"
 	quest.388DFF1E8BBC8E10.quest_subtitle: "More effective when capturing Pokémon of the opposite gender to the one you have out."
 	quest.388DFF1E8BBC8E10.title: "Love Ball"
+	quest.38D4520EAE00F888.title: "Sinnoh Ice Types"
 	quest.39125D68A4AA32A5.quest_desc: ["This rock extends the duration of &4sun moves from 5 turns to 8 turns&r! This is very useful if you prefer&4 fiesty Fire Types&r!"]
 	quest.39A38E965BB55614.quest_desc: ["These bulky pads&6 protect the holder from the affects of contact based moves.&r"]
 	quest.39FD94DD136797F4.title: "Dragon Fang"
+	quest.39FE63B9E30BE9AE.title: "Unova Rock Types"
 	quest.3A25B3BC77AB54AE.quest_desc: [
 		"Casings are blocks used throughout many crafting recipes in Create, as well as for decoration and aesthetic purposes."
 		""
@@ -768,6 +801,7 @@
 	quest.3A4882B06BBDF337.quest_desc: ["These very fashionable boots&5 prevent your Pokemon from being hurt by an opponents trap moves&r that are active on the field. These make a&5 great defense against opponents&r who prefer &6setting up switch-trap style moves&r."]
 	quest.3AC234AB2A9B559E.quest_desc: ["A Peat Mulch makes the Berry Tree act like it's in a Forest biome for an infinite duration. "]
 	quest.3B2CC4A88101C4AA.title: "Razor Claw"
+	quest.3B54337A8D3B90FA.title: "Sinnoh Fighting Types"
 	quest.3B6104230CEAE2CD.title: "Heavy Ball"
 	quest.3B8E70F6F5188048.quest_subtitle: "Boosts the power of &lDark-type&r moves by 20%."
 	quest.3BE217F31248FFDB.quest_desc: [
@@ -842,6 +876,7 @@
 	quest.3E06C455AF761E60.quest_subtitle: "+ Attack"
 	quest.3E36E566148233EC.quest_desc: ["&dStructures to find a Cover Fossil: &rFrozen Pond, Hydrothermal Vents, Preserved Skeleton, Submerged Impact, Submerged Spike, Underwater Fissure, Vibrant Hydrothermal Vents"]
 	quest.3E36E566148233EC.quest_subtitle: "Tirtouga"
+	quest.3EB4914309D5073F.title: "Kalos Electric Types"
 	quest.3F743F2B71DD403C.title: "Claiming Your Territory"
 	quest.3F83AD208596996B.quest_subtitle: "Used to spawn Gym Leader Blaine"
 	quest.3F8E092B859327DD.quest_desc: ["This special scale &6boosts Clamperls Sp. Def stat&r. Thats all folks!"]
@@ -904,10 +939,12 @@
 		"- When you have reached that level, The villager will have a new offer for an empty &eMining Skill Card&r."
 	]
 	quest.42941AD8F80D28DC.quest_subtitle: "Step 1"
+	quest.433D45B5077ABAB3.title: "Unova Steel Types"
 	quest.437E9D159405D8FE.title: "Kalos Water Types"
 	quest.43A6C69606380D41.quest_desc: ["These held items can&5 give various benefits&r in battle and&5 provide an edge&r, but use them wisely because they will be&6 consumed on use and disappear!&r"]
 	quest.43A6C69606380D41.title: "One-Time-Use Items"
 	quest.43D224E551201802.title: "Pampered Pokémon: Luxury Ball"
+	quest.43F4F30C84BBA193.title: "Paldea Dragon Types"
 	quest.44080C369087292A.quest_desc: [
 		"Alolan Sandshrew ➜ Alolan Sandslash"
 		"Alolan Vulpix ➜ Alolan Ninetales"
@@ -939,6 +976,7 @@
 	quest.44DEDD13A522DC22.quest_subtitle: "Used to craft pokeballs!"
 	quest.44DEDD13A522DC22.title: "Poke-Farmer"
 	quest.44E6A9D7CA7C06E2.title: "First Catch!"
+	quest.44F6672482C9B339.title: "Galar Rock Types"
 	quest.450758EB6B91E9B2.quest_desc: [
 		"&dUsed to craft:&r"
 		"- Roseate Balls, "
@@ -956,6 +994,7 @@
 	quest.46C6475321032CFB.quest_desc: ["This sharp claw (use caution!) &5boots the chance of a critical hit&r! &6This item is also also necessary to evolve Sneasel and its Hisuian counterpart.&r"]
 	quest.4741D14B8ADAE9C8.title: "Kanto Ice Types"
 	quest.4742B4F7A1EFE244.title: "Timer Ball"
+	quest.47CD11A9FFEFE03E.title: "Sinnoh Grass Types"
 	quest.47F955F5949100EA.quest_desc: [
 		"Drops: Melon Seeds 0-1, Miracle Seed 5%"
 		""
@@ -975,9 +1014,11 @@
 		""
 		"It can also mutate a fully grown&d Revival Herb&r into a &6Mental Herb, Power Herb, White Herb, or Mirror Herb&r. "
 	]
+	quest.480CF727BF487260.title: "Alola Fairy Types"
 	quest.481C3421E299CA28.quest_desc: ["Cobblemon is about &dexploration&r as much as it is about Pokémon. Whether you’re hunting for rare Pokémon, searching for villages, or mining for resources, there’s always something to discover.\\n\\nYou can find various newly added excavtion sites, dungeons, temples, and tons more structures in all dimensions! \\n\\n&e&lTip:&r &rKeep an eye out for Apricorn trees—they’re essential for crafting Poké Balls!"]
 	quest.481C3421E299CA28.quest_subtitle: "Discover new biomes and resources"
 	quest.481C3421E299CA28.title: "Exploration and Adventure"
+	quest.481D36A0E4BE03E3.title: "Paldea Grass Types"
 	quest.48866AD1EEF52D49.quest_subtitle: "Used to spawn Gym Leader Misty!"
 	quest.48AC93A701381753.quest_desc: [""]
 	quest.48AC93A701381753.quest_subtitle: "It has a static catch rate of 2×. "
@@ -999,6 +1040,7 @@
 	]
 	quest.490FD66E4C370550.quest_subtitle: "A Tool needed for upgrading your mining skills"
 	quest.4915825B660CD27C.title: "Johto Electric Types"
+	quest.4925855DA6F1A770.title: "Galar Electric Types"
 	quest.4938249C0361EC11.quest_desc: ["This peaceful sounding bell &5increases the holders' friendliness earned by 50%&r. Speed-run those friendships!"]
 	quest.494AF7259DBD4110.quest_desc: ["Many cobblemon can be rode in this modpack, feel something is missing? Let us know in discord!"]
 	quest.494AF7259DBD4110.quest_subtitle: "Traverse the land, sea, \\& sky with your mons!"
@@ -1023,6 +1065,7 @@
 	quest.4B40BEBAF65F7A8F.quest_desc: ["Once you stand on the pad it will teleport you to the Mining Dimension / A resource world where you can mine till your hearts content!"]
 	quest.4B40BEBAF65F7A8F.quest_subtitle: "Travel to the mining dim!"
 	quest.4B40BEBAF65F7A8F.title: "Teleport Pad"
+	quest.4B782091B3732253.title: "Unova Fire Types"
 	quest.4B813054AAFB96ED.title: "Poké Ball"
 	quest.4B9CE98B95BB9182.quest_desc: ["A PC is a utility block that allows the player to access the Pokémon storage system. "]
 	quest.4BB2573CF772E2D0.quest_desc: ["You can use a link cable to simulate trading to evolve certain pokemon!"]
@@ -1137,8 +1180,10 @@
 	quest.53793A1711744622.quest_desc: ["This mystical pendant boosts the holders &3Water-Type moves!&r"]
 	quest.53B63856D2DA0DDE.quest_desc: ["&eA casual series but still with decent difficulty. Are you ready to conquer &dSinnoh&r&e?"]
 	quest.53B63856D2DA0DDE.quest_subtitle: "Based on the Sinnoh Region."
+	quest.53B63856D2DA0DDE.title: "Brilliant Diamond, Shining Pearl"
 	quest.53D72BFDCE980276.title: "Charcoal"
 	quest.5411EFDBD9076344.quest_desc: ["This cool rock boosts the &6holder's Rock-type moves.&r"]
+	quest.54193A7FBAC08623.title: "Paldea Flying Types"
 	quest.547BE386115881FE.quest_desc: [
 		"&cONLY CLICK THIS IF YOU ARE NEW / HAVE NO DATA SAVED WITH RADICAL COBBLEOM TRAINERS!!"
 		""
@@ -1176,11 +1221,14 @@
 		"As of Cobblemon 1.6, berries can also be attached to a &dPoké Rod&r as bait, providing varying effects depending on the berry used."
 	]
 	quest.55B2618C69E9CFCC.quest_subtitle: "Click to read more"
+	quest.55F6239981D4B159.title: "Unova Dragon Types"
 	quest.56021F3547B6A2E0.quest_desc: ["Crafted with &6relic coins&r and a &dtype gem&r, it doesnt get more luxurious than this."]
 	quest.56021F3547B6A2E0.quest_subtitle: "OOOooo Shinyyyy"
 	quest.56021F3547B6A2E0.title: "Special Edition PokeNav!"
 	quest.569E6C91CDBFC704.quest_desc: ["&dStructures to find an Old Amber&r: Frozen Pond, Lush Den, Oak Tree, Spruce Tree "]
 	quest.569E6C91CDBFC704.quest_subtitle: "Aerodactyl"
+	quest.56A7DE6305A0BA8F.title: "Paldea Poison Types"
+	quest.56C2FC76392861EE.title: "Galar Ice Types"
 	quest.56D889B6AF3BF89A.quest_desc: ["&dFishing bait&r can be attached to the hook of the bobber by dragging bait over to your rod and right clicking, similar to bundles, or by holding bait in your offhand. The bait will stay on the hook until a Pokémon is reeled in, in which it will then be consumed. Bait can be swapped by dragging a different bait over to your rod and right clicking and bait can be removed entirely by right clicking a rod which has bait attached. &6Each bait has different effects. &r - Hold shift while hovering each berry to read more!"]
 	quest.56D889B6AF3BF89A.quest_subtitle: "Hold shift to reveal more details"
 	quest.56D889B6AF3BF89A.title: "Berries = Bait!"
@@ -1263,10 +1311,13 @@
 	quest.5C47451B2C74A98C.quest_desc: ["These too cool goggles prevent the holder from &5being affected by powder moves, spore moves, and weather moves.&r It is a must have on the competetive scene!"]
 	quest.5C4E39E35F3B343A.quest_subtitle: "Pokémon caught in a Luxury Ball will gain Friendship twice as fast. "
 	quest.5C5BA3BF56206634.quest_desc: ["Check back later for updates, Quests for this chapter are being still being worked on!"]
+	quest.5C6ABFC209F01184.title: "Paldea Electric Types"
 	quest.5C7B1DE08F0AD6DC.title: "Alola Water Types"
 	quest.5C894025352C6376.quest_desc: ["&6When the holder is struck by a damaging move, it will force the attacking Pokemon to switch out&r. Get off the field, bro!"]
+	quest.5C92ADF3912FAD50.title: "Hoenn Fighting Types"
 	quest.5C98312AF90A4AF1.title: "Mystic Water"
 	quest.5CA5C2DBBB299093.title: "Black Sludge"
+	quest.5CD55745E0E12FC6.title: "Johto Fighting Types"
 	quest.5D22D76A4A1DD7B8.title: "0004 Charmander"
 	quest.5D3311AA4AA0B591.quest_subtitle: "Octagon = Section Complete"
 	quest.5D33561D06F89872.quest_desc: ["THis band grants the holder that participated in battle extra &cDefense EVs&r,"]
@@ -1324,25 +1375,33 @@
 		"This item is usually used to train up lower leveled pokemon, or catch up new freinds you've made along the way!"
 		"&5To craft this necessary item you will need; 2 amethyst shards, 2 lapis lazuli, 2 iron Ingots, 1 gold ingot, and 1 iron helmet.&r"
 	]
+	quest.60539FC8C0C1B4C0.title: "Kalos Rock Types"
+	quest.60570E75C416BB57.title: "Sinnoh Water Types"
 	quest.6083A75B21C1493B.quest_desc: ["This ancient piece of paper boosts the&5 holders Ghost-Type moves.&r"]
 	quest.609C3A4391CA3E65.quest_desc: ["This upgrade requires materials from the nether and allows you to cast tier 2 glyphs."]
+	quest.60CDAE3198AA2FD1.title: "Sinnoh Ground Types"
 	quest.60F5AE0D679B3182.title: "Advanced Crafting: Great Ball"
 	quest.611489B6370D9559.quest_desc: ["Lost your physical quest book or want another one? Click the checkmark above!"]
 	quest.611489B6370D9559.quest_subtitle: "Gear = Repeatable Rewards"
 	quest.61243F7498C6074C.quest_desc: ["It has a static catch rate of 1×. "]
 	quest.61243F7498C6074C.quest_subtitle: "capable of being thrown further. "
 	quest.6158C620A866F32A.title: "Koga"
+	quest.61AAC173D24A2D74.title: "Galar Ground Types"
+	quest.61F7AAFB73A1FCA1.title: "Sinnoh Dragon Types"
 	quest.626504DF6F2FA32E.quest_desc: ["Use &6/wits&r to see what structures are nearby."]
 	quest.626504DF6F2FA32E.quest_subtitle: "What is that Structure??"
+	quest.6265FD29EAC0B159.title: "Kalos Steel Types"
 	quest.62686725CEF63030.title: "Jasmine"
 	quest.628A9A9BEEFEEDDD.title: "Paldea Region Starters"
 	quest.62A812BC21ED5BCE.quest_desc: ["Check back later for updates, Quests for this chapter are being still being worked on!"]
 	quest.62A812BC21ED5BCE.quest_subtitle: "Work in Progress.."
 	quest.62A812BC21ED5BCE.title: "Quests Coming Soon!"
 	quest.62CB3AA9C45C0D46.quest_subtitle: "It has a static catch rate of 1×. "
+	quest.632529381365FB46.title: "Sinnoh Fire Types"
 	quest.63256253D64391F9.title: "Stylish Choice: Luxury Ball"
 	quest.632BBEA8B2B7A0DD.quest_desc: ["This band gives the holder &2extra HP EVs&r when it has participated in battle."]
 	quest.632BBEA8B2B7A0DD.quest_subtitle: "+ HP EVs"
+	quest.63590EB8D1818AD4.title: "Alola Poison Types"
 	quest.635B3B481979D2F0.quest_desc: [
 		"Combine a &dFish&r \\& &dDino&r fossil to obtain &eArctovish&r!"
 		""
@@ -1378,6 +1437,7 @@
 		"This curious stone &6will halve the weight of your Pokemon.&r"
 		"&5Incredibly useful if you have heavy-weight pokemon and are going against a user who uses weight based damage moves!&r"
 	]
+	quest.650E252CE49DCB91.title: "Galar Dragon Types"
 	quest.655BB4FDE629E70F.title: "Hoenn Poison Types"
 	quest.65CDB9F01373E258.quest_subtitle: "Click the check to begin your training adventure!"
 	quest.65CDB9F01373E258.title: "Choose your starter"
@@ -1406,6 +1466,7 @@
 		"&dBait Effect:&r Reduces bite time by 33%"
 	]
 	quest.66EA5F58A08DC311.title: "Protector"
+	quest.670CC6EDF705A428.title: "Unova Electric Types"
 	quest.671D2C300207C06D.title: "Fire Master!"
 	quest.6764FAFA232450EE.quest_desc: [
 		"&dFTBTeams&r lets you join forces with other players for a collaborative experience. When you form or join a team, all your claimed chunks will automatically include your teammates.\\n\\n&e&lHow to Use FTBTeams:&r&r\\n1. Click the Teams icon at the very top left of your inventory (shown below).\\n2. Create a team or join an existing one.\\n3. Share resources, progress, and adventures with your team!"
@@ -1441,6 +1502,7 @@
 	quest.695F04B5ECF7A17F.title: "Johto Region Starters"
 	quest.6982D926C358AE8B.quest_desc: ["This item cures the holder of &dinfatuation and other mental effects. It is consumed on use.&r"]
 	quest.699D495C37E18137.title: "Vivichoke"
+	quest.69CB779BD0D57B79.title: "Johto Steel Types"
 	quest.69DC33C34B2596CA.title: "Air Balloon"
 	quest.69DEF8E186F11261.quest_desc: ["These are all the &dtier 1 glyphs&r and can all be cast with the &6Novice Spell Book&r. Hold &eLShift&r over any glyph for the description!"]
 	quest.69F52A7752C19CF5.title: "Johto Normal Types"
@@ -1451,7 +1513,9 @@
 	quest.6A7D7FE80876EEC8.title: "Adamant Mint"
 	quest.6A87D3B41E5E1A39.title: "Quick Ball"
 	quest.6AD2EB3A4E10E567.quest_desc: ["This parasol prevents the holder from &bbeing affected by weather.&r"]
+	quest.6ADA1C14E7C4FA93.title: "Paldea Fairy Types"
 	quest.6B057C91A8B2499C.title: "Giovanni"
+	quest.6B05FA7513976F58.title: "Paldea Normal Types"
 	quest.6B3643977D7CB388.quest_desc: ["This snazzy headband will &4boost the holders Attack Stat&r, but &6only allow the use of one move&r. High Attack Pokemon that are naturally fast would be best suited for this item."]
 	quest.6BAE11A4142830A0.title: "Deep Sea Scale"
 	quest.6BE794938550E7B6.title: "Verdant Ball"
@@ -1472,6 +1536,7 @@
 	quest.6CDA73F7FC7AD616.quest_subtitle: "Used to spawn Rocket Admin Ariana (pt.2)"
 	quest.6CFDBF647DBF30B7.quest_desc: ["This lump of charcoal boosts the&4 holders fiery Fire-Type moves&r."]
 	quest.6D07A8E7E38DB346.title: "Dragon Fang"
+	quest.6D0D1AA9E5100F98.title: "Alola Grass Types"
 	quest.6D19BCF6D7A2BE95.title: "Dragon Scale"
 	quest.6D434229693AAB78.quest_desc: [
 		"A &dmint leaf&r is an item used to craft mints and are obtained by harvesting the final stage of a mint crop, which produces 1-3 of the respective mint leaf. &6If the plant is not fully mature, it will only drop seeds.&r"
@@ -1504,6 +1569,7 @@
 	quest.6E41FC2D07C53BBF.quest_subtitle: "Spritzee -> Aromatisse"
 	quest.6EACC905A9981091.quest_subtitle: "Collect a Mon from every single region!"
 	quest.6EACC905A9981091.title: "National Collector"
+	quest.6F0128C5F6A8E758.title: "Sinnoh Poision Types"
 	quest.6F2B7C0B7E53E6B4.quest_desc: ["Comes in many sizes! - 1x1, 1x2, 2x2, and framed options for more customizability! "]
 	quest.6F2B7C0B7E53E6B4.quest_subtitle: "Used to store Fluids"
 	quest.6F2B7C0B7E53E6B4.title: "Fluid Drawers"
@@ -1545,12 +1611,14 @@
 		"Check out the other chapters if you would like more control over your storage systems."
 		"Included in the modpack is &6Sophisticated Storage&r, and &6Functional Storage&r - both mods add some pretty neat upgrades you can add to your storage system!"
 	]
+	quest.7256625DEA3DF4FF.title: "Unova Dark Types"
 	quest.72B07A95CC246BC8.quest_subtitle: "3.5x when used on a Pokémon already registered in the Pokédex."
 	quest.72B07A95CC246BC8.title: "Repeat Ball"
 	quest.72BCCB84E73B3D2A.quest_desc: ["If your tools break at some point, you can repair them with a &drepair kit&r. Craft a &6very crude repair kit&r if you do not have iron yet, or a &6crude repair kit&r if you do. There are many tiers each varrying in uses \\& total materials it can hold."]
 	quest.72BCCB84E73B3D2A.quest_subtitle: "Repair those tools!"
 	quest.72BCCB84E73B3D2A.title: "Repair Kits"
 	quest.72C5F9B40FD1E804.title: "Kalos Bug Types"
+	quest.73090BBC8A6D442F.title: "Unova Normal Types"
 	quest.730E73CB41894271.quest_desc: ["&eSweets&r are items that can be used to evolve &dMilcery&r into &dvarious Alcremie forms&r, depending on which sweet is used and the time of day. "]
 	quest.730E73CB41894271.quest_subtitle: "Milcery -> Various Alcremie forms"
 	quest.73192893BBFAFA46.quest_desc: ["This cool card raises the &6holder's Attack and SP. Atk by 2 stages&r when the holder is &6hit by a super-effective move.&r "]
@@ -1573,6 +1641,8 @@
 	quest.750658A02E8B502F.quest_subtitle: "A basic Poké Ball with a 1× catch rate, crafted using black apricorns."
 	quest.750658A02E8B502F.title: "Slate Ball"
 	quest.75084BF489029B29.quest_desc: ["Imbues certain items with Source to create new items. The primary way to obtain Source Gems, amethyst and lapis may be used to create Source Gems. The Imbuement Chamber will passively accumulate source for recipes, or will draw from Source Jars 2 block away. Some recipes require additional items placed in pedestals within 1 block of the Imbuement Chamber, such as Essences. Items in pedestals will not be consumed."]
+	quest.7549E73A52152A1C.title: "Paldea Fighting Types"
+	quest.755BB86D714FE220.title: "Hoenn Dragon Types"
 	quest.75680C5F6FC53540.title: "Kalos Region Starters"
 	quest.75809A1082C1D83A.title: "Fire Stone"
 	quest.758389BB1A836CD2.quest_desc: ["This item will boost the holders &aBug-Type moves.&r"]
@@ -1602,13 +1672,17 @@
 	]
 	quest.7694FB5A1A38F1E1.title: "Precision Engineering: Ultra Ball"
 	quest.76CBBB30A7203C68.title: "1x &6PokeDollar"
+	quest.76D7F0FEBB08B9E2.title: "Alola Fire Types"
 	quest.773DD3685CEC3C45.quest_subtitle: "Used to spawn Rocket Admin Ariana"
 	quest.777DC499E565AA92.title: "Rock Types"
+	quest.778833161119F423.title: "Hoenn Ground Types"
 	quest.781DAB6DD8759ED0.title: "Teaming Up!"
 	quest.781EBCD4D8F1368B.quest_desc: ["These are solid sphere underground at &6y level 5&r which &ehave a keystone in the middle of them&r the keystone can be used to make the &dmega bracelet&r."]
 	quest.781EBCD4D8F1368B.quest_subtitle: "Around y = 5"
 	quest.781EBCD4D8F1368B.title: "Find a &dMegaroid&r!"
+	quest.78285033AABF5CC2.title: "Alola Rock Types"
 	quest.78475D3F82887018.quest_subtitle: "+ Sp. Attack"
+	quest.785605C8B362D159.title: "Unova Ice Types"
 	quest.7890842B09B14546.quest_desc: [
 		"As Pokemon battle they gain &6experience along with EVs.&r These are &6special hidden stat values in each stat&r; Hp, Attack, Sp. Atk and etc. Each Pokemon you battle against &6gives off one Ev in particular&r. These stats &6boost your Pokemons base stats&r, making them stronger and more effective in battle. "
 		"{@pagebreak}"
@@ -1681,6 +1755,7 @@
 	]
 	quest.797B97442C60D5EC.quest_subtitle: "Dino + Bird"
 	quest.797B97442C60D5EC.title: "Arctozolt"
+	quest.79EB2FB0E4B1F04F.title: "Paldea Rock Types"
 	quest.79FD333B24452A44.quest_desc: [
 		"This page is dedicated to all items required for &6evolving certain pokemon&r."
 		""
@@ -1697,10 +1772,12 @@
 	quest.7B4339AC69C66AB2.title: "Getting Started"
 	quest.7B4E44A914D7CFF8.quest_desc: ["Requires diamonds to turn into a full featured &6PokeNav&r!"]
 	quest.7B4E44A914D7CFF8.quest_subtitle: "Can be found while fishing"
+	quest.7B52DCB755A1B95F.title: "Alola Electric Types"
 	quest.7B7E824D7BD29739.quest_subtitle: "Used to spawn Rocket Admin Archer (pt.2)"
 	quest.7B85355A8C431289.quest_subtitle: "Blueprint + Skill card = duplicate!"
 	quest.7BA1EF8D17CC5F6F.title: "Park Ball"
 	quest.7BC83E1C825581CD.quest_desc: ["&6PokéDollars (₽)&r are the main currency used throughout your adventure in this modpack. They’re the top tier in our custom economy system and play a big role in buying many types of items, trading with NPCs, and using various special features!"]
+	quest.7BD6E4825155780E.title: "Galar Dark Types"
 	quest.7BDCB1B263A519CE.quest_subtitle: "Boosts the power of &lPoison-type&r moves by 20%."
 	quest.7BE4ACF868906E2B.title: "Galar Ghost Types"
 	quest.7BEC43CCD8E9D4AC.title: "Upgrade"
@@ -1714,6 +1791,7 @@
 		"Can be also found in &6Ruin Structures&r within &6Suspicious Blocks&r in Decaying Crypt Ruins, Deserted Tower Ruins, Deserted Town Center Ruins or Rooted Arch Ruins. "
 	]
 	quest.7C3F119EB2BB51C9.quest_subtitle: "Antique Form Sinistea -> Polteageist"
+	quest.7C61119198FB8B4F.title: "Galar Steel Types"
 	quest.7C627E61AA1DDC08.quest_desc: [
 		"A &eDeep Sea Tooth&r is an evolution item that is used to evolve &dClamperl&r into &dHuntail&r when held &6while trading&r or using a &6link cable&r. This consumes the Deep Sea Tooth."
 		""
@@ -1750,9 +1828,11 @@
 	quest.7EC74F87EAC80BD5.quest_subtitle: "Use a MasterBall to guarantee the capture"
 	quest.7EC74F87EAC80BD5.title: "YOU'RE MINE!"
 	quest.7EEBC8A4B3AAAE14.title: "Offense Based Items"
+	quest.7EF6538CCFA86CE3.title: "Kalos Fighting Types"
 	quest.7F13F30AA2DC7338.quest_subtitle: "Cogwheels"
 	quest.7F13F30AA2DC7338.title: "Mechanical Power!"
 	quest.7F2D3DDF3A914B25.quest_subtitle: "A second tier Pokéball more effective on mon under level 30."
+	quest.7F401B66471E4CAD.title: "Johto Ground Types"
 	quest.7F7FE2EE906CD18C.quest_desc: ["This strange herb &acopies all of the opponents increased stat changes&r. &5It will be consumed on use.&r"]
 	quest.7FA641CA161D2163.title: "Kanto Ghost Types"
 	quest.7FED8C5B8B3F0DA7.quest_desc: [
@@ -1763,6 +1843,7 @@
 	]
 	reward_table.018B7DD83BAE2B01.title: "cobblemon - type gems"
 	reward_table.0667B9994DB345C7.title: "cobblemon - EV Feathers"
+	reward_table.082C1C581D64F03A.title: "bags"
 	reward_table.130DB275A6191979.title: "cobblemon - apricorns"
 	reward_table.14A0D2FD1224AE91.title: "cobblemon - loot - rare"
 	reward_table.14EA99A342542A9C.title: "cobblemon - loot - basic"

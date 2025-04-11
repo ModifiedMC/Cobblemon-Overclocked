@@ -1,0 +1,20 @@
+{
+  "type": "ars_nouveau:enchantment",
+  "enchantment": "dungeons_arise:ensnaring",
+  "level": 1,
+  "pedestalItems": [
+    {
+      "item": "ars_nouveau:manipulation_essence"
+    },
+    {
+      "item": "minecraft:honey_block"
+    },
+    {
+      "tag": "chipped:soul_sand"
+    },
+    {
+      "tag": "c:storage_blocks/source"
+    }
+  ],
+  "sourceCost": 2000
+}
