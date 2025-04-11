@@ -12,17 +12,6 @@ VERSION="$(cat pack.toml | grep "version = " | sed -e 's/version = "\(.*\)"/\1/'
 
 function urldecode() { : "${*//+/ }"; echo -e "${_//%/\\x}"; }
 
-function cleanup-server() {
-    if [[ ! -f "$BASE_DIR/build/server" ]]; then
-        return
-    fi
-    pushd "$BASE_DIR/build/server" 2>/dev/null 1>&2
-    find . -maxdepth 1 -type f -delete
-    # keep mods folder to prevent always redownloading mods
-    find . -maxdepth 1 -mindepth 1 -type d ! -name "mods" -exec rm -rf {} \;
-    popd 2>/dev/null 1>&2
-}
-
 function packwiz-path() {
     packwiz_path="$(command -v packwiz || true)"
     if [[ -z "$packwiz_path" ]]; then
@@ -72,9 +61,8 @@ echo "Type: $TYPE"
 echo -e "=====\n\n"
 
 # remove any previous build
-rm -rf "$BASE_DIR/build/*.zip" "$BASE_DIR/build/client" "$BASE_DIR/build/work" "$BASE_DIR/*.zip"
+rm -rf "$BASE_DIR/build/*.zip" "$BASE_DIR/build/client" "$BASE_DIR/build/server" "$BASE_DIR/build/work" "$BASE_DIR/*.zip"
 mkdir -p "$BASE_DIR/download/packwiz"
-cleanup-server
 
 # verifiy Complementary + Euphoria shaders
 shaderpack_count="$(find shaderpacks -iname "Complementary*EuphoriaPatches*.zip" | wc -l)"
@@ -191,6 +179,6 @@ if [[ "$TYPE" == "both" ]] || [[ "$TYPE" == "server" ]]; then
 
     zip -r "$server_zip_file" * 2>/dev/null 1>&2
     mv "$server_zip_file" "$BASE_DIR/build/"
-    cleanup-server
+    rm -rf "$BASE_DIR/build/server"
     echo "CurseForge server zip exported to $BASE_DIR/build/$server_zip_file"
 fi
