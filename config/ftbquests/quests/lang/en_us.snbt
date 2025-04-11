@@ -50,7 +50,7 @@
 	chapter_group.4669DE74F6076139.title: "&d&lStorage Solutions"
 	chapter_group.4A3FB32F83BB586D.title: "&d&lResources"
 	chapter_group.67A2C2B701748D1C.title: "&d&lTools \\& Gear"
-	file.0000000000000001.title: "&d&lModified Cobblemon: PLUS!"
+	file.0000000000000001.title: "&d&klll&r&d&lModified Cobblemon!&klll"
 	quest.000E4E74A0DAFEBA.quest_desc: ["A &eDragon Scale&r is an evolution item that is used to evolve &dSeadra&r into &dKingdra&r when &6held while trading&r or using a &6link cable&r. This consumes the Dragon Scale. "]
 	quest.000E4E74A0DAFEBA.quest_subtitle: "Seadra -> Kingdra"
 	quest.002F2C7B5F5C8C5E.title: "Kanto Rock Types"
@@ -817,7 +817,7 @@
 	quest.3C6694A14854EE68.title: "Dubious Disc"
 	quest.3C6BCDC1548589AD.quest_desc: ["This dazzling ball &6boosts Pikachu's Atk and SP. Atk&r, giving an edge to our beloved electric mouse."]
 	quest.3C6C4BBDDBB63C96.quest_desc: [
-		"Welcome to the world of &dModified Cobblemon: PLUS!&r This isn't your typical Minecraft adventure—here, pokémon, technology, magic, and endless possibilities await!"
+		"Welcome to the world of &dModified Cobblemon!&r This isn't your typical Minecraft adventure—here, pokémon, technology, magic, and endless possibilities await!"
 		""
 		"You will periodically obtain &6PokéDollars&r from completing quests, \\& in game events! These can be used for the &bQuest Shop&r - &dThe Modified Exchange&r, as well as using to trade with villagers! <work in progress>"
 		""
