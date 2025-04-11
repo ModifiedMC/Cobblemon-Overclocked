@@ -2530,7 +2530,7 @@ hash = "ea47017b55fb70a7d1ab0c7da4f036970be053fe8913d1151fe68dc2cecacf47"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "d86c38bc9eaeef7bc1f6ea0e8bf7365b593ea6cc7996e43a52cf7760b00f7b21"
+hash = "76ea48f596837b4a3dde487665472412394cffd4aa0a9c6f7e587456aaadd24a"
 
 [[files]]
 file = "config/fancymenu/customization/welcomescreen_welcome_layout.txt"
@@ -2546,7 +2546,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "ee361146b30fb53d9ec9eb8af8841254675347e0466690b548e2d947805861ba"
+hash = "324649f4bf8f57a9f165a612ba956e53d8307814184f9a800a3fa007c898bef1"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
