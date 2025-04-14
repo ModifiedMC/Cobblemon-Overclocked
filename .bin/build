@@ -9,6 +9,7 @@ CI="${CI:-false}"
 TYPE="${1:-both}"
 NAME="$(cat pack.toml | grep "name = " | sed -e 's/name = "\(.*\)"/\1/')"
 VERSION="$(cat pack.toml | grep "version = " | sed -e 's/version = "\(.*\)"/\1/')"
+NEOFORGE_VERSION="$(cat "$BASE_DIR/pack.toml" | grep "neoforge = " | sed -e 's/neoforge = "\(.*\)"/\1/')"
 
 function urldecode() { : "${*//+/ }"; echo -e "${_//%/\\x}"; }
 
@@ -106,7 +107,6 @@ if [[ "$TYPE" == "both" ]] || [[ "$TYPE" == "client" ]]; then
 
     # patch manifest to add neoforge version
     cd "$BASE_DIR/build/client"
-    NEOFORGE_VERSION="$(cat "$BASE_DIR/pack.toml" | grep "neoforge = " | sed -e 's/neoforge = "\(.*\)"/\1/')"
     cat "$BASE_DIR/build/client/manifest.json" | jq ".minecraft.modLoaders[0] |= {\"id\": \"neoforge-$NEOFORGE_VERSION\", \"primary\": true}" > "$BASE_DIR/build/client/manifest.tmp.json"
     mv "$BASE_DIR/build/client/manifest.tmp.json" "$BASE_DIR/build/client/manifest.json"
 
@@ -135,6 +135,7 @@ if [[ "$TYPE" == "both" ]] || [[ "$TYPE" == "server" ]]; then
     old_filename=""
     any_download="false"
     can_continue="true"
+    echo "Building server (pass 1/2)..."
     # loop over packwiz install output to get mods that need to be downloaded manually
     java -jar $BASE_DIR/download/packwiz-installer-bootstrap.jar -g -s server $BASE_DIR/pack.toml 2>&1 | while read -r line ; do
         if [[ ! "$line" =~ ^Please\ go\ to ]]; then
@@ -171,10 +172,12 @@ if [[ "$TYPE" == "both" ]] || [[ "$TYPE" == "server" ]]; then
     fi
     # re-run installer with manually downloaded mods
     if [[ ! -f "packwiz.json" ]]; then
+        echo "Building server (pass 2/2)..."
         java -jar $BASE_DIR/download/packwiz-installer-bootstrap.jar -g -s server $BASE_DIR/pack.toml 2>/dev/null 1>&2
     fi
 
     rm "$BASE_DIR/build/server/packwiz"*
+    sed -ei "s/MODLOADER_VERSION=.*/MODLOADER_VERSION=$NEOFORGE_VERSION/" $BASE_DIR/server/variables.txt
     cp "$BASE_DIR/server/"* "$BASE_DIR/build/server"
 
     zip -r "$server_zip_file" * 2>/dev/null 1>&2
