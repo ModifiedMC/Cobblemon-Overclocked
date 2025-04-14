@@ -177,7 +177,7 @@ if [[ "$TYPE" == "both" ]] || [[ "$TYPE" == "server" ]]; then
     fi
 
     rm "$BASE_DIR/build/server/packwiz"*
-    sed -ei "s/MODLOADER_VERSION=.*/MODLOADER_VERSION=$NEOFORGE_VERSION/" $BASE_DIR/server/variables.txt
+    sed -ie "s/MODLOADER_VERSION=.*/MODLOADER_VERSION=$NEOFORGE_VERSION/" "$BASE_DIR/server/variables.txt"
     cp "$BASE_DIR/server/"* "$BASE_DIR/build/server"
 
     zip -r "$server_zip_file" * 2>/dev/null 1>&2
