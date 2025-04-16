@@ -3633,6 +3633,10 @@ file = "config/paxi/datapacks/BCA-Datapack-3.5_GE_C1.6.1_M1.21.1.zip"
 hash = "8ef7b7fcd8fa354918f6c0b70813775b8abe7c0efca2c098c3b95a2f670ebbaa"
 
 [[files]]
+file = "config/paxi/datapacks/BCA-PokeDollars.zip"
+hash = "3bfe5cdf14e3363f941175bfae74ef7574e664e408061bcf767b8bfa3d15bfdc"
+
+[[files]]
 file = "config/paxi/datapacks/Legenday spawns revamped 1.4.zip"
 hash = "149f83b07b12779ee94ab16274e752dd165296128c038687a798e194b36655f1"
 
@@ -3655,6 +3659,10 @@ hash = "40c46b091d2e838b180020b1e8b7bb5847af6b4481439b17772cc25f8e3d0b82"
 [[files]]
 file = "config/paxi/datapacks/mega_loot.zip"
 hash = "cb4c7b82d7cf5b9591e5a8db966af3e59038ec2842667db21d6fba2f78118f09"
+
+[[files]]
+file = "config/paxi/datapacks/pokedollar_trainer_loot.zip"
+hash = "0cdf66c0032b8c0617c7563e0085121b83bb3282821389640f5da05dd0bf84db"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
