@@ -2883,26 +2883,36 @@
 				time_min: 0L
 				type: "cobblemon_tasks:cobblemon_task"
 			}]
-			x: -12.0d
+			x: -14.0d
 			y: -24.0d
 		}
 		{
 			id: "4B9CE98B95BB9182"
-			rewards: [{
-				count: 10
-				id: "4CEBBC1E99C6572B"
-				item: {
-					count: 1
-					id: "modified:pokedollar"
+			rewards: [
+				{
+					count: 10
+					id: "4CEBBC1E99C6572B"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "1E5386D204ACAB59"
+					item: {
+						count: 1
+						id: "cobblemon:pc"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5FE4A025B8D5FED4"
 				item: { count: 1, id: "cobblemon:pc" }
 				type: "item"
 			}]
-			x: -13.5d
+			x: -12.0d
 			y: -24.0d
 		}
 		{
@@ -30105,6 +30115,35 @@
 			}]
 			x: 25.5d
 			y: -16.0d
+		}
+		{
+			id: "51C4A52380140FE2"
+			rewards: [
+				{
+					id: "343B6B8A40D56388"
+					item: {
+						count: 1
+						id: "cobbled_counter:counter"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "12BDDA3B3C055D82"
+					item: {
+						count: 1
+						id: "modified:pokedollar"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3D25B34BAFFA88AC"
+				item: { count: 1, id: "cobbled_counter:counter" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: -24.0d
 		}
 	]
 }

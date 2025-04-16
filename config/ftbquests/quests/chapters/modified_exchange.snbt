@@ -11,14 +11,169 @@
 		id: "ftbquests:custom_icon"
 	}
 	id: "5CE9470963026BD4"
-	images: [{
-		height: 1.25d
-		image: "modified:textures/ftbquests/divider.png"
-		rotation: 0.0d
-		width: 33.0d
-		x: 0.0d
-		y: 5.0d
-	}]
+	images: [
+		{
+			height: 1.25d
+			image: "modified:textures/ftbquests/divider.png"
+			rotation: 0.0d
+			width: 33.0d
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			height: 3.0d
+			image: "modified:textures/ftbquests/mon_icon/mew_face.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			height: 2.0d
+			image: "cobgyms:item/master_cache"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			height: 25.0d
+			image: "ars_nouveau:textures/gui/advancements/backgrounds/sourcestone.png"
+			order: -3
+			rotation: 0.0d
+			width: 45.0d
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon:textures/entity_icon/0201_unown/unown_o.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -11.0d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon:textures/entity_icon/0201_unown/unown_m.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -12.5d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon:textures/entity_icon/0201_unown/unown_d.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -9.5d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon:textures/entity_icon/0201_unown/unown_i.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon:textures/entity_icon/0201_unown/unown_f.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -6.5d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon:textures/entity_icon/0201_unown/unown_i.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon:textures/entity_icon/0201_unown/unown_e.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon:textures/entity_icon/0201_unown/unown_d.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon:textures/entity_icon/0201_unown/unown_e.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 12.5d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon:textures/entity_icon/0201_unown/unown_e.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon:textures/entity_icon/0201_unown/unown_x.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon:textures/entity_icon/0201_unown/unown_n.png"
+			rotation: 0.0d
+			width: 1.25d
+			x: 9.5d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon:textures/entity_icon/0201_unown/unown_h.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 6.5d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon:textures/entity_icon/0201_unown/unown.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon:textures/entity_icon/0201_unown/unown_c.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon:textures/entity_icon/0201_unown/unown_g.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -1.5d
+		}
+	]
 	order_index: 2
 	quest_links: [ ]
 	quests: [
@@ -860,7 +1015,7 @@
 				item: { count: 15, id: "modified:pokedollar" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -4.0d
 			y: 1.0d
 		}
 		{
@@ -897,13 +1052,13 @@
 				type: "choice"
 			}]
 			tasks: [{
-				count: 15L
+				count: 30L
 				id: "057D37D7C1893AFA"
 				item: { count: 15, id: "modified:pokedollar" }
 				type: "item"
 			}]
 			x: -4.0d
-			y: 1.0d
+			y: 3.0d
 		}
 		{
 			icon: {
@@ -947,7 +1102,7 @@
 				type: "item"
 			}]
 			x: -3.0d
-			y: 2.0d
+			y: 1.0d
 		}
 		{
 			icon: {
@@ -1035,8 +1190,8 @@
 				item: { count: 1, id: "modified:pokedollar" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: 3.0d
+			x: -3.0d
+			y: 2.0d
 		}
 		{
 			icon: {
