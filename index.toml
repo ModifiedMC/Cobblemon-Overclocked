@@ -1638,7 +1638,7 @@ hash = "e2a22c8f410a57c3b3b00509d36385c7cc3933a4c24e43926997bfd98362e686"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "9f165335847e4515c11abd194c283d72834f859a2110f81ec872118ae0dcac1d"
+hash = "01c90930265e22a375ac29acdf993eeb50e4e5aa6b2e6ddb0fa82f1598d5d87e"
 
 [[files]]
 file = "config/better_respawn-server.toml"
@@ -2526,7 +2526,7 @@ hash = "a93b0f2e4acc94705cdc2b55202d7af64b30e30ede4147a5a5ce2daaf346eb1e"
 
 [[files]]
 file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
-hash = "ea47017b55fb70a7d1ab0c7da4f036970be053fe8913d1151fe68dc2cecacf47"
+hash = "95bd7671cf413d0fe38fce067266c1cfbdd9fcb7d5fd471e9073689505a5c72f"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
@@ -2694,7 +2694,7 @@ hash = "8d1daf27ff4642a1391bc5d8818edb127123557032aed1fb5b95385bbee7b8d9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/catch_em_all.snbt"
-hash = "cc5b172b7cfc4fbbdfadc4d111972e3ddbee121642ac0d4b4d419d8a350c8a30"
+hash = "c084eb68f1101e1dea2aa8c8482c2c3177a381d66e05d5d35260c2c62f44ece9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/champions_league.snbt"
@@ -2750,7 +2750,7 @@ hash = "6b9b23c90249686fc1ed69d806f5a94243b2a81903ad705aa3fe8f04f061e718"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/modified_exchange.snbt"
-hash = "c280dc13891cc5e4c5425933d6536832f487249495cdb8514512bb2bc38a6184"
+hash = "650db1192ac73ca5d44cc67d3efd5f84b738307ac8d0592f16b54ee7af27f593"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/more_then_meets_the_ball.snbt"
@@ -2818,7 +2818,7 @@ hash = "5c6661881b58d08139f476dc810796c5bd80324a388492942ce47404240870cc"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "c40448a3ab2f0359d96ece2911f240ffa4a6f9866e68a423f79e5ed9a9806234"
+hash = "30aa09beaf6830817528e750847343f6e87aa70be1745b120143288e5d8dbd12"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/018B7DD83BAE2B01.snbt"
@@ -3386,7 +3386,7 @@ hash = "5d32cfe6cad9060b4d666c2cbfd8e2f618567f264ccf7def1609bb88f78b19c9"
 
 [[files]]
 file = "config/lightmanscurrency/MasterCoinList.json"
-hash = "a2af80a5c889541593c9b6ce56dad6aa1f8a25c576c3fcfa6fc1fb37cfc7acb9"
+hash = "71663b34152040a0e607749b452ef4b1459fb378470bfe6f06ab908e91d37c35"
 
 [[files]]
 file = "config/lightmanscurrency/PersistentTraders.json"
@@ -3602,7 +3602,7 @@ hash = "d024008ba1160a97cd0a2fb7abb8d6abf8f0ad869519daffe512d48a3eaec464"
 
 [[files]]
 file = "config/parcool-client.toml"
-hash = "0668873c3d700cc97bbb53008d6b5da4b393e9668f67274f2b0fea8aaa29cae3"
+hash = "29405842f3192a8357a4680e5bcef03cecf2a760a389f68d7fdd81d19535cbcc"
 
 [[files]]
 file = "config/parcool-server.toml"
@@ -3625,16 +3625,16 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/datapacks/ATM for MEGASHOWDOWN v8.1.0.zip"
-hash = "49f50fcf6a81fcf2be6ff01fac1243c3365d8330f751b700ecab3d13e3c5a964"
+file = "config/paxi/datapacks/ATM 2.2 for MEGASHOWDOWN v9.0.0.zip"
+hash = "6a485f899a249af3f29a786e4f860fabe46a43c0359290ea3a2dccf545049dd8"
 
 [[files]]
 file = "config/paxi/datapacks/BCA-Datapack-3.5_GE_C1.6.1_M1.21.1.zip"
 hash = "8ef7b7fcd8fa354918f6c0b70813775b8abe7c0efca2c098c3b95a2f670ebbaa"
 
 [[files]]
-file = "config/paxi/datapacks/LEGENDARY SPAWNS REVAMPED 1.3.zip"
-hash = "e6c74b032186eb499db53c20dd2961f18da4d2363a6f5a285db1a0ee78d72047"
+file = "config/paxi/datapacks/Legenday spawns revamped 1.4.zip"
+hash = "149f83b07b12779ee94ab16274e752dd165296128c038687a798e194b36655f1"
 
 [[files]]
 file = "config/paxi/datapacks/Megashowdown RECIPES REVAMP.zip"
@@ -3661,8 +3661,8 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/resourcepacks/ATM for MEGASHOWDOWN v8.1.0.zip"
-hash = "49f50fcf6a81fcf2be6ff01fac1243c3365d8330f751b700ecab3d13e3c5a964"
+file = "config/paxi/resourcepacks/ATM 2.2 for MEGASHOWDOWN v9.0.0.zip"
+hash = "6a485f899a249af3f29a786e4f860fabe46a43c0359290ea3a2dccf545049dd8"
 
 [[files]]
 file = "config/paxi/resourcepacks/Cobblemon Classic Grass Pack v2.1 MC1.21.1.zip"
@@ -3991,6 +3991,10 @@ hash = "9826817c15eddc7d781847bb2ec543e115de479bc7e6086eeccf845b59c98ae9"
 [[files]]
 file = "config/runelic.json"
 hash = "9e5d4a1869bb499cd08e18e9c2ea9f0658650c7b52714870aa7e2f72b02fa181"
+
+[[files]]
+file = "config/serverbrowser.conf"
+hash = "667a3bf29d9a50d3e6cccd2341ae94a1ccacf415490e3346681f72d64c86fdfe"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -4495,6 +4499,26 @@ hash = "71df86505ad88009b8ee42a54b9c953c6b9affb706f4b5cd6c7484f7723db008"
 [[files]]
 file = "config/watermedia/custom_vlc_path.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/watut-client-1.toml.bak"
+hash = "752d0ac238cfe92f30055ec8e417c98c309b07cd30467c22b16c90dc86cf228e"
+
+[[files]]
+file = "config/watut-client.toml"
+hash = "54ed0dfb34e6836aedaebb1a94a1fab6586e0441714fe19d4b2fdb669490dbb0"
+
+[[files]]
+file = "config/watut-common.toml"
+hash = "93d4055b22552b80ae5f96d396b335910993ab7010b562a34291adade59df4f6"
+
+[[files]]
+file = "config/watut-item-arm-adjustments.json"
+hash = "c3f6428a4b3f952eb3fcd29dc370f270b97dc720bf0806d1e660d11ff2327051"
+
+[[files]]
+file = "config/watut-server.toml"
+hash = "15fe072e55efd0d8c73e4995d1b693750f02d0f248c58ac7363399448c553e8d"
 
 [[files]]
 file = "config/waveycapes.json"
