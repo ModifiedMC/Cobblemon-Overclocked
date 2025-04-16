@@ -1,13 +1,13 @@
 name = "oωo (owo-lib)"
-filename = "owo-lib-neoforge-0.12.15.1-beta.2+1.21.jar"
+filename = "owo-lib-neoforge-0.12.15.1-beta.3+1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d73f342e468deb88ff9e3a0d8c2ca7cbf1d4e0f4"
+hash = "58b30bcc4922b38e79e4f2d710544367891f01ef"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6314117
+file-id = 6416633
 project-id = 532610
