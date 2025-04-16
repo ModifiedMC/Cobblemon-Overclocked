@@ -4497,26 +4497,6 @@ file = "config/watermedia/custom_vlc_path.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/watut-client-1.toml.bak"
-hash = "752d0ac238cfe92f30055ec8e417c98c309b07cd30467c22b16c90dc86cf228e"
-
-[[files]]
-file = "config/watut-client.toml"
-hash = "54ed0dfb34e6836aedaebb1a94a1fab6586e0441714fe19d4b2fdb669490dbb0"
-
-[[files]]
-file = "config/watut-common.toml"
-hash = "93d4055b22552b80ae5f96d396b335910993ab7010b562a34291adade59df4f6"
-
-[[files]]
-file = "config/watut-item-arm-adjustments.json"
-hash = "c3f6428a4b3f952eb3fcd29dc370f270b97dc720bf0806d1e660d11ff2327051"
-
-[[files]]
-file = "config/watut-server.toml"
-hash = "15fe072e55efd0d8c73e4995d1b693750f02d0f248c58ac7363399448c553e8d"
-
-[[files]]
 file = "config/waveycapes.json"
 hash = "8ba8caf036bac59033157842f7812cf3eca3434a02d2e7e59648214fe42c48fc"
 
@@ -6104,11 +6084,6 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "18c191ac6de4259bd428d691ca21b819a830234773101771ff1c28487b3e1195"
-metafile = true
-
-[[files]]
-file = "mods/coroutil.pw.toml"
-hash = "a489c33879941ccb524c52fb81927adf3d3c8b156064c7a5be5bf8dc8caf63c9"
 metafile = true
 
 [[files]]
@@ -7774,11 +7749,6 @@ metafile = true
 [[files]]
 file = "mods/welcome-screen.pw.toml"
 hash = "33fa2b6ad9447a5089cebbd3a4a5574d9d82d75a12fad7987c76edfbd0f3ab4a"
-metafile = true
-
-[[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "70ddf3873489e97b92aef0467900963fb932d8f19f9198269e0b020f68d77956"
 metafile = true
 
 [[files]]
