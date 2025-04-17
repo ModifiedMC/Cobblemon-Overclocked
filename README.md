@@ -1,5 +1,7 @@
 ## Modified Cobblemon: OverClocked!
 
+## IMPORTANT NOTE: not synced with files currently on CF - changelog is up to date though.
+
 MC:OC - https://legacy.curseforge.com/minecraft/modpacks/modified-cobblemon-overclocked
 
 Looking for more support / leave feedback? Join the discord!
