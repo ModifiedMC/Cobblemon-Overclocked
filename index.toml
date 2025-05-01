@@ -2577,10 +2577,6 @@ file = "config/farmingforblockheads-common.toml"
 hash = "68f41647b7aec472b79032d4200331eab9944aea5548d3265f59646cb0b18813"
 
 [[files]]
-file = "config/farsight.json"
-hash = "98a9f53e1e21247108a90e80b9cf4141fd7b432e219a262672ffedd5730afbab"
-
-[[files]]
 file = "config/fastbench.cfg"
 hash = "b9f2753df740086016ae47d0f9b69521b1233546fd564bf2797ed93fd5c60efb"
 
@@ -2654,7 +2650,7 @@ hash = "73c355ca3385c12e4307716bb95e15de4bdcc4ea10a180f5a951971c6db67331"
 
 [[files]]
 file = "config/ftbpmapi-client.toml"
-hash = "57314a0cb2a2a0887d507cbdacc4ea5b872ba8d1a904be6896182e757b4f1b58"
+hash = "371db33ac48142d1d80b6096b8562bc4a27254f6d17e0602af935ce9b5d212dd"
 
 [[files]]
 file = "config/ftbqopt.snbt"
@@ -6588,11 +6584,6 @@ hash = "40077a508ec11ae553b4d8e1aee58a09ec179615716e303d8194120d77db4569"
 metafile = true
 
 [[files]]
-file = "mods/farsight.pw.toml"
-hash = "773ddadff214f89f5e56ac97338e885af531f93adf866e558d31a517e84068c4"
-metafile = true
-
-[[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
 hash = "967e2145e86fb9de3ef8f9d0bb20cb1d15ccb294cab7b2611fdebcf405dbf98d"
 metafile = true
@@ -8135,6 +8126,11 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "8e960a7f77607e87c81898bfe6649fc051df8e71ff995f05f9a0c2a22b72f55f"
+metafile = true
+
+[[files]]
+file = "mods/world-host.pw.toml"
+hash = "b844c10676b5911a4d2af32710d21fa22eafafcb6e1e3505fb8651b643cd99f7"
 metafile = true
 
 [[files]]
