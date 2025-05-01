@@ -7139,6 +7139,11 @@ hash = "619d6d449fc0d539a29f9a1a7680773fa58ce30b617412ac588d36b41ef49098"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations-valhelsia-structures.pw.toml"
+hash = "2d60a93086d94f947b6206eac1734df6b8fd370f460cad1e1fcd19747343f567"
+metafile = true
+
+[[files]]
 file = "mods/loot-integrations-when-dungeons-arise.pw.toml"
 hash = "010174cd053f7f5201625fe50c4663bf6d33c25adeee5cf89bd5528f93c83815"
 metafile = true
@@ -8066,6 +8071,16 @@ metafile = true
 [[files]]
 file = "mods/universal-grid.pw.toml"
 hash = "9d77ea0072ad6c1d29ae59bcc78bb41c0e433a3a4126d66fef51156940582455"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "c00a6ef6f5e855b3144ad48f5df41d05150c5d11cecd558704f9b827b756300d"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-structures.pw.toml"
+hash = "14e9655139eb2cb51329cba130efcb4c56614fab4dcec97fee02373a88d00a86"
 metafile = true
 
 [[files]]
