@@ -1,0 +1,13 @@
+name = "Sparkweave Engine"
+filename = "Sparkweave-NeoForge-0.508.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "512426baffcb76951e04168fba9d7cff634f6bde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6460761
+project-id = 911456

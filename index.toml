@@ -1638,7 +1638,7 @@ hash = "e2a22c8f410a57c3b3b00509d36385c7cc3933a4c24e43926997bfd98362e686"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "db4501be98a303d52f0f4059a38ee03b3363857c52e39d9c5fa135bf99e84b52"
+hash = "26be5fe9913a95410c09e60307fdcabf5faa2d17fa4c262dbf13df05aa8db04a"
 
 [[files]]
 file = "config/better_respawn-server.toml"
@@ -1759,6 +1759,14 @@ hash = "256602090152a806ac2d667ce446984083d0ce5d349f0ed03fe3ea645f52fe0b"
 [[files]]
 file = "config/cable_facades-common.toml"
 hash = "1c62f8fbd13ee68412408c5df58b5432c59fe772f7317cc04b884fdc20ee82fe"
+
+[[files]]
+file = "config/camera-client.toml"
+hash = "e1d6ec13c3ff73ab9bdf86177c22089c6e76b4f3140298f8f8cc601bda9e9077"
+
+[[files]]
+file = "config/camera-server.toml"
+hash = "d706ac615a38636d4ae02d962754b1ba5be90e4a9dabc788d9ebc66ed5d5f555"
 
 [[files]]
 file = "config/capture_xp.json"
@@ -2107,6 +2115,18 @@ hash = "a4aee6e8a5d70b99ff27b14f9093c519909d96e54e1e1a06caff60b186696786"
 [[files]]
 file = "config/cupboard.json"
 hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
+
+[[files]]
+file = "config/curios-server.toml"
+hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
 
 [[files]]
 file = "config/cyclopscore-common.toml"
@@ -3605,8 +3625,8 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/datapacks/ATM 2.2 for MEGASHOWDOWN v9.0.0.zip"
-hash = "6a485f899a249af3f29a786e4f860fabe46a43c0359290ea3a2dccf545049dd8"
+file = "config/paxi/datapacks/ATM 2.3 for Mega Showdown v9.3.6.zip"
+hash = "3b4ffced66214374d2c6928356ed2c7cad83e1caea8decb30dde93b32671047b"
 
 [[files]]
 file = "config/paxi/datapacks/BCA-Datapack-3.5_GE_C1.6.1_M1.21.1.zip"
@@ -3621,12 +3641,16 @@ file = "config/paxi/datapacks/Legenday spawns revamped 1.4.zip"
 hash = "149f83b07b12779ee94ab16274e752dd165296128c038687a798e194b36655f1"
 
 [[files]]
+file = "config/paxi/datapacks/MegaShowdownTweaks_Vanilla-1.6.2.zip"
+hash = "92934c0d1627ab99f33bb743b2a33ef540aa61ad4c0d7033b6174e86232c1a6e"
+
+[[files]]
 file = "config/paxi/datapacks/Megashowdown RECIPES REVAMP.zip"
 hash = "a7b9f7e3ef0f50bd4473e62b14e7ff845ad8b0b795b2a00a48052d546778b4db"
 
 [[files]]
-file = "config/paxi/datapacks/PartingGems_1.0.zip"
-hash = "82de615550866ab0e415719c8cf6760652edb285d3593e702067645965e36e91"
+file = "config/paxi/datapacks/PartingTweaks_2.0.zip"
+hash = "5bef72dfba87f0077cbb9c97b2c00325187c1ad24eb08eab9f6cdb4048ce9b7c"
 
 [[files]]
 file = "config/paxi/datapacks/RCT-Badges-PKGBadges.zip"
@@ -3638,7 +3662,7 @@ hash = "40c46b091d2e838b180020b1e8b7bb5847af6b4481439b17772cc25f8e3d0b82"
 
 [[files]]
 file = "config/paxi/datapacks/mega_loot.zip"
-hash = "cb4c7b82d7cf5b9591e5a8db966af3e59038ec2842667db21d6fba2f78118f09"
+hash = "6061578db1c05b6f3c5c657882e5fe1b9a85b7c08356153d52e390b609ea81a0"
 
 [[files]]
 file = "config/paxi/datapacks/pokedollar_trainer_loot.zip"
@@ -3649,8 +3673,8 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/resourcepacks/ATM 2.2 for MEGASHOWDOWN v9.0.0.zip"
-hash = "6a485f899a249af3f29a786e4f860fabe46a43c0359290ea3a2dccf545049dd8"
+file = "config/paxi/resourcepacks/ATM 2.3 for Mega Showdown v9.3.6.zip"
+hash = "3b4ffced66214374d2c6928356ed2c7cad83e1caea8decb30dde93b32671047b"
 
 [[files]]
 file = "config/paxi/resourcepacks/Cobblemon Classic Grass Pack v2.1 MC1.21.1.zip"
@@ -3677,12 +3701,8 @@ file = "config/paxi/resourcepacks/FreshAnimations_v1.9.2.zip"
 hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
 
 [[files]]
-file = "config/paxi/resourcepacks/Jakotens' Poké-Hats 3.0.zip"
-hash = "cd912af0ddce281706481c5438b67caf59e19d45f462f7a2f8559d937ddf0701"
-
-[[files]]
-file = "config/paxi/resourcepacks/RCT Trainers+ [1.6] v1.5.zip"
-hash = "24912569e16adbdceed8a84de17de4d98de321b6b2693fb7ee21effebad1b57f"
+file = "config/paxi/resourcepacks/RCT Trainers+ [1.6] v2.0.zip"
+hash = "8d628bbc31e9d644c49d8bce09e135d053f4e7b4eb1b470998a4e547d81c163f"
 
 [[files]]
 file = "config/paxi/resourcepacks/Tom's Cobblemoned.zip"
@@ -4215,6 +4235,10 @@ hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 [[files]]
 file = "config/spawn_notification.json"
 hash = "efea04cd19776e7608825fc99ec9f71b8852ed66b98e7bcf40c9152f3a947fa9"
+
+[[files]]
+file = "config/spyglass-improvements/settings.json"
+hash = "0a19036936420b0045fab196758eacb65f31e8560d41b858a6afebe63208f4a0"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -6310,6 +6334,16 @@ hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
 metafile = true
 
 [[files]]
+file = "mods/curios-continuation.pw.toml"
+hash = "728964f212cc592a2fc2ae5106e06893a0697568aa9983d164dc112821dc8fc6"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "6cd932ae5f59b1119208b90d4e985a3f0e543afbb6c8e8f5a948bbcd9453a12d"
+metafile = true
+
+[[files]]
 file = "mods/cyanide.pw.toml"
 hash = "5dc1d489ff26e602c1816d0f4d41817fca10d2de0be4a6525bcb605dc47bc5d0"
 metafile = true
@@ -7842,6 +7876,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
+metafile = true
+
+[[files]]
+file = "mods/sparkweave.pw.toml"
+hash = "e09db571814c270cb8017d6ffb2fd4885d1c1d137ff4139dcc9804ee0dfa5d3b"
 metafile = true
 
 [[files]]

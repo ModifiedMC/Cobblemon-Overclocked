@@ -5,11 +5,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "560606bd01f17f17eb0b806eba496ac0a5f633a6bc9fc12014fdad87b351c1cf"
+hash = "adacf3f02d327409404d3e3a60d6f01af1468f39c3212d5eb5652a53806ec5cc"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.148"
+neoforge = "21.1.169"
 
 [export]
 [export.curseforge]
