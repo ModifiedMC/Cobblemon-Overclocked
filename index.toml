@@ -2530,7 +2530,7 @@ hash = "95bd7671cf413d0fe38fce067266c1cfbdd9fcb7d5fd471e9073689505a5c72f"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "76ea48f596837b4a3dde487665472412394cffd4aa0a9c6f7e587456aaadd24a"
+hash = "7355f58c6a8d3b80aaedd9b6eb753799bcd5e9aee40a9271fe7063aaed6977b5"
 
 [[files]]
 file = "config/fancymenu/customization/welcomescreen_welcome_layout.txt"
@@ -2546,11 +2546,11 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "324649f4bf8f57a9f165a612ba956e53d8307814184f9a800a3fa007c898bef1"
+hash = "3b90fba8f7e7000143befd3a8ee7266bc54fcdb83bce33d93883d46660769520"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
-hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
 
 [[files]]
 file = "config/fancymenu/ui_themes/light.json"
@@ -4305,6 +4305,10 @@ file = "config/structure_layout_optimizer.jsonc"
 hash = "5a9058652bc0b88b8810e0b94eba0e1a90cbff2472845c53a7e67442682a1579"
 
 [[files]]
+file = "config/structurecompass-common.toml"
+hash = "1fe945d1b5ef1ebca2414f6f9966ead18ff03f12ff77ef0b0effd5e6bc9b3acb"
+
+[[files]]
 file = "config/structureessentials.json"
 hash = "459197eaf56c15c9ff6df7c1d4f3a00645aec18fb81e0b8f2d05f3e458bd4488"
 
@@ -5545,8 +5549,8 @@ file = "kubejs/server_scripts/login_kit.js"
 hash = "1665543d1bea956080b5186ea1595c1e1951c934be15a4d0d709011cdd6d01ec"
 
 [[files]]
-file = "kubejs/server_scripts/masterball.js"
-hash = "d29e73266e3bb0dccbd6ed2a3187ecbe8e9dcb1aa76fe9248032209be44328e6"
+file = "kubejs/server_scripts/modified_recipes.js"
+hash = "f8978a4e162f43cfd8e5f54326f28284bae8e34057fd2cd802e09408a04418bf"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
@@ -6184,6 +6188,11 @@ hash = "6376e650ad6e514f6cc8d0a932a7b1ec5269a7a2baf9c119be085a4bdc086ac8"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "9920b3cadb064073516f8d678e09c0d13a146bc3058725d036323852e5e18f15"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "616036c38fafbcaf00c0720d947ec39f571d885a014f0c81b5eeeb4193784e0e"
 metafile = true
@@ -6331,16 +6340,6 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
-metafile = true
-
-[[files]]
-file = "mods/curios-continuation.pw.toml"
-hash = "728964f212cc592a2fc2ae5106e06893a0697568aa9983d164dc112821dc8fc6"
-metafile = true
-
-[[files]]
-file = "mods/curios.pw.toml"
-hash = "6cd932ae5f59b1119208b90d4e985a3f0e543afbb6c8e8f5a948bbcd9453a12d"
 metafile = true
 
 [[files]]
@@ -6661,6 +6660,11 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "cdc534008a10d6a07e9f049de2b0afcbc42fb404be24374c92c053ebcdb862eb"
 metafile = true
 
 [[files]]
@@ -7799,6 +7803,11 @@ hash = "6328ca202b88bb097d03a263806104036aa20dcc2dd5e1a99ee0b20d007d1f2f"
 metafile = true
 
 [[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "825238ea6149b8e4ff6b1c35e507b4f464c26f50c053828b3431719eb6bbce5c"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "033181b976851d283e7fad1e85e56ea56dcbe4aa094ef13915129c452e478148"
 metafile = true
@@ -7985,7 +7994,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "abe402a697338d9a0c57c77f783533a284e2137856f42af1d1a79762061d70dc"
+hash = "c946fee36845b15d4d0ca9258020f97477dd75835d9ca4b20c8cc0e762d1d4ac"
 metafile = true
 
 [[files]]
@@ -8076,6 +8085,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "c00a6ef6f5e855b3144ad48f5df41d05150c5d11cecd558704f9b827b756300d"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-furniture.pw.toml"
+hash = "a1b64cca097db7972a1e0f88813f239174f0755e103a5016a261080266de8499"
 metafile = true
 
 [[files]]
