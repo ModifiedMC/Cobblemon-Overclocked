@@ -1,0 +1,13 @@
+name = "Iron's Spells 'n Spellbooks Dynamic Skill Trees"
+filename = "irons_spells_dynamic_skilltree_1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f04a6c27b83141d726e0870e27e041c4f85345c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6473237
+project-id = 1238317
