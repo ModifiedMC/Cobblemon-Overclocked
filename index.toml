@@ -5716,7 +5716,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "c97bfd34bb2bcaca3c77558cf4df49f99eb18fe72ed6e6e3bf30b390884707fd"
+hash = "c4023b300f64b7033e4388dec2847959a2970bc3e4a58c50d6fd057b3899ed02"
 metafile = true
 
 [[files]]
@@ -6031,7 +6031,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-counter.pw.toml"
-hash = "36eede2bc39514d30e2372a503185b77182b32a415b471837d025ba50cd48c3c"
+hash = "cb941b5225996cca42a3f4eeb9b3de7361143864099fce683a13d765fa9c39dc"
 metafile = true
 
 [[files]]
@@ -6056,7 +6056,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "dd7b1206acc09c8f10c6a9a547992eaa176f0aa94b63dac74e832543a689dc8d"
+hash = "d7c30ff793d690385dfecb7c49a2c028551dc1c2653f262fd80895c76998a527"
 metafile = true
 
 [[files]]
@@ -6091,7 +6091,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "1ace8b385c3844b5626543af09ecdcffe3835cc66bb7719984a78ffd9f60f169"
+hash = "4dace5ed728c5e9cdb2839d101a53f4c34b0d25d0a8f6cb5e1577acfae722738"
 metafile = true
 
 [[files]]
@@ -6226,7 +6226,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "9082c278399fecfc61aa9703302ba4b48cec65664ad6b538ff2a429eaf82716b"
+hash = "0a65c36dddfab4a53c90a86ff01efd40a09cb9a1dc3740bfda99eac21fb6a30f"
 metafile = true
 
 [[files]]
@@ -6271,7 +6271,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "b4e9ffdc65c37e67bd14f07a7a77eb47a48e533bfd4230db36de8c61c73c15c6"
+hash = "02797c1b2877f142efe7fe6700d75bb7b9cc4157466575ff1c503ecf60c24327"
 metafile = true
 
 [[files]]
@@ -6286,7 +6286,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-qol.pw.toml"
-hash = "c6934883d89bcbbcdb791508ded0ed8a23a8143b215c85d8dc509affaa614ca1"
+hash = "2bc1a232a0fd1542cccb8a7765a180861998c4de69d03157ffa596d39d5f491c"
 metafile = true
 
 [[files]]
@@ -6776,7 +6776,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "98abdca2e152d32ba414e5b1117ac7b122c0ba9d57a4d73da4a2122ff463fbfb"
+hash = "c41200c4c8965c7268a0d66a427e6ddb415fd89d7429400ff5fe66ac0521d69c"
 metafile = true
 
 [[files]]
@@ -6830,6 +6830,11 @@ hash = "721a3845f7c4691ca34b3832b4a9f9d893581014abdb2ae401d5147d1750dda0"
 metafile = true
 
 [[files]]
+file = "mods/immersive-lanterns.pw.toml"
+hash = "932c985b60d1ad9defb6544fb5aa7b3490be7b6497dc7537b640d2ee060275fa"
+metafile = true
+
+[[files]]
 file = "mods/improved-village-placement.pw.toml"
 hash = "ebfd550620151f2dd7b12347d1046333a6ee931e0e338b35081fc1d59ac9817e"
 metafile = true
@@ -6876,7 +6881,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks-dynamic-skill-trees.pw.toml"
-hash = "8f910d6ca0898a25142d90253144be4b76f5a20cb07c8f2d6bef4b9a2f501341"
+hash = "5223b2969cc02e6f09a3f40d41f32c8c1cc3d51ccf47bc164ec29c209f728415"
 metafile = true
 
 [[files]]
@@ -6921,7 +6926,7 @@ metafile = true
 
 [[files]]
 file = "mods/jonns-trophies.pw.toml"
-hash = "8d38d5a0df712407a9347ac55c868cd56caf45e15be7cf3adbe921bb2308b1bf"
+hash = "3b73875827c5249f5dc3ed98e6a5650222281c8b61ef353440274103613cdfb7"
 metafile = true
 
 [[files]]
@@ -6956,7 +6961,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "4d07e6a1108318bf2cabac5b937fabe24f9fd2f350d3b76d7633593895fe57b8"
+hash = "06afd94480d43066c9ee1b429e777ef0a850ca3507e3ca71f64af3dec030f079"
 metafile = true
 
 [[files]]
@@ -6971,7 +6976,7 @@ metafile = true
 
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
-hash = "17afb1c38ef41404b8612e2f225d6faa817e12bfa44bf5c9900fdbadd9bed97d"
+hash = "384a01554d17de7a6199b071315d8f12774ee869474e9630063291174d938047"
 metafile = true
 
 [[files]]
@@ -7046,7 +7051,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "8dfac1aefb7eeb6623a0eefb8f214547de8e8ec446c9587e4a268468e69c8f20"
+hash = "8098b69b099e8f8988860b7c109cb02fcb0e6366dc053f30a4aee45c067eac33"
 metafile = true
 
 [[files]]
@@ -7351,7 +7356,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "70ff3ed8a002d8830c4680052fa94341d2568ce9a2443ec4bb99b132437ff1cb"
+hash = "8024e9884ce56a31c4994e6534b406712cdd391daff2674d06e8d7b8acd34dfe"
 metafile = true
 
 [[files]]
@@ -7456,7 +7461,7 @@ metafile = true
 
 [[files]]
 file = "mods/paxi-neoforge.pw.toml"
-hash = "33aab523b1f69c786c7ad09121f02dd0d949f9e7c8c927f7d9969abc333ac50e"
+hash = "3581c37e3c9c7cdd1150bb7ad7e47e3e8107914a5cd9113ddfa74ff2f8b8e09a"
 metafile = true
 
 [[files]]
@@ -7931,7 +7936,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "a80c3d0cdcc41c4cfd494016794fbbef3711b0ef392142eb82f5cd5c43ae9569"
+hash = "2061557bfc521cf474fd51239229d5fd619097038b73d08de2208fdd4f13d729"
 metafile = true
 
 [[files]]
@@ -7971,7 +7976,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "c946fee36845b15d4d0ca9258020f97477dd75835d9ca4b20c8cc0e762d1d4ac"
+hash = "abe402a697338d9a0c57c77f783533a284e2137856f42af1d1a79762061d70dc"
 metafile = true
 
 [[files]]
@@ -8151,7 +8156,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api-neoforge.pw.toml"
-hash = "add99f30aac4814287b3394715a297f80b425c579f1e83ad31fc3fa71365ae34"
+hash = "8853594d1df424aea32d37bd2af2972dce252d7760160edbc7370cedffc9ef9c"
 metafile = true
 
 [[files]]
