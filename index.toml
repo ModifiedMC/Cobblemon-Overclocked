@@ -3469,14 +3469,6 @@ file = "config/mod_menu-client.toml"
 hash = "a81934eb6e2b3cacd407b1207fb6900ba07bd8970efc79c210ced33ef33ee89b"
 
 [[files]]
-file = "config/modernfix-common.toml"
-hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
-
-[[files]]
-file = "config/modernfix-mixins.properties"
-hash = "56d26859e6de6936acbe409aacd872d932482c6b6d2aa4052122b42c733bc344"
-
-[[files]]
 file = "config/modernworldcreation/config.txt"
 hash = "d1bd56ec12c026110b417a9fc8aadbb5d65ae34ff66e6ce796e2decb6003ba9b"
 
@@ -5565,6 +5557,11 @@ file = "kubejs/startup_scripts/pokedollar.js"
 hash = "cc3cbb7344e4c10101bbdd7bb3b8b115f571abe53fe609923d092c843f138732"
 
 [[files]]
+file = "mods/accelerated-decay.pw.toml"
+hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
+metafile = true
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "179e249897d4dde4375ee394749a05d300da913f368f2a4110b8f9996e6125ed"
 metafile = true
@@ -5807,6 +5804,11 @@ metafile = true
 [[files]]
 file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
 hash = "761685d5108cbf08977a1d0198428f9f82cf751c606d3f7dbde7cd304677f578"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "015ebf9ad50e25c5506e4ec480812104b6b2233495d256b2de4ccb16dd164d77"
 metafile = true
 
 [[files]]
@@ -6585,11 +6587,6 @@ hash = "a9d10573c8fd26e9b43e7af70179c825cec64a5339d7b9d2059436ca4b86c6f7"
 metafile = true
 
 [[files]]
-file = "mods/fast-leaf-decay.pw.toml"
-hash = "e5c471aaab9047178ad25e91d28240fefd7b6e48d52af4274bc53239eb1da8c6"
-metafile = true
-
-[[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "7193be579c0f0b58fc92cd77f314ff0ff7c8c7799958116d412bae3ef2dca5ee"
 metafile = true
@@ -6797,11 +6794,6 @@ metafile = true
 [[files]]
 file = "mods/hostile-neural-networks.pw.toml"
 hash = "cfb258a5d747733f5339e3df564e242988ddc92d17b5f905457f223da2e4a657"
-metafile = true
-
-[[files]]
-file = "mods/icarus.pw.toml"
-hash = "b216d54bf3b22b4bc65445ce1e468f65dfea47461fb457de4de0125386482e0f"
 metafile = true
 
 [[files]]
@@ -7236,7 +7228,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "8c15629383377a143b061fbecde2b9a33e036e3dca6d578b3d3734b05240ce20"
+hash = "d1bd6300efb711e7c69a32c83ab9a20dd2144ec90145f0feb3df05f425924181"
 metafile = true
 
 [[files]]
@@ -7441,7 +7433,7 @@ metafile = true
 
 [[files]]
 file = "mods/paperdoll.pw.toml"
-hash = "fbf8d42194597220b64c37d395d485f0e71b94e85a4c674d3dd774d24fd749de"
+hash = "70b12eb81085e602435feb4ef46375f89d71a6f465ca3c09cce1427616006bb1"
 metafile = true
 
 [[files]]
@@ -7976,7 +7968,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "abe402a697338d9a0c57c77f783533a284e2137856f42af1d1a79762061d70dc"
+hash = "c946fee36845b15d4d0ca9258020f97477dd75835d9ca4b20c8cc0e762d1d4ac"
 metafile = true
 
 [[files]]
