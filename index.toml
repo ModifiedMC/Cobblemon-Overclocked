@@ -3370,7 +3370,7 @@ hash = "ce2a9e6ac3c52ce2f7e348bf51c970aa33edc04cf8850011d2497ae9c775a39e"
 
 [[files]]
 file = "config/lightmanscurrency-common.txt"
-hash = "6a8cd376358d2c7a2eba852dd4d04b13f67ce6bdfce826bcf78c74f9daf659cb"
+hash = "62a979f6ddca0628f14e86c889fe2a8eeb2d69e9e2e9cae02cc4dab4e64a73a5"
 
 [[files]]
 file = "config/lightmanscurrency-server.txt"
@@ -3378,7 +3378,7 @@ hash = "5d32cfe6cad9060b4d666c2cbfd8e2f618567f264ccf7def1609bb88f78b19c9"
 
 [[files]]
 file = "config/lightmanscurrency/MasterCoinList.json"
-hash = "71663b34152040a0e607749b452ef4b1459fb378470bfe6f06ab908e91d37c35"
+hash = "ba14dd0b9974c9b7196a8d519962cff36a4663c7e654a3b1341ba40c8ce9d9a1"
 
 [[files]]
 file = "config/lightmanscurrency/PersistentTraders.json"
@@ -7632,6 +7632,11 @@ hash = "9d1a63a82efecfe15d459532dc8d41d59c4d0191036c60ee4a1a0731e3c1cf8d"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-jei-integration.pw.toml"
+hash = "4ef51a87a42bf93295c8af21e543d41b204a7b604a810a2329923937362d2e61"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-quartz-arsenal.pw.toml"
 hash = "7b0b5aceec69413e3a2d3e0441f095165c98cd66d47c5604eeb3f54126220cda"
 metafile = true
@@ -7999,6 +8004,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "b83b733a3cc6d0e6b08d4bcb27954914ef0f820d71c7ac94d33171cfb2f717ae"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "7af647dccdada45897382ce98d12fb989e2f15d7a832fb3977d518c47e57f21c"
 metafile = true
 
 [[files]]
