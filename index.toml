@@ -2225,10 +2225,6 @@ file = "config/dynamiccrosshair.json5"
 hash = "375dba1c06d9acf6795f60edbeb61699f72cde6a851841cf9913f9394e1a14d6"
 
 [[files]]
-file = "config/e4mc/e4mc.toml"
-hash = "928431affdf8dae3f2ee354860555c5f93ba5a80ec334646c29ac8d03df9ebf8"
-
-[[files]]
 file = "config/easy_mob_farm/entity_scaling.cfg"
 hash = "dce9ad3d0810512f0b80e97c918243899cd42ce75fe0a503e93025ab7e783980"
 
@@ -6421,11 +6417,6 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "03c4f9a926fc9bd90fc98c6dac2a39e70b28303e4f3519756a7b246444548654"
-metafile = true
-
-[[files]]
-file = "mods/e4mc.pw.toml"
-hash = "e139a5e2992b985a6389c62aafc014f4f9c5f6671dd5b3a58fc5fad17696c408"
 metafile = true
 
 [[files]]
