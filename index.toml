@@ -6442,6 +6442,31 @@ hash = "1dffb7b72d41c7457849c09715e662ae3aebcef1988ce8f6fc060c46170b1a4a"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "9237b88b063c87c5f4b5a79c5ff8a7c287537f3deabe04027efee8298ac380dd"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "40325ca229417ffbfb117a06a113724c131d653eb1096c66aacc0d45de7fcb50"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "ae65d1488be0f83b339ac6022115cd284dfc5d88bcfdf7a65fbfdc0dd9f1254b"
+metafile = true
+
+[[files]]
+file = "mods/emi-professions-emip.pw.toml"
+hash = "754913a9771c3c3a550773c59d7d8c04536585b17ddc8b045ad3af9a11080cf9"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft-forge.pw.toml"
 hash = "eca084cc366d216f4bff73da142efd1eaafd2fc9fe2fcae8e02e115daf864339"
 metafile = true
@@ -6907,11 +6932,6 @@ hash = "888492de9de2384ae9b0b427624be6b004bc5882176d2c71d05d948d06cdb826"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "c344b0630eedfa7f8ed24e7cb916e49c231df456c40d20fc2b5fc0b675fb6517"
-metafile = true
-
-[[files]]
 file = "mods/jinxedlib.pw.toml"
 hash = "c12c6f610fa4f0e47a901537b85f840893a4139c491d26c1ae5e2958439ecac6"
 metafile = true
@@ -6944,16 +6964,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
 hash = "2362e3026defbc83711b58d24717fca94580236de4ac9ff2ecc47569615391fb"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-professions-jep.pw.toml"
-hash = "fc938f58fda1614b0bd4c88546b4c37c660777600b7b63479f1022f90b16f407"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "06afd94480d43066c9ee1b429e777ef0a850ca3507e3ca71f64af3dec030f079"
 metafile = true
 
 [[files]]
@@ -7617,8 +7627,8 @@ hash = "dd921ca691006e169455a925ed330319df5d19771863be0e9e80b5083d8f08d1"
 metafile = true
 
 [[files]]
-file = "mods/refined-storage-jei-integration.pw.toml"
-hash = "4ef51a87a42bf93295c8af21e543d41b204a7b604a810a2329923937362d2e61"
+file = "mods/refined-storage-emi-integration.pw.toml"
+hash = "9d1a63a82efecfe15d459532dc8d41d59c4d0191036c60ee4a1a0731e3c1cf8d"
 metafile = true
 
 [[files]]
