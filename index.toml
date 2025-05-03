@@ -7875,11 +7875,6 @@ hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
 
 [[files]]
-file = "mods/sparkweave.pw.toml"
-hash = "e09db571814c270cb8017d6ffb2fd4885d1c1d137ff4139dcc9804ee0dfa5d3b"
-metafile = true
-
-[[files]]
 file = "mods/spice-of-life-onion.pw.toml"
 hash = "4f496432d5b1c0cd25fa17b3a650f2812f73812eee15d3bcdb346ac263bb6d83"
 metafile = true
