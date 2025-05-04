@@ -1782,7 +1782,7 @@ hash = "865a366143df5f4d92941058c823ea48deb8445f6444b45e870331b16a444f0f"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "b35d97ca06773adf3578564d2e7028cc4be013ab9da590b900d8f8c135cffb62"
+hash = "80edc5c3ebd99a8b67dc478c35566ee4b163e0ca508818d37bf69da87d8b14a8"
 
 [[files]]
 file = "config/cataclysm-1.toml.bak"
@@ -5763,7 +5763,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-technica.pw.toml"
-hash = "15ad2e8e4cd25e084544ee65ee9dc95dac41ad2ebb896fcc8629649fcb1ff176"
+hash = "71ceaf1666990344739bebf49e9e16710785cca149d2a274370bf6c00bee8df6"
 metafile = true
 
 [[files]]
@@ -6268,7 +6268,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "b9b433404ecbc2235692a14d47e021807a6413a8a103acf9c6d939ff70575c04"
+hash = "7655c656b121d26e7945dd268572842ecb288edc497046cb4fecfba98979de38"
 metafile = true
 
 [[files]]
