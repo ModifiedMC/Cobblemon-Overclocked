@@ -7227,6 +7227,11 @@ hash = "c8d2e71be77ffef5020fb386c12e6cbbf0b9550f1b2722ebe3d57299e0f336fe"
 metafile = true
 
 [[files]]
+file = "mods/mekanism.pw.toml"
+hash = "462c0bffff6af0f4ef1711f363e9b9a96e90a77fe6e8a087e6864a0ac2a3f1f8"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
 metafile = true
@@ -7632,8 +7637,8 @@ hash = "9d1a63a82efecfe15d459532dc8d41d59c4d0191036c60ee4a1a0731e3c1cf8d"
 metafile = true
 
 [[files]]
-file = "mods/refined-storage-jei-integration.pw.toml"
-hash = "4ef51a87a42bf93295c8af21e543d41b204a7b604a810a2329923937362d2e61"
+file = "mods/refined-storage-mekanism-integration.pw.toml"
+hash = "9632a364d45529d26699761ca717c04020e0a06b4311b5921be11a9aab8f355b"
 metafile = true
 
 [[files]]
@@ -7776,10 +7781,6 @@ file = "mods/simple-snowy-fix-forge-fabric.pw.toml"
 hash = "76ee3431879c7f30952a9f7253060b29350e65f9615a2874d14f38d892ce7b84"
 metafile = true
 
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "7fca1d6e1709859d156a27a45c6dfd85651f6aa87482dbd64d15cdb754fbb10d"
-metafile = true
 
 [[files]]
 file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
