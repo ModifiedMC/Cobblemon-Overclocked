@@ -1926,7 +1926,7 @@ hash = "2a465d43429f59798ec98ea0fe30c2bb4fc380b9b0fb125367bbc10a0a027a8a"
 
 [[files]]
 file = "config/cobblemonoutbreaks/outbreaks_config.json"
-hash = "1fd912c1942bfdddcf59e1dd732c1ac7424206d14ff667b7c606d9ae6d0e1f81"
+hash = "48271a1c26fc362a9accd7ec9744f4b9565ced3049e843db879d50228fa856bb"
 
 [[files]]
 file = "config/cobblenav/client-config.json"
@@ -2038,7 +2038,7 @@ hash = "6f2a0de9bf7a64540881d1d43912be340ff8281f2307d947c652782ddd52e48c"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "9c48957a2fe69aaa1e9666c0998dd494bf1fd416ca03c6338fb7e794f8253ea3"
+hash = "7f79cc8e21bd6c751d5c4b80e30960148baced56fe9fe401571196cabd1921eb"
 
 [[files]]
 file = "config/crash_assistant/lang/en_us.json"
@@ -4290,7 +4290,7 @@ hash = "5a9058652bc0b88b8810e0b94eba0e1a90cbff2472845c53a7e67442682a1579"
 
 [[files]]
 file = "config/structurecompass-common.toml"
-hash = "1fe945d1b5ef1ebca2414f6f9966ead18ff03f12ff77ef0b0effd5e6bc9b3acb"
+hash = "baedfcc4c00f20f0d11496a6e5158c2b4b64dc459af37894df2ce1174a73e799"
 
 [[files]]
 file = "config/structureessentials.json"
@@ -5919,6 +5919,11 @@ metafile = true
 [[files]]
 file = "mods/cardiac.pw.toml"
 hash = "878a1fb7315162e0bcba8c6f74428cc699885c442db104c118264eec4b4ffe79"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "2b4c244aa7a303dead0a1b659c25b9b9bce2ced2758ea55aca347556f7348189"
 metafile = true
 
 [[files]]
