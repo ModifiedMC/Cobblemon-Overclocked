@@ -3,7 +3,7 @@
 	#Sets the range in blocks in which the structure compasses can locate structures [default: 10000]
 	# Default: 10000
 	# Range: > 0
-	compassRange = 20000
+	compassRange = 25000
 	#Defines if the structure compass should only locate unexplored structures. A structure is tagged as explored when the compass is used to find it. [default: false]
 	locateUnexplored = false
 	#Defines if the structure compass should locate structures asynchronously [default: false]
