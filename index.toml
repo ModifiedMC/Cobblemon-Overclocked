@@ -7537,6 +7537,11 @@ hash = "330eae6dd751b70d4761f5fb556bc476f693549f3eb42ff7f441e1cd5bfe3cfb"
 metafile = true
 
 [[files]]
+file = "mods/powah-rearchitected.pw.toml"
+hash = "3e2b7c3eab64758d3cf3ceb4c008ca78dffe996a96a56623e5a6b59cfa995f0c"
+metafile = true
+
+[[files]]
 file = "mods/pretty-pipes-fluids.pw.toml"
 hash = "fe3899cefdf3a96300e88fb8ea58a67a9a18bc97493bb82a840c622280566e47"
 metafile = true
