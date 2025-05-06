@@ -7277,6 +7277,11 @@ hash = "e2826a4044ce6c83122eae44d6539a4120dea00fc1ec5f998988f39637aee2d2"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "2861c5ab89ac223ce4bab6ddb50b8018be5335173734f95d88ad0cf141ba45d7"
+metafile = true
+
+[[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "78160807ea27008afa29e2d44b349c5ecb4f006862cd8ddf0810532b3241bf7f"
 metafile = true
@@ -7414,6 +7419,11 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "5d36cd9acf63014e3b2cfcb5eb1473e3fa04c8b4dcb5c9477806b650f5781f4e"
+metafile = true
+
+[[files]]
+file = "mods/occultism.pw.toml"
+hash = "4b46626b59b0edb978b8fbf7945a96e8a71e107ad9e1e3dd829c0c65929341f6"
 metafile = true
 
 [[files]]
@@ -7809,6 +7819,11 @@ metafile = true
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "033181b976851d283e7fad1e85e56ea56dcbe4aa094ef13915129c452e478148"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "2071d268b65ecf27ec86c57419ac63b54060bbde6cf7b35b230eb3a4106fe580"
 metafile = true
 
 [[files]]
