@@ -5743,6 +5743,11 @@ hash = "c5fbbcc078a3b128bb3d33718e81e15afd8d14eb4b90bfe28e48307c125820fe"
 metafile = true
 
 [[files]]
+file = "mods/ae2-network-analyser.pw.toml"
+hash = "a382e50a6e6412a0e10bc67f5b5b12cbeb98c29195b17b63844ec37147219712"
+metafile = true
+
+[[files]]
 file = "mods/ae2-qol-recipes.pw.toml"
 hash = "d2685c37d0ddb1fa67a7126a4884d961791309c39f344f562e738f273381853e"
 metafile = true
