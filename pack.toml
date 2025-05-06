@@ -1,11 +1,11 @@
 name = "Modified Cobblemon Overclocked"
-version = "1.5.0"
+version = "1.5.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "08aa4b0f7f5c32931c8208d42a5ec1e63952ca66b9a2dc7d19908242b68c4420"
+hash = "3acac3e4fe148200a7792099a75b52ac451c2c6460d3946361912915e53c7ce9"
 
 [versions]
 minecraft = "1.21.1"

@@ -1942,7 +1942,7 @@ hash = "845b5d4e99006be023726fc799a1b1a2ad3acf055a76cc2a18339cc29d7a5e1c"
 
 [[files]]
 file = "config/cobbreeding/main.json"
-hash = "efb032aab8592b14c54b1fc9106f01f10ccfc3a023ac99b3c487e1b4899a0719"
+hash = "c99a96062b5eb7750e6684a05e05a06cb4a4ac7739e5e631aee2efc1088786ab"
 
 [[files]]
 file = "config/collectibles-client.toml"
@@ -2810,7 +2810,7 @@ hash = "5c6661881b58d08139f476dc810796c5bd80324a388492942ce47404240870cc"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "30aa09beaf6830817528e750847343f6e87aa70be1745b120143288e5d8dbd12"
+hash = "bfce3f42c79975dbdf8ba6b9acb312baf6e1ba6e1feb612e0a6b85cc60314304"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/018B7DD83BAE2B01.snbt"
@@ -5577,13 +5577,43 @@ hash = "a003b40bee77e87ade06fb9bb5e2b61b1c45e51aec9ce5f097c5fb1229adcc7e"
 metafile = true
 
 [[files]]
+file = "mods/actually-additions.pw.toml"
+hash = "8c394d38402c39a6701d0228022d1ac604d6d4a223635bda6f532f71804a86b9"
+metafile = true
+
+[[files]]
 file = "mods/additional-lights.pw.toml"
 hash = "be47aa036789e50b3ba3423fed932ef2cdf8ef6b8810d3a1ad12b1c56008aea6"
 metafile = true
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "da0bc30581b206aee85540014b8c498e88cdd4a63ae24eee7c968ef1fc5adb5a"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "7329db8d8b0fe08ac02a3b2ad816fa9f2081c5b2067f449c36c01b84ded7bf13"
+metafile = true
+
+[[files]]
+file = "mods/ae2-crafting-tree.pw.toml"
+hash = "9954b78cdcee56bef5d407f8051a4924c7c178c29fee92a7482c5c5ac695794b"
+metafile = true
+
+[[files]]
+file = "mods/ae2-import-export-card.pw.toml"
+hash = "c5fbbcc078a3b128bb3d33718e81e15afd8d14eb4b90bfe28e48307c125820fe"
+metafile = true
+
+[[files]]
+file = "mods/ae2-qol-recipes.pw.toml"
+hash = "d2685c37d0ddb1fa67a7126a4884d961791309c39f344f562e738f273381853e"
+metafile = true
+
+[[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "f7bb6de566f159950c254b772fb926d788b2b65e3d37b5bba39e5c2c10d569c9"
 metafile = true
 
 [[files]]
@@ -5638,7 +5668,7 @@ metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
-hash = "590e976a8ccbf2b5c3feddf637bd3e162c4f03b33d6f6cf39cbf9d0290bff13f"
+hash = "0cdc1683db4b0d7c09033144d864c504841babd65f3d716b85e597c54f3170bf"
 metafile = true
 
 [[files]]
@@ -5712,8 +5742,18 @@ hash = "0dc98c2f1149813e88a5ee10e1367975571dc1dbbe072ac4f6acd7fb14313a78"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "a596f6f80425c4648be6c30036f5fb0f6437e7b043e53c4a0acb7b972b8d2426"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "c4023b300f64b7033e4388dec2847959a2970bc3e4a58c50d6fd057b3899ed02"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "6809916304466ff7ae4b2efdbdea3c984c06a8d42d24047a4dde9daa87dff82a"
 metafile = true
 
 [[files]]
@@ -6482,6 +6522,11 @@ hash = "ddc8561789347f9feb359394c927ef979f63bc92b8abd171122ae496dff24ec0"
 metafile = true
 
 [[files]]
+file = "mods/ender-io.pw.toml"
+hash = "d3e545cc11931ff0d433a320fd6c1c4e8733715b5eabd7cf1ef987c23516e677"
+metafile = true
+
+[[files]]
 file = "mods/enderdrives.pw.toml"
 hash = "803c1381cb1f502890d91ebec8fceb3c8a340add20b66bc7273c7872e2f90b4b"
 metafile = true
@@ -6524,6 +6569,11 @@ metafile = true
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "411f4aad76bde144db1556ba7265e7b311463df0e4eb93f32fd5cd27a73c77b9"
+metafile = true
+
+[[files]]
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "261fd340f52ff644905a17b2f51646b4fba433a539ef4b3564424c0a62f21b78"
 metafile = true
 
 [[files]]
@@ -7232,8 +7282,23 @@ hash = "c8d2e71be77ffef5020fb386c12e6cbbf0b9550f1b2722ebe3d57299e0f336fe"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "50f612c2186e4277b7f9fc0584780905e49e94e647789a7158554d1ddb719031"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "937e855ed3febfe8449423da169f2874f3d15378df53831e9ff9b7c82562ba14"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "462c0bffff6af0f4ef1711f363e9b9a96e90a77fe6e8a087e6864a0ac2a3f1f8"
+metafile = true
+
+[[files]]
+file = "mods/mekanistic-routers.pw.toml"
+hash = "c6cf63736a87b5830366065e781614205a32206bf8476985e3f61912d2f2d604"
 metafile = true
 
 [[files]]
@@ -7734,6 +7799,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "71c69a20c6325a3b41de44f5963e5d74afed3bc9d86eb29c5fd0352c72db38cd"
+metafile = true
+
+[[files]]
+file = "mods/rsinfinitybooster.pw.toml"
+hash = "fe1e61df05e123c307ae54b728a9b10919506c8fe04f444d7756ddbed3382e9d"
 metafile = true
 
 [[files]]
