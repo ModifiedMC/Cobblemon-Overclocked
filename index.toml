@@ -5988,6 +5988,11 @@ hash = "6ade1a12feb247f6e9b455bcbd832b103057401c909eba00e83c26144af33438"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "b378022efba97f2c34e5a0aae0fe04a952922f1d0e5173c990a634f15dd63fca"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
 hash = "761685d5108cbf08977a1d0198428f9f82cf751c606d3f7dbde7cd304677f578"
 metafile = true
@@ -6115,6 +6120,11 @@ metafile = true
 [[files]]
 file = "mods/cat-jammies.pw.toml"
 hash = "ac5c0ef1e765a8bdfda150fbacda371ab9cd18059deb1f62ed4aab44d48096f1"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-spellbooks.pw.toml"
+hash = "31a265dea6ed80f9eac5feac4e22cfa8258e29bf7b46e53bbfd15bfc51574efe"
 metafile = true
 
 [[files]]
@@ -6745,6 +6755,11 @@ metafile = true
 [[files]]
 file = "mods/extra-disks.pw.toml"
 hash = "47266b5e6441314d03c503401d5339aea698c5295affd88bf4cbfcd0d38a484d"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "1e55e6873a5a1dcf5a326e409c2cc856ffbc950183fe61f96e76e778e1cbe4a3"
 metafile = true
 
 [[files]]
