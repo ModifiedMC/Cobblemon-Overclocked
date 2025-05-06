@@ -6533,6 +6533,11 @@ hash = "613ce17a12b255e1182e1cfe96f0e03068f43d1a7252325ee9e595d813b66cc6"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.pw.toml"
+hash = "da3432d080152e07a776d5f4ec02a82c4bf9a5e0b92234117a9ad26ea208f944"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
 metafile = true
@@ -7580,6 +7585,16 @@ metafile = true
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "06e9f867e1bde3ab201aba7e7347995efa7281983a0c1ac00836641d6b758bc6"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "869140bb65723e3131a79d7f05343c23e48b04541661f6a94a19f966969e3631"
+metafile = true
+
+[[files]]
+file = "mods/mystical-customization.pw.toml"
+hash = "62b107bbe91a9bb4fba561241539ce4186d698f2c18662178187de866b155e4c"
 metafile = true
 
 [[files]]
