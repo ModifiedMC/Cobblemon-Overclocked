@@ -3661,8 +3661,8 @@ file = "config/paxi/resourcepacks/ATM 2.3 for Mega Showdown v9.3.6.zip"
 hash = "3b4ffced66214374d2c6928356ed2c7cad83e1caea8decb30dde93b32671047b"
 
 [[files]]
-file = "config/paxi/resourcepacks/CI-M-v1.9.0-NoAppleSkin.zip"
-hash = "b5e0aabb7bbb8901f2abfa118142da469f0be53275ce68aab428b9ac1d3d5e77"
+file = "config/paxi/resourcepacks/CI-M-1.9.1-modified.zip"
+hash = "1bf510725d32424fe40f5cb5b11a1f968b46cd5abf391b9fa3be5351ae11d3dc"
 
 [[files]]
 file = "config/paxi/resourcepacks/CI-v1.4.1-Vanilla-Icons.zip"
@@ -5923,6 +5923,11 @@ hash = "ecc99c14cbb3fb7fa5e57d331d5827797fd43a3233ead28dc3533b6474b4628a"
 metafile = true
 
 [[files]]
+file = "mods/ars-energistique.pw.toml"
+hash = "77c22c9c5acc1be0907e043a198e7c068823c6da58c566caac7110975dcf96cd"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "4b021bc7a0881ecff8ed03d2b8b0b14446d7b5837300d0e56198d2189db357bf"
 metafile = true
@@ -5930,6 +5935,11 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveaus-flavors-delight.pw.toml"
 hash = "5d519aac13e0a449616a6d4c8c0e3b707e06b0fc126e552626247e00b24de4fc"
+metafile = true
+
+[[files]]
+file = "mods/ars-ocultas.pw.toml"
+hash = "46751105c0b7aa0c31a44ea89fe6d508894d49e362fbbd2f0915821b12c4e21a"
 metafile = true
 
 [[files]]
@@ -7050,6 +7060,16 @@ metafile = true
 [[files]]
 file = "mods/in-control.pw.toml"
 hash = "615f4b1203c1a722f9f03f4b5c2336953ae9b0711c1c05c255181fb12b221534"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing-souls.pw.toml"
+hash = "7519ae519f02630c8d8fcc38f0ba3be2722621a40083d007e2c245f8da8aac0a"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "dd3db844c1276f30c888df1afe943c67471e3a793c956a1f7c4edf913252ada7"
 metafile = true
 
 [[files]]
