@@ -7,7 +7,7 @@ modpackProjectID = 1206395
 #The name of the modpack
 modpackName = "Modified_Cobblemon_Overclocked"
 #The version of the modpack
-modpackVersion = "1.5.1"
+modpackVersion = "1.6.0"
 #Use the metadata.json to determine the modpack version
 #ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 useMetadata = false
