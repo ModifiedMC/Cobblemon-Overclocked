@@ -2658,23 +2658,11 @@ hash = "5b03458fce4ea77f9a755dfae5ba8a724fb74c982571d3300efd057ac39721b9"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "e62cac0363d3e3ff13c0b3d987e53c4f70775917748ba6446b4d1d2ce123481d"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/apotheosis.snbt"
-hash = "35631d0ba38533d1df06af150b5940889bdb948f90f263e6ac77187d01dfa5f3"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/apothic_enchanting.snbt"
-hash = "77c7a42e2738e704be2b1d306d500e743e50e33a3d606dd1a35cf873853488b8"
+hash = "07b8cab997134e0c19a8fe87f841144a53795943218e5f4d8504e709b8d4bee4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/armour__trims.snbt"
-hash = "de8e223fdd40eac23e3f45b4be236fd217959e5ea5405f32b0823dc7127bc69f"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/ars_nouveau.snbt"
-hash = "9006db82087eeb8137c8aed8ec341a260947b45d9b0461972ce8da98bda49418"
+hash = "d46c1215fda8585cc158e1f023c259bf076fcbe8bdf1039693785397ac5c8869"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/battle_items.snbt"
@@ -8323,11 +8311,6 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "97f0df4c55858f545b95ccaff7e919fccbc26910555ea0cc6087553bc1ae5d61"
-metafile = true
-
-[[files]]
-file = "mods/structure-compass.pw.toml"
-hash = "0a6d45dcc95c67b042daf942c7015eedcd16477d7d7a472821e6187e8ba1e4d2"
 metafile = true
 
 [[files]]
