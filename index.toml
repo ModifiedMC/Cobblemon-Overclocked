@@ -7010,11 +7010,6 @@ hash = "6376e650ad6e514f6cc8d0a932a7b1ec5269a7a2baf9c119be085a4bdc086ac8"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "9920b3cadb064073516f8d678e09c0d13a146bc3058725d036323852e5e18f15"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "616036c38fafbcaf00c0720d947ec39f571d885a014f0c81b5eeeb4193784e0e"
 metafile = true
@@ -7042,11 +7037,6 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
-metafile = true
-
-[[files]]
-file = "mods/cosmeticarmours.pw.toml"
-hash = "d9cf242b0f110f786bfeb469918a632e4e8471eec3f34a1cb3e217ebbdae1544"
 metafile = true
 
 [[files]]
@@ -8720,11 +8710,6 @@ hash = "6328ca202b88bb097d03a263806104036aa20dcc2dd5e1a99ee0b20d007d1f2f"
 metafile = true
 
 [[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "308e0d918ea91f029cf72db5a13b415e1bcdca462c1a021a5f27d77c4fee253c"
-metafile = true
-
-[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "033181b976851d283e7fad1e85e56ea56dcbe4aa094ef13915129c452e478148"
 metafile = true
@@ -9037,6 +9022,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "fc78ef9544451ddcd18f7b9da9b438f851e508ad8eeeee8d08e69da8656b74f6"
+metafile = true
+
+[[files]]
+file = "mods/weavers-cosmetics-cosplay.pw.toml"
+hash = "fcfff6a05ef147e6b3d9f35e43b3ee00e36a127993ff172afc413c0e8a2ff298"
 metafile = true
 
 [[files]]
