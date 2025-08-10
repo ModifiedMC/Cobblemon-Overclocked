@@ -1,13 +1,13 @@
 name = "Pufferfish's Unofficial Additions"
-filename = "pufferfish_unofficial_additions-1.21.1-2.2.5.jar"
+filename = "pufferfish_unofficial_additions-1.21.1-2.2.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2a484cf2e8d47e2e5d194c2d4dd3c10f100dad91"
+hash = "4916e9e2d17a6ef727aa82272763401b4216fe6c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6287624
+file-id = 6531527
 project-id = 935166

@@ -1,13 +1,13 @@
 name = "Valhelsia Structures"
-filename = "valhelsia_structures-neoforge-1.21.1-1.1.1.jar"
+filename = "valhelsia_structures-neoforge-1.21.1-1.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2d5605649e3f511981c8b0282a987598a5ebba7e"
+hash = "415a94a1400ea57d60f61f86de21b67af0225a69"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6360484
+file-id = 6814480
 project-id = 347488

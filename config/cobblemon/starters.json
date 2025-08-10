@@ -1,5 +1,5 @@
 {
-  "allowStarterOnJoin": true,
+  "allowStarterOnJoin": false,
   "promptStarterOnceOnly": true,
   "starters": [
     {

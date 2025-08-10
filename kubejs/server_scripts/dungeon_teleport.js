@@ -1,6 +1,15 @@
-// File: kubejs/server_scripts/dungeon_teleport.js
+//
+// Copyright (c) 2025 ImpavidEh - https://www.curseforge.com/members/impavideh/projects 
+// (@Jaker.zzz on Discord) - https://discord.gg/6R6Ch2mNgZ
+// 
+// 
+// This file is for use only in "MODIFIED COBBLEMON" projects.
+// https://ModifiedMC.com
 
-// Object to track per-player teleport cooldowns (in milliseconds).
+// All rights reserved.
+//
+
+// File: kubejs/server_scripts/dungeon_teleport.js
 var portalCooldowns = {};
 
 // Tick event: checks each tick if a player is standing in a dungeon portal block.
@@ -33,3 +42,14 @@ ServerEvents.tick(function(event) {
     }
   }
 });
+
+//
+// Copyright (c) 2025 ImpavidEh - https://www.curseforge.com/members/impavideh/projects 
+// (@Jaker.zzz on Discord) - https://discord.gg/6R6Ch2mNgZ
+// 
+// 
+// This file is for use only in "MODIFIED COBBLEMON" projects.
+// https://ModifiedMC.com
+
+// All rights reserved.
+//
