@@ -5,7 +5,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ac433912c2862ffb7400ba6eb884ec24ccffab8eb17b8ea9e43e7a1a513d2f7c"
+hash = "78e1469bd716fcababd2e39ea6891401a8b237cb861232c07719d19c75268688"
 
 [versions]
 minecraft = "1.21.1"
@@ -13,7 +13,7 @@ neoforge = "21.1.199"
 
 [export]
 [export.curseforge]
-project-id = 867058
+project-id = 1206395
 
 [options]
 acceptable-game-versions = ["1.21.1"]

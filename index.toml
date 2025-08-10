@@ -6057,10 +6057,6 @@ file = "kubejs/config/web_server.json"
 hash = "bdfc2d5fbe14b78dfeadc04a3ca4e3b5a74dde9e13a786005e2399ca84bb251f"
 
 [[files]]
-file = "kubejs/data/YellowCore/license.txt"
-hash = "c83a8b5216c9395b0eb4b1f133fa01acac467118e29bed58b42386cc85eadce5"
-
-[[files]]
 file = "kubejs/data/YellowCore/data/tomtaru/recipe/mixer/hyper_potion_from_sitrus.json"
 hash = "cede229e9b1ffc1f3bc6335e6529f67f659f5427abe2d6cd571d8811dce79a54"
 
@@ -6111,6 +6107,10 @@ hash = "1f0f9fcc8c4b75d3c0f63d095d372ba617517e0bc13574e8880017e47ef6e3f8"
 [[files]]
 file = "kubejs/data/YellowCore/data/yellowcore/recipe/sequenced_assembly/shiny_card.json"
 hash = "f102d1e3831e0923e3384cfe1d5fb37c73780bf0705b00d264969e03d76bdb66"
+
+[[files]]
+file = "kubejs/data/YellowCore/license.txt"
+hash = "c83a8b5216c9395b0eb4b1f133fa01acac467118e29bed58b42386cc85eadce5"
 
 [[files]]
 file = "kubejs/data/YellowCore/pack.mcmeta"
