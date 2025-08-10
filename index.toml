@@ -6057,7 +6057,7 @@ file = "kubejs/config/web_server.json"
 hash = "bdfc2d5fbe14b78dfeadc04a3ca4e3b5a74dde9e13a786005e2399ca84bb251f"
 
 [[files]]
-file = "kubejs/data/YellowCore/LICENSE.txt"
+file = "kubejs/data/YellowCore/license.txt"
 hash = "c83a8b5216c9395b0eb4b1f133fa01acac467118e29bed58b42386cc85eadce5"
 
 [[files]]
