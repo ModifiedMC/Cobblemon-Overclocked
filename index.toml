@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "build.log"
-hash = "654e2dc3e532e0c7e3fa0d38dc58ab03cd8b0f3e21395384501523f9678afd45"
-
-[[files]]
 file = "config/#STOP_MOD_REPOSTS.txt"
 hash = "d1f27b3ef6095e32e8563e179209de86acca3049fa6431b1ae15bd6f05e5832d"
 
@@ -6989,7 +6985,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessorify.pw.toml"
-hash = "37934abe838ad24f3a290510b1217219d269197d0dbd531534ec9b747cdf3641"
+hash = "69e7d27dad4f2396644e60dbc2c8639450bc986117b3840f7c49ace9f3b453d4"
 metafile = true
 
 [[files]]
