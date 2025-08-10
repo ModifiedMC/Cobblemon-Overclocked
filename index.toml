@@ -7044,11 +7044,6 @@ hash = "027e74806f0a3ac663d77948003b24ea6b3cd960e7dc5e2eb904614c642a3c1f"
 metafile = true
 
 [[files]]
-file = "mods/aether-protect-your-moa.pw.toml"
-hash = "97514a520bb2da549db2778ec5391fc82944a01333c1168433df4b46ae4e3c83"
-metafile = true
-
-[[files]]
 file = "mods/aether-treasure-reforging.pw.toml"
 hash = "7ca929b272bf0b2fc422aaa6c8222f1f8fa54d8bcbf39e84a7984e2c12cf5480"
 metafile = true
@@ -7146,11 +7141,6 @@ metafile = true
 [[files]]
 file = "mods/apothic-combat.pw.toml"
 hash = "273f7d5373241db352b45dc8e7e0669f32bcce40a3c887104fe5ac1f807cc94e"
-metafile = true
-
-[[files]]
-file = "mods/apothic-compats.pw.toml"
-hash = "443a7834497e8f0348472526783cf8412ce436287920d06a5b68959c7334ffe3"
 metafile = true
 
 [[files]]
@@ -7604,6 +7594,11 @@ hash = "3947119f6fde2f8efc3b06cb7619a5a94924943451254e74d1ab8d2bc085fe9f"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-tim-core.pw.toml"
+hash = "6542d7b81cf2844b3e04fc575bb9de5a52c211eba861ae969701fb6d989a4ab5"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-unchained.pw.toml"
 hash = "d31f31a4c3faa54241256d962801a6f5dd99c8e4826db044c56aa30aa0c7552e"
 metafile = true
@@ -7909,18 +7904,13 @@ hash = "4f1b7673039b50acaae214ca530637e6f928cbc7c5ad677286ad8bfa1777e756"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "aa0c2ab534fe56d93d1fb1d25be0a3613c9b05a1cbd5d3be9b72f10179c56232"
-metafile = true
-
-[[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "ff2865a2d5f3dfa552ef4646800f2a66591195aa5bafb79fc394f9f8c325ace8"
 metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "c3beb65843775cb81ccc9d0c8bef15cd2bc6fb397a4f664c825cb64276378e37"
+hash = "ea9cbc526f22ba2faf653abc1b402643d3f211e86af347627311430faf48327f"
 metafile = true
 
 [[files]]
@@ -8644,11 +8634,6 @@ hash = "a77c051483c3182542400b0eb644bbead02ed7f63aca6cf4a0063516c2bfbe4b"
 metafile = true
 
 [[files]]
-file = "mods/littletiles.pw.toml"
-hash = "328c33419e23e3d8b9e1934a5f931cd3183cdb1e1220998dead37a13e32e08b1"
-metafile = true
-
-[[files]]
 file = "mods/lmft.pw.toml"
 hash = "3c4da499a2fd3071525f97c3f7d009325f12a229635d3d529ce9dede2242a980"
 metafile = true
@@ -8840,7 +8825,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "0947ad33417eb8858e93d4556ce8691725057d310b4d7f360836c32167e908c1"
+hash = "e5796fda6a8d621fb2388b868d5336c24a31d19dcac408eed3db54ca0495d402"
 metafile = true
 
 [[files]]
@@ -9380,7 +9365,7 @@ metafile = true
 
 [[files]]
 file = "mods/silent-gear.pw.toml"
-hash = "a7cfcddb5bcd25eacd89a45ce48aa8faa7e4c9ecba4745ebb7c873e5c95281b0"
+hash = "62fbd593360bd782e03a768f8f0b15720443554881ce6ef467ba410914d65669"
 metafile = true
 
 [[files]]
@@ -9514,11 +9499,6 @@ hash = "f4ad64092be69cfdab5ec1dcfe04739dd0031dd918f5f72fe38458604159a2d2"
 metafile = true
 
 [[files]]
-file = "mods/soul-fire-d.pw.toml"
-hash = "b0a6219ed6d261a38b3e635f1bf1c0ba4a81c3672e259bef30e2519c363769b4"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
@@ -9570,7 +9550,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "591197399e47e63de1eecf247d169cfaf73e9eb8d2392037a8831f63fff38568"
+hash = "47e862f61ab6429e77945841862d6534cb3283c9db02e30f0445d35b9b62bde0"
 metafile = true
 
 [[files]]
