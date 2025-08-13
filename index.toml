@@ -9549,11 +9549,6 @@ hash = "d8e6d54237412c135080aebf255787054523c962a154fce1afa8fc3fbb2adfc2"
 metafile = true
 
 [[files]]
-file = "mods/tidal-towns.pw.toml"
-hash = "37d595b789dc86445ef6cf4773707a7a2e90ab9ecfec82e552ed7f2cdc598d78"
-metafile = true
-
-[[files]]
 file = "mods/titanium.pw.toml"
 hash = "c92d2049f7243432b7f1e13b398a7c38c356822a74e549c5f345a20fb3cb675d"
 metafile = true
