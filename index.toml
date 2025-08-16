@@ -1582,7 +1582,7 @@ hash = "c51ed7f0af9528cffc79b6bf65e50dbf3dd49b21b1ec3ee7815b17c90f2d5638"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "5a3c342ed1701981582f57d655d7c37e3c483523bc5e75f6e7e79dbaa7a8ab72"
+hash = "491ff82c46e3ba5dc63d8d58bbd33878eed404ad3aeb06c04435580ec661954d"
 
 [[files]]
 file = "config/berry_good-common.toml"
@@ -2058,7 +2058,7 @@ hash = "6f2a0de9bf7a64540881d1d43912be340ff8281f2307d947c652782ddd52e48c"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "f873e9dfbe06565cb0964a085ccf3e7971413433d3ebc8a1a0ab94700cbe121b"
+hash = "7f1a8543ffb9c3c15208e66b9fd93d0b590528f02dc03c3ff08bcc35b6a1323c"
 
 [[files]]
 file = "config/crash_assistant/lang/en_us.json"
