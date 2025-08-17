@@ -8,7 +8,8 @@
       "Unknown structure start: valhelsia_structures:",
       "yigd:grave",
       "[minecraft/ItemStack]: Tried to load invalid item:",
-      "No key id in MapLike"
+      "No key id in MapLike",
+      "[Server thread/ERROR] [sophisticatedcore/]: Tried to load invalid item: 'Unknown registry key in minecraft:item: 'apothic_compats:"
     ],
     "regex": [
       "Disconnecting VANILLA connection attempt",
@@ -17,7 +18,8 @@
       "valhelsia",
       "Unknown structure start: valhelsia_structures:",
       "yigd:grave",
-      "No key id in MapLike"
+      "No key id in MapLike",
+      "[Server thread/ERROR] [sophisticatedcore/]: Tried to load invalid item: 'Unknown registry key in minecraft:item: 'apothic_compats:"
     ]
   }
 }
