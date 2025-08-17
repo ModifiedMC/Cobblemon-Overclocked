@@ -1582,7 +1582,7 @@ hash = "c51ed7f0af9528cffc79b6bf65e50dbf3dd49b21b1ec3ee7815b17c90f2d5638"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "491ff82c46e3ba5dc63d8d58bbd33878eed404ad3aeb06c04435580ec661954d"
+hash = "a290c7f682980da7f1732f71d97481fb69e76dc6378adaefe0714113867aeab4"
 
 [[files]]
 file = "config/berry_good-common.toml"
@@ -2866,7 +2866,7 @@ hash = "2373ee61948e714f1678ec13deee77553513726fcf8fe1f548d7b02fc97e679a"
 
 [[files]]
 file = "config/ftbpmapi-client.toml"
-hash = "c5e009563c0ded86deff8d41aed7146384e5ffe168e23d644f922a9ef5d6e2a2"
+hash = "02049317020a5228d2ef4d889f37302c1e3c5a6a85d367f95b443de63c5c1ffb"
 
 [[files]]
 file = "config/ftbqopt.snbt"
@@ -3754,7 +3754,7 @@ hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
 file = "config/logbegone.json"
-hash = "4e73cc30162191ffcaae1de4d30f5ba1ffc9d15744fcc7e4fcd5f9b3449135a5"
+hash = "824454e90f1eed3ec7c2cb98637114f4302ced392120eba6e2ce68aeecc5b1f7"
 
 [[files]]
 file = "config/logprot.json"
@@ -5091,6 +5091,10 @@ hash = "308c7ce7c6c19e00ba27919602663af528964d03ddcc7abf6efcbe45d4b17337"
 [[files]]
 file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
+file = "config/yigd.json"
+hash = "01d786aee2f7eca99d6b043a1bd1dc06aae50b8b96f003310fcee8213e668228"
 
 [[files]]
 file = "defaultconfigs/ftbchunks/client-config.snbt"
@@ -7807,11 +7811,6 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
-metafile = true
-
-[[files]]
-file = "mods/curios.pw.toml"
-hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
