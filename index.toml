@@ -3750,7 +3750,7 @@ hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
 file = "config/logbegone.json"
-hash = "824454e90f1eed3ec7c2cb98637114f4302ced392120eba6e2ce68aeecc5b1f7"
+hash = "bff42156d5cb739a7fcc5629ea96ab2b7271e7c61def147cc628e25bacc5e8e1"
 
 [[files]]
 file = "config/logprot.json"
@@ -6874,7 +6874,7 @@ hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
 
 [[files]]
 file = "kubejs/server_scripts/modified_recipes.js"
-hash = "b4c5a73babc2694d2aeb3d3b7743245f42f721aa747e3c2f0586959d5d2df802"
+hash = "db1b955f9f84cbeafa725de93870cc7c0eb09841b735cfd58a6104027d8eb853"
 
 [[files]]
 file = "kubejs/server_scripts/moon_events.js"
@@ -9746,7 +9746,7 @@ metafile = true
 
 [[files]]
 file = "mods/yellowcore.pw.toml"
-hash = "51cf424018da2d4380b22e1a728dd2a3e52ab3f437d7fe61b8d21d2977125cb5"
+hash = "22308c72e5b34ecadaa24c7289a63cef509a32bcd73da2aaf5e4f84dabb5f11d"
 metafile = true
 
 [[files]]
