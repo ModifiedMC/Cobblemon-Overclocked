@@ -3750,7 +3750,7 @@ hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
 file = "config/logbegone.json"
-hash = "824454e90f1eed3ec7c2cb98637114f4302ced392120eba6e2ce68aeecc5b1f7"
+hash = "bff42156d5cb739a7fcc5629ea96ab2b7271e7c61def147cc628e25bacc5e8e1"
 
 [[files]]
 file = "config/logprot.json"
@@ -6986,7 +6986,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "e6448befb831607b6f7522250c5f6f2bfd57c80b614467286465b248258c3939"
+hash = "4292e216d9c436006b801a6d90a3a355c47ea1949219187e577afae78737d729"
 metafile = true
 
 [[files]]
