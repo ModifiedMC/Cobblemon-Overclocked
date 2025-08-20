@@ -2358,7 +2358,7 @@ hash = "8985518d94f16dafd4d9b00807592608e2af56f38807772a77324f967c50390d"
 
 [[files]]
 file = "config/easy_mob_farm/mob_capture_card.cfg"
-hash = "7a3076f6be69641b0efd334686fb7d9ec1d09a5a2c56cebdc8697c31d74fd955"
+hash = "e08941e41151ecd36e4e69f832bc257d367a25e7f24c04887859750b24ecbdba"
 
 [[files]]
 file = "config/easy_mob_farm/mob_capture_card_models.cfg"
