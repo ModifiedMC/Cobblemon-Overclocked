@@ -6910,6 +6910,21 @@ hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
 
 [[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "c923f6539fabaadf6234b8346111069baa53fcc95d2445a7eebc50cb3751c25d"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "53b8759301fb32d2b8fcef1125984414e33aab748c4119c253812ea17bf28f4b"
+metafile = true
+
+[[files]]
+file = "mods/accessorify.pw.toml"
+hash = "6982264e94dd5325c97c1cbee9a55c1702c4af2307f5541839cd029772636bc4"
+metafile = true
+
+[[files]]
 file = "mods/actually-additions.pw.toml"
 hash = "8c394d38402c39a6701d0228022d1ac604d6d4a223635bda6f532f71804a86b9"
 metafile = true
