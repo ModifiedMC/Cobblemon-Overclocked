@@ -2537,14 +2537,6 @@ file = "config/emojiful-client.toml"
 hash = "d50402f326389452a6ed579d9436251e872cedbab6b8f94f74299b3e2a137822"
 
 [[files]]
-file = "config/emotecraft.json"
-hash = "86a7bb354ea16b28e4d7eac014938bf3b8c135b26858b872dfb108879e4f7bdf"
-
-[[files]]
-file = "config/emotecraft_emote_map.json"
-hash = "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775"
-
-[[files]]
 file = "config/enchdesc.json"
 hash = "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b"
 
@@ -6910,6 +6902,26 @@ hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "b795ac74968a1a4eb9c0796bb2e3b19d16dc9ffb3a01a4b368b7e7322dcfa3b9"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "53b8759301fb32d2b8fcef1125984414e33aab748c4119c253812ea17bf28f4b"
+metafile = true
+
+[[files]]
+file = "mods/accessorify.pw.toml"
+hash = "6982264e94dd5325c97c1cbee9a55c1702c4af2307f5541839cd029772636bc4"
+metafile = true
+
+[[files]]
+file = "mods/aces-spell-utils.pw.toml"
+hash = "49181bc69515c9453d8b71ee98afd9fb91d7ba4b5b0a7be4a92163c0750fe595"
+metafile = true
+
+[[files]]
 file = "mods/actually-additions.pw.toml"
 hash = "8c394d38402c39a6701d0228022d1ac604d6d4a223635bda6f532f71804a86b9"
 metafile = true
@@ -7945,11 +7957,6 @@ hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
 metafile = true
 
 [[files]]
-file = "mods/emotecraft-forge.pw.toml"
-hash = "c3cda06f9f58bf5031d93945015ae8461ec01b6f29f75081402a368c0d357bdc"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "35b7e1285871f88c3112077f137d4b807ee1476c8e1f8c73f699bfd7e0c2c8c1"
 metafile = true
@@ -8106,7 +8113,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "967e2145e86fb9de3ef8f9d0bb20cb1d15ccb294cab7b2611fdebcf405dbf98d"
+hash = "c19754832997fe5fbd9488eeb3b02f3221f36893f94003e403b731ed9e9132ce"
 metafile = true
 
 [[files]]
@@ -8825,6 +8832,11 @@ hash = "c4e39e80bcb65f9fb5593cfa8675a27db12350d9977e0b64e5a7c5d108ace000"
 metafile = true
 
 [[files]]
+file = "mods/mob-grinding-utils.pw.toml"
+hash = "ed334bd8ff25757d72ac569a854f0a846b786d7704c2c36ebd95c00b97c7a6fe"
+metafile = true
+
+[[files]]
 file = "mods/moderately-enough-effect-descriptions-meed.pw.toml"
 hash = "8aa6bf6ad8285d3935256f23375218e8296509f961544c6b9a07a311aa5377ab"
 metafile = true
@@ -9326,7 +9338,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "cbc55d671a14bc023ab26c4ac46fefeee3daa0127f605157d45400a197b03c58"
+hash = "280b65831111c737228c09a931097d87726c061071710c7a172f0f4b423e98b6"
 metafile = true
 
 [[files]]
