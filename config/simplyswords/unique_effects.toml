@@ -248,7 +248,14 @@ maxStacks = 3
 hasteAmplifier = 1
 duration = 80
 
-[voidcaller]
+[chompolotl]
+cooldown = 60
+damage = 1.0
+duration = 500
+breedChance = 0.0266
+dolphinsGrace = true
+
+[dreadtide]
 damageModifier = 1.0
 duration = 250
 corruptionFrequency = 60

@@ -1,0 +1,12 @@
+#The minimum pokemon scale modifier
+# Default: 0.2
+# Range: 0.01 ~ 1.7976931348623157E308
+minScale = 0.2
+#The maximum pokemon scale modifier
+# Default: 2.0
+# Range: 0.01 ~ 1.7976931348623157E308
+maxScale = 2.0
+#The amount to change a pokemon's scale with each resizer use
+# Default: 0.2
+# Range: 0.01 ~ 1.7976931348623157E308
+scaleChange = 0.2
