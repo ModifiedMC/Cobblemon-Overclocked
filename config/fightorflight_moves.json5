@@ -211,6 +211,10 @@
 		"mindblown",
 		"mistyexplosion"
 	],
+	// Enable the Pokemon to use the spikes.
+	"enable_spikes": true,
+	// The base damage of Spikes and Stealth Rock
+	"spike_basic_damage": 3.0,
 	// Moves that taunt other pokemon
 	"taunting_moves": [
 		"taunt",

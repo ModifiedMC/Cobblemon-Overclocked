@@ -13,12 +13,26 @@
 	"minimum_attack_level": 5,
 	// The minimum level a Pokemon needs to be to attack unprovoked.
 	"minimum_attack_unprovoked_level": 10,
-	// The multiplier used to calculate the wild Pokemon's aggression,lower value can make the high level Pokemon less aggressive.
+	// If a wild Pokemon's aggro is above this value, it will attack the player proactively
+	"aggressive_threshold": 100.0,
+	// If a wild Pokemon's aggro is above this value and lower than the aggressive_threshold, it will fight back when attacked,if the Pokemon's aggro is lower than this, it will just run away.
+	"neutral_threshold": 20.0,
+	// The value of the aggression if the Pokemon's level reaches 100.
+	"aggression_level_base_value": 40.0,
+	// The multiplier used to calculate the wild Pokemon's aggression,lower value can make the high level Pokemon less aggressive. Editing the base value is enough, This is kept for the old config files. This still works, though
 	"aggression_level_multiplier": 1.0,
+	// The value of the aggression if [(Atk + Sp. Atk)-(Def + Sp. Def)]/level = 1. The Pokemon level won't be affected by the multiplier above.
+	"aggression_atk_def_dif_base_value": 30.0,
 	// Are Dark types more aggressive at or below light level 7 and less aggressive at or above light level 12?
 	"dark_light_level_aggro": true,
 	// Are Ghost types more aggressive at or below light level 7 and less aggressive at or above light level 12?
 	"ghost_light_level_aggro": true,
+	// The value of the aggression if the conditions above are met
+	"aggression_light_level_base_value": 30.0,
+	// The value of the aggression influenced by the Pokemon's nature.
+	"aggression_nature_base_value": 40.0,
+	// The value of the aggression gained if a Pokemon is intimidated
+	"aggression_intimidation_base_value": -30.0,
 	// Pokemon below this map height (y) will always be aggressive.
 	"always_aggro_below": -128.0,
 	// Pokemon stops running away if the hp is not full.
