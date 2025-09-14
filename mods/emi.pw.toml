@@ -1,6 +1,6 @@
 name = "EMI"
 filename = "emi-1.1.22+1.21.1+neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,0 +1,12 @@
+# Server-only mods list
+# Format: ModID
+# This file contains mod IDs that should only be on the server side
+# Updated manually with known server-only mods
+
+almostunified
+alternate_current
+BetterThanMending
+compacthelpcommand
+crashexploitfixer
+Feature-Recycler
+nosium

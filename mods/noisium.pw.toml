@@ -1,6 +1,6 @@
 name = "Noisium"
 filename = "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

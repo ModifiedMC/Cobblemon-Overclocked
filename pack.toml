@@ -1,19 +1,17 @@
 name = "Modified Cobblemon Overclocked"
-version = "1.9.0"
+version = "1.9.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a2d85a1a1fd19cafe76700993a4eac49bf0bf1f8b04adb6f63f58223c06e86e2"
+hash = "ca035839c12df5309737cc3461676ef14dca1c4c25c075cc9fa30ca6c80e4a8c"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.203"
+neoforge = "21.1.208"
 
 [export]
 [export.curseforge]
-project-id = 1206395
-
-[options]
 acceptable-game-versions = ["1.21.1"]
+project-id = 1206395
