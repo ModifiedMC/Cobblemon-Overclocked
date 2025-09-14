@@ -7,9 +7,15 @@
       "valhelsia",
       "Unknown structure start: valhelsia_structures:",
       "yigd:grave",
-      "[minecraft/ItemStack]: Tried to load invalid item:",
+      "Tried to load invalid item:",
       "No key id in MapLike",
-      "[Server thread/ERROR] [sophisticatedcore/]: Tried to load invalid item: 'Unknown registry key in minecraft:item: 'apothic_compats:"
+      "Unhandled modifier in loot table:",
+      "Invalid API Secret",
+      "Ignored advancement",
+      "Failed to execute AffixLootRule",
+      "Couldn't fully analyze 1",
+      "Not all defined tags for registry",
+      "Couldn't find template pool reference"
     ],
     "regex": [
       "Disconnecting VANILLA connection attempt",
@@ -19,7 +25,14 @@
       "Unknown structure start: valhelsia_structures:",
       "yigd:grave",
       "No key id in MapLike",
-      "[Server thread/ERROR] [sophisticatedcore/]: Tried to load invalid item: 'Unknown registry key in minecraft:item: 'apothic_compats:"
+      "Tried to load invalid item:",
+      "Unhandled modifier in loot table:",
+      "Invalid API Secret",
+      "Ignored advancement",
+      "Failed to execute AffixLootRule",
+      "Couldn't fully analyze 1",
+      "Not all defined tags for registry",
+      "Couldn't find template pool reference"
     ]
   }
 }

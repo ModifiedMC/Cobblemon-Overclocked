@@ -1,13 +1,13 @@
 name = "Cable Tiers"
-filename = "cabletiers-neoforge-1.21.1-0.3.0.jar"
+filename = "cabletiers-neoforge-1.21.1-0.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "439af963897cc8ce968ac46a5777181c042415e1"
+hash = "e430aa104acf43ef3e68c2a7cb5f6d6774be1f70"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6942173
+file-id = 6966798
 project-id = 454382

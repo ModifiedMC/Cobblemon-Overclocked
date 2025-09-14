@@ -60,6 +60,13 @@
 	# Default: 4
 	# Range: 0 ~ 4
 	maxLodLevels = 4
+	#Determines how luminance of dynamic lighting when the skin contains growing channels.
+	#-1 = auto (based skin cubes)
+	#0 = disabled
+	#1 ~ 15 = fixed luminance
+	# Default: -1
+	# Range: -1 ~ 15
+	skinDynamicLight = -1
 
 #Change (memory use/IO access) ratio by changing setting in this category.
 [cache]

@@ -1,0 +1,37 @@
+// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
+// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
+
+const seedID = [
+    'mysticalagriculture:allthemodium_seeds',
+    'mysticalagriculture:unobtainium_seeds',
+    'mysticalagriculture:vibranium_seeds'
+]
+
+ServerEvents.tags('item', allthemods => {
+    for (let seeds of seedID) {
+        allthemods.add('c:seeds', seeds)
+        allthemods.add('mysticalagriculture:seeds', seeds)
+        allthemods.add('ars_nouveau:whirlisprig/denied_drop', seeds)
+    }
+    allthemods.add('mysticalagriculture:essences', [
+        'mysticalagriculture:allthemodium_essence',
+        'mysticalagriculture:unobtainium_essence',
+        'mysticalagriculture:vibranium_essence'
+      ])
+})
+
+ServerEvents.tags('block', allthemods => {
+    for (let seeds of seedID) {
+        allthemods.add('cucumber:mineable/sickle', seeds.replace('seeds', 'crop'))
+        allthemods.add('silentgear:mineable/sickle', seeds.replace('seeds', 'crop'))
+        allthemods.add('minecraft:crops', seeds.replace('seeds', 'crop'))
+        allthemods.add('computercraft:turtle_hoe_harvestable', seeds.replace('seeds', 'crop'))
+        allthemods.add('minecraft:bee_growables', seeds.replace('seeds', 'crop'))
+        allthemods.add('mysticalagriculture:crops', seeds.replace('seeds', 'crop'))
+        allthemods.add('ae2:growth_acceleratable', seeds.replace('seeds', 'crop'))
+        allthemods.add('minecraft:sword_efficient', seeds.replace('seeds', 'crop'))
+    }
+})
+
+// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
+// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
