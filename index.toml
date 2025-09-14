@@ -4077,10 +4077,6 @@ file = "config/jmi-client.toml"
 hash = "b4b0ca94f9b7fbc970df03eb75da4b4804d0b9bff7d140d84169c0a5513fd6d7"
 
 [[files]]
-file = "config/journeymap-server.toml"
-hash = "914e767b44a8e0504767fa60bd1e3779259f6363afb299ed4282b9001f7db61b"
-
-[[files]]
 file = "config/justdirethings-client.toml"
 hash = "ba828ddc6c57d971b9fa2591e9676229663be1ce6726173cce45bc442e96e7f6"
 
@@ -5743,50 +5739,6 @@ hash = "0bbfee900506acf4d7ab839fcdb47da139f809607486c38530d233b29febb319"
 [[files]]
 file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
 hash = "9e5046ac0b9f6d27945b689657835bff24310aec7b11f7461c972b514d0e0658"
-
-[[files]]
-file = "full_build_output.txt"
-hash = "c13834c75c035952d6dd39c732c893cde6e878f9e29c99d75d6b787967c4fc9b"
-
-[[files]]
-file = "journeymap/config/6.0/addons/addon.cobblemon.config"
-hash = "be7ba80504645dc533b4a7ea87f9db1fc313b59c0bc4b7aadd66e306b7932585"
-
-[[files]]
-file = "journeymap/config/6.0/addons/addon.minecolonies.config"
-hash = "48928fe948758da01cc96505e269160c12f2aaeb7e50100a1658e04c24670d25"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.core.config"
-hash = "76b607e0c6555492fd2375b9931b386a5fe4af13ffe7c18123bfea701dd9c46a"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.fullmap.config"
-hash = "5d62d8b79961816157363b21b6520f4ae0e3db75a74d1e2679673d7fb2ee925e"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "41125b52db31c0349d3e6f3ec08352c47e0f79418ead4bd2c1ec8be36c8275f4"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.minimap2.config"
-hash = "a12999967d533bf39eb8a83e19260658a468fe09a54ea42f9c52d458a593a94b"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.rendering.config"
-hash = "c255d11d5a70ed453a5969e4fd40a3e57c1a89af592c5b8bfd9ba539f6cb0b10"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.topo.config"
-hash = "63aa85abb6a71e6abd69263491d7d6e6e67fe0cf839eeb15a0964a173d09776c"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.waypoint.config"
-hash = "25877aefaa3275eb0ec7268655d9b2133a27946320aa932677ae56db0abb971a"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.webmap.config"
-hash = "4ec3a46d1bb7f273e46dd2ad12e8c26ee2ace0cc86fe207f0874b2931b5d9310"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -7565,7 +7517,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessorify.pw.toml"
-hash = "66ad3168739f1c02c701faf24d9711fc4cec0a17626b7fb3039dbd87bf4f7fcd"
+hash = "c8ecb69a4edcdc915a4009af34b1c5c18f67eaabfa20f144564a8925c8c5dcd7"
 metafile = true
 
 [[files]]
@@ -8255,7 +8207,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblenav.pw.toml"
-hash = "fc77172117b57e3e036df98376500b72eb415e3fcba9ab203ef29fed4030b3c6"
+hash = "716995cb154698d1d08bdc16861cf503ca14b18e92ce027c57f3dabf71e11ac3"
 metafile = true
 
 [[files]]
@@ -8415,7 +8367,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "163bba8eb8fddfd523eb1a98d49b10eaac77a92484a50f0cdcbadb0dd033a503"
+hash = "02bbcb07a6b25f0b7f203c2a7bba076881a8fc66c79a3c1f43bf1f4569879623"
 metafile = true
 
 [[files]]
@@ -9146,16 +9098,6 @@ metafile = true
 [[files]]
 file = "mods/jonns-trophies.pw.toml"
 hash = "1310c4fab99ccb5e18f063e9f6b1735b5a11ab9b5257c4078d9e07ac77284c4a"
-metafile = true
-
-[[files]]
-file = "mods/journeymap-integration.pw.toml"
-hash = "0a84a132786d1a2859e384ce787195079e398b988fcf7d119aef528becb96de2"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "06a1f727d6a2084e758925cd5d1c62c00855db30bc48964edbcb4936ecd6aae6"
 metafile = true
 
 [[files]]
@@ -10428,6 +10370,21 @@ hash = "8e960a7f77607e87c81898bfe6649fc051df8e71ff995f05f9a0c2a22b72f55f"
 metafile = true
 
 [[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "f4d22db8ddc734276cb01fb102d8e207edf72793084563d1d2c89d3548a04456"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "3c9d3c4a6cf4016aebd324fd4cdf6332da89c7f41912e41f56f08c6947d66e2d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "feb67f4e3a254fafda303ccdb989354524aaa29bd26f1cc0013764b9f93040d9"
+metafile = true
+
+[[files]]
 file = "mods/xnet.pw.toml"
 hash = "733137402d13e961da3ea59aefd584fad79c0305653edc283a0048b362e0232b"
 metafile = true
@@ -10503,10 +10460,6 @@ hash = "f495361b345db3d36dee182414e94eebbcd331ad016864648b495f0384ee118c"
 metafile = true
 
 [[files]]
-file = "pack.toml.bak"
-hash = "d9aa97bf0002ad2add2b188ae03eb16cf9210d08863fae215927a2e849d31a85"
-
-[[files]]
 file = "packwiz-installer.jar"
 hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
@@ -10548,14 +10501,6 @@ metafile = true
 file = "resourcepacks/toms-cobblemoned.pw.toml"
 hash = "d56faf1280b0873578367d1fe635449cad63d327a4495d5ef38a57f5a24d6653"
 metafile = true
-
-[[files]]
-file = "server_build_full.log"
-hash = "a442d74da850077840d5d012fec91070eda0b6230b2ff6c68057e04ac1fe664a"
-
-[[files]]
-file = "server_build_log.txt"
-hash = "69c515c9e663a666af6b507e1dec0adac2451ec0212cf79dadd6f2a6ca8d021b"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5.zip"
