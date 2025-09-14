@@ -107,6 +107,7 @@ waxweaver_damageModifier = 6.0
 whisperwind_damageModifier = 3.0
 wickpiercer_damageModifier = 4.0
 wraithfang_damageModifier = 1.0
+chompolotl_damageModifier = 0.0
 dreadtide_damageModifier = 3.0
 
 [uniqueAttackSpeed]
@@ -151,4 +152,5 @@ waxweaver_attackSpeed = -2.9
 whisperwind_attackSpeed = -2.0
 wickpiercer_attackSpeed = -2.1
 wraithfang_attackSpeed = -2.0
+chompolotl_attackSpeed = -2.5
 dreadtide_attackSpeed = -2.0

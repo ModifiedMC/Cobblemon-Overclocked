@@ -3,5 +3,6 @@
   "enableExpAll": true,
   "forceExpAll": false,
   "addBucketToData": true,
+  "preventQuickBallSpam": true,
   "debug": false
 }
