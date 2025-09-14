@@ -1,6 +1,6 @@
 name = "Alternate Current"
 filename = "alternate_current-mc1.21-1.9.0.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
