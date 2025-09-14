@@ -1,0 +1,17 @@
+{
+"cobblemon.starterselection.category.modified": "Modificado",
+"item.modified.pokedollar.initial": "PokéDollar",
+"item.modified.pokedollar.plural": "PokéDollars",
+"block.modified.coinpile_pokedollar.initial": "uma Pilha de PokéDollars",
+"block.modified.coinpile_pokedollar.plural": "Pilha de PokéDollars",
+"block.modified.coinblock_pokedollar.initial": "um Bloco de PokéDollars",
+"block.modified.coinblock_pokedollar.plural": "Blocos de PokéDollars",
+"item.modified.mtoken.initial": "Token Mestre",
+"item.modified.mtoken.plural": "Tokens Mestre",
+"block.modified.coinpile_mtoken.initial": "uma Pilha de Tokens Mestre",
+"block.modified.coinpile_mtoken.plural": "Pilhas de Tokens Mestre",
+"block.modified.coinblock_mtoken.initial": "um Bloco de Tokens Mestre",
+"block.modified.coinblock_mtoken.plural": "Blocos de Tokens Mestre",
+"item.modified.reliccoin.initial": "Moeda de Relíquia",
+"item.modified.reliccoin.plural": "Moedas de Relíquia"
+}
