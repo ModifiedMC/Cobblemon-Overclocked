@@ -5,14 +5,13 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "70050931654cef764e66a50092052b4956298c86"
-mode = "file-server"
+mode = "metadata:curseforge"
 
 [option]
 optional = false
 default = true
 
-# Keep this for reference but use file-server mode
-#[update]
-#[update.curseforge]
-#file-id = 6990437
-#project-id = 1007872
+[update]
+[update.curseforge]
+file-id = 6990437
+project-id = 1007872
