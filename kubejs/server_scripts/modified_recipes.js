@@ -96,7 +96,7 @@ ServerEvents.recipes(event => {
     ]).id('modified:super_moon_crescent_blue_crafting');
 
     event.shapeless('modified:super_moon_crescent_blood', [
-        'kmodified:moon_crescent_blood',
+        'modified:moon_crescent_blood',
         'modified:moon_crescent_blood',
         keystone
     ]).id('modified:super_moon_crescent_blood_crafting');
