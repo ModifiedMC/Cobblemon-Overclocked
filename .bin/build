@@ -286,12 +286,23 @@ if [[ "$TYPE" == "both" ]] || [[ "$TYPE" == "server" ]]; then
     mod_count=0
     echo "Building server (pass 1/2)..."
     
-    # Pre-copy all files from download directory to avoid packwiz installer failures
+    # Pre-copy only necessary server-side mod files from download directory
     if [[ -d "$BASE_DIR/download" ]]; then
-        echo "Pre-copying downloaded files..."
-        find "$BASE_DIR/download" -name "*.jar" -exec cp {} "$BASE_DIR/build/server/mods/" \;
-        pre_copied_count=$(find "$BASE_DIR/build/server/mods/" -name "*.jar" | wc -l)
-        echo "✓ Pre-copied $pre_copied_count files from download directory"
+        echo "Identifying server-side mods to pre-copy..."
+        # Create a list of server-side mod filenames
+        server_mod_files=$(find "$BASE_DIR/mods" -name "*.pw.toml" -exec grep -l "side = \"server\"\|side = \"both\"" {} \; | xargs -I{} grep "filename" {} | sed -e 's/filename = "\(.*\)"/\1/')
+        
+        # Copy only those files that match server-side mods
+        pre_copied_count=0
+        while IFS= read -r mod_filename; do
+            if [[ -f "$BASE_DIR/download/$mod_filename" && ! "$mod_filename" =~ packwiz ]]; then
+                echo "  • Pre-copying $mod_filename"
+                cp "$BASE_DIR/download/$mod_filename" "$BASE_DIR/build/server/mods/"
+                pre_copied_count=$((pre_copied_count + 1))
+            fi
+        done <<< "$server_mod_files"
+        
+        echo "✓ Selectively pre-copied $pre_copied_count server-side mods from download directory"
     fi
     
     # loop over packwiz install output to get mods that need to be downloaded manually
@@ -381,13 +392,23 @@ if [[ "$TYPE" == "both" ]] || [[ "$TYPE" == "server" ]]; then
         echo "✓ No excluded mods found - all mods available via CurseForge API"
     fi
 
-    # Copy any manual resource packs that are needed
+    # Copy any manual resource packs that are needed (excluding packwiz files)
     if [[ -d "$BASE_DIR/download" ]]; then
         mkdir -p "$BASE_DIR/build/server/resourcepacks"
-        resource_count=$(find "$BASE_DIR/download" -name "*.zip" | wc -l)
+        # Find resourcepacks but exclude packwiz files
+        resource_packs=$(find "$BASE_DIR/download" -name "*.zip" | grep -v "packwiz")
+        resource_count=$(echo "$resource_packs" | grep -v "^$" | wc -l)
+        
         if [[ "$resource_count" -gt 0 ]]; then
             echo "Copying $resource_count resource pack(s)..."
-            find "$BASE_DIR/download" -name "*.zip" -exec cp {} "$BASE_DIR/build/server/resourcepacks/" \;
+            # Copy each resource pack individually
+            while IFS= read -r pack_path; do
+                if [[ ! -z "$pack_path" ]]; then
+                    pack_name=$(basename "$pack_path")
+                    echo "  • Copying $pack_name"
+                    cp "$pack_path" "$BASE_DIR/build/server/resourcepacks/"
+                fi
+            done <<< "$resource_packs"
             echo "✓ Copied $resource_count resource pack(s)"
         else
             echo "✓ No additional resource packs found"
@@ -395,19 +416,56 @@ if [[ "$TYPE" == "both" ]] || [[ "$TYPE" == "server" ]]; then
     fi
 
     # Show progress before second pass
+    mkdir -p "$BASE_DIR/build/server/mods"
     mods_before_second_pass=$(find "$BASE_DIR/build/server/mods/" -name "*.jar" | wc -l)
     echo ""
     echo "📊 Mods before second pass: $mods_before_second_pass"
 
     # Download mods using standard packwiz installer (handles API-excluded mods)
     if [[ ! -f "packwiz.json" ]]; then
-        echo "Building server (pass 2/2) - Installing all mods..."
-        echo "Running packwiz installer to download remaining mods..."
-        timeout 300 java -jar $BASE_DIR/download/packwiz-installer-bootstrap.jar -g -s server $BASE_DIR/pack.toml 2>/dev/null 1>&2 || echo "Packwiz installer completed (or timed out after 5 minutes)"
-        if [[ $? -eq 0 ]]; then
-            echo "✓ All mods installed successfully"
-        else
-            echo "✓ Packwiz installer completed with some limitations (API-excluded mods handled)"
+        echo "Building server (pass 2/2) - Attempting to download remaining mods..."
+        echo "Note: Many mods are excluded from CurseForge API and must be downloaded manually"
+        
+        # Create a temp file to capture packwiz output
+        packwiz_log="$BASE_DIR/build/packwiz_install.log"
+        
+        # Run packwiz installer with longer timeout (10 minutes) and capture output
+        # Use -s both to download both client and server mods
+        timeout 600 java -jar $BASE_DIR/download/packwiz-installer-bootstrap.jar -g -s both $BASE_DIR/pack.toml > "$packwiz_log" 2>&1 || true
+        
+        # Extract list of API-excluded mods that need to be downloaded manually
+        echo "Identifying API-excluded mods..."
+        if grep -q "excluded from the CurseForge API" "$packwiz_log"; then
+            excluded_mods=$(grep "excluded from the CurseForge API" "$packwiz_log" | grep -v "resourcepacks\|shaderpacks" | grep -o 'mods/[^ ]*\.jar' | sort | uniq)
+            excluded_count=$(echo "$excluded_mods" | grep -c . || echo "0")
+            echo "ℹ️ Found $excluded_count mods excluded from CurseForge API"
+            
+            # Create a file listing all excluded mods for reference
+            echo "$excluded_mods" > "$BASE_DIR/build/excluded_mods.txt"
+            echo "  (List saved to build/excluded_mods.txt)"
+            
+            # Check if any of these mods are already in the download directory
+            found_count=0
+            while IFS= read -r mod_path; do
+                if [[ -n "$mod_path" ]]; then
+                    mod_filename=$(basename "$mod_path")
+                    if [[ -f "$BASE_DIR/download/$mod_filename" ]]; then
+                        echo "  • Found excluded mod in download directory: $mod_filename"
+                        cp "$BASE_DIR/download/$mod_filename" "$BASE_DIR/build/server/mods/"
+                        found_count=$((found_count + 1))
+                    fi
+                fi
+            done <<< "$excluded_mods"
+            
+            if [[ "$found_count" -gt 0 ]]; then
+                echo "✓ Copied $found_count pre-downloaded API-excluded mods"
+            fi
+        fi
+        
+        # Try to download as many mods as possible despite API limitations
+        downloaded=$(grep -c "downloaded" "$packwiz_log" || echo "0")
+        if [[ "$downloaded" -gt 0 ]]; then
+            echo "✓ Successfully downloaded $downloaded mod(s) via packwiz"
         fi
     fi
 
