@@ -5,7 +5,7 @@ side = "client"
 [download]
 hash-format = "sha1"
 hash = "4b669511628a866b147a4f32c972f0602352f1f2"
-mode = "metadata:curseforge"
+mode = "file-server"
 
 [update]
 [update.curseforge]
