@@ -3,9 +3,9 @@ filename = "skinlayers3d-neoforge-1.9.0-mc1.21.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "ec046d736a67626d774cae3cf6d37133eaccfbd4"
-mode = "file-server"
+hash-format = "sha512"
+hash = "804e24078fd61220e4dddf5f975f9f47b2b99a7ce1149083f83a045f6c63bb9f88390e57a234f4bb8d3c2b38be141ab1004b17cd9005a39a155522ee0ced4906"
+url = "https://files.modifiedmc.com/cicd/download/skinlayers3d-neoforge-1.9.0-mc1.21.jar"
 
 [update]
 [update.curseforge]

@@ -231,9 +231,11 @@ if [[ "$TYPE" == "both" ]] || [[ "$TYPE" == "client" ]]; then
     cat "$BASE_DIR/build/client/manifest.json" | jq ".minecraft.modLoaders[0] |= {\"id\": \"neoforge-$NEOFORGE_VERSION\", \"primary\": true}" > "$BASE_DIR/build/client/manifest.tmp.json"
     mv "$BASE_DIR/build/client/manifest.tmp.json" "$BASE_DIR/build/client/manifest.json"
 
-    # re-zip client pack
-    echo "Packaging client files..."
-    zip -r "$zip_file" * 2>/dev/null 1>&2
+    # re-zip client pack, only including required files
+    echo "Packaging client files (excluding unnecessary files)..."
+    # Remove unnecessary files from overrides before zipping
+    find overrides/ -type f \( -name '*.bak' -o -name '*.txt' -o -name '*.sh' -o -name 'packwiz-installer.jar' \) -delete
+    zip -r "$zip_file" manifest.json modlist.html overrides/mods overrides/resourcepacks overrides/config overrides/defaultconfigs overrides/shaderpacks overrides/kubejs overrides/journeymap 2>/dev/null 1>&2
     cd "$BASE_DIR/build"
     mv "$BASE_DIR/build/client/$zip_file" $BASE_DIR/build/
     rm -rf "$BASE_DIR/build/client"
@@ -473,9 +475,16 @@ if [[ "$TYPE" == "both" ]] || [[ "$TYPE" == "server" ]]; then
     mods_after_second_pass=$(find "$BASE_DIR/build/server/mods/" -name "*.jar" | wc -l)
     echo "📊 Mods after second pass: $mods_after_second_pass"
     
+
     if [[ "$mods_after_second_pass" -gt "$mods_before_second_pass" ]]; then
         additional_mods=$((mods_after_second_pass - mods_before_second_pass))
         echo "✓ Successfully downloaded $additional_mods additional mods via packwiz installer"
+    else
+        echo "✗ ERROR: No additional mods were added in the second pass."
+        echo "  This likely means some mods could not be downloaded or were missing."
+        echo "  See below for the last 40 lines of the packwiz install log:"
+        tail -40 "$BASE_DIR/build/packwiz_install.log"
+        exit 1
     fi
 
     echo ""

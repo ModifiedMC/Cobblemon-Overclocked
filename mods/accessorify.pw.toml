@@ -2,10 +2,11 @@ name = "Accessorify"
 filename = "accessorify-2.2.1+1.21.1.jar"
 side = "both"
 
+
 [download]
-hash-format = "sha1"
-hash = "a63869c0cc60a00f6290b534e0082a0b4a3bd6b0"
-mode = "metadata:curseforge"
+hash-format = "sha512"
+hash = "32494131f1ff8bea3ebba86b4d6e89ef5b47a9694b53069aedfbf56cb7b8cfa7b19949729150449dd6eb8333cf869a077cd13e9582d24195cd30597f24cd1940"
+url = "https://files.modifiedmc.com/cicd/download/accessorify-2.2.1+1.21.1.jar"
 
 [update]
 [update.curseforge]

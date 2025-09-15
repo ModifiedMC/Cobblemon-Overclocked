@@ -1,0 +1,13 @@
+name = "Regions Unexplored (forge/fabric)"
+filename = "regions_unexplored-neoforge-1.21.1-0.5.6.1.jar"
+side = "both"
+
+[download]
+url = "https://files.modifiedmc.com/cicd/download/regions_unexplored-neoforge-yellowfix-1.21.1-0.5.6.1.jar"
+hash-format = "sha512"
+hash = "02bae3259afc12bf75c5534ef5f33a155ba6bca589299a7774290bda39dedc89df87d4be5e030d2d3b71be2e748b2c86fb13ff2057f76f4f2c4e3d72788da6ee"
+
+[update]
+[update.curseforge]
+file-id = 6273893
+project-id = 659110
