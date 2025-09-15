@@ -4069,14 +4069,6 @@ file = "config/jeresources-common.toml"
 hash = "b8e340097e9b479a5d66593f01c1c84a8a8fdc1ed960eccb11676ee7612537e2"
 
 [[files]]
-file = "config/jmi-client-1.toml.bak"
-hash = "b878b0d81ff300055df427c5a58f10243ebfda5989bb2cf5eaba16a17a21d8d4"
-
-[[files]]
-file = "config/jmi-client.toml"
-hash = "b4b0ca94f9b7fbc970df03eb75da4b4804d0b9bff7d140d84169c0a5513fd6d7"
-
-[[files]]
 file = "config/justdirethings-client.toml"
 hash = "ba828ddc6c57d971b9fa2591e9676229663be1ce6726173cce45bc442e96e7f6"
 
@@ -4595,6 +4587,10 @@ hash = "d3059428b72450959e460da36d68419b07dc591121566b31e4741e96d61c53b6"
 [[files]]
 file = "config/paxi/resourcepacks/FreshAnimations_v1.9.2.zip"
 hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Icon Xaero's 1.21.zip"
+hash = "f33e2f6488fc0ee01f8643ed9456dedf6e67c65fe2862ae9c18b070bdad6031e"
 
 [[files]]
 file = "config/paxi/resourcepacks/RCT Trainers+ [1.6] v2.0.zip"
@@ -5739,6 +5735,46 @@ hash = "0bbfee900506acf4d7ab839fcdb47da139f809607486c38530d233b29febb319"
 [[files]]
 file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
 hash = "9e5046ac0b9f6d27945b689657835bff24310aec7b11f7461c972b514d0e0658"
+
+[[files]]
+file = "journeymap/config/6.0/addons/addon.cobblemon.config"
+hash = "be7ba80504645dc533b4a7ea87f9db1fc313b59c0bc4b7aadd66e306b7932585"
+
+[[files]]
+file = "journeymap/config/6.0/addons/addon.minecolonies.config"
+hash = "48928fe948758da01cc96505e269160c12f2aaeb7e50100a1658e04c24670d25"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.core.config"
+hash = "76b607e0c6555492fd2375b9931b386a5fe4af13ffe7c18123bfea701dd9c46a"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.fullmap.config"
+hash = "5d62d8b79961816157363b21b6520f4ae0e3db75a74d1e2679673d7fb2ee925e"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap.config"
+hash = "41125b52db31c0349d3e6f3ec08352c47e0f79418ead4bd2c1ec8be36c8275f4"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap2.config"
+hash = "a12999967d533bf39eb8a83e19260658a468fe09a54ea42f9c52d458a593a94b"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.rendering.config"
+hash = "c255d11d5a70ed453a5969e4fd40a3e57c1a89af592c5b8bfd9ba539f6cb0b10"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.topo.config"
+hash = "63aa85abb6a71e6abd69263491d7d6e6e67fe0cf839eeb15a0964a173d09776c"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.waypoint.config"
+hash = "25877aefaa3275eb0ec7268655d9b2133a27946320aa932677ae56db0abb971a"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.webmap.config"
+hash = "4ec3a46d1bb7f273e46dd2ad12e8c26ee2ace0cc86fe207f0874b2931b5d9310"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -8191,11 +8227,6 @@ hash = "e696ef1920da466ef90ab75a8087259174ddd5c41a8d2051a3d742ec5dcd836f"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-utility.pw.toml"
-hash = "1aacadc010fe00badf9bca3a6c4d14cd9745350025483b5008747e457ab4d40a"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "a292645eacc6a5e6a322796a436c4fb48af0fd4e0212eb3221f13f31785d44d3"
 metafile = true
@@ -9098,6 +9129,16 @@ metafile = true
 [[files]]
 file = "mods/jonns-trophies.pw.toml"
 hash = "1310c4fab99ccb5e18f063e9f6b1735b5a11ab9b5257c4078d9e07ac77284c4a"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "0a84a132786d1a2859e384ce787195079e398b988fcf7d119aef528becb96de2"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "06a1f727d6a2084e758925cd5d1c62c00855db30bc48964edbcb4936ecd6aae6"
 metafile = true
 
 [[files]]
