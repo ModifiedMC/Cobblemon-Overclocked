@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "70050931654cef764e66a50092052b4956298c86"
-mode = "metadata:curseforge"
+url = "https://files.modifiedmc.com/cicd/download/create_ltab-3.2.0.jar"
 
 [option]
 optional = false
