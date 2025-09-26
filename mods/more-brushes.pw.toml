@@ -1,13 +1,13 @@
 name = "More Brushes"
-filename = "morebrushes-1.2-neoforge-mc1.21.jar"
+filename = "morebrushes-1.7-neoforge-mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "16ba0a1a0321b4a121de2adf22b569bff3c10cde"
+hash = "5346da36b37fe716d13700aedb75554dd4227edb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5545159
+file-id = 7023685
 project-id = 952153
