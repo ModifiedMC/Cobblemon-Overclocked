@@ -1,17 +1,17 @@
 name = "Create: Let The Adventure Begin"
-filename = "create_ltab-3.2.0.jar"
+filename = "create_ltab-3.3.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "70050931654cef764e66a50092052b4956298c86"
-url = "https://files.modifiedmc.com/cicd/download/create_ltab-3.2.0.jar"
+hash = "eedb7a0bc83d689b0b96aa983915006137d8be4b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7019012
+project-id = 1007872
 
 [option]
 optional = false
 default = true
-
-[update]
-[update.curseforge]
-file-id = 6990437
-project-id = 1007872
