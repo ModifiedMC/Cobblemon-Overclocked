@@ -1,13 +1,13 @@
 name = "Refined Storage - Mekanism Integration"
-filename = "refinedstorage-mekanism-integration-1.0.0.jar"
+filename = "refinedstorage-mekanism-integration-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1a9cf54bf01bd200ed36d40b1a2af7ce665dcfb0"
+hash = "9b4250b48895a50f134f527c277251de1630636a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6359071
+file-id = 7038111
 project-id = 1230504
