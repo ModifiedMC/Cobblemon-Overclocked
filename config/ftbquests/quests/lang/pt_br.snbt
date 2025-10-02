@@ -108,12 +108,6 @@
 	quest.01E10848967E2381.quest_subtitle: "Clique para ver todos os itens possíveis"
 	quest.01E10848967E2381.title: "Saque da Dungeon de Bronze"
 	quest.01E593EF7E9F5B61.quest_desc: ["Faz com que um Pokémon que faça contato direto com o portador sofra dano."]
-	quest.01E621F5343075C2.quest_desc: [
-		"Existem quatro tipos diferentes de Cartas de Habilidade de Mineração: Picareta, Machado, Pá e Enxada."
-		""
-		"Você pode criar um desses tipos colocando a carta vazia com uma das ferramentas mencionadas."
-	]
-	quest.01E621F5343075C2.quest_subtitle: "Usando o Registro de Habilidades pt.1"
 	quest.01EEDFCCFC6294C1.quest_subtitle: "Contagem de Trocas: 1"
 	quest.01EEDFCCFC6294C1.title: "Mostruário"
 	quest.02036208ACA48E38.quest_desc: [
@@ -288,21 +282,8 @@
 	quest.05B490DEA8841D61.title: "Raiz Grande"
 	quest.05B8CB4A870A394B.quest_subtitle: "Pode ser encontrado em uma Floresta"
 	quest.05BE8C190EAE653D.quest_subtitle: "Pode ser encontrado em uma Floresta"
-	quest.05DF0D01D6A1BE7D.quest_desc: [
-		"Veja a pt. 1 para obter uma carta específica."
-		""
-		"A caneta deve ser preenchida antes de usá-la. Você pode preenchê-la com qualquer corante através da mesa de trabalho."
-		""
-		"Você pode selecionar uma das cartas inseridas passando o mouse sobre ela e clicando com o botão direito."
-		""
-		"&dDesafios aparecerão na tela para você realizá-los!&r"
-		"&6Complete todos eles para ir para o próximo nível.&r"
-	]
-	quest.05DF0D01D6A1BE7D.title: "Usando o Registro de Habilidades pt.2"
 	quest.05EF06E4D55A9347.title: "Mago Especialista"
 	quest.06397E386E51FABE.quest_desc: ["Aumenta a duração das poções em 15% a cada nível."]
-	quest.063B9BDFDD0C371C.quest_subtitle: "Disponível em vários níveis / biomas específicos!"
-	quest.063B9BDFDD0C371C.title: "Fazendas de Mobs Fáceis"
 	quest.064C0A7D7E1F79BA.quest_subtitle: "Obtenha todos os Tipos Terrestres."
 	quest.064E9F11A5441981.quest_desc: [
 		"Você pode inserir e extrair recursos na rede de armazenamento dentro da Grade."
@@ -364,7 +345,6 @@
 	quest.064E9F11A5441981.quest_subtitle: "A Grade permite acesso aos recursos armazenados na rede de armazenamento."
 	quest.064E9F11A5441981.title: "Grades"
 	quest.065739A79D4F6B3D.title: "Tipos de Gelo de Hoenn"
-	quest.066ED74217A194D5.quest_desc: ["Carta de Habilidade de Mineração - Usada para progredir com o Ultimine!"]
 	quest.0689DB6E3B1DB2F9.quest_subtitle: "Movido com uma Engenhoca Automatizada"
 	quest.069B7BF26D9B41D7.quest_subtitle: "quando segurado por Palkia, mudará para sua Forma Origem. "
 	quest.069B7BF26D9B41D7.title: "Forma Origem - Palkia"
@@ -773,8 +753,6 @@
 	quest.119FBCFAB10D9F28.quest_desc: ["Uma coleção de ferramentas destinadas a tornar grandes construções mais gerenciáveis na sobrevivência!"]
 	quest.119FBCFAB10D9F28.quest_subtitle: "Simplifique essas construções!"
 	quest.11C9CE5395966DEA.title: "Todas as Enxadas!"
-	quest.11CA74A02F4C5C83.quest_subtitle: "Desbloqueie essa tecla ~!"
-	quest.11CA74A02F4C5C83.title: "Ultimine!"
 	quest.11EE831E2EF2F773.quest_subtitle: "usado para mesclar múltiplos Pacotes de Papelão "
 	quest.11F9052F72DD994E.quest_subtitle: "Pode ser encontrado em uma Floresta Sombria"
 	quest.1215A4828E6D46EC.quest_subtitle: "Pode ser usado para organizar itens em Correias Mecânicas"
@@ -1034,17 +1012,6 @@
 	quest.1652746389A20AB4.quest_subtitle: "O que é uma Chave de Ginásio?"
 	quest.166715904F4D6A69.quest_desc: ["Aumenta o poder dos movimentos físicos do portador."]
 	quest.169403A7ABE23E19.title: "Tipos Sombrios de Paldea"
-	quest.16BD408A5CAF433B.quest_desc: [
-		"Maneira opcional de obter a Habilidade Ultimine temporariamente:"
-		""
-		"Faça uma &dPoção do Conhecimento&r usando qualquer um dos &6Livros Encantados&r em um suporte de poções."
-		""
-		"Em seguida, use as Poções do Conhecimento na parte inferior do suporte de poções e adicione um cartão de habilidade na parte superior para fazer um &dSuco Mine-Go&r e desbloquear temporariamente o ultimine!"
-		""
-		"&6O tempo varia com base no nível do cartão de habilidade.&r"
-	]
-	quest.16BD408A5CAF433B.quest_subtitle: "Suco Mine-Go"
-	quest.16BD408A5CAF433B.title: "Ultimine Temporário!"
 	quest.16EAD2F5D4CA9B93.title: "Iniciais da Região de Alola"
 	quest.17052794146772C7.title: "Tipos Gelo de Johto"
 	quest.17299D0188D8AF68.title: "Pena de Fada"
@@ -1553,8 +1520,6 @@
 	quest.1FFD74C920A57C9A.title: "Blocos Tipo Vela"
 	quest.200271E86B5EEAF7.quest_subtitle: "Obtenha todos os Tipos Fogo."
 	quest.20420F2BF84AC83B.title: "Iniciais da Região de Kanto"
-	quest.204B7F1E9DA58947.quest_desc: ["Explicaremos o uso de plantas mais tarde, mas primeiro, antes de usar o cartão vazio para criar o Registro de Habilidades, tente criar uma &eplanta&r de cartão para que você possa fazer outro cartão a partir dela!"]
-	quest.204B7F1E9DA58947.quest_subtitle: "Passo 2"
 	quest.205A7A0364D1DEC3.quest_desc: [
 		"Coloque um na fonte de energia e conecte a outro com o fio apropriado onde você quer enviar a energia"
 		""
@@ -1788,15 +1753,6 @@
 	quest.2550749BBA4B4309.title: "Tipos Rocha de Hoenn"
 	quest.256BA22ECE812C88.quest_subtitle: "Armas de classe média como Lanças, Lâminas Gêmeas, e Espadas Longas"
 	quest.256BA22ECE812C88.title: "Simply Swords - Armas Médias"
-	quest.256BE43416AD50B3.quest_desc: [
-		"Depois de progredir por todos os níveis de cada carta, você desbloqueará a &6maestria&r."
-		""
-		"Para obter o &dCertificado de Minerador&r, você precisa ter &6todos os diferentes tipos de Cartões de Habilidade de Mineração &dMASTERIZADOS&r e colocá-los com papel na mesa de trabalho."
-		""
-		"&dInteraja com o Certificado de Minerador para obter a Habilidade Ultimine permanentemente.&r"
-	]
-	quest.256BE43416AD50B3.quest_subtitle: "Graduado da Escola Ultimine"
-	quest.256BE43416AD50B3.title: "Ultimine Desbloqueado!"
 	quest.258912C5B8333516.quest_desc: ["Gera uma quantidade moderada de fonte de alimentos próximos, gerando mais para alimentos mais nutritivos. A comida de Fruta de Fonte vale muito mais do que outras comidas mundanas. Além disso, o Elo de Fonte Micelial converterá Grama ou Terra no 3x3 abaixo dele em Micélio e cultivará cogumelos ao seu redor, desde que o espaço esteja vazio. O Elo de Fonte também puxará itens de pedestais próximos."]
 	quest.25917A446482088C.quest_desc: ["Um &dX Precisão&r é um tipo de item que aumenta a estatística de precisão do alvo em um estágio quando usado em batalha."]
 	quest.2595CD4D52049FED.title: "Eevee"
@@ -3073,12 +3029,6 @@
 		""
 		"&dEfeito de Isca:&r Faz com que Pokémon do Grupo de Ovos Campo tenham 10x mais chances de serem encontrados"
 	]
-	quest.42941AD8F80D28DC.quest_desc: [
-		"- Primeiro você precisa procurar por um aldeão que tenha a profissão de &dferramenteiro&r."
-		"- Você deve negociar com esse aldeão até que ele atinja o &dNível 2&r (Aprendiz)."
-		"- Quando você atingir esse nível, o aldeão terá uma nova oferta por um &eCartão de Habilidade de Mineração&r vazio."
-	]
-	quest.42941AD8F80D28DC.quest_subtitle: "Passo 1"
 	quest.42B13A2DB35ACC90.quest_desc: [
 		"&dEfeito no Pokémon:&r Reduz pela metade o dano de um ataque super eficaz do tipo Sombrio."
 		""
@@ -3306,14 +3256,6 @@
 	quest.49084993B6ADCAB4.quest_subtitle: "Pássaro + Dragão"
 	quest.49084993B6ADCAB4.title: "Dracozolt"
 	quest.490A15DFC1ADDE1A.quest_desc: ["Popula a área próxima com flores e grama. Aumentar com uma gema de fonte aumentará o raio em 1 para cada gema. Aumentar com areia substituirá flores por Cactos e Arbustos Mortos."]
-	quest.490DBE0FC3600CC7.quest_subtitle: "Alcance o T3 para todas as fazendas disponíveis"
-	quest.490DBE0FC3600CC7.title: "Fazendas no Máximo"
-	quest.490FD66E4C370550.quest_desc: [
-		"Após criar o Registro de Habilidades, interaja para abri-lo. Uma tela aparecerá."
-		""
-		"Você precisará colocar qualquer &dCartão de Habilidades de Mineração&r, &dCaneta&r, ed Papéis&r."
-	]
-	quest.490FD66E4C370550.quest_subtitle: "Uma Ferramenta necessária para aprimorar suas habilidades de mineração"
 	quest.4915825B660CD27C.title: "Tipos Elétricos de Johto"
 	quest.4925284AEF38184E.quest_desc: ["Quando um Elo de Estoque é colocado em um Empacotador, o Empacotador pode receber solicitações de uma Rede Logística. Ele pode criar pacotes com um endereço, itens específicos e uma quantidade específica de itens."]
 	quest.4925284AEF38184E.quest_subtitle: "usado para conectar Empacotadores a Redes Logísticas."
@@ -4196,7 +4138,6 @@
 	quest.5B15BD154D395DB0.title: "Tipos Venenoso"
 	quest.5B1F60891CBEDA8C.title: "Tipos Água de Hoenn"
 	quest.5B24BFBC77803832.quest_subtitle: "&lEstação de Inscrição de Chaves &r(Dim Dungeons)"
-	quest.5B2A27E94FE0D16A.quest_subtitle: "Usado para Mobs Médios"
 	quest.5B3D2FF22FFA5722.quest_desc: [
 		"(Se ativado em seu servidor) você terá acesso a;"
 		""
@@ -4325,7 +4266,6 @@
 	quest.5F7FC46D12719121.quest_subtitle: "Usado para se conectar ao seu sistema sem fio"
 	quest.5F7FC46D12719121.title: "Receptor de Rede"
 	quest.5F8B88A3D68ECA87.title: "Bola Sombria"
-	quest.5FA60E4DDD53CD11.quest_subtitle: "Usado para Mobs Maiores"
 	quest.5FA8DBC3B6C0231D.quest_desc: [
 		"&dEfeito no Pokémon:&r -"
 		""
@@ -5030,7 +4970,6 @@
 		"Pode ser fabricado."
 	]
 	quest.6E41FC2D07C53BBF.quest_subtitle: "Spritzee -> Aromatisse"
-	quest.6E50AAA3CF4A1B06.title: "Catalisadores de Sapo"
 	quest.6E7898AEB6A8D3A4.quest_subtitle: "Invoca uma variedade aleatória de animais selvagens nativos do bioma em que se encontra."
 	quest.6E79003749C3ECEE.quest_subtitle: "Alcance de Bloco Estendido"
 	quest.6E7DBDBC7FC7A91E.quest_subtitle: "Colete todos os Mon Míticos e Lendários!"
@@ -5083,8 +5022,6 @@
 	quest.6FCFC8D4159F01D4.quest_subtitle: "Misture com água para criar Polpa"
 	quest.6FCFC8D4159F01D4.title: "Recursos Pulpificáveis"
 	quest.7003ABB52D497D47.quest_subtitle: "usado para fabricar vários dispositivos da rede de armazenamento."
-	quest.700FBC762A11A218.quest_subtitle: "Obtenha todas as Melhorias"
-	quest.700FBC762A11A218.title: "Aprimoramentos de Fazenda"
 	quest.701C05E611FF1DA1.quest_desc: [
 		"&6O Braço Mecânico pode pegar ou depositar itens de vários blocos em um raio de 5 blocos de onde é colocado.&r A ordem em que ele faz isso é determinada por seu comportamento, bem como pela ordem em que os blocos foram selecionados durante a colocação."
 		""
@@ -5300,7 +5237,6 @@
 		"Itens em calhas serão afetados pela gravidade e cairão para as calhas por padrão. Para puxar itens para cima, é necessário um Ventilador Encapsulado devidamente energizado no topo ou sob as calhas. Por exemplo, um ventilador abaixo das calhas empurraria os itens para cima, e um ventilador acima das calhas puxaria os itens para cima. A velocidade do Ventilador Encapsulado pode alterar a rapidez com que os itens sobem."
 	]
 	quest.756DD6B226EF1FE6.quest_subtitle: "Permite mais controle e filtros sobre a Calha padrão"
-	quest.757952855E8012D9.quest_subtitle: "Usado para mobs pequenos"
 	quest.75809A1082C1D83A.title: "Pedra do Fogo"
 	quest.758389BB1A836CD2.quest_desc: ["Este item aumentará os &amovimentos do Tipo Inseto do portador.&r"]
 	quest.758F82F005783ED6.title: "Bola Premier"
@@ -5601,7 +5537,6 @@
 		"{image:cobblemon:item/held_items/covert_cloak width:25 height:25 align:center}"
 	]
 	quest.7B7E824D7BD29739.quest_subtitle: "Sem aumento no limite, mas derrote para Recompensas!"
-	quest.7B85355A8C431289.quest_subtitle: "Projeto + cartão de habilidade = duplicata!"
 	quest.7B8B8DEEE5B11934.quest_desc: [
 		"&dEfeito no Pokémon:&r -"
 		""

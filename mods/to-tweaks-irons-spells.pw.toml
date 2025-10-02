@@ -1,0 +1,13 @@
+name = "T.O Magic 'n Extras - Iron's Spells Addon"
+filename = "traveloptics-4.4.0.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3808493ce45cdfeb6408e85578adecf13df698e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6342780
+project-id = 1046916

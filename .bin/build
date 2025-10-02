@@ -237,7 +237,7 @@ if [[ "$TYPE" == "both" ]] || [[ "$TYPE" == "client" ]]; then
         exit 1
     fi
 
-    if ! unzip -p Modified\ Cobblemon\ Plus-11.9.0.zip manifest.json | jq -r .minecraft.modLoaders | grep -q -i neoforge; then
+    if ! unzip -p Modified\ Cobblemon\ Overclocked-1.9.0.zip manifest.json | jq -r .minecraft.modLoaders | grep -q -i neoforge; then
         if [[ -f "$BASE_DIR/.bin/packwiz" ]]; then
             rm "$BASE_DIR/.bin/packwiz"
             echo "packwiz needs upgraded. Re-run build to get latest version of packwiz"
