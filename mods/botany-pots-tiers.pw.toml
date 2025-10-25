@@ -1,13 +1,13 @@
 name = "Botany Pots Tiers"
-filename = "botanypotstiers-neoforge-1.21.1-7.0.4.jar"
+filename = "botanypotstiers-neoforge-1.21.1-7.0.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ee4caab4eb42a94f4e1f5292abe5626e0adb9ff3"
+hash = "cefa0fcaa9c3c896fb075bfce43ac819388eac7f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7073047
+file-id = 7118152
 project-id = 526754
